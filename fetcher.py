@@ -19,7 +19,7 @@ def main():
     all_data = r.json()
     now = datetime.datetime.now(datetime.UTC).isoformat()
 
-    dict_file_path = DATA_DIR / "stations.json"
+    dict_file_path = "stations_list.json"
 
     info_data = []
 
