@@ -1,45 +1,66 @@
-# Hydro Data Fetcher
+# 🌊 Polish Hydrology Data Fetcher
 
-This project periodically fetches hydrological data from **IMGW (danepubliczne.imgw.pl)** and stores it as JSON files for each monitoring station. It uses **GitHub Actions** to run automatically, keeping the dataset up to date.
+This project periodically fetches hydrological data from **IMGW (danepubliczne.imgw\.pl)** and stores it as JSON files for each monitoring station. 📊
 
-## How it works
-- `fetcher.py` downloads the latest water level data from IMGW’s public API.  
-- Each station has its own file stored under `data/{station_id}.json`.  
-- Files keep only the last **7 days** of history.  
-- A global station list with coordinates is written to `stations_list.json`.
+It was created because **IMGW only shows the latest measurements and not the historical ones** (which you would need for creating water level charts, trend analysis, or hydrology research). This tool solves that by storing measurements over time.
 
-## GitHub Actions
-The repository is configured with GitHub Actions (via `.github/workflows/…`) to:
-- Run the `fetcher.py` script on a schedule (e.g., two per hour).
-- Commit updated JSON files back to the repository.
+It uses **GitHub Actions** 🤖 to run automatically, keeping the dataset always up to date without any manual work.
 
-This means you don’t need to run anything locally – data is automatically refreshed.
+---
 
-## Accessing the data
-All collected data is available via the raw file URLs on GitHub:
+## 📂 Accessing the Data
 
-- **Stations list (with names and coordinates):**  
+All collected data is publicly available via **raw GitHub URLs**:
+
+* **Stations list (with names and coordinates):**
+
   ```
-  https://raw.githubusercontent.com/AdamCofala/polish-hydro-data/refs/heads/master/station_list.json
+  https://raw.githubusercontent.com/AdamCofala/polish-hydro-data/refs/heads/master/stations_list.json
   ```
 
-- **Individual station history**  
+* **Individual station history:**
+
   ```
   https://raw.githubusercontent.com/AdamCofala/polish-hydro-data/refs/heads/master/data/{station_id}.json
   ```
 
-👉 Tip: you can open these links directly in your browser or download them programmatically using `requests`, `curl`, or any HTTP client.
+👉 You can open these links directly in your browser 🌐 or download them programmatically using Python `requests`, `curl`, or any HTTP client.
 
-## Running locally
-If you want to run the fetcher manually on your machine:
+Example in Python:
 
-```bash
-git clone https://github.com/<username>/<repository>.git
-cd <repository>
-pip install -r requirements.txt  # (requires requests)
-python fetcher.py
+```python
+import requests
+url = "https://raw.githubusercontent.com/AdamCofala/polish-hydro-data/refs/heads/master/data/151140030.json"
+data = requests.get(url).json()
+print(data)
 ```
 
-The script will:
-- Create/update files under `data/`.
-- Refresh `stations_list.json`.
+---
+
+## ⚙️ How it Works
+
+* `fetcher.py` downloads the latest water level data from IMGW’s public API.
+* Each station has its own file stored under `data/{station_id}.json`.
+* Files keep only the last **7 days** of history (rolling window).
+* A global station list with coordinates is written to `stations_list.json`.
+
+---
+
+## 🔄 GitHub Actions
+
+The repository is configured with GitHub Actions (via `.github/workflows/…`) to:
+
+* Run the `fetcher.py` script on a schedule (e.g., **two times per hour** ⏱️).
+* Commit updated JSON files back to the repository automatically. ✅
+
+This means you don’t need to run anything locally – the data is **continuously refreshed and always accessible**.
+
+---
+
+## 🔎 Keywords for easy search
+
+**Polish hydrology data**, **IMGW water levels**, **river water level history Poland**, **open hydrology dataset**, **hydro monitoring Poland**, **GitHub Actions water data**
+
+---
+
+✨ With this project, anyone can easily fetch and visualize historical water level data across Poland without needing direct access to IMGW’s internal systems.
