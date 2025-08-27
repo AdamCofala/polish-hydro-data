@@ -30,7 +30,7 @@ Example in Python:
 
 ```python
 import requests
-url = "https://raw.githubusercontent.com/AdamCofala/polish-hydro-data/refs/heads/master/data/151140030.json"
+url = "https://raw.githubusercontent.com/AdamCofala/polish-hydro-data/refs/heads/master/data/149180010.json"
 data = requests.get(url).json()
 print(data)
 ```
