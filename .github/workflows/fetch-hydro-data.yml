@@ -32,7 +32,7 @@ jobs:
         pip install requests
     
     - name: Fetch hydrology data
-      run: python fetch_data.py
+      run: python fetcher.py
     
     - name: Configure git
       run: |
