@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-08-27T12:56:31.743390+00:00",
-    "data": {
-      "id_stacji": "149200270",
-      "stacja": "Łabowa",
-      "rzeka": "Kamienic",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.8589",
-      "lat": "49.5264",
-      "stan_wody": "50",
-      "stan_wody_data_pomiaru": "2025-08-27 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.1",
-      "przeplyw_data": "2025-08-27 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-06-12 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-06-12 11:00:00"
-    }
-  },
-  {
     "timestamp": "2025-08-27T13:32:28.605778+00:00",
     "data": {
       "id_stacji": "149200270",
@@ -4151,6 +4130,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.61",
       "przeplyw_data": "2025-09-03 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-06-12 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-06-12 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-03T13:31:32.303838+00:00",
+    "data": {
+      "id_stacji": "149200270",
+      "stacja": "Łabowa",
+      "rzeka": "Kamienic",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.8589",
+      "lat": "49.5264",
+      "stan_wody": "61",
+      "stan_wody_data_pomiaru": "2025-09-03 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.45",
+      "przeplyw_data": "2025-09-03 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-06-12 11:00:00",
       "zjawisko_zarastania": "0",
