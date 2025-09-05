@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-08-29T04:46:09.388744+00:00",
-    "data": {
-      "id_stacji": "154180020",
-      "stacja": "Miłoszewo",
-      "rzeka": "Łeba",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.0294",
-      "lat": "54.44",
-      "stan_wody": "165",
-      "stan_wody_data_pomiaru": "2025-08-29 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.05",
-      "przeplyw_data": "2025-08-29 04:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-12-05 12:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-07-14 08:00:00"
-    }
-  },
-  {
     "timestamp": "2025-08-29T05:23:22.198446+00:00",
     "data": {
       "id_stacji": "154180020",
@@ -4130,6 +4109,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.37",
       "przeplyw_data": "2025-09-05 04:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-12-05 12:10:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-03 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-05T05:22:49.442337+00:00",
+    "data": {
+      "id_stacji": "154180020",
+      "stacja": "Miłoszewo",
+      "rzeka": "Łeba",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.0294",
+      "lat": "54.44",
+      "stan_wody": "173",
+      "stan_wody_data_pomiaru": "2025-09-05 05:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.42",
+      "przeplyw_data": "2025-09-05 04:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-12-05 12:10:00",
       "zjawisko_zarastania": "100",
