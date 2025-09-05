@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-08-29T05:42:15.394155+00:00",
-    "data": {
-      "id_stacji": "149210160",
-      "stacja": "Sieniawa",
-      "rzeka": "Wisłok",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.93",
-      "lat": "49.5678",
-      "stan_wody": "132",
-      "stan_wody_data_pomiaru": "2025-08-29 05:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.44",
-      "przeplyw_data": "2025-08-29 05:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-08-11 07:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-11 07:50:00"
-    }
-  },
-  {
     "timestamp": "2025-08-29T06:35:10.151034+00:00",
     "data": {
       "id_stacji": "149210160",
@@ -4088,6 +4067,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.51",
       "przeplyw_data": "2025-09-05 04:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-08-11 07:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-11 07:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-05T06:35:03.296039+00:00",
+    "data": {
+      "id_stacji": "149210160",
+      "stacja": "Sieniawa",
+      "rzeka": "Wisłok",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.93",
+      "lat": "49.5678",
+      "stan_wody": "133",
+      "stan_wody_data_pomiaru": "2025-09-05 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.51",
+      "przeplyw_data": "2025-09-05 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-08-11 07:50:00",
       "zjawisko_zarastania": "0",

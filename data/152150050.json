@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-08-29T05:42:15.394155+00:00",
-    "data": {
-      "id_stacji": "152150050",
-      "stacja": "Nietków",
-      "rzeka": "Odra",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.3475",
-      "lat": "52.0464",
-      "stan_wody": "110",
-      "stan_wody_data_pomiaru": "2025-08-29 05:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "56.8",
-      "przeplyw_data": "2025-08-29 05:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-13 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-03-13 10:10:00"
-    }
-  },
-  {
     "timestamp": "2025-08-29T06:35:10.151034+00:00",
     "data": {
       "id_stacji": "152150050",
@@ -4004,6 +3983,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "59.2",
       "przeplyw_data": "2025-09-05 04:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-13 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-29 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-05T06:35:03.296039+00:00",
+    "data": {
+      "id_stacji": "152150050",
+      "stacja": "Nietków",
+      "rzeka": "Odra",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.3475",
+      "lat": "52.0464",
+      "stan_wody": "115",
+      "stan_wody_data_pomiaru": "2025-09-05 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "60",
+      "przeplyw_data": "2025-09-05 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-13 10:10:00",
       "zjawisko_zarastania": "0",
