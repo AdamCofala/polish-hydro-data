@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-08-31T12:45:34.027500+00:00",
-    "data": {
-      "id_stacji": "149190390",
-      "stacja": "Ludźmierz",
-      "rzeka": "Wielki Rogoźnik",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.9867",
-      "lat": "49.4594",
-      "stan_wody": "178",
-      "stan_wody_data_pomiaru": "2025-08-31 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.03",
-      "przeplyw_data": "2025-08-31 12:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-08-21 14:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-21 14:20:00"
-    }
-  },
-  {
     "timestamp": "2025-08-31T13:26:58.264784+00:00",
     "data": {
       "id_stacji": "149190390",
@@ -4088,6 +4067,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.5",
       "przeplyw_data": "2025-09-07 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-08-21 14:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-21 14:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-07T13:24:23.057329+00:00",
+    "data": {
+      "id_stacji": "149190390",
+      "stacja": "Ludźmierz",
+      "rzeka": "Wielki Rogoźnik",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.9867",
+      "lat": "49.4594",
+      "stan_wody": "171",
+      "stan_wody_data_pomiaru": "2025-09-07 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.5",
+      "przeplyw_data": "2025-09-07 12:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-08-21 14:20:00",
       "zjawisko_zarastania": "0",

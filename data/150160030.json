@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-08-31T12:45:34.027500+00:00",
-    "data": {
-      "id_stacji": "150160030",
-      "stacja": "Chwaliszów",
-      "rzeka": "Strzegomka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.2331",
-      "lat": "50.8778",
-      "stan_wody": "121",
-      "stan_wody_data_pomiaru": "2025-08-31 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.041",
-      "przeplyw_data": "2025-08-31 12:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2022-11-09 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-05-07 10:00:00"
-    }
-  },
-  {
     "timestamp": "2025-08-31T13:26:58.264784+00:00",
     "data": {
       "id_stacji": "150160030",
@@ -4109,6 +4088,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.05",
       "przeplyw_data": "2025-09-07 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2022-11-09 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-05-07 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-07T13:24:23.057329+00:00",
+    "data": {
+      "id_stacji": "150160030",
+      "stacja": "Chwaliszów",
+      "rzeka": "Strzegomka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.2331",
+      "lat": "50.8778",
+      "stan_wody": "122",
+      "stan_wody_data_pomiaru": "2025-09-07 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.05",
+      "przeplyw_data": "2025-09-07 12:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2022-11-09 10:00:00",
       "zjawisko_zarastania": "0",
