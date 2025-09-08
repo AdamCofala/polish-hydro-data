@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-01T23:21:47.333412+00:00",
-    "data": {
-      "id_stacji": "149190170",
-      "stacja": "Zator",
-      "rzeka": "Skawa",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.4456",
-      "lat": "49.9992",
-      "stan_wody": "62",
-      "stan_wody_data_pomiaru": "2025-09-01 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6.54",
-      "przeplyw_data": "2025-09-01 22:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-04-16 11:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-04-16 11:10:00"
-    }
-  },
-  {
     "timestamp": "2025-09-02T01:56:05.953056+00:00",
     "data": {
       "id_stacji": "149190170",
@@ -4172,6 +4151,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "7.08",
       "przeplyw_data": "2025-09-08 21:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-04-16 11:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-05 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-08T23:22:08.940669+00:00",
+    "data": {
+      "id_stacji": "149190170",
+      "stacja": "Zator",
+      "rzeka": "Skawa",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.4456",
+      "lat": "49.9992",
+      "stan_wody": "64",
+      "stan_wody_data_pomiaru": "2025-09-08 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "7.08",
+      "przeplyw_data": "2025-09-08 22:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-04-16 11:10:00",
       "zjawisko_zarastania": "0",
