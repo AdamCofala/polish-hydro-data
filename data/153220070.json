@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-02T03:53:05.000227+00:00",
-    "data": {
-      "id_stacji": "153220070",
-      "stacja": "Wizna",
-      "rzeka": "Narew",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.4086",
-      "lat": "53.2011",
-      "stan_wody": "147",
-      "stan_wody_data_pomiaru": "2025-09-02 03:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "16",
-      "przeplyw_data": "2025-09-02 03:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-24 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-27 17:10:00"
-    }
-  },
-  {
     "timestamp": "2025-09-02T04:29:20.660522+00:00",
     "data": {
       "id_stacji": "153220070",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "15",
       "przeplyw_data": "2025-09-09 03:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-24 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-27 17:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-09T04:28:46.906054+00:00",
+    "data": {
+      "id_stacji": "153220070",
+      "stacja": "Wizna",
+      "rzeka": "Narew",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.4086",
+      "lat": "53.2011",
+      "stan_wody": "142",
+      "stan_wody_data_pomiaru": "2025-09-09 04:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "15",
+      "przeplyw_data": "2025-09-09 04:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2025-02-24 06:00:00",
       "zjawisko_zarastania": "0",
