@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-02T05:24:50.316899+00:00",
-    "data": {
-      "id_stacji": "149220010",
-      "stacja": "Nowosielce",
-      "rzeka": "Pielnica",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.0708",
-      "lat": "49.5669",
-      "stan_wody": "128",
-      "stan_wody_data_pomiaru": "2025-09-02 05:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.05",
-      "przeplyw_data": "2025-09-02 04:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-06-13 11:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2024-06-13 11:10:00"
-    }
-  },
-  {
     "timestamp": "2025-09-02T05:43:13.228114+00:00",
     "data": {
       "id_stacji": "149220010",
@@ -4193,6 +4172,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.015",
       "przeplyw_data": "2025-09-09 04:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-09-02 09:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-02 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-09T05:42:33.104789+00:00",
+    "data": {
+      "id_stacji": "149220010",
+      "stacja": "Nowosielce",
+      "rzeka": "Pielnica",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.0708",
+      "lat": "49.5669",
+      "stan_wody": "129",
+      "stan_wody_data_pomiaru": "2025-09-09 05:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.018",
+      "przeplyw_data": "2025-09-09 05:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-09-02 09:30:00",
       "zjawisko_zarastania": "0",
