@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-03T04:28:23.499420+00:00",
-    "data": {
-      "id_stacji": "152200120",
-      "stacja": "Borkowo",
-      "rzeka": "Wkra",
-      "wojewodztwo": "mazowieckie",
-      "lon": "20.6656",
-      "lat": "52.5617",
-      "stan_wody": "159",
-      "stan_wody_data_pomiaru": "2025-09-03 04:00:00",
-      "temperatura_wody": "16.2",
-      "temperatura_wody_data_pomiaru": "2025-09-02 06:00:00",
-      "przelyw": "10.4",
-      "przeplyw_data": "2025-09-03 04:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-01 06:00:00",
-      "zjawisko_zarastania": "2",
-      "zjawisko_zarastania_data_pomiaru": "2025-07-28 06:00:00"
-    }
-  },
-  {
     "timestamp": "2025-09-03T04:45:30.639921+00:00",
     "data": {
       "id_stacji": "152200120",
@@ -4193,6 +4172,27 @@
       "temperatura_wody_data_pomiaru": "2025-09-09 06:00:00",
       "przelyw": "9.1",
       "przeplyw_data": "2025-09-10 03:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-01 06:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-09 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-10T04:43:44.056474+00:00",
+    "data": {
+      "id_stacji": "152200120",
+      "stacja": "Borkowo",
+      "rzeka": "Wkra",
+      "wojewodztwo": "mazowieckie",
+      "lon": "20.6656",
+      "lat": "52.5617",
+      "stan_wody": "151",
+      "stan_wody_data_pomiaru": "2025-09-10 04:30:00",
+      "temperatura_wody": "15.8",
+      "temperatura_wody_data_pomiaru": "2025-09-09 06:00:00",
+      "przelyw": "9.1",
+      "przeplyw_data": "2025-09-10 04:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-01 06:00:00",
       "zjawisko_zarastania": "100",
