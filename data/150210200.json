@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-03T15:25:42.907706+00:00",
-    "data": {
-      "id_stacji": "150210200",
-      "stacja": "Grębów",
-      "rzeka": "Łęg",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.9119",
-      "lat": "50.5758",
-      "stan_wody": "194",
-      "stan_wody_data_pomiaru": "2025-09-03 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.43",
-      "przeplyw_data": "2025-09-03 14:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-24 11:00:00",
-      "zjawisko_zarastania": "2",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-13 09:40:00"
-    }
-  },
-  {
     "timestamp": "2025-09-03T15:42:26.441677+00:00",
     "data": {
       "id_stacji": "150210200",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.37",
       "przeplyw_data": "2025-09-10 14:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-24 11:00:00",
+      "zjawisko_zarastania": "2",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-13 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-10T15:42:04.901712+00:00",
+    "data": {
+      "id_stacji": "150210200",
+      "stacja": "Grębów",
+      "rzeka": "Łęg",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.9119",
+      "lat": "50.5758",
+      "stan_wody": "191",
+      "stan_wody_data_pomiaru": "2025-09-10 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.37",
+      "przeplyw_data": "2025-09-10 15:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2025-02-24 11:00:00",
       "zjawisko_zarastania": "2",
