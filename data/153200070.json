@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-03T13:31:32.303838+00:00",
-    "data": {
-      "id_stacji": "153200070",
-      "stacja": "Olsztyn",
-      "rzeka": "Łyna",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "20.4717",
-      "lat": "53.7564",
-      "stan_wody": "118",
-      "stan_wody_data_pomiaru": "2025-09-03 13:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.47",
-      "przeplyw_data": "2025-09-03 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-18 08:10:00",
-      "zjawisko_zarastania": "301",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-02 06:50:00"
-    }
-  },
-  {
     "timestamp": "2025-09-03T14:23:38.973553+00:00",
     "data": {
       "id_stacji": "153200070",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.56",
       "przeplyw_data": "2025-09-10 13:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-18 08:10:00",
+      "zjawisko_zarastania": "301",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-02 06:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-10T14:22:47.900733+00:00",
+    "data": {
+      "id_stacji": "153200070",
+      "stacja": "Olsztyn",
+      "rzeka": "Łyna",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "20.4717",
+      "lat": "53.7564",
+      "stan_wody": "123",
+      "stan_wody_data_pomiaru": "2025-09-10 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.56",
+      "przeplyw_data": "2025-09-10 13:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-18 08:10:00",
       "zjawisko_zarastania": "301",
