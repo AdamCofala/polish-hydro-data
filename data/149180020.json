@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-03T18:33:09.955080+00:00",
-    "data": {
-      "id_stacji": "149180020",
-      "stacja": "Chałupki",
-      "rzeka": "Odra",
-      "wojewodztwo": "śląskie",
-      "lon": "18.3278",
-      "lat": "49.9219",
-      "stan_wody": "150",
-      "stan_wody_data_pomiaru": "2025-09-03 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "9.05",
-      "przeplyw_data": "2025-09-03 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-28 09:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-28 09:40:00"
-    }
-  },
-  {
     "timestamp": "2025-09-03T19:19:10.176844+00:00",
     "data": {
       "id_stacji": "149180020",
@@ -4172,6 +4151,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "8.52",
       "przeplyw_data": "2025-09-10 16:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-28 09:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-10 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-10T18:34:02.781816+00:00",
+    "data": {
+      "id_stacji": "149180020",
+      "stacja": "Chałupki",
+      "rzeka": "Odra",
+      "wojewodztwo": "śląskie",
+      "lon": "18.3278",
+      "lat": "49.9219",
+      "stan_wody": "148",
+      "stan_wody_data_pomiaru": "2025-09-10 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "8.52",
+      "przeplyw_data": "2025-09-10 18:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-28 09:10:00",
       "zjawisko_zarastania": "0",
