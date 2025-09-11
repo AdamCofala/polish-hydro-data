@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-04T16:49:15.574932+00:00",
-    "data": {
-      "id_stacji": "150200020",
-      "stacja": "Bocheniec",
-      "rzeka": "Wierna Rzeka",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "20.3117",
-      "lat": "50.8025",
-      "stan_wody": "220",
-      "stan_wody_data_pomiaru": "2025-09-04 16:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.47",
-      "przeplyw_data": "2025-09-04 16:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-02-06 12:00:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-06 10:40:00"
-    }
-  },
-  {
     "timestamp": "2025-09-04T17:20:15.480603+00:00",
     "data": {
       "id_stacji": "150200020",
@@ -3395,6 +3374,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.54",
       "przeplyw_data": "2025-09-11 16:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-02-06 12:00:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-06 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-11T17:19:54.639064+00:00",
+    "data": {
+      "id_stacji": "150200020",
+      "stacja": "Bocheniec",
+      "rzeka": "Wierna Rzeka",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "20.3117",
+      "lat": "50.8025",
+      "stan_wody": "226",
+      "stan_wody_data_pomiaru": "2025-09-11 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.54",
+      "przeplyw_data": "2025-09-11 16:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2023-02-06 12:00:00",
       "zjawisko_zarastania": "101",
