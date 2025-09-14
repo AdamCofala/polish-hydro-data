@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-07T12:43:13.195170+00:00",
-    "data": {
-      "id_stacji": "151160190",
-      "stacja": "Jarnołtów",
-      "rzeka": "Bystrzyca",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.8428",
-      "lat": "51.1217",
-      "stan_wody": "101",
-      "stan_wody_data_pomiaru": "2025-09-07 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.83",
-      "przeplyw_data": "2025-09-07 12:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-10 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-07 08:30:00"
-    }
-  },
-  {
     "timestamp": "2025-09-07T13:24:23.057329+00:00",
     "data": {
       "id_stacji": "151160190",
@@ -4193,6 +4172,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.58",
       "przeplyw_data": "2025-09-14 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-10 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-12 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-14T13:22:42.511143+00:00",
+    "data": {
+      "id_stacji": "151160190",
+      "stacja": "Jarnołtów",
+      "rzeka": "Bystrzyca",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.8428",
+      "lat": "51.1217",
+      "stan_wody": "99",
+      "stan_wody_data_pomiaru": "2025-09-14 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.58",
+      "przeplyw_data": "2025-09-14 12:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-10 10:10:00",
       "zjawisko_zarastania": "0",
