@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-08T05:23:52.644305+00:00",
-    "data": {
-      "id_stacji": "150160090",
-      "stacja": "Łażany",
-      "rzeka": "Strzegomka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.4925",
-      "lat": "50.9531",
-      "stan_wody": "95",
-      "stan_wody_data_pomiaru": "2025-09-08 04:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.95",
-      "przeplyw_data": "2025-09-08 04:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-08-11 09:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-11 09:40:00"
-    }
-  },
-  {
     "timestamp": "2025-09-08T05:42:27.465790+00:00",
     "data": {
       "id_stacji": "150160090",
@@ -4088,6 +4067,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.75",
       "przeplyw_data": "2025-09-15 04:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-08-11 09:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-11 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-15T05:24:22.828536+00:00",
+    "data": {
+      "id_stacji": "150160090",
+      "stacja": "Łażany",
+      "rzeka": "Strzegomka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.4925",
+      "lat": "50.9531",
+      "stan_wody": "103",
+      "stan_wody_data_pomiaru": "2025-09-15 04:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.75",
+      "przeplyw_data": "2025-09-15 04:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-08-11 09:40:00",
       "zjawisko_zarastania": "0",
