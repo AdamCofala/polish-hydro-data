@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-09T18:30:47.391499+00:00",
-    "data": {
-      "id_stacji": "149190300",
-      "stacja": "Kościelisko-Kiry",
-      "rzeka": "Potok Kościeliski",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.8681",
-      "lat": "49.2758",
-      "stan_wody": "58",
-      "stan_wody_data_pomiaru": "2025-09-09 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.63",
-      "przeplyw_data": "2025-09-09 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-12 09:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-02-12 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-09-09T19:18:49.820774+00:00",
     "data": {
       "id_stacji": "149190300",
@@ -4109,6 +4088,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.55",
       "przeplyw_data": "2025-09-16 16:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-12 09:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-02-12 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-16T18:33:52.065896+00:00",
+    "data": {
+      "id_stacji": "149190300",
+      "stacja": "Kościelisko-Kiry",
+      "rzeka": "Potok Kościeliski",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.8681",
+      "lat": "49.2758",
+      "stan_wody": "70",
+      "stan_wody_data_pomiaru": "2025-09-16 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.55",
+      "przeplyw_data": "2025-09-16 18:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-12 09:10:00",
       "zjawisko_zarastania": "0",
