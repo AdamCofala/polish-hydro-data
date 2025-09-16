@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-09T05:23:56.305802+00:00",
-    "data": {
-      "id_stacji": "150180070",
-      "stacja": "Lenartowice",
-      "rzeka": "Kłodnica",
-      "wojewodztwo": "opolskie",
-      "lon": "18.2356",
-      "lat": "50.3575",
-      "stan_wody": "140",
-      "stan_wody_data_pomiaru": "2025-09-09 05:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.9",
-      "przeplyw_data": "2025-09-09 04:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-12-31 08:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-18 10:00:00"
-    }
-  },
-  {
     "timestamp": "2025-09-09T05:42:33.104789+00:00",
     "data": {
       "id_stacji": "150180070",
@@ -4130,6 +4109,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.48",
       "przeplyw_data": "2025-09-16 04:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-12-31 08:00:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-18 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-16T05:42:01.700731+00:00",
+    "data": {
+      "id_stacji": "150180070",
+      "stacja": "Lenartowice",
+      "rzeka": "Kłodnica",
+      "wojewodztwo": "opolskie",
+      "lon": "18.2356",
+      "lat": "50.3575",
+      "stan_wody": "136",
+      "stan_wody_data_pomiaru": "2025-09-16 05:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.48",
+      "przeplyw_data": "2025-09-16 05:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-12-31 08:00:00",
       "zjawisko_zarastania": "200",
