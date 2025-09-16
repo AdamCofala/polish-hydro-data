@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-09T04:45:40.943271+00:00",
-    "data": {
-      "id_stacji": "150170110",
-      "stacja": "Prudnik",
-      "rzeka": "Prudnik",
-      "wojewodztwo": "opolskie",
-      "lon": "17.5886",
-      "lat": "50.3194",
-      "stan_wody": "109",
-      "stan_wody_data_pomiaru": "2025-09-09 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.46",
-      "przeplyw_data": "2025-09-09 04:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2022-01-04 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-20 11:10:00"
-    }
-  },
-  {
     "timestamp": "2025-09-09T05:23:56.305802+00:00",
     "data": {
       "id_stacji": "150170110",
@@ -4109,6 +4088,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.58",
       "przeplyw_data": "2025-09-16 04:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2022-01-04 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-20 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-16T05:22:35.661655+00:00",
+    "data": {
+      "id_stacji": "150170110",
+      "stacja": "Prudnik",
+      "rzeka": "Prudnik",
+      "wojewodztwo": "opolskie",
+      "lon": "17.5886",
+      "lat": "50.3194",
+      "stan_wody": "110",
+      "stan_wody_data_pomiaru": "2025-09-16 05:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.5",
+      "przeplyw_data": "2025-09-16 04:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2022-01-04 10:10:00",
       "zjawisko_zarastania": "0",
