@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-09T12:53:05.947662+00:00",
-    "data": {
-      "id_stacji": "152220010",
-      "stacja": "Zaliwie-Piegawki",
-      "rzeka": "Liwiec",
-      "wojewodztwo": "mazowieckie",
-      "lon": "22.0947",
-      "lat": "52.2531",
-      "stan_wody": "155",
-      "stan_wody_data_pomiaru": "2025-09-09 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.81",
-      "przeplyw_data": "2025-09-09 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-26 11:00:00",
-      "zjawisko_zarastania": "311",
-      "zjawisko_zarastania_data_pomiaru": "2025-07-16 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-09-09T13:35:47.396049+00:00",
     "data": {
       "id_stacji": "152220010",
@@ -4151,6 +4130,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.28",
       "przeplyw_data": "2025-09-16 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-26 11:00:00",
+      "zjawisko_zarastania": "311",
+      "zjawisko_zarastania_data_pomiaru": "2025-07-16 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-16T13:33:02.480687+00:00",
+    "data": {
+      "id_stacji": "152220010",
+      "stacja": "Zaliwie-Piegawki",
+      "rzeka": "Liwiec",
+      "wojewodztwo": "mazowieckie",
+      "lon": "22.0947",
+      "lat": "52.2531",
+      "stan_wody": "178",
+      "stan_wody_data_pomiaru": "2025-09-16 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.28",
+      "przeplyw_data": "2025-09-16 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-26 11:00:00",
       "zjawisko_zarastania": "311",
