@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-10T13:30:55.337176+00:00",
-    "data": {
-      "id_stacji": "150220040",
-      "stacja": "Sarzyna",
-      "rzeka": "Trzebośnica",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.3475",
-      "lat": "50.3272",
-      "stan_wody": "128",
-      "stan_wody_data_pomiaru": "2025-09-10 13:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.33",
-      "przeplyw_data": "2025-09-10 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-04-16 15:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-08-22 14:10:00"
-    }
-  },
-  {
     "timestamp": "2025-09-10T14:22:47.900733+00:00",
     "data": {
       "id_stacji": "150220040",
@@ -4109,6 +4088,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.22",
       "przeplyw_data": "2025-09-17 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-04-16 15:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2023-08-22 14:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-17T13:31:34.789396+00:00",
+    "data": {
+      "id_stacji": "150220040",
+      "stacja": "Sarzyna",
+      "rzeka": "Trzebośnica",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.3475",
+      "lat": "50.3272",
+      "stan_wody": "125",
+      "stan_wody_data_pomiaru": "2025-09-17 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.22",
+      "przeplyw_data": "2025-09-17 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-04-16 15:10:00",
       "zjawisko_zarastania": "0",
