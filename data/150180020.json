@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-10T12:49:42.592996+00:00",
-    "data": {
-      "id_stacji": "150180020",
-      "stacja": "Turawa",
-      "rzeka": "Mała Panew",
-      "wojewodztwo": "opolskie",
-      "lon": "18.0767",
-      "lat": "50.7397",
-      "stan_wody": "138",
-      "stan_wody_data_pomiaru": "2025-09-10 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "7.4",
-      "przeplyw_data": "2025-09-10 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-12-04 13:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-13 10:30:00"
-    }
-  },
-  {
     "timestamp": "2025-09-10T13:30:55.337176+00:00",
     "data": {
       "id_stacji": "150180020",
@@ -4109,6 +4088,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "12.7",
       "przeplyw_data": "2025-09-17 10:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-12-04 13:00:00",
+      "zjawisko_zarastania": "11",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-15 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-17T12:51:04.763367+00:00",
+    "data": {
+      "id_stacji": "150180020",
+      "stacja": "Turawa",
+      "rzeka": "Mała Panew",
+      "wojewodztwo": "opolskie",
+      "lon": "18.0767",
+      "lat": "50.7397",
+      "stan_wody": "137",
+      "stan_wody_data_pomiaru": "2025-09-17 12:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "7",
+      "przeplyw_data": "2025-09-17 12:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2023-12-04 13:00:00",
       "zjawisko_zarastania": "11",
