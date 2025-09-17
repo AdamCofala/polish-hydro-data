@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-10T14:43:11.059329+00:00",
-    "data": {
-      "id_stacji": "150210070",
-      "stacja": "Wampierzów",
-      "rzeka": "Bren",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.2308",
-      "lat": "50.2994",
-      "stan_wody": "81",
-      "stan_wody_data_pomiaru": "2025-09-10 14:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.26",
-      "przeplyw_data": "2025-09-10 14:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-12-19 11:00:00",
-      "zjawisko_zarastania": "122",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-14 10:50:00"
-    }
-  },
-  {
     "timestamp": "2025-09-10T15:24:49.718283+00:00",
     "data": {
       "id_stacji": "150210070",
@@ -4130,6 +4109,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.67",
       "przeplyw_data": "2025-09-17 13:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-12-19 11:00:00",
+      "zjawisko_zarastania": "122",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-14 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-17T14:43:32.888586+00:00",
+    "data": {
+      "id_stacji": "150210070",
+      "stacja": "Wampierzów",
+      "rzeka": "Bren",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.2308",
+      "lat": "50.2994",
+      "stan_wody": "103",
+      "stan_wody_data_pomiaru": "2025-09-17 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.67",
+      "przeplyw_data": "2025-09-17 14:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2023-12-19 11:00:00",
       "zjawisko_zarastania": "122",
