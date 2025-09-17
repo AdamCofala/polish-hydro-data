@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-10T20:42:40.252931+00:00",
-    "data": {
-      "id_stacji": "151180050",
-      "stacja": "Dębe",
-      "rzeka": "Swędrnia",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "18.1978",
-      "lat": "51.7914",
-      "stan_wody": "179",
-      "stan_wody_data_pomiaru": "2025-09-10 20:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.22",
-      "przeplyw_data": "2025-09-10 20:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-16 12:00:00",
-      "zjawisko_zarastania": "221",
-      "zjawisko_zarastania_data_pomiaru": "2025-06-18 11:10:00"
-    }
-  },
-  {
     "timestamp": "2025-09-10T21:20:36.058058+00:00",
     "data": {
       "id_stacji": "151180050",
@@ -4151,6 +4130,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.51",
       "przeplyw_data": "2025-09-17 19:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-16 12:00:00",
+      "zjawisko_zarastania": "222",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-12 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-17T21:19:42.459677+00:00",
+    "data": {
+      "id_stacji": "151180050",
+      "stacja": "Dębe",
+      "rzeka": "Swędrnia",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "18.1978",
+      "lat": "51.7914",
+      "stan_wody": "215",
+      "stan_wody_data_pomiaru": "2025-09-17 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.51",
+      "przeplyw_data": "2025-09-17 20:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-16 12:00:00",
       "zjawisko_zarastania": "222",
