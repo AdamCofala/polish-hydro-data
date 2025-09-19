@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-12T13:44:48.968504+00:00",
-    "data": {
-      "id_stacji": "150230070",
-      "stacja": "Gozdów",
-      "rzeka": "Huczwa",
-      "wojewodztwo": "lubelskie",
-      "lon": "23.8072",
-      "lat": "50.7775",
-      "stan_wody": "153",
-      "stan_wody_data_pomiaru": "2025-09-12 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.27",
-      "przeplyw_data": "2025-09-12 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-22 14:10:00",
-      "zjawisko_zarastania": "321",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-27 08:00:00"
-    }
-  },
-  {
     "timestamp": "2025-09-12T14:22:47.154350+00:00",
     "data": {
       "id_stacji": "150230070",
@@ -4193,6 +4172,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.44",
       "przeplyw_data": "2025-09-19 13:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-22 14:10:00",
+      "zjawisko_zarastania": "321",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-27 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-19T14:22:45.666750+00:00",
+    "data": {
+      "id_stacji": "150230070",
+      "stacja": "Gozdów",
+      "rzeka": "Huczwa",
+      "wojewodztwo": "lubelskie",
+      "lon": "23.8072",
+      "lat": "50.7775",
+      "stan_wody": "171",
+      "stan_wody_data_pomiaru": "2025-09-19 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.44",
+      "przeplyw_data": "2025-09-19 13:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-22 14:10:00",
       "zjawisko_zarastania": "321",
