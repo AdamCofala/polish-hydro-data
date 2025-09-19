@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-12T13:29:42.379686+00:00",
-    "data": {
-      "id_stacji": "150220160",
-      "stacja": "Osuchy",
-      "rzeka": "Tanew",
-      "wojewodztwo": "lubelskie",
-      "lon": "22.955",
-      "lat": "50.3989",
-      "stan_wody": "158",
-      "stan_wody_data_pomiaru": "2025-09-12 13:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.94",
-      "przeplyw_data": "2025-09-12 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-04-15 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-04-11 10:00:00"
-    }
-  },
-  {
     "timestamp": "2025-09-12T13:44:48.968504+00:00",
     "data": {
       "id_stacji": "150220160",
@@ -3605,6 +3584,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.37",
       "przeplyw_data": "2025-09-19 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-04-15 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-04-11 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-19T13:32:00.105836+00:00",
+    "data": {
+      "id_stacji": "150220160",
+      "stacja": "Osuchy",
+      "rzeka": "Tanew",
+      "wojewodztwo": "lubelskie",
+      "lon": "22.955",
+      "lat": "50.3989",
+      "stan_wody": "166",
+      "stan_wody_data_pomiaru": "2025-09-19 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.37",
+      "przeplyw_data": "2025-09-19 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-04-15 11:00:00",
       "zjawisko_zarastania": "0",
