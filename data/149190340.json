@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-14T14:18:51.096364+00:00",
-    "data": {
-      "id_stacji": "149190340",
-      "stacja": "Rabka 2",
-      "rzeka": "Raba",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.9489",
-      "lat": "49.6136",
-      "stan_wody": "82",
-      "stan_wody_data_pomiaru": "2025-09-14 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.32",
-      "przeplyw_data": "2025-09-14 13:50:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-14 11:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2025-05-16 09:00:00"
-    }
-  },
-  {
     "timestamp": "2025-09-14T15:20:40.213584+00:00",
     "data": {
       "id_stacji": "149190340",
@@ -4172,6 +4151,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.23",
       "przeplyw_data": "2025-09-21 12:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-14 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-15 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-21T14:19:34.519621+00:00",
+    "data": {
+      "id_stacji": "149190340",
+      "stacja": "Rabka 2",
+      "rzeka": "Raba",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.9489",
+      "lat": "49.6136",
+      "stan_wody": "72",
+      "stan_wody_data_pomiaru": "2025-09-21 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.19",
+      "przeplyw_data": "2025-09-21 13:50:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2025-01-14 11:00:00",
       "zjawisko_zarastania": "0",
