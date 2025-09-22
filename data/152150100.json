@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-15T15:42:38.080731+00:00",
-    "data": {
-      "id_stacji": "152150100",
-      "stacja": "Bledzew",
-      "rzeka": "Obra",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.4211",
-      "lat": "52.5175",
-      "stan_wody": "90",
-      "stan_wody_data_pomiaru": "2025-09-15 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.93",
-      "przeplyw_data": "2025-09-15 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-09-03 10:10:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-03 10:10:00"
-    }
-  },
-  {
     "timestamp": "2025-09-15T16:30:40.295240+00:00",
     "data": {
       "id_stacji": "152150100",
@@ -4172,6 +4151,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.39",
       "przeplyw_data": "2025-09-22 14:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-09-03 10:10:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-03 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-22T15:43:18.937574+00:00",
+    "data": {
+      "id_stacji": "152150100",
+      "stacja": "Bledzew",
+      "rzeka": "Obra",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.4211",
+      "lat": "52.5175",
+      "stan_wody": "111",
+      "stan_wody_data_pomiaru": "2025-09-22 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.39",
+      "przeplyw_data": "2025-09-22 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-09-03 10:10:00",
       "zjawisko_zarastania": "101",

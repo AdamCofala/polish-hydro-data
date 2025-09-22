@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-15T15:42:38.080731+00:00",
-    "data": {
-      "id_stacji": "151180160",
-      "stacja": "Poddębice",
-      "rzeka": "Ner",
-      "wojewodztwo": "łódzkie",
-      "lon": "18.9494",
-      "lat": "51.8917",
-      "stan_wody": "167",
-      "stan_wody_data_pomiaru": "2025-09-15 15:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "12",
-      "przeplyw_data": "2025-09-15 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-23 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-20 11:10:00"
-    }
-  },
-  {
     "timestamp": "2025-09-16T10:25:25.006355+00:00",
     "data": {
       "id_stacji": "151180160",
@@ -2261,6 +2240,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.82",
       "przeplyw_data": "2025-09-22 14:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-23 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-19 10:04:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-22T15:43:18.937574+00:00",
+    "data": {
+      "id_stacji": "151180160",
+      "stacja": "Poddębice",
+      "rzeka": "Ner",
+      "wojewodztwo": "łódzkie",
+      "lon": "18.9494",
+      "lat": "51.8917",
+      "stan_wody": "112",
+      "stan_wody_data_pomiaru": "2025-09-22 15:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.73",
+      "przeplyw_data": "2025-09-22 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-23 12:00:00",
       "zjawisko_zarastania": "0",
