@@ -1,47 +1,5 @@
 [
   {
-    "timestamp": "2025-09-15T05:42:57.080659+00:00",
-    "data": {
-      "id_stacji": "153180150",
-      "stacja": "Rogóźno",
-      "rzeka": "Osa",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "18.9489",
-      "lat": "53.5167",
-      "stan_wody": "115",
-      "stan_wody_data_pomiaru": "2025-09-15 05:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.89",
-      "przeplyw_data": "2025-09-15 05:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-03 11:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-07 12:20:00"
-    }
-  },
-  {
-    "timestamp": "2025-09-15T06:37:38.810477+00:00",
-    "data": {
-      "id_stacji": "153180150",
-      "stacja": "Rogóźno",
-      "rzeka": "Osa",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "18.9489",
-      "lat": "53.5167",
-      "stan_wody": "116",
-      "stan_wody_data_pomiaru": "2025-09-15 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.93",
-      "przeplyw_data": "2025-09-15 06:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-03 11:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-07 12:20:00"
-    }
-  },
-  {
     "timestamp": "2025-09-15T07:25:12.568140+00:00",
     "data": {
       "id_stacji": "153180150",
@@ -4176,6 +4134,27 @@
       "zjawisko_lodowe_data_pomiaru": "2025-03-03 11:00:00",
       "zjawisko_zarastania": "100",
       "zjawisko_zarastania_data_pomiaru": "2025-09-16 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-22T06:37:50.584973+00:00",
+    "data": {
+      "id_stacji": "153180150",
+      "stacja": "Rogóźno",
+      "rzeka": "Osa",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lon": "18.9489",
+      "lat": "53.5167",
+      "stan_wody": "108",
+      "stan_wody_data_pomiaru": "2025-09-22 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.58",
+      "przeplyw_data": "2025-09-22 06:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-03 11:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-22 06:00:00"
     }
   }
 ]
