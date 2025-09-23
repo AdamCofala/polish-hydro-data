@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-16T12:50:39.131022+00:00",
-    "data": {
-      "id_stacji": "153160180",
-      "stacja": "Piła",
-      "rzeka": "Gwda",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.7397",
-      "lat": "53.1514",
-      "stan_wody": "145",
-      "stan_wody_data_pomiaru": "2025-09-16 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "17.9",
-      "przeplyw_data": "2025-09-16 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-12 09:10:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-11 08:40:00"
-    }
-  },
-  {
     "timestamp": "2025-09-16T13:33:02.480687+00:00",
     "data": {
       "id_stacji": "153160180",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "15.3",
       "przeplyw_data": "2025-09-23 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-12 09:10:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-11 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-23T13:32:54.188125+00:00",
+    "data": {
+      "id_stacji": "153160180",
+      "stacja": "Piła",
+      "rzeka": "Gwda",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "16.7397",
+      "lat": "53.1514",
+      "stan_wody": "132",
+      "stan_wody_data_pomiaru": "2025-09-23 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "15.3",
+      "przeplyw_data": "2025-09-23 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-12 09:10:00",
       "zjawisko_zarastania": "100",
