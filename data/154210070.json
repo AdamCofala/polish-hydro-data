@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-20T16:26:03.214403+00:00",
-    "data": {
-      "id_stacji": "154210070",
-      "stacja": "Węgorzewo",
-      "rzeka": "Węgorapa",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "21.7308",
-      "lat": "54.2267",
-      "stan_wody": "202",
-      "stan_wody_data_pomiaru": "2025-09-20 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.04",
-      "przeplyw_data": "2025-09-20 15:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-12 10:00:00",
-      "zjawisko_zarastania": "302",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-21 09:40:00"
-    }
-  },
-  {
     "timestamp": "2025-09-20T17:17:20.559144+00:00",
     "data": {
       "id_stacji": "154210070",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.99",
       "przeplyw_data": "2025-09-27 14:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-12 10:00:00",
+      "zjawisko_zarastania": "302",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-26 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-27T16:26:54.398767+00:00",
+    "data": {
+      "id_stacji": "154210070",
+      "stacja": "Węgorzewo",
+      "rzeka": "Węgorapa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "21.7308",
+      "lat": "54.2267",
+      "stan_wody": "188",
+      "stan_wody_data_pomiaru": "2025-09-27 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1",
+      "przeplyw_data": "2025-09-27 15:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-12 10:00:00",
       "zjawisko_zarastania": "302",
