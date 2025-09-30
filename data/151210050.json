@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-23T10:25:47.958380+00:00",
-    "data": {
-      "id_stacji": "151210050",
-      "stacja": "Gusin",
-      "rzeka": "Wiała",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.2544",
-      "lat": "51.8928",
-      "stan_wody": "21",
-      "stan_wody_data_pomiaru": "2025-09-23 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "205",
-      "przeplyw_data": "2025-09-23 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-05-12 08:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-27 12:19:00"
-    }
-  },
-  {
     "timestamp": "2025-09-23T10:44:00.207064+00:00",
     "data": {
       "id_stacji": "151210050",
@@ -4193,6 +4172,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "174",
       "przeplyw_data": "2025-09-30 09:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-05-12 08:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-27 12:19:00"
+    }
+  },
+  {
+    "timestamp": "2025-09-30T10:26:43.377257+00:00",
+    "data": {
+      "id_stacji": "151210050",
+      "stacja": "Gusin",
+      "rzeka": "Wiała",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.2544",
+      "lat": "51.8928",
+      "stan_wody": "12",
+      "stan_wody_data_pomiaru": "2025-09-30 10:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "174",
+      "przeplyw_data": "2025-09-30 09:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-05-12 08:00:00",
       "zjawisko_zarastania": "0",
