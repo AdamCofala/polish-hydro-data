@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-24T06:35:39.815202+00:00",
-    "data": {
-      "id_stacji": "151210020",
-      "stacja": "Michałów 2",
-      "rzeka": "Kamienna",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.1011",
-      "lat": "51.0117",
-      "stan_wody": "40",
-      "stan_wody_data_pomiaru": "2025-09-24 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.78",
-      "przeplyw_data": "2025-09-24 06:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-04 13:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-17 08:50:00"
-    }
-  },
-  {
     "timestamp": "2025-09-24T07:24:03.980810+00:00",
     "data": {
       "id_stacji": "151210020",
@@ -4193,6 +4172,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.94",
       "przeplyw_data": "2025-10-01 05:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-04 13:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-17 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-01T06:36:26.561340+00:00",
+    "data": {
+      "id_stacji": "151210020",
+      "stacja": "Michałów 2",
+      "rzeka": "Kamienna",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.1011",
+      "lat": "51.0117",
+      "stan_wody": "43",
+      "stan_wody_data_pomiaru": "2025-10-01 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.94",
+      "przeplyw_data": "2025-10-01 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-04 13:10:00",
       "zjawisko_zarastania": "0",
