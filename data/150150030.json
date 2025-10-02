@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-25T14:46:14.920451+00:00",
-    "data": {
-      "id_stacji": "150150030",
-      "stacja": "Jakuszyce",
-      "rzeka": "Kamienna",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.44",
-      "lat": "50.8225",
-      "stan_wody": "31",
-      "stan_wody_data_pomiaru": "2025-09-25 14:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.19",
-      "przeplyw_data": "2025-09-25 14:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-05 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-04 06:00:00"
-    }
-  },
-  {
     "timestamp": "2025-09-25T15:26:17.197725+00:00",
     "data": {
       "id_stacji": "150150030",
@@ -4130,6 +4109,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.26",
       "przeplyw_data": "2025-10-02 14:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-05 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-04 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-02T15:25:11.381794+00:00",
+    "data": {
+      "id_stacji": "150150030",
+      "stacja": "Jakuszyce",
+      "rzeka": "Kamienna",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.44",
+      "lat": "50.8225",
+      "stan_wody": "26",
+      "stan_wody_data_pomiaru": "2025-10-02 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.26",
+      "przeplyw_data": "2025-10-02 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-05 06:00:00",
       "zjawisko_zarastania": "0",
