@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-25T09:42:57.129156+00:00",
-    "data": {
-      "id_stacji": "151140060",
-      "stacja": "Zgorzelec",
-      "rzeka": "Nysa Łużycka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "14.9936",
-      "lat": "51.1611",
-      "stan_wody": "149",
-      "stan_wody_data_pomiaru": "2025-09-25 09:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6.72",
-      "przeplyw_data": "2025-09-25 09:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-03 12:01:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2023-09-29 10:00:00"
-    }
-  },
-  {
     "timestamp": "2025-09-25T10:26:03.092362+00:00",
     "data": {
       "id_stacji": "151140060",
@@ -4172,6 +4151,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "4.82",
       "przeplyw_data": "2025-10-02 08:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-03 12:01:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2023-09-29 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-02T10:24:35.612337+00:00",
+    "data": {
+      "id_stacji": "151140060",
+      "stacja": "Zgorzelec",
+      "rzeka": "Nysa Łużycka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "14.9936",
+      "lat": "51.1611",
+      "stan_wody": "142",
+      "stan_wody_data_pomiaru": "2025-10-02 10:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "4.82",
+      "przeplyw_data": "2025-10-02 09:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-03 12:01:00",
       "zjawisko_zarastania": "100",
