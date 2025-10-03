@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-26T16:48:29.230722+00:00",
-    "data": {
-      "id_stacji": "154200020",
-      "stacja": "Krosno",
-      "rzeka": "Drwęca Warmińska",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "20.1728",
-      "lat": "54.1308",
-      "stan_wody": "157",
-      "stan_wody_data_pomiaru": "2025-09-26 16:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.58",
-      "przeplyw_data": "2025-09-26 16:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-04 10:10:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-04 09:50:00"
-    }
-  },
-  {
     "timestamp": "2025-09-26T17:20:16.297760+00:00",
     "data": {
       "id_stacji": "154200020",
@@ -4172,6 +4151,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.48",
       "przeplyw_data": "2025-10-03 16:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-04 10:10:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-04 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-03T17:19:40.522944+00:00",
+    "data": {
+      "id_stacji": "154200020",
+      "stacja": "Krosno",
+      "rzeka": "Drwęca Warmińska",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "20.1728",
+      "lat": "54.1308",
+      "stan_wody": "154",
+      "stan_wody_data_pomiaru": "2025-10-03 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.48",
+      "przeplyw_data": "2025-10-03 16:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-04 10:10:00",
       "zjawisko_zarastania": "100",
