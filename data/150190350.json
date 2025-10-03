@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-26T03:03:40.818492+00:00",
-    "data": {
-      "id_stacji": "150190350",
-      "stacja": "Januszewice",
-      "rzeka": "Czarna",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "19.9608",
-      "lat": "50.9417",
-      "stan_wody": "253",
-      "stan_wody_data_pomiaru": "2025-09-26 02:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.8",
-      "przeplyw_data": "2025-09-26 02:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-06-27 10:59:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-07-18 09:00:00"
-    }
-  },
-  {
     "timestamp": "2025-09-26T03:48:12.195588+00:00",
     "data": {
       "id_stacji": "150190350",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.74",
       "przeplyw_data": "2025-10-03 02:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-06-27 10:59:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-07-18 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-03T03:46:00.988333+00:00",
+    "data": {
+      "id_stacji": "150190350",
+      "stacja": "Januszewice",
+      "rzeka": "Czarna",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "19.9608",
+      "lat": "50.9417",
+      "stan_wody": "251",
+      "stan_wody_data_pomiaru": "2025-10-03 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.74",
+      "przeplyw_data": "2025-10-03 03:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-06-27 10:59:00",
       "zjawisko_zarastania": "100",
