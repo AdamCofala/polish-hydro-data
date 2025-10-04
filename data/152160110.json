@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-27T12:43:30.455133+00:00",
-    "data": {
-      "id_stacji": "152160110",
-      "stacja": "Kowanówko",
-      "rzeka": "Wełna",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.8367",
-      "lat": "52.6686",
-      "stan_wody": "114",
-      "stan_wody_data_pomiaru": "2025-09-27 12:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.16",
-      "przeplyw_data": "2025-09-27 12:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-05 10:10:00",
-      "zjawisko_zarastania": "300",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-02 10:10:00"
-    }
-  },
-  {
     "timestamp": "2025-09-27T13:24:47.915553+00:00",
     "data": {
       "id_stacji": "152160110",
@@ -4172,6 +4151,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.01",
       "przeplyw_data": "2025-10-04 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-05 10:10:00",
+      "zjawisko_zarastania": "300",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-02 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-04T13:24:29.612684+00:00",
+    "data": {
+      "id_stacji": "152160110",
+      "stacja": "Kowanówko",
+      "rzeka": "Wełna",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "16.8367",
+      "lat": "52.6686",
+      "stan_wody": "105",
+      "stan_wody_data_pomiaru": "2025-10-04 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.91",
+      "przeplyw_data": "2025-10-04 12:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-05 10:10:00",
       "zjawisko_zarastania": "300",

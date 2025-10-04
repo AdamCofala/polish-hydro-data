@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-27T12:43:30.455133+00:00",
-    "data": {
-      "id_stacji": "151150100",
-      "stacja": "Nowogrodziec",
-      "rzeka": "Kwisa",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.3958",
-      "lat": "51.2031",
-      "stan_wody": "128",
-      "stan_wody_data_pomiaru": "2025-09-27 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.66",
-      "przeplyw_data": "2025-09-27 12:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-09 10:10:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-18 09:40:00"
-    }
-  },
-  {
     "timestamp": "2025-09-27T13:24:47.915553+00:00",
     "data": {
       "id_stacji": "151150100",
@@ -4172,6 +4151,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.47",
       "przeplyw_data": "2025-10-04 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-09 10:10:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-18 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-04T13:24:29.612684+00:00",
+    "data": {
+      "id_stacji": "151150100",
+      "stacja": "Nowogrodziec",
+      "rzeka": "Kwisa",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.3958",
+      "lat": "51.2031",
+      "stan_wody": "119",
+      "stan_wody_data_pomiaru": "2025-10-04 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.66",
+      "przeplyw_data": "2025-10-04 12:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-09 10:10:00",
       "zjawisko_zarastania": "100",
