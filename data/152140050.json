@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-28T18:30:07.397920+00:00",
-    "data": {
-      "id_stacji": "152140050",
-      "stacja": "Słubice",
-      "rzeka": "Odra",
-      "wojewodztwo": "-",
-      "lon": "14.5556",
-      "lat": "52.3481",
-      "stan_wody": "125",
-      "stan_wody_data_pomiaru": "2025-09-28 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "128",
-      "przeplyw_data": "2025-09-28 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-21 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-09 11:40:00"
-    }
-  },
-  {
     "timestamp": "2025-09-28T18:46:18.315412+00:00",
     "data": {
       "id_stacji": "152140050",
@@ -4151,6 +4130,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "125",
       "przeplyw_data": "2025-10-05 16:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-21 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-09 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-05T18:30:59.754845+00:00",
+    "data": {
+      "id_stacji": "152140050",
+      "stacja": "Słubice",
+      "rzeka": "Odra",
+      "wojewodztwo": "-",
+      "lon": "14.5556",
+      "lat": "52.3481",
+      "stan_wody": "123",
+      "stan_wody_data_pomiaru": "2025-10-05 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "125",
+      "przeplyw_data": "2025-10-05 18:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-21 12:00:00",
       "zjawisko_zarastania": "0",
