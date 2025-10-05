@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-28T06:33:16.334794+00:00",
-    "data": {
-      "id_stacji": "151190100",
-      "stacja": "Sulejów",
-      "rzeka": "Pilica",
-      "wojewodztwo": "łódzkie",
-      "lon": "19.8861",
-      "lat": "51.3436",
-      "stan_wody": "135",
-      "stan_wody_data_pomiaru": "2025-09-28 05:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "7.86",
-      "przeplyw_data": "2025-09-28 06:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-21 15:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-07-14 14:10:00"
-    }
-  },
-  {
     "timestamp": "2025-09-28T07:19:51.076694+00:00",
     "data": {
       "id_stacji": "151190100",
@@ -3374,6 +3353,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "9.33",
       "przeplyw_data": "2025-10-05 06:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-21 15:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-07-14 14:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-05T07:19:37.692729+00:00",
+    "data": {
+      "id_stacji": "151190100",
+      "stacja": "Sulejów",
+      "rzeka": "Pilica",
+      "wojewodztwo": "łódzkie",
+      "lon": "19.8861",
+      "lat": "51.3436",
+      "stan_wody": "139",
+      "stan_wody_data_pomiaru": "2025-10-05 07:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "9.33",
+      "przeplyw_data": "2025-10-05 06:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-21 15:00:00",
       "zjawisko_zarastania": "0",
