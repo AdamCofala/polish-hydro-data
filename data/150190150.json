@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-28T22:20:51.255126+00:00",
-    "data": {
-      "id_stacji": "150190150",
-      "stacja": "Poraj",
-      "rzeka": "Warta",
-      "wojewodztwo": "śląskie",
-      "lon": "19.2039",
-      "lat": "50.6733",
-      "stan_wody": "55",
-      "stan_wody_data_pomiaru": "2025-09-28 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.01",
-      "przeplyw_data": "2025-09-28 21:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-05 06:00:00",
-      "zjawisko_zarastania": "111",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-16 08:00:00"
-    }
-  },
-  {
     "timestamp": "2025-09-28T23:20:49.785850+00:00",
     "data": {
       "id_stacji": "150190150",
@@ -4109,6 +4088,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.03",
       "przeplyw_data": "2025-10-05 20:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-05 06:00:00",
+      "zjawisko_zarastania": "111",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-16 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-05T22:21:03.782220+00:00",
+    "data": {
+      "id_stacji": "150190150",
+      "stacja": "Poraj",
+      "rzeka": "Warta",
+      "wojewodztwo": "śląskie",
+      "lon": "19.2039",
+      "lat": "50.6733",
+      "stan_wody": "55",
+      "stan_wody_data_pomiaru": "2025-10-05 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.03",
+      "przeplyw_data": "2025-10-05 21:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2025-01-05 06:00:00",
       "zjawisko_zarastania": "111",
