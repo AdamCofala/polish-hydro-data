@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-29T03:08:26.090034+00:00",
-    "data": {
-      "id_stacji": "149220210",
-      "stacja": "Nienowice",
-      "rzeka": "Wisznia",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.9169",
-      "lat": "49.9378",
-      "stan_wody": "118",
-      "stan_wody_data_pomiaru": "2025-09-29 02:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "7.47",
-      "przeplyw_data": "2025-09-29 02:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-25 09:10:00",
-      "zjawisko_zarastania": "221",
-      "zjawisko_zarastania_data_pomiaru": "2023-09-11 12:00:00"
-    }
-  },
-  {
     "timestamp": "2025-09-29T03:51:56.269670+00:00",
     "data": {
       "id_stacji": "149220210",
@@ -3374,6 +3353,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.73",
       "przeplyw_data": "2025-10-06 01:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-25 09:10:00",
+      "zjawisko_zarastania": "221",
+      "zjawisko_zarastania_data_pomiaru": "2023-09-11 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-06T03:49:20.057772+00:00",
+    "data": {
+      "id_stacji": "149220210",
+      "stacja": "Nienowice",
+      "rzeka": "Wisznia",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.9169",
+      "lat": "49.9378",
+      "stan_wody": "91",
+      "stan_wody_data_pomiaru": "2025-10-06 02:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.73",
+      "przeplyw_data": "2025-10-06 02:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-25 09:10:00",
       "zjawisko_zarastania": "221",
