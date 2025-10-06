@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-29T15:25:20.636537+00:00",
-    "data": {
-      "id_stacji": "150190100",
-      "stacja": "Niwka",
-      "rzeka": "Biała Przemsza",
-      "wojewodztwo": "śląskie",
-      "lon": "19.1608",
-      "lat": "50.2358",
-      "stan_wody": "182",
-      "stan_wody_data_pomiaru": "2025-09-29 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.84",
-      "przeplyw_data": "2025-09-29 14:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-26 11:10:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-08 10:10:00"
-    }
-  },
-  {
     "timestamp": "2025-09-29T15:42:09.217595+00:00",
     "data": {
       "id_stacji": "150190100",
@@ -4088,6 +4067,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.08",
       "przeplyw_data": "2025-10-06 14:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-26 11:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-30 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-06T15:25:26.046442+00:00",
+    "data": {
+      "id_stacji": "150190100",
+      "stacja": "Niwka",
+      "rzeka": "Biała Przemsza",
+      "wojewodztwo": "śląskie",
+      "lon": "19.1608",
+      "lat": "50.2358",
+      "stan_wody": "184",
+      "stan_wody_data_pomiaru": "2025-10-06 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.08",
+      "przeplyw_data": "2025-10-06 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-26 11:10:00",
       "zjawisko_zarastania": "0",

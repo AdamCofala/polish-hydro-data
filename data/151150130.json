@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-29T15:25:20.636537+00:00",
-    "data": {
-      "id_stacji": "151150130",
-      "stacja": "Szprotawa 2",
-      "rzeka": "Szprotawa",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.5553",
-      "lat": "51.5653",
-      "stan_wody": "151",
-      "stan_wody_data_pomiaru": "2025-09-29 14:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.74",
-      "przeplyw_data": "2025-09-29 14:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-11 10:10:00",
-      "zjawisko_zarastania": "211",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-13 09:30:00"
-    }
-  },
-  {
     "timestamp": "2025-09-29T15:42:09.217595+00:00",
     "data": {
       "id_stacji": "151150130",
@@ -3920,6 +3899,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.88",
       "przeplyw_data": "2025-10-06 14:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-11 10:10:00",
+      "zjawisko_zarastania": "211",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-13 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-06T15:25:26.046442+00:00",
+    "data": {
+      "id_stacji": "151150130",
+      "stacja": "Szprotawa 2",
+      "rzeka": "Szprotawa",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.5553",
+      "lat": "51.5653",
+      "stan_wody": "156",
+      "stan_wody_data_pomiaru": "2025-10-06 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.88",
+      "przeplyw_data": "2025-10-06 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-11 10:10:00",
       "zjawisko_zarastania": "211",
