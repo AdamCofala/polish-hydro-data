@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-29T18:35:03.718711+00:00",
-    "data": {
-      "id_stacji": "149210080",
-      "stacja": "Jasło",
-      "rzeka": "Jasiołka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.4731",
-      "lat": "49.7503",
-      "stan_wody": "87",
-      "stan_wody_data_pomiaru": "2025-09-29 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.6",
-      "przeplyw_data": "2025-09-29 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-09-12 07:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-12 07:00:00"
-    }
-  },
-  {
     "timestamp": "2025-09-29T19:19:18.878318+00:00",
     "data": {
       "id_stacji": "149210080",
@@ -4046,6 +4025,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.5",
       "przeplyw_data": "2025-10-06 16:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-09-12 07:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-12 07:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-06T18:35:02.805957+00:00",
+    "data": {
+      "id_stacji": "149210080",
+      "stacja": "Jasło",
+      "rzeka": "Jasiołka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.4731",
+      "lat": "49.7503",
+      "stan_wody": "97",
+      "stan_wody_data_pomiaru": "2025-10-06 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.4",
+      "przeplyw_data": "2025-10-06 18:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-09-12 07:00:00",
       "zjawisko_zarastania": "0",
