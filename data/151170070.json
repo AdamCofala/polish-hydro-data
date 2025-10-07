@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-09-30T04:45:36.107374+00:00",
-    "data": {
-      "id_stacji": "151170070",
-      "stacja": "Odolanów",
-      "rzeka": "Barycz",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.67",
-      "lat": "51.5756",
-      "stan_wody": "63",
-      "stan_wody_data_pomiaru": "2025-09-30 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.18",
-      "przeplyw_data": "2025-09-30 04:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-09-01 09:00:00",
-      "zjawisko_zarastania": "112",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-01 09:00:00"
-    }
-  },
-  {
     "timestamp": "2025-09-30T05:23:57.746605+00:00",
     "data": {
       "id_stacji": "151170070",
@@ -3962,6 +3941,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.4",
       "przeplyw_data": "2025-10-07 04:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-09-01 09:00:00",
+      "zjawisko_zarastania": "112",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-01 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-07T05:22:58.159109+00:00",
+    "data": {
+      "id_stacji": "151170070",
+      "stacja": "Odolanów",
+      "rzeka": "Barycz",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.67",
+      "lat": "51.5756",
+      "stan_wody": "85",
+      "stan_wody_data_pomiaru": "2025-10-07 04:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.41",
+      "przeplyw_data": "2025-10-07 04:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-09-01 09:00:00",
       "zjawisko_zarastania": "112",
