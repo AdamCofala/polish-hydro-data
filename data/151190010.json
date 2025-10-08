@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-01T10:44:56.237109+00:00",
-    "data": {
-      "id_stacji": "151190010",
-      "stacja": "Kule",
-      "rzeka": "Liswarta",
-      "wojewodztwo": "śląskie",
-      "lon": "19.0481",
-      "lat": "51.0428",
-      "stan_wody": "90",
-      "stan_wody_data_pomiaru": "2025-10-01 10:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.87",
-      "przeplyw_data": "2025-10-01 10:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-19 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2024-06-27 08:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-01T11:20:48.380293+00:00",
     "data": {
       "id_stacji": "151190010",
@@ -4151,6 +4130,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.71",
       "przeplyw_data": "2025-10-08 10:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-19 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2024-06-27 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-08T11:19:25.445954+00:00",
+    "data": {
+      "id_stacji": "151190010",
+      "stacja": "Kule",
+      "rzeka": "Liswarta",
+      "wojewodztwo": "śląskie",
+      "lon": "19.0481",
+      "lat": "51.0428",
+      "stan_wody": "99",
+      "stan_wody_data_pomiaru": "2025-10-08 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.8",
+      "przeplyw_data": "2025-10-08 10:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-19 10:10:00",
       "zjawisko_zarastania": "0",
