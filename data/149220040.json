@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-01T15:42:03.894684+00:00",
-    "data": {
-      "id_stacji": "149220040",
-      "stacja": "Dynów",
-      "rzeka": "San",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.2442",
-      "lat": "49.8008",
-      "stan_wody": "109",
-      "stan_wody_data_pomiaru": "2025-10-01 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "14.4",
-      "przeplyw_data": "2025-10-01 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-12-20 09:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2024-08-26 11:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-01T16:30:29.243591+00:00",
     "data": {
       "id_stacji": "149220040",
@@ -4046,6 +4025,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "10.9",
       "przeplyw_data": "2025-10-08 14:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-12-20 09:00:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2024-08-26 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-08T15:44:01.518529+00:00",
+    "data": {
+      "id_stacji": "149220040",
+      "stacja": "Dynów",
+      "rzeka": "San",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.2442",
+      "lat": "49.8008",
+      "stan_wody": "100",
+      "stan_wody_data_pomiaru": "2025-10-08 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "11.2",
+      "przeplyw_data": "2025-10-08 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-12-20 09:00:00",
       "zjawisko_zarastania": "200",
