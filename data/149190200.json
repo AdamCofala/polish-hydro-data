@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-01T18:34:39.187476+00:00",
-    "data": {
-      "id_stacji": "149190200",
-      "stacja": "Sucha Beskidzka",
-      "rzeka": "Stryszawka",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.6011",
-      "lat": "49.7433",
-      "stan_wody": "158",
-      "stan_wody_data_pomiaru": "2025-10-01 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.59",
-      "przeplyw_data": "2025-10-01 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-01-04 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-06-25 12:10:00"
-    }
-  },
-  {
     "timestamp": "2025-10-01T19:18:42.478650+00:00",
     "data": {
       "id_stacji": "149190200",
@@ -1253,6 +1232,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "7.3",
       "przeplyw_data": "2025-10-08 16:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-01-04 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-02 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-08T18:36:02.175145+00:00",
+    "data": {
+      "id_stacji": "149190200",
+      "stacja": "Sucha Beskidzka",
+      "rzeka": "Stryszawka",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.6011",
+      "lat": "49.7433",
+      "stan_wody": "173",
+      "stan_wody_data_pomiaru": "2025-10-08 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "6.78",
+      "przeplyw_data": "2025-10-08 18:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2023-01-04 12:00:00",
       "zjawisko_zarastania": "0",
