@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-02T08:31:12.050755+00:00",
-    "data": {
-      "id_stacji": "150190120",
-      "stacja": "Przeczyce",
-      "rzeka": "Czarna Przemsza",
-      "wojewodztwo": "śląskie",
-      "lon": "19.1778",
-      "lat": "50.4272",
-      "stan_wody": "58",
-      "stan_wody_data_pomiaru": "2025-10-02 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.8",
-      "przeplyw_data": "2025-10-02 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-03-28 08:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-04-07 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-10-02T09:24:53.456613+00:00",
     "data": {
       "id_stacji": "150190120",
@@ -4151,6 +4130,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.72",
       "przeplyw_data": "2025-10-09 06:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-03-28 08:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-08 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-09T08:32:38.332442+00:00",
+    "data": {
+      "id_stacji": "150190120",
+      "stacja": "Przeczyce",
+      "rzeka": "Czarna Przemsza",
+      "wojewodztwo": "śląskie",
+      "lon": "19.1778",
+      "lat": "50.4272",
+      "stan_wody": "57",
+      "stan_wody_data_pomiaru": "2025-10-09 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.72",
+      "przeplyw_data": "2025-10-09 08:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2023-03-28 08:10:00",
       "zjawisko_zarastania": "0",
