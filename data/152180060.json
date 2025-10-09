@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-02T11:19:01.341198+00:00",
-    "data": {
-      "id_stacji": "152180060",
-      "stacja": "Posoka",
-      "rzeka": "Powa",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "18.2225",
-      "lat": "52.2031",
-      "stan_wody": "155",
-      "stan_wody_data_pomiaru": "2025-10-02 11:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.033",
-      "przeplyw_data": "2025-10-02 10:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2024-01-09 15:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-08 12:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-02T12:48:59.356924+00:00",
     "data": {
       "id_stacji": "152180060",
@@ -4193,6 +4172,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.33",
       "przeplyw_data": "2025-10-09 10:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2024-01-09 15:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-08 12:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-09T11:20:10.871464+00:00",
+    "data": {
+      "id_stacji": "152180060",
+      "stacja": "Posoka",
+      "rzeka": "Powa",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "18.2225",
+      "lat": "52.2031",
+      "stan_wody": "172",
+      "stan_wody_data_pomiaru": "2025-10-09 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.22",
+      "przeplyw_data": "2025-10-09 10:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2024-01-09 15:10:00",
       "zjawisko_zarastania": "0",
