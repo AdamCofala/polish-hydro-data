@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-02T03:00:56.726776+00:00",
-    "data": {
-      "id_stacji": "150220130",
-      "stacja": "Zapałów",
-      "rzeka": "Lubaczówka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.89",
-      "lat": "50.1006",
-      "stan_wody": "97",
-      "stan_wody_data_pomiaru": "2025-10-02 02:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.84",
-      "przeplyw_data": "2025-10-02 02:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-17 11:10:00",
-      "zjawisko_zarastania": "331",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-22 12:10:00"
-    }
-  },
-  {
     "timestamp": "2025-10-02T03:46:45.887679+00:00",
     "data": {
       "id_stacji": "150220130",
@@ -4130,6 +4109,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.05",
       "przeplyw_data": "2025-10-09 01:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-17 11:10:00",
+      "zjawisko_zarastania": "331",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-22 12:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-09T03:04:02.465516+00:00",
+    "data": {
+      "id_stacji": "150220130",
+      "stacja": "Zapałów",
+      "rzeka": "Lubaczówka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.89",
+      "lat": "50.1006",
+      "stan_wody": "95",
+      "stan_wody_data_pomiaru": "2025-10-09 02:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.05",
+      "przeplyw_data": "2025-10-09 02:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-17 11:10:00",
       "zjawisko_zarastania": "331",
