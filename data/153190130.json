@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-03T12:48:51.388112+00:00",
-    "data": {
-      "id_stacji": "153190130",
-      "stacja": "Kuligi (Nowe Miasto)",
-      "rzeka": "Wel",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "19.6908",
-      "lat": "53.4297",
-      "stan_wody": "89",
-      "stan_wody_data_pomiaru": "2025-10-03 12:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.92",
-      "przeplyw_data": "2025-10-03 12:30:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-17 11:00:00",
-      "zjawisko_zarastania": "210",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-22 06:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-03T13:29:59.863289+00:00",
     "data": {
       "id_stacji": "153190130",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "5.34",
       "przeplyw_data": "2025-10-10 10:50:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-17 11:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-06 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T12:50:33.295675+00:00",
+    "data": {
+      "id_stacji": "153190130",
+      "stacja": "Kuligi (Nowe Miasto)",
+      "rzeka": "Wel",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "19.6908",
+      "lat": "53.4297",
+      "stan_wody": "116",
+      "stan_wody_data_pomiaru": "2025-10-10 12:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "5.4",
+      "przeplyw_data": "2025-10-10 12:30:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2025-02-17 11:00:00",
       "zjawisko_zarastania": "100",
