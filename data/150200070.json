@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-03T13:29:59.863289+00:00",
-    "data": {
-      "id_stacji": "150200070",
-      "stacja": "Biskupice",
-      "rzeka": "Szreniawa",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.4992",
-      "lat": "50.1775",
-      "stan_wody": "289",
-      "stan_wody_data_pomiaru": "2025-10-03 13:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.19",
-      "przeplyw_data": "2025-10-03 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-08-12 10:12:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2024-09-05 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-10-03T13:44:58.555394+00:00",
     "data": {
       "id_stacji": "150200070",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.77",
       "przeplyw_data": "2025-10-10 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-08-12 10:12:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2024-09-05 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T13:32:23.494932+00:00",
+    "data": {
+      "id_stacji": "150200070",
+      "stacja": "Biskupice",
+      "rzeka": "Szreniawa",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.4992",
+      "lat": "50.1775",
+      "stan_wody": "283",
+      "stan_wody_data_pomiaru": "2025-10-10 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2",
+      "przeplyw_data": "2025-10-10 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-08-12 10:12:00",
       "zjawisko_zarastania": "0",
