@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-03T21:19:50.932162+00:00",
-    "data": {
-      "id_stacji": "152210040",
-      "stacja": "Warszawa - Nadwilanówka",
-      "rzeka": "Wisła",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.1039",
-      "lat": "52.1928",
-      "stan_wody": "49",
-      "stan_wody_data_pomiaru": "2025-10-03 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "186",
-      "przeplyw_data": "2025-10-03 20:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-01-09 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-25 08:40:00"
-    }
-  },
-  {
     "timestamp": "2025-10-03T22:20:49.035443+00:00",
     "data": {
       "id_stacji": "152210040",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "212",
       "przeplyw_data": "2025-10-10 20:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-01-09 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-25 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-10T21:19:56.991663+00:00",
+    "data": {
+      "id_stacji": "152210040",
+      "stacja": "Warszawa - Nadwilanówka",
+      "rzeka": "Wisła",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.1039",
+      "lat": "52.1928",
+      "stan_wody": "62",
+      "stan_wody_data_pomiaru": "2025-10-10 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "212",
+      "przeplyw_data": "2025-10-10 20:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2023-01-09 10:00:00",
       "zjawisko_zarastania": "0",
