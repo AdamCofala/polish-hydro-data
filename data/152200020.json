@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-05T14:19:24.002455+00:00",
-    "data": {
-      "id_stacji": "152200020",
-      "stacja": "Trzciniec",
-      "rzeka": "Wkra",
-      "wojewodztwo": "mazowieckie",
-      "lon": "20.1719",
-      "lat": "52.9306",
-      "stan_wody": "184",
-      "stan_wody_data_pomiaru": "2025-10-05 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.32",
-      "przeplyw_data": "2025-10-05 13:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2022-01-14 14:14:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-01 08:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-05T15:20:42.653353+00:00",
     "data": {
       "id_stacji": "152200020",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "5.13",
       "przeplyw_data": "2025-10-12 12:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2022-01-14 14:14:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-01 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-12T14:20:13.241757+00:00",
+    "data": {
+      "id_stacji": "152200020",
+      "stacja": "Trzciniec",
+      "rzeka": "Wkra",
+      "wojewodztwo": "mazowieckie",
+      "lon": "20.1719",
+      "lat": "52.9306",
+      "stan_wody": "204",
+      "stan_wody_data_pomiaru": "2025-10-12 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "5.06",
+      "przeplyw_data": "2025-10-12 13:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2022-01-14 14:14:00",
       "zjawisko_zarastania": "100",
