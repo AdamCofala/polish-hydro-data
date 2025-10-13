@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-06T12:51:53.315763+00:00",
-    "data": {
-      "id_stacji": "152150140",
-      "stacja": "Gościmiec",
-      "rzeka": "Noteć",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.6383",
-      "lat": "52.7756",
-      "stan_wody": "164",
-      "stan_wody_data_pomiaru": "2025-10-06 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "36.2",
-      "przeplyw_data": "2025-10-06 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-04-17 12:01:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-18 07:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-06T13:32:56.621977+00:00",
     "data": {
       "id_stacji": "152150140",
@@ -4218,6 +4197,27 @@
       "zjawisko_lodowe_data_pomiaru": "2025-04-17 12:01:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2025-09-18 07:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-13T12:52:22.159402+00:00",
+    "data": {
+      "id_stacji": "152150140",
+      "stacja": "Gościmiec",
+      "rzeka": "Noteć",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.6383",
+      "lat": "52.7756",
+      "stan_wody": "184",
+      "stan_wody_data_pomiaru": "2025-10-13 12:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "44.8",
+      "przeplyw_data": "2025-10-13 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-04-17 12:01:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-13 12:00:00"
     }
   }
 ]
