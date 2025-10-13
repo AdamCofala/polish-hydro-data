@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-06T10:27:07.177593+00:00",
-    "data": {
-      "id_stacji": "151230010",
-      "stacja": "Trawniki",
-      "rzeka": "Wieprz",
-      "wojewodztwo": "lubelskie",
-      "lon": "23.0011",
-      "lat": "51.1386",
-      "stan_wody": "307",
-      "stan_wody_data_pomiaru": "2025-10-06 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6.38",
-      "przeplyw_data": "2025-10-06 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-05 11:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-10 10:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-06T11:19:49.155828+00:00",
     "data": {
       "id_stacji": "151230010",
@@ -3731,6 +3710,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "5.54",
       "przeplyw_data": "2025-10-13 09:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-05 11:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-06 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-13T10:28:38.759884+00:00",
+    "data": {
+      "id_stacji": "151230010",
+      "stacja": "Trawniki",
+      "rzeka": "Wieprz",
+      "wojewodztwo": "lubelskie",
+      "lon": "23.0011",
+      "lat": "51.1386",
+      "stan_wody": "301",
+      "stan_wody_data_pomiaru": "2025-10-13 10:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "5.4",
+      "przeplyw_data": "2025-10-13 10:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-05 11:10:00",
       "zjawisko_zarastania": "0",
