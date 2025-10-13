@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-06T08:32:46.803359+00:00",
-    "data": {
-      "id_stacji": "154170120",
-      "stacja": "Soszyca",
-      "rzeka": "Słupia",
-      "wojewodztwo": "pomorskie",
-      "lon": "17.5797",
-      "lat": "54.25",
-      "stan_wody": "21",
-      "stan_wody_data_pomiaru": "2025-10-06 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.35",
-      "przeplyw_data": "2025-10-06 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-18 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-07-17 11:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-06T09:28:27.927274+00:00",
     "data": {
       "id_stacji": "154170120",
@@ -4109,6 +4088,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.5",
       "przeplyw_data": "2025-10-13 06:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-18 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-08 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-13T08:35:17.386093+00:00",
+    "data": {
+      "id_stacji": "154170120",
+      "stacja": "Soszyca",
+      "rzeka": "Słupia",
+      "wojewodztwo": "pomorskie",
+      "lon": "17.5797",
+      "lat": "54.25",
+      "stan_wody": "24",
+      "stan_wody_data_pomiaru": "2025-10-13 07:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.5",
+      "przeplyw_data": "2025-10-13 08:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-18 11:00:00",
       "zjawisko_zarastania": "0",
