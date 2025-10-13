@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-06T14:24:49.800847+00:00",
-    "data": {
-      "id_stacji": "151160050",
-      "stacja": "Dunino",
-      "rzeka": "Kaczawa",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.0772",
-      "lat": "51.1569",
-      "stan_wody": "77",
-      "stan_wody_data_pomiaru": "2025-10-06 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.66",
-      "przeplyw_data": "2025-10-06 13:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-09-24 09:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-24 09:30:00"
-    }
-  },
-  {
     "timestamp": "2025-10-06T14:44:42.134313+00:00",
     "data": {
       "id_stacji": "151160050",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.05",
       "przeplyw_data": "2025-10-13 13:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-09-24 09:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-13 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-13T14:26:03.084498+00:00",
+    "data": {
+      "id_stacji": "151160050",
+      "stacja": "Dunino",
+      "rzeka": "Kaczawa",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.0772",
+      "lat": "51.1569",
+      "stan_wody": "70",
+      "stan_wody_data_pomiaru": "2025-10-13 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.05",
+      "przeplyw_data": "2025-10-13 13:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-09-24 09:30:00",
       "zjawisko_zarastania": "0",
