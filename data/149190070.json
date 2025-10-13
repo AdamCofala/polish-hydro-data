@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-06T23:21:11.537058+00:00",
-    "data": {
-      "id_stacji": "149190070",
-      "stacja": "Łodygowice",
-      "rzeka": "Żylica",
-      "wojewodztwo": "śląskie",
-      "lon": "19.1361",
-      "lat": "49.7272",
-      "stan_wody": "361",
-      "stan_wody_data_pomiaru": "2025-10-06 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.6",
-      "przeplyw_data": "2025-10-06 22:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-25 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-06-05 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-10-07T01:50:03.169022+00:00",
     "data": {
       "id_stacji": "149190070",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.3",
       "przeplyw_data": "2025-10-13 21:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-25 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-06-05 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-13T23:21:16.468030+00:00",
+    "data": {
+      "id_stacji": "149190070",
+      "stacja": "Łodygowice",
+      "rzeka": "Żylica",
+      "wojewodztwo": "śląskie",
+      "lon": "19.1361",
+      "lat": "49.7272",
+      "stan_wody": "380",
+      "stan_wody_data_pomiaru": "2025-10-13 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.3",
+      "przeplyw_data": "2025-10-13 22:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-25 10:00:00",
       "zjawisko_zarastania": "0",
