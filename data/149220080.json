@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-07T22:21:56.295712+00:00",
-    "data": {
-      "id_stacji": "149220080",
-      "stacja": "Cisna",
-      "rzeka": "Solinka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.3333",
-      "lat": "49.2131",
-      "stan_wody": "77",
-      "stan_wody_data_pomiaru": "2025-10-07 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.24",
-      "przeplyw_data": "2025-10-07 21:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-09 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-06-12 13:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-07T23:21:16.377056+00:00",
     "data": {
       "id_stacji": "149220080",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.55",
       "przeplyw_data": "2025-10-14 20:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-10-09 14:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-09 14:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-14T22:22:45.383617+00:00",
+    "data": {
+      "id_stacji": "149220080",
+      "stacja": "Cisna",
+      "rzeka": "Solinka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.3333",
+      "lat": "49.2131",
+      "stan_wody": "83",
+      "stan_wody_data_pomiaru": "2025-10-14 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.55",
+      "przeplyw_data": "2025-10-14 21:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-10-09 14:50:00",
       "zjawisko_zarastania": "0",
