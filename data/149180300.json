@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-07T20:42:59.105515+00:00",
-    "data": {
-      "id_stacji": "149180300",
-      "stacja": "Olza",
-      "rzeka": "Odra",
-      "wojewodztwo": "śląskie",
-      "lon": "18.3264",
-      "lat": "49.9547",
-      "stan_wody": "226",
-      "stan_wody_data_pomiaru": "2025-10-07 20:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "50.2",
-      "przeplyw_data": "2025-10-07 20:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-07 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-28 06:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-07T21:20:19.383379+00:00",
     "data": {
       "id_stacji": "149180300",
@@ -4256,6 +4235,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "43.2",
       "przeplyw_data": "2025-10-14 19:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-07 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-14 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-14T20:43:38.717270+00:00",
+    "data": {
+      "id_stacji": "149180300",
+      "stacja": "Olza",
+      "rzeka": "Odra",
+      "wojewodztwo": "śląskie",
+      "lon": "18.3264",
+      "lat": "49.9547",
+      "stan_wody": "216",
+      "stan_wody_data_pomiaru": "2025-10-14 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "43.2",
+      "przeplyw_data": "2025-10-14 20:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-07 10:00:00",
       "zjawisko_zarastania": "0",
