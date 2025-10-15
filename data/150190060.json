@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-08T14:25:40.591447+00:00",
-    "data": {
-      "id_stacji": "150190060",
-      "stacja": "Bojszowy",
-      "rzeka": "Gostynia",
-      "wojewodztwo": "śląskie",
-      "lon": "19.1083",
-      "lat": "50.0611",
-      "stan_wody": "113",
-      "stan_wody_data_pomiaru": "2025-10-08 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.42",
-      "przeplyw_data": "2025-10-08 13:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2022-01-26 12:00:00",
-      "zjawisko_zarastania": "331",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-04 08:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-08T14:46:25.571538+00:00",
     "data": {
       "id_stacji": "150190060",
@@ -4256,6 +4235,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.02",
       "przeplyw_data": "2025-10-15 13:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2022-01-26 12:00:00",
+      "zjawisko_zarastania": "331",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-04 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-15T14:26:17.311539+00:00",
+    "data": {
+      "id_stacji": "150190060",
+      "stacja": "Bojszowy",
+      "rzeka": "Gostynia",
+      "wojewodztwo": "śląskie",
+      "lon": "19.1083",
+      "lat": "50.0611",
+      "stan_wody": "112",
+      "stan_wody_data_pomiaru": "2025-10-15 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.02",
+      "przeplyw_data": "2025-10-15 13:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2022-01-26 12:00:00",
       "zjawisko_zarastania": "331",
