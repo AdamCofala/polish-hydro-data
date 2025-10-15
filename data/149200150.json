@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-08T03:01:27.816402+00:00",
-    "data": {
-      "id_stacji": "149200150",
-      "stacja": "Tylmanowa",
-      "rzeka": "Ochotnica",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.3869",
-      "lat": "49.5172",
-      "stan_wody": "129",
-      "stan_wody_data_pomiaru": "2025-10-08 02:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.95",
-      "przeplyw_data": "2025-10-08 02:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-09-17 09:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-17 09:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-08T03:47:49.747840+00:00",
     "data": {
       "id_stacji": "149200150",
@@ -4256,6 +4235,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.06",
       "przeplyw_data": "2025-10-15 01:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-10-13 12:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-13 12:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-15T03:08:47.065574+00:00",
+    "data": {
+      "id_stacji": "149200150",
+      "stacja": "Tylmanowa",
+      "rzeka": "Ochotnica",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.3869",
+      "lat": "49.5172",
+      "stan_wody": "130",
+      "stan_wody_data_pomiaru": "2025-10-15 02:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.06",
+      "przeplyw_data": "2025-10-15 02:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-10-13 12:50:00",
       "zjawisko_zarastania": "0",
