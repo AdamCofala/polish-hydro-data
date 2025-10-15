@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-08T13:33:42.734116+00:00",
-    "data": {
-      "id_stacji": "153190050",
-      "stacja": "Brodnica",
-      "rzeka": "Drwęca",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "19.4008",
-      "lat": "53.2553",
-      "stan_wody": "145",
-      "stan_wody_data_pomiaru": "2025-10-08 13:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "15.1",
-      "przeplyw_data": "2025-10-08 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-07 12:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-06 06:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-08T14:25:40.591447+00:00",
     "data": {
       "id_stacji": "153190050",
@@ -4256,6 +4235,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "17.2",
       "przeplyw_data": "2025-10-15 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-07 12:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-06 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-15T13:36:02.329131+00:00",
+    "data": {
+      "id_stacji": "153190050",
+      "stacja": "Brodnica",
+      "rzeka": "Drwęca",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lon": "19.4008",
+      "lat": "53.2553",
+      "stan_wody": "161",
+      "stan_wody_data_pomiaru": "2025-10-15 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "17.2",
+      "przeplyw_data": "2025-10-15 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-07 12:10:00",
       "zjawisko_zarastania": "0",
