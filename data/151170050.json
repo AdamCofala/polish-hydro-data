@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-09T12:52:11.119256+00:00",
-    "data": {
-      "id_stacji": "151170050",
-      "stacja": "Zbytowa",
-      "rzeka": "Widawa",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "17.4067",
-      "lat": "51.1058",
-      "stan_wody": "261",
-      "stan_wody_data_pomiaru": "2025-10-09 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.48",
-      "przeplyw_data": "2025-10-09 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-12 10:00:00",
-      "zjawisko_zarastania": "212",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-16 09:50:00"
-    }
-  },
-  {
     "timestamp": "2025-10-09T13:34:26.021651+00:00",
     "data": {
       "id_stacji": "151170050",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.81",
       "przeplyw_data": "2025-10-16 10:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-12 10:00:00",
+      "zjawisko_zarastania": "202",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-15 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-16T12:53:32.866949+00:00",
+    "data": {
+      "id_stacji": "151170050",
+      "stacja": "Zbytowa",
+      "rzeka": "Widawa",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "17.4067",
+      "lat": "51.1058",
+      "stan_wody": "282",
+      "stan_wody_data_pomiaru": "2025-10-16 12:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.81",
+      "przeplyw_data": "2025-10-16 12:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-12 10:00:00",
       "zjawisko_zarastania": "202",
