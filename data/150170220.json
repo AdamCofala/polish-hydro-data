@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-10T09:42:49.596791+00:00",
-    "data": {
-      "id_stacji": "150170220",
-      "stacja": "Dobra",
-      "rzeka": "Biała",
-      "wojewodztwo": "opolskie",
-      "lon": "17.8969",
-      "lat": "50.4481",
-      "stan_wody": "77",
-      "stan_wody_data_pomiaru": "2025-10-10 09:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.27",
-      "przeplyw_data": "2025-10-10 09:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-20 11:00:00",
-      "zjawisko_zarastania": "211",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-02 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-10-10T10:26:09.445454+00:00",
     "data": {
       "id_stacji": "150170220",
@@ -4239,6 +4218,27 @@
       "zjawisko_lodowe_data_pomiaru": "2025-02-20 11:00:00",
       "zjawisko_zarastania": "211",
       "zjawisko_zarastania_data_pomiaru": "2025-10-02 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-17T09:43:17.573800+00:00",
+    "data": {
+      "id_stacji": "150170220",
+      "stacja": "Dobra",
+      "rzeka": "Biała",
+      "wojewodztwo": "opolskie",
+      "lon": "17.8969",
+      "lat": "50.4481",
+      "stan_wody": "73",
+      "stan_wody_data_pomiaru": "2025-10-17 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.38",
+      "przeplyw_data": "2025-10-17 09:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-20 11:00:00",
+      "zjawisko_zarastania": "211",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-17 09:30:00"
     }
   }
 ]
