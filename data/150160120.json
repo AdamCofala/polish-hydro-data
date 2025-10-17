@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-10T15:23:59.847966+00:00",
-    "data": {
-      "id_stacji": "150160120",
-      "stacja": "Krasków",
-      "rzeka": "Bystrzyca",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.5839",
-      "lat": "50.9156",
-      "stan_wody": "120",
-      "stan_wody_data_pomiaru": "2025-10-10 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1",
-      "przeplyw_data": "2025-10-10 14:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-03 09:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-01-03 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-10-10T16:30:06.339017+00:00",
     "data": {
       "id_stacji": "150160120",
@@ -4256,6 +4235,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.18",
       "przeplyw_data": "2025-10-17 14:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-03 09:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-01-03 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-17T15:25:02.312012+00:00",
+    "data": {
+      "id_stacji": "150160120",
+      "stacja": "Krasków",
+      "rzeka": "Bystrzyca",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.5839",
+      "lat": "50.9156",
+      "stan_wody": "130",
+      "stan_wody_data_pomiaru": "2025-10-17 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.5",
+      "przeplyw_data": "2025-10-17 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-03 09:10:00",
       "zjawisko_zarastania": "0",
