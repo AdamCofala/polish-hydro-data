@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-11T09:21:29.236294+00:00",
-    "data": {
-      "id_stacji": "150180280",
-      "stacja": "Rybnik Gotartowice",
-      "rzeka": "Ruda",
-      "wojewodztwo": "śląskie",
-      "lon": "18.6286",
-      "lat": "50.0856",
-      "stan_wody": "287",
-      "stan_wody_data_pomiaru": "2025-10-11 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.18",
-      "przeplyw_data": "2025-10-11 08:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-01-29 12:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-03 10:50:00"
-    }
-  },
-  {
     "timestamp": "2025-10-11T10:22:27.932071+00:00",
     "data": {
       "id_stacji": "150180280",
@@ -4319,6 +4298,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.57",
       "przeplyw_data": "2025-10-18 08:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-01-29 12:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-03 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-18T09:22:45.584746+00:00",
+    "data": {
+      "id_stacji": "150180280",
+      "stacja": "Rybnik Gotartowice",
+      "rzeka": "Ruda",
+      "wojewodztwo": "śląskie",
+      "lon": "18.6286",
+      "lat": "50.0856",
+      "stan_wody": "278",
+      "stan_wody_data_pomiaru": "2025-10-18 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.57",
+      "przeplyw_data": "2025-10-18 08:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-01-29 12:00:00",
       "zjawisko_zarastania": "100",
