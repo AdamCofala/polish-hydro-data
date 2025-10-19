@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-12T18:30:30.348982+00:00",
-    "data": {
-      "id_stacji": "150180110",
-      "stacja": "Ruda Kozielska",
-      "rzeka": "Ruda",
-      "wojewodztwo": "śląskie",
-      "lon": "18.4017",
-      "lat": "50.2047",
-      "stan_wody": "168",
-      "stan_wody_data_pomiaru": "2025-10-12 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.11",
-      "przeplyw_data": "2025-10-12 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-28 11:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-25 11:30:00"
-    }
-  },
-  {
     "timestamp": "2025-10-12T19:17:28.132979+00:00",
     "data": {
       "id_stacji": "150180110",
@@ -4277,6 +4256,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.03",
       "przeplyw_data": "2025-10-19 16:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-28 11:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-25 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-19T18:31:53.799694+00:00",
+    "data": {
+      "id_stacji": "150180110",
+      "stacja": "Ruda Kozielska",
+      "rzeka": "Ruda",
+      "wojewodztwo": "śląskie",
+      "lon": "18.4017",
+      "lat": "50.2047",
+      "stan_wody": "152",
+      "stan_wody_data_pomiaru": "2025-10-19 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.1",
+      "przeplyw_data": "2025-10-19 18:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-28 11:00:00",
       "zjawisko_zarastania": "100",
