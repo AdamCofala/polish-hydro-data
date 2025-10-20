@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-13T20:26:45.307641+00:00",
-    "data": {
-      "id_stacji": "154190100",
-      "stacja": "Pasłęk",
-      "rzeka": "Wąska",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "19.66",
-      "lat": "54.0706",
-      "stan_wody": "424",
-      "stan_wody_data_pomiaru": "2025-10-13 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.05",
-      "przeplyw_data": "2025-10-13 19:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-02-20 11:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-09 09:50:00"
-    }
-  },
-  {
     "timestamp": "2025-10-13T20:42:29.002209+00:00",
     "data": {
       "id_stacji": "154190100",
@@ -4277,6 +4256,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.15",
       "przeplyw_data": "2025-10-20 18:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-02-20 11:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-16 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T20:28:26.249405+00:00",
+    "data": {
+      "id_stacji": "154190100",
+      "stacja": "Pasłęk",
+      "rzeka": "Wąska",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "19.66",
+      "lat": "54.0706",
+      "stan_wody": "461",
+      "stan_wody_data_pomiaru": "2025-10-20 20:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.15",
+      "przeplyw_data": "2025-10-20 20:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2023-02-20 11:00:00",
       "zjawisko_zarastania": "100",
