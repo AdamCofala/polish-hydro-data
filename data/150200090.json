@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-13T10:28:38.759884+00:00",
-    "data": {
-      "id_stacji": "150200090",
-      "stacja": "Slowik",
-      "rzeka": "Bobrza",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "20.5361",
-      "lat": "50.8328",
-      "stan_wody": "208",
-      "stan_wody_data_pomiaru": "2025-10-13 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.65",
-      "przeplyw_data": "2025-10-13 10:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2024-01-09 14:00:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-24 09:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-13T10:47:16.279472+00:00",
     "data": {
       "id_stacji": "150200090",
@@ -4256,6 +4235,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.54",
       "przeplyw_data": "2025-10-20 09:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2024-01-09 14:00:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-24 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-20T10:47:10.802578+00:00",
+    "data": {
+      "id_stacji": "150200090",
+      "stacja": "Slowik",
+      "rzeka": "Bobrza",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "20.5361",
+      "lat": "50.8328",
+      "stan_wody": "203",
+      "stan_wody_data_pomiaru": "2025-10-20 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.54",
+      "przeplyw_data": "2025-10-20 10:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2024-01-09 14:00:00",
       "zjawisko_zarastania": "1",
