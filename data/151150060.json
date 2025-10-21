@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-14T13:34:32.561622+00:00",
-    "data": {
-      "id_stacji": "151150060",
-      "stacja": "Leśna",
-      "rzeka": "Kwisa",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.2867",
-      "lat": "51.0283",
-      "stan_wody": "13",
-      "stan_wody_data_pomiaru": "2025-10-14 13:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.8",
-      "przeplyw_data": "2025-10-14 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2019-07-08 09:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-25 09:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-14T14:26:42.786969+00:00",
     "data": {
       "id_stacji": "151150060",
@@ -4193,6 +4172,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1",
       "przeplyw_data": "2025-10-21 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2019-07-08 09:00:00",
+      "zjawisko_zarastania": "300",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-20 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-21T13:37:52.610972+00:00",
+    "data": {
+      "id_stacji": "151150060",
+      "stacja": "Leśna",
+      "rzeka": "Kwisa",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.2867",
+      "lat": "51.0283",
+      "stan_wody": "15",
+      "stan_wody_data_pomiaru": "2025-10-21 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1",
+      "przeplyw_data": "2025-10-21 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2019-07-08 09:00:00",
       "zjawisko_zarastania": "300",
