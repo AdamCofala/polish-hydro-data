@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-14T10:26:30.881246+00:00",
-    "data": {
-      "id_stacji": "150240010",
-      "stacja": "Strzyżów",
-      "rzeka": "Bug",
-      "wojewodztwo": "lubelskie",
-      "lon": "24.0358",
-      "lat": "50.8394",
-      "stan_wody": "288",
-      "stan_wody_data_pomiaru": "2025-10-14 10:00:00",
-      "temperatura_wody": "9.9",
-      "temperatura_wody_data_pomiaru": "2025-10-14 06:00:00",
-      "przelyw": "15.3",
-      "przeplyw_data": "2025-10-14 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-22 15:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-23 11:30:00"
-    }
-  },
-  {
     "timestamp": "2025-10-14T10:45:47.997145+00:00",
     "data": {
       "id_stacji": "150240010",
@@ -4260,6 +4239,27 @@
       "zjawisko_lodowe_data_pomiaru": "2025-01-22 15:00:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2025-09-23 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-21T10:26:59.419632+00:00",
+    "data": {
+      "id_stacji": "150240010",
+      "stacja": "Strzyżów",
+      "rzeka": "Bug",
+      "wojewodztwo": "lubelskie",
+      "lon": "24.0358",
+      "lat": "50.8394",
+      "stan_wody": "286",
+      "stan_wody_data_pomiaru": "2025-10-21 10:00:00",
+      "temperatura_wody": "7.4",
+      "temperatura_wody_data_pomiaru": "2025-10-21 06:00:00",
+      "przelyw": "15",
+      "przeplyw_data": "2025-10-21 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-22 15:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-21 10:10:00"
     }
   }
 ]
