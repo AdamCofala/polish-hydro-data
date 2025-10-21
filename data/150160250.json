@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-14T03:49:14.216128+00:00",
-    "data": {
-      "id_stacji": "150160250",
-      "stacja": "Białobrzezie",
-      "rzeka": "Ślęza",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.8922",
-      "lat": "50.8022",
-      "stan_wody": "48",
-      "stan_wody_data_pomiaru": "2025-10-14 03:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.09",
-      "przeplyw_data": "2025-10-14 03:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-08-04 07:00:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-13 08:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-14T04:28:41.236353+00:00",
     "data": {
       "id_stacji": "150160250",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.12",
       "przeplyw_data": "2025-10-21 02:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-08-04 07:00:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-16 07:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-21T03:51:36.081385+00:00",
+    "data": {
+      "id_stacji": "150160250",
+      "stacja": "Białobrzezie",
+      "rzeka": "Ślęza",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.8922",
+      "lat": "50.8022",
+      "stan_wody": "50",
+      "stan_wody_data_pomiaru": "2025-10-21 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.12",
+      "przeplyw_data": "2025-10-21 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-08-04 07:00:00",
       "zjawisko_zarastania": "1",
