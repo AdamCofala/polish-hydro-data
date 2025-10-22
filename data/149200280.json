@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-15T13:36:02.329131+00:00",
-    "data": {
-      "id_stacji": "149200280",
-      "stacja": "Zgłobice",
-      "rzeka": "Dunajec",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.8797",
-      "lat": "49.975",
-      "stan_wody": "127",
-      "stan_wody_data_pomiaru": "2025-10-15 13:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "60",
-      "przeplyw_data": "2025-10-15 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-07-25 09:10:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-13 13:40:00"
-    }
-  },
-  {
     "timestamp": "2025-10-15T14:26:17.311539+00:00",
     "data": {
       "id_stacji": "149200280",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "32",
       "przeplyw_data": "2025-10-22 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-07-25 09:10:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-13 13:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-22T13:37:07.582183+00:00",
+    "data": {
+      "id_stacji": "149200280",
+      "stacja": "Zgłobice",
+      "rzeka": "Dunajec",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.8797",
+      "lat": "49.975",
+      "stan_wody": "104",
+      "stan_wody_data_pomiaru": "2025-10-22 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "32",
+      "przeplyw_data": "2025-10-22 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-07-25 09:10:00",
       "zjawisko_zarastania": "100",
