@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-15T09:27:17.030611+00:00",
-    "data": {
-      "id_stacji": "153140090",
-      "stacja": "Goleniów",
-      "rzeka": "Ina",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "14.8269",
-      "lat": "53.5631",
-      "stan_wody": "143",
-      "stan_wody_data_pomiaru": "2025-10-15 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "5.65",
-      "przeplyw_data": "2025-10-15 08:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-11 08:02:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-15 08:40:00"
-    }
-  },
-  {
     "timestamp": "2025-10-15T09:45:01.765536+00:00",
     "data": {
       "id_stacji": "153140090",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "5.35",
       "przeplyw_data": "2025-10-22 08:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-11 08:02:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-15 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-22T09:29:02.026783+00:00",
+    "data": {
+      "id_stacji": "153140090",
+      "stacja": "Goleniów",
+      "rzeka": "Ina",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "14.8269",
+      "lat": "53.5631",
+      "stan_wody": "126",
+      "stan_wody_data_pomiaru": "2025-10-22 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "5.35",
+      "przeplyw_data": "2025-10-22 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-11 08:02:00",
       "zjawisko_zarastania": "101",
