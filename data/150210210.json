@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-15T10:47:36.874523+00:00",
-    "data": {
-      "id_stacji": "150210210",
-      "stacja": "Radomysl",
-      "rzeka": "San",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.9308",
-      "lat": "50.6736",
-      "stan_wody": "199",
-      "stan_wody_data_pomiaru": "2025-10-15 10:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "35.3",
-      "przeplyw_data": "2025-10-15 10:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-08-26 14:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-09 16:40:00"
-    }
-  },
-  {
     "timestamp": "2025-10-15T11:20:47.045638+00:00",
     "data": {
       "id_stacji": "150210210",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "35.9",
       "przeplyw_data": "2025-10-22 10:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-08-26 14:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-09 16:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-22T10:48:25.241097+00:00",
+    "data": {
+      "id_stacji": "150210210",
+      "stacja": "Radomysl",
+      "rzeka": "San",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.9308",
+      "lat": "50.6736",
+      "stan_wody": "200",
+      "stan_wody_data_pomiaru": "2025-10-22 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "35.9",
+      "przeplyw_data": "2025-10-22 10:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-08-26 14:20:00",
       "zjawisko_zarastania": "0",
