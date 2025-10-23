@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-16T01:53:54.110152+00:00",
-    "data": {
-      "id_stacji": "150210020",
-      "stacja": "Szczucin",
-      "rzeka": "Wisła",
-      "wojewodztwo": "małopolskie",
-      "lon": "21.0772",
-      "lat": "50.3269",
-      "stan_wody": "146",
-      "stan_wody_data_pomiaru": "2025-10-16 01:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "174",
-      "przeplyw_data": "2025-10-16 01:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-02-22 13:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-23 11:40:00"
-    }
-  },
-  {
     "timestamp": "2025-10-16T03:07:28.324579+00:00",
     "data": {
       "id_stacji": "150210020",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "110",
       "przeplyw_data": "2025-10-22 22:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-02-22 13:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-23 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-23T01:54:49.538901+00:00",
+    "data": {
+      "id_stacji": "150210020",
+      "stacja": "Szczucin",
+      "rzeka": "Wisła",
+      "wojewodztwo": "małopolskie",
+      "lon": "21.0772",
+      "lat": "50.3269",
+      "stan_wody": "102",
+      "stan_wody_data_pomiaru": "2025-10-23 01:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "109",
+      "przeplyw_data": "2025-10-23 01:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2023-02-22 13:00:00",
       "zjawisko_zarastania": "0",
