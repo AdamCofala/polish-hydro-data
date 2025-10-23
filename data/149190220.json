@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-16T19:18:22.974483+00:00",
-    "data": {
-      "id_stacji": "149190220",
-      "stacja": "Skawica Dolna",
-      "rzeka": "Skawica",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.6636",
-      "lat": "49.6861",
-      "stan_wody": "73",
-      "stan_wody_data_pomiaru": "2025-10-16 19:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.53",
-      "przeplyw_data": "2025-10-16 18:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-21 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-02 11:30:00"
-    }
-  },
-  {
     "timestamp": "2025-10-16T20:26:54.484507+00:00",
     "data": {
       "id_stacji": "149190220",
@@ -3668,6 +3647,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.8",
       "przeplyw_data": "2025-10-23 18:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-21 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-02 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-23T19:20:09.779005+00:00",
+    "data": {
+      "id_stacji": "149190220",
+      "stacja": "Skawica Dolna",
+      "rzeka": "Skawica",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.6636",
+      "lat": "49.6861",
+      "stan_wody": "65",
+      "stan_wody_data_pomiaru": "2025-10-23 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.8",
+      "przeplyw_data": "2025-10-23 18:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-21 11:00:00",
       "zjawisko_zarastania": "0",
