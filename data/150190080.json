@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-17T06:35:30.600975+00:00",
-    "data": {
-      "id_stacji": "150190080",
-      "stacja": "Radocha",
-      "rzeka": "Czarna Przemsza",
-      "wojewodztwo": "śląskie",
-      "lon": "19.1403",
-      "lat": "50.2608",
-      "stan_wody": "37",
-      "stan_wody_data_pomiaru": "2025-10-17 05:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.48",
-      "przeplyw_data": "2025-10-17 06:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-20 09:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-08 07:10:00"
-    }
-  },
-  {
     "timestamp": "2025-10-17T07:23:50.124660+00:00",
     "data": {
       "id_stacji": "150190080",
@@ -4172,6 +4151,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.48",
       "przeplyw_data": "2025-10-24 05:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-20 09:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-08 07:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-24T06:35:47.602626+00:00",
+    "data": {
+      "id_stacji": "150190080",
+      "stacja": "Radocha",
+      "rzeka": "Czarna Przemsza",
+      "wojewodztwo": "śląskie",
+      "lon": "19.1403",
+      "lat": "50.2608",
+      "stan_wody": "52",
+      "stan_wody_data_pomiaru": "2025-10-24 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.77",
+      "przeplyw_data": "2025-10-24 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-20 09:00:00",
       "zjawisko_zarastania": "0",
