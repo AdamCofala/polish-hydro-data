@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-17T10:44:30.365763+00:00",
-    "data": {
-      "id_stacji": "149210010",
-      "stacja": "Ropa",
-      "rzeka": "Ropa",
-      "wojewodztwo": "małopolskie",
-      "lon": "21.0464",
-      "lat": "49.5858",
-      "stan_wody": "172",
-      "stan_wody_data_pomiaru": "2025-10-17 10:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2",
-      "przeplyw_data": "2025-10-17 10:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-09-08 09:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-10 09:40:00"
-    }
-  },
-  {
     "timestamp": "2025-10-17T11:19:46.072242+00:00",
     "data": {
       "id_stacji": "149210010",
@@ -2496,6 +2475,27 @@
       "zjawisko_lodowe_data_pomiaru": "2025-09-08 09:40:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2025-10-10 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-24T10:46:49.687768+00:00",
+    "data": {
+      "id_stacji": "149210010",
+      "stacja": "Ropa",
+      "rzeka": "Ropa",
+      "wojewodztwo": "małopolskie",
+      "lon": "21.0464",
+      "lat": "49.5858",
+      "stan_wody": "186",
+      "stan_wody_data_pomiaru": "2025-10-24 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "6.1",
+      "przeplyw_data": "2025-10-24 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-10-24 10:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-24 10:20:00"
     }
   }
 ]
