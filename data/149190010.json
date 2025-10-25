@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-18T05:22:17.008488+00:00",
-    "data": {
-      "id_stacji": "149190010",
-      "stacja": "Czechowice-Bestwina",
-      "rzeka": "Biała",
-      "wojewodztwo": "śląskie",
-      "lon": "19.0303",
-      "lat": "49.8914",
-      "stan_wody": "117",
-      "stan_wody_data_pomiaru": "2025-10-18 05:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.48",
-      "przeplyw_data": "2025-10-18 04:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-30 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-14 09:50:00"
-    }
-  },
-  {
     "timestamp": "2025-10-18T06:33:14.940583+00:00",
     "data": {
       "id_stacji": "149190010",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.25",
       "przeplyw_data": "2025-10-25 04:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-30 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-14 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-25T05:22:53.572648+00:00",
+    "data": {
+      "id_stacji": "149190010",
+      "stacja": "Czechowice-Bestwina",
+      "rzeka": "Biała",
+      "wojewodztwo": "śląskie",
+      "lon": "19.0303",
+      "lat": "49.8914",
+      "stan_wody": "130",
+      "stan_wody_data_pomiaru": "2025-10-25 05:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.15",
+      "przeplyw_data": "2025-10-25 04:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-30 11:00:00",
       "zjawisko_zarastania": "0",
