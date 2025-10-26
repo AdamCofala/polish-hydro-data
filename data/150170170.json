@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-19T09:22:03.285259+00:00",
-    "data": {
-      "id_stacji": "150170170",
-      "stacja": "Branice 2",
-      "rzeka": "Młynówka",
-      "wojewodztwo": "opolskie",
-      "lon": "17.7719",
-      "lat": "50.0514",
-      "stan_wody": "154",
-      "stan_wody_data_pomiaru": "2025-10-19 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.2",
-      "przeplyw_data": "2025-10-19 08:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-04 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-28 06:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-19T10:23:21.418974+00:00",
     "data": {
       "id_stacji": "150170170",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.05",
       "przeplyw_data": "2025-10-26 08:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-04 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-22 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-26T09:22:27.614878+00:00",
+    "data": {
+      "id_stacji": "150170170",
+      "stacja": "Branice 2",
+      "rzeka": "Młynówka",
+      "wojewodztwo": "opolskie",
+      "lon": "17.7719",
+      "lat": "50.0514",
+      "stan_wody": "152",
+      "stan_wody_data_pomiaru": "2025-10-26 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.12",
+      "przeplyw_data": "2025-10-26 08:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-04 06:00:00",
       "zjawisko_zarastania": "0",
