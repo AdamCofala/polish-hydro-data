@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-20T16:31:25.391626+00:00",
-    "data": {
-      "id_stacji": "151150180",
-      "stacja": "Chojnów",
-      "rzeka": "Skora",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.9456",
-      "lat": "51.2728",
-      "stan_wody": "57",
-      "stan_wody_data_pomiaru": "2025-10-20 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.51",
-      "przeplyw_data": "2025-10-20 16:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-09-09 09:00:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-13 09:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-20T17:21:46.972718+00:00",
     "data": {
       "id_stacji": "151150180",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.49",
       "przeplyw_data": "2025-10-27 15:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-10-27 10:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-27 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-27T16:33:13.769891+00:00",
+    "data": {
+      "id_stacji": "151150180",
+      "stacja": "Chojnów",
+      "rzeka": "Skora",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.9456",
+      "lat": "51.2728",
+      "stan_wody": "56",
+      "stan_wody_data_pomiaru": "2025-10-27 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.49",
+      "przeplyw_data": "2025-10-27 16:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-10-27 10:20:00",
       "zjawisko_zarastania": "0",
