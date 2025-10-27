@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-20T09:29:05.949029+00:00",
-    "data": {
-      "id_stacji": "150170090",
-      "stacja": "Brzeg (most)",
-      "rzeka": "Odra",
-      "wojewodztwo": "opolskie",
-      "lon": "17.4694",
-      "lat": "50.8656",
-      "stan_wody": "158",
-      "stan_wody_data_pomiaru": "2025-10-20 09:00:00",
-      "temperatura_wody": "12.2",
-      "temperatura_wody_data_pomiaru": "2025-10-19 06:00:00",
-      "przelyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-11 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-14 10:50:00"
-    }
-  },
-  {
     "timestamp": "2025-10-20T09:45:37.339705+00:00",
     "data": {
       "id_stacji": "150170090",
@@ -4197,6 +4176,27 @@
       "zjawisko_lodowe_data_pomiaru": "2025-03-11 06:00:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2025-08-14 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-27T09:30:38.398351+00:00",
+    "data": {
+      "id_stacji": "150170090",
+      "stacja": "Brzeg (most)",
+      "rzeka": "Odra",
+      "wojewodztwo": "opolskie",
+      "lon": "17.4694",
+      "lat": "50.8656",
+      "stan_wody": "179",
+      "stan_wody_data_pomiaru": "2025-10-27 09:00:00",
+      "temperatura_wody": "11.4",
+      "temperatura_wody_data_pomiaru": "2025-10-26 06:00:00",
+      "przelyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-11 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-27 08:40:00"
     }
   }
 ]
