@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-20T17:21:46.972718+00:00",
-    "data": {
-      "id_stacji": "150180050",
-      "stacja": "Ozimek",
-      "rzeka": "Mała Panew",
-      "wojewodztwo": "opolskie",
-      "lon": "18.2039",
-      "lat": "50.6792",
-      "stan_wody": "56",
-      "stan_wody_data_pomiaru": "2025-10-20 17:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.78",
-      "przeplyw_data": "2025-10-20 16:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2022-12-15 10:00:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-03 08:10:00"
-    }
-  },
-  {
     "timestamp": "2025-10-20T18:37:03.851792+00:00",
     "data": {
       "id_stacji": "150180050",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.4",
       "przeplyw_data": "2025-10-27 16:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2022-12-15 10:00:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-03 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-27T17:22:08.433422+00:00",
+    "data": {
+      "id_stacji": "150180050",
+      "stacja": "Ozimek",
+      "rzeka": "Mała Panew",
+      "wojewodztwo": "opolskie",
+      "lon": "18.2039",
+      "lat": "50.6792",
+      "stan_wody": "62",
+      "stan_wody_data_pomiaru": "2025-10-27 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.4",
+      "przeplyw_data": "2025-10-27 16:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2022-12-15 10:00:00",
       "zjawisko_zarastania": "1",
