@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-20T20:28:26.249405+00:00",
-    "data": {
-      "id_stacji": "154210020",
-      "stacja": "Prosna",
-      "rzeka": "Guber",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "21.0867",
-      "lat": "54.2336",
-      "stan_wody": "173",
-      "stan_wody_data_pomiaru": "2025-10-20 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "7.69",
-      "przeplyw_data": "2025-10-20 20:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-16 10:10:00",
-      "zjawisko_zarastania": "300",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-16 09:50:00"
-    }
-  },
-  {
     "timestamp": "2025-10-20T20:45:28.252366+00:00",
     "data": {
       "id_stacji": "154210020",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "14.6",
       "przeplyw_data": "2025-10-27 19:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-16 10:10:00",
+      "zjawisko_zarastania": "300",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-16 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-27T20:43:00.533722+00:00",
+    "data": {
+      "id_stacji": "154210020",
+      "stacja": "Prosna",
+      "rzeka": "Guber",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "21.0867",
+      "lat": "54.2336",
+      "stan_wody": "232",
+      "stan_wody_data_pomiaru": "2025-10-27 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "14.6",
+      "przeplyw_data": "2025-10-27 20:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-16 10:10:00",
       "zjawisko_zarastania": "300",
