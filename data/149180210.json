@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-21T21:22:49.229861+00:00",
-    "data": {
-      "id_stacji": "149180210",
-      "stacja": "Zabrzeg",
-      "rzeka": "Wisła",
-      "wojewodztwo": "śląskie",
-      "lon": "18.9353",
-      "lat": "49.9253",
-      "stan_wody": "180",
-      "stan_wody_data_pomiaru": "2025-10-21 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.5",
-      "przeplyw_data": "2025-10-21 20:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-14 08:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-26 09:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-21T22:20:49.743478+00:00",
     "data": {
       "id_stacji": "149180210",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "25.2",
       "przeplyw_data": "2025-10-28 20:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-14 08:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-26 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-28T21:22:52.891255+00:00",
+    "data": {
+      "id_stacji": "149180210",
+      "stacja": "Zabrzeg",
+      "rzeka": "Wisła",
+      "wojewodztwo": "śląskie",
+      "lon": "18.9353",
+      "lat": "49.9253",
+      "stan_wody": "247",
+      "stan_wody_data_pomiaru": "2025-10-28 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "25.2",
+      "przeplyw_data": "2025-10-28 20:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2025-02-14 08:10:00",
       "zjawisko_zarastania": "0",
