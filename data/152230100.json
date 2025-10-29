@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-22T10:48:25.241097+00:00",
-    "data": {
-      "id_stacji": "152230100",
-      "stacja": "Narewka",
-      "rzeka": "Narewka",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.7253",
-      "lat": "52.8631",
-      "stan_wody": "120",
-      "stan_wody_data_pomiaru": "2025-10-22 10:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.84",
-      "przeplyw_data": "2025-10-22 10:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-12-19 11:00:00",
-      "zjawisko_zarastania": "221",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-14 07:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-22T11:22:15.803976+00:00",
     "data": {
       "id_stacji": "152230100",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.13",
       "przeplyw_data": "2025-10-29 10:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-12-19 11:00:00",
+      "zjawisko_zarastania": "221",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-14 07:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-29T11:22:06.937590+00:00",
+    "data": {
+      "id_stacji": "152230100",
+      "stacja": "Narewka",
+      "rzeka": "Narewka",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.7253",
+      "lat": "52.8631",
+      "stan_wody": "128",
+      "stan_wody_data_pomiaru": "2025-10-29 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.13",
+      "przeplyw_data": "2025-10-29 10:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-12-19 11:00:00",
       "zjawisko_zarastania": "221",
