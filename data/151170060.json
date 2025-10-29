@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-22T12:55:02.917110+00:00",
-    "data": {
-      "id_stacji": "151170060",
-      "stacja": "Bogdaj",
-      "rzeka": "Polska Woda",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.5642",
-      "lat": "51.5161",
-      "stan_wody": "225",
-      "stan_wody_data_pomiaru": "2025-10-22 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.17",
-      "przeplyw_data": "2025-10-22 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-10-07 10:10:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-07 10:10:00"
-    }
-  },
-  {
     "timestamp": "2025-10-22T13:37:07.582183+00:00",
     "data": {
       "id_stacji": "151170060",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.29",
       "przeplyw_data": "2025-10-29 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-10-07 10:10:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-07 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-29T13:37:05.470756+00:00",
+    "data": {
+      "id_stacji": "151170060",
+      "stacja": "Bogdaj",
+      "rzeka": "Polska Woda",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.5642",
+      "lat": "51.5161",
+      "stan_wody": "243",
+      "stan_wody_data_pomiaru": "2025-10-29 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.29",
+      "przeplyw_data": "2025-10-29 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-10-07 10:10:00",
       "zjawisko_zarastania": "1",
