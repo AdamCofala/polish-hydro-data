@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-24T15:26:48.846467+00:00",
-    "data": {
-      "id_stacji": "150170080",
-      "stacja": "Jarnołtówek",
-      "rzeka": "Złoty Potok",
-      "wojewodztwo": "opolskie",
-      "lon": "17.4281",
-      "lat": "50.2858",
-      "stan_wody": "64",
-      "stan_wody_data_pomiaru": "2025-10-24 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.3",
-      "przeplyw_data": "2025-10-24 14:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-13 11:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-14 10:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-24T15:44:41.092908+00:00",
     "data": {
       "id_stacji": "150170080",
@@ -4319,6 +4298,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.13",
       "przeplyw_data": "2025-10-31 14:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-13 11:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-14 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-10-31T15:43:54.641562+00:00",
+    "data": {
+      "id_stacji": "150170080",
+      "stacja": "Jarnołtówek",
+      "rzeka": "Złoty Potok",
+      "wojewodztwo": "opolskie",
+      "lon": "17.4281",
+      "lat": "50.2858",
+      "stan_wody": "47",
+      "stan_wody_data_pomiaru": "2025-10-31 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.13",
+      "przeplyw_data": "2025-10-31 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-13 11:00:00",
       "zjawisko_zarastania": "100",
