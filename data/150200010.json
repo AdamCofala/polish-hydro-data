@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-26T20:42:35.711827+00:00",
-    "data": {
-      "id_stacji": "150200010",
-      "stacja": "Mniszek",
-      "rzeka": "Biała Nida",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "20.285",
-      "lat": "50.7275",
-      "stan_wody": "201",
-      "stan_wody_data_pomiaru": "2025-10-26 20:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.16",
-      "przeplyw_data": "2025-10-26 20:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-05 10:00:00",
-      "zjawisko_zarastania": "202",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-24 12:30:00"
-    }
-  },
-  {
     "timestamp": "2025-10-26T21:20:44.087441+00:00",
     "data": {
       "id_stacji": "150200010",
@@ -4256,6 +4235,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.64",
       "przeplyw_data": "2025-11-02 19:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-05 10:00:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-30 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-02T21:19:48.321872+00:00",
+    "data": {
+      "id_stacji": "150200010",
+      "stacja": "Mniszek",
+      "rzeka": "Biała Nida",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "20.285",
+      "lat": "50.7275",
+      "stan_wody": "184",
+      "stan_wody_data_pomiaru": "2025-11-02 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.64",
+      "przeplyw_data": "2025-11-02 20:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-05 10:00:00",
       "zjawisko_zarastania": "101",
