@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-27T18:35:52.997672+00:00",
-    "data": {
-      "id_stacji": "149200230",
-      "stacja": "Czchów",
-      "rzeka": "Dunajec",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.6819",
-      "lat": "49.8164",
-      "stan_wody": "171",
-      "stan_wody_data_pomiaru": "2025-10-27 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "106",
-      "przeplyw_data": "2025-10-27 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-09-08 14:30:00",
-      "zjawisko_zarastania": "300",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-08 14:30:00"
-    }
-  },
-  {
     "timestamp": "2025-10-27T19:20:04.071446+00:00",
     "data": {
       "id_stacji": "149200230",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "113",
       "przeplyw_data": "2025-11-03 18:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-09-08 14:30:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-28 11:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-03T19:19:40.051040+00:00",
+    "data": {
+      "id_stacji": "149200230",
+      "stacja": "Czchów",
+      "rzeka": "Dunajec",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.6819",
+      "lat": "49.8164",
+      "stan_wody": "172",
+      "stan_wody_data_pomiaru": "2025-11-03 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "113",
+      "przeplyw_data": "2025-11-03 18:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-09-08 14:30:00",
       "zjawisko_zarastania": "100",
