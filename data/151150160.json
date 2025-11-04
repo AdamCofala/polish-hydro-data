@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-28T09:27:40.027372+00:00",
-    "data": {
-      "id_stacji": "151150160",
-      "stacja": "Zagrodno",
-      "rzeka": "Skora",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.8639",
-      "lat": "51.1889",
-      "stan_wody": "90",
-      "stan_wody_data_pomiaru": "2025-10-28 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.39",
-      "przeplyw_data": "2025-10-28 08:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-10-27 09:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-27 09:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-28T09:45:21.659432+00:00",
     "data": {
       "id_stacji": "151150160",
@@ -4256,6 +4235,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.82",
       "przeplyw_data": "2025-11-04 08:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-10-27 09:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-27 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-04T09:28:49.911428+00:00",
+    "data": {
+      "id_stacji": "151150160",
+      "stacja": "Zagrodno",
+      "rzeka": "Skora",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.8639",
+      "lat": "51.1889",
+      "stan_wody": "99",
+      "stan_wody_data_pomiaru": "2025-11-04 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.82",
+      "przeplyw_data": "2025-11-04 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-10-27 09:20:00",
       "zjawisko_zarastania": "0",
