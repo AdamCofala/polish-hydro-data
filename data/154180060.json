@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-29T23:23:14.212335+00:00",
-    "data": {
-      "id_stacji": "154180060",
-      "stacja": "Goręczyno",
-      "rzeka": "Radunia",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.1647",
-      "lat": "54.2636",
-      "stan_wody": "132",
-      "stan_wody_data_pomiaru": "2025-10-29 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.16",
-      "przeplyw_data": "2025-10-29 22:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-01-03 10:10:00",
-      "zjawisko_zarastania": "300",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-09 09:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-30T02:01:22.016232+00:00",
     "data": {
       "id_stacji": "154180060",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.42",
       "przeplyw_data": "2025-11-05 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-01-03 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-03 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-05T23:23:50.516507+00:00",
+    "data": {
+      "id_stacji": "154180060",
+      "stacja": "Goręczyno",
+      "rzeka": "Radunia",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.1647",
+      "lat": "54.2636",
+      "stan_wody": "131",
+      "stan_wody_data_pomiaru": "2025-11-05 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.42",
+      "przeplyw_data": "2025-11-05 22:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-01-03 10:10:00",
       "zjawisko_zarastania": "0",
