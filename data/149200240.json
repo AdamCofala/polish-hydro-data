@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-29T13:37:05.470756+00:00",
-    "data": {
-      "id_stacji": "149200240",
-      "stacja": "Nowy Sącz",
-      "rzeka": "Dunajec",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.6872",
-      "lat": "49.6272",
-      "stan_wody": "93",
-      "stan_wody_data_pomiaru": "2025-10-29 13:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "66.2",
-      "przeplyw_data": "2025-10-29 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-10-28 10:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-12 10:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-29T14:27:21.401415+00:00",
     "data": {
       "id_stacji": "149200240",
@@ -4340,6 +4319,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "91.2",
       "przeplyw_data": "2025-11-05 13:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-10-28 10:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-12 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-05T14:26:39.412568+00:00",
+    "data": {
+      "id_stacji": "149200240",
+      "stacja": "Nowy Sącz",
+      "rzeka": "Dunajec",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.6872",
+      "lat": "49.6272",
+      "stan_wody": "104",
+      "stan_wody_data_pomiaru": "2025-11-05 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "91.2",
+      "przeplyw_data": "2025-11-05 13:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-10-28 10:20:00",
       "zjawisko_zarastania": "0",
