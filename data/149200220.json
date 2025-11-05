@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-29T15:28:48.771906+00:00",
-    "data": {
-      "id_stacji": "149200220",
-      "stacja": "Stary Sącz",
-      "rzeka": "Poprad",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.6597",
-      "lat": "49.5686",
-      "stan_wody": "143",
-      "stan_wody_data_pomiaru": "2025-10-29 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "23.9",
-      "przeplyw_data": "2025-10-29 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-10-06 07:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-06 07:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-29T15:47:58.621611+00:00",
     "data": {
       "id_stacji": "149200220",
@@ -4340,6 +4319,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "42.1",
       "przeplyw_data": "2025-11-05 14:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-10-06 07:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-06 07:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-05T15:45:57.706279+00:00",
+    "data": {
+      "id_stacji": "149200220",
+      "stacja": "Stary Sącz",
+      "rzeka": "Poprad",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.6597",
+      "lat": "49.5686",
+      "stan_wody": "160",
+      "stan_wody_data_pomiaru": "2025-11-05 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "40",
+      "przeplyw_data": "2025-11-05 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-10-06 07:20:00",
       "zjawisko_zarastania": "0",
