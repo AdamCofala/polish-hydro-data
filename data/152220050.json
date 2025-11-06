@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-30T03:31:40.705154+00:00",
-    "data": {
-      "id_stacji": "152220050",
-      "stacja": "Frankopol",
-      "rzeka": "Bug",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.5608",
-      "lat": "52.415",
-      "stan_wody": "65",
-      "stan_wody_data_pomiaru": "2025-10-30 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "44.4",
-      "przeplyw_data": "2025-10-30 03:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-01-24 15:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-24 09:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-30T04:29:09.027982+00:00",
     "data": {
       "id_stacji": "152220050",
@@ -4319,6 +4298,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "45.9",
       "przeplyw_data": "2025-11-06 02:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-01-24 15:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-24 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-06T03:59:39.581381+00:00",
+    "data": {
+      "id_stacji": "152220050",
+      "stacja": "Frankopol",
+      "rzeka": "Bug",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.5608",
+      "lat": "52.415",
+      "stan_wody": "67",
+      "stan_wody_data_pomiaru": "2025-11-06 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "45.9",
+      "przeplyw_data": "2025-11-06 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2023-01-24 15:00:00",
       "zjawisko_zarastania": "0",
