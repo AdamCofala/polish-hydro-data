@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-31T16:31:44.664316+00:00",
-    "data": {
-      "id_stacji": "149210150",
-      "stacja": "Puławy",
-      "rzeka": "Wisłok",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.9067",
-      "lat": "49.49",
-      "stan_wody": "102",
-      "stan_wody_data_pomiaru": "2025-10-31 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.45",
-      "przeplyw_data": "2025-10-31 16:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-09-09 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-24 12:20:00"
-    }
-  },
-  {
     "timestamp": "2025-10-31T17:23:14.785871+00:00",
     "data": {
       "id_stacji": "149210150",
@@ -4277,6 +4256,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.58",
       "przeplyw_data": "2025-11-07 16:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-11-03 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-03 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-07T16:48:41.128258+00:00",
+    "data": {
+      "id_stacji": "149210150",
+      "stacja": "Puławy",
+      "rzeka": "Wisłok",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.9067",
+      "lat": "49.49",
+      "stan_wody": "104",
+      "stan_wody_data_pomiaru": "2025-11-07 16:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.58",
+      "przeplyw_data": "2025-11-07 16:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-11-03 11:00:00",
       "zjawisko_zarastania": "0",
