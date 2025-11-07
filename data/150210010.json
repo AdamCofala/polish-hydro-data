@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-10-31T05:25:57.100503+00:00",
-    "data": {
-      "id_stacji": "150210010",
-      "stacja": "Raków",
-      "rzeka": "Czarna",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.0286",
-      "lat": "50.6761",
-      "stan_wody": "109",
-      "stan_wody_data_pomiaru": "2025-10-31 05:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.55",
-      "przeplyw_data": "2025-10-31 04:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-20 13:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-01-20 13:00:00"
-    }
-  },
-  {
     "timestamp": "2025-10-31T05:44:06.876568+00:00",
     "data": {
       "id_stacji": "150210010",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.61",
       "przeplyw_data": "2025-11-07 04:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-20 13:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-01-20 13:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-07T05:43:46.256548+00:00",
+    "data": {
+      "id_stacji": "150210010",
+      "stacja": "Raków",
+      "rzeka": "Czarna",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.0286",
+      "lat": "50.6761",
+      "stan_wody": "111",
+      "stan_wody_data_pomiaru": "2025-11-07 05:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.61",
+      "przeplyw_data": "2025-11-07 05:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-20 13:00:00",
       "zjawisko_zarastania": "0",
