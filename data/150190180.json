@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-03T08:35:26.482922+00:00",
-    "data": {
-      "id_stacji": "150190180",
-      "stacja": "Jeleń",
-      "rzeka": "Przemsza",
-      "wojewodztwo": "śląskie",
-      "lon": "19.2397",
-      "lat": "50.1611",
-      "stan_wody": "163",
-      "stan_wody_data_pomiaru": "2025-11-03 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "15.3",
-      "przeplyw_data": "2025-11-03 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-20 08:10:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-08 09:40:00"
-    }
-  },
-  {
     "timestamp": "2025-11-03T09:30:42.951447+00:00",
     "data": {
       "id_stacji": "150190180",
@@ -4382,6 +4361,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "10.9",
       "przeplyw_data": "2025-11-10 06:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-20 08:10:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-08 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-10T08:35:30.969986+00:00",
+    "data": {
+      "id_stacji": "150190180",
+      "stacja": "Jeleń",
+      "rzeka": "Przemsza",
+      "wojewodztwo": "śląskie",
+      "lon": "19.2397",
+      "lat": "50.1611",
+      "stan_wody": "145",
+      "stan_wody_data_pomiaru": "2025-11-10 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "10.7",
+      "przeplyw_data": "2025-11-10 08:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-20 08:10:00",
       "zjawisko_zarastania": "100",
