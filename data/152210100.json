@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-03T20:28:37.964186+00:00",
-    "data": {
-      "id_stacji": "152210100",
-      "stacja": "Czarnowo",
-      "rzeka": "Orz",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.5372",
-      "lat": "52.8833",
-      "stan_wody": "160",
-      "stan_wody_data_pomiaru": "2025-11-03 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.6",
-      "przeplyw_data": "2025-11-03 20:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2020-01-14 09:08:00",
-      "zjawisko_zarastania": "221",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-23 08:40:00"
-    }
-  },
-  {
     "timestamp": "2025-11-03T20:45:51.781683+00:00",
     "data": {
       "id_stacji": "152210100",
@@ -4340,6 +4319,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.38",
       "przeplyw_data": "2025-11-10 18:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2020-01-14 09:08:00",
+      "zjawisko_zarastania": "221",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-23 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-10T20:29:56.275394+00:00",
+    "data": {
+      "id_stacji": "152210100",
+      "stacja": "Czarnowo",
+      "rzeka": "Orz",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.5372",
+      "lat": "52.8833",
+      "stan_wody": "152",
+      "stan_wody_data_pomiaru": "2025-11-10 20:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.38",
+      "przeplyw_data": "2025-11-10 20:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2020-01-14 09:08:00",
       "zjawisko_zarastania": "221",
