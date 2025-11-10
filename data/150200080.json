@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-03T09:30:42.951447+00:00",
-    "data": {
-      "id_stacji": "150200080",
-      "stacja": "Pinczów",
-      "rzeka": "Nida",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "20.5203",
-      "lat": "50.5142",
-      "stan_wody": "190",
-      "stan_wody_data_pomiaru": "2025-11-03 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "9.25",
-      "przeplyw_data": "2025-11-03 09:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-13 14:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-14 10:30:00"
-    }
-  },
-  {
     "timestamp": "2025-11-03T10:29:57.401872+00:00",
     "data": {
       "id_stacji": "150200080",
@@ -4403,6 +4382,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "9.86",
       "przeplyw_data": "2025-11-10 09:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-13 14:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-14 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-10T10:29:50.494110+00:00",
+    "data": {
+      "id_stacji": "150200080",
+      "stacja": "Pinczów",
+      "rzeka": "Nida",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "20.5203",
+      "lat": "50.5142",
+      "stan_wody": "192",
+      "stan_wody_data_pomiaru": "2025-11-10 10:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "9.86",
+      "przeplyw_data": "2025-11-10 10:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-13 14:10:00",
       "zjawisko_zarastania": "0",
