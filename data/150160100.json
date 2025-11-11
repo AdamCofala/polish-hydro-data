@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-04T03:16:07.159628+00:00",
-    "data": {
-      "id_stacji": "150160100",
-      "stacja": "Gorzuchów",
-      "rzeka": "Ścinawka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.5711",
-      "lat": "50.4853",
-      "stan_wody": "92",
-      "stan_wody_data_pomiaru": "2025-11-04 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "8.92",
-      "przeplyw_data": "2025-11-04 02:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-09-18 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-23 10:20:00"
-    }
-  },
-  {
     "timestamp": "2025-11-04T03:54:56.982116+00:00",
     "data": {
       "id_stacji": "150160100",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.55",
       "przeplyw_data": "2025-11-11 01:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-09-18 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-05 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-11T03:34:35.775066+00:00",
+    "data": {
+      "id_stacji": "150160100",
+      "stacja": "Gorzuchów",
+      "rzeka": "Ścinawka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.5711",
+      "lat": "50.4853",
+      "stan_wody": "55",
+      "stan_wody_data_pomiaru": "2025-11-11 03:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.55",
+      "przeplyw_data": "2025-11-11 03:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-09-18 10:10:00",
       "zjawisko_zarastania": "0",
