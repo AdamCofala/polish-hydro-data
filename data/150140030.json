@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-04T20:46:42.072960+00:00",
-    "data": {
-      "id_stacji": "150140030",
-      "stacja": "Turoszów",
-      "rzeka": "Miedzianka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "14.9178",
-      "lat": "50.9389",
-      "stan_wody": "268",
-      "stan_wody_data_pomiaru": "2025-11-04 20:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.65",
-      "przeplyw_data": "2025-11-04 20:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-08-05 10:10:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2023-09-25 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-11-04T22:23:55.103274+00:00",
     "data": {
       "id_stacji": "150140030",
@@ -2135,6 +2114,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.9",
       "przeplyw_data": "2025-11-11 19:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-08-05 10:10:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2023-09-25 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-11T21:22:35.356050+00:00",
+    "data": {
+      "id_stacji": "150140030",
+      "stacja": "Turoszów",
+      "rzeka": "Miedzianka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "14.9178",
+      "lat": "50.9389",
+      "stan_wody": "254",
+      "stan_wody_data_pomiaru": "2025-11-11 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.97",
+      "przeplyw_data": "2025-11-11 20:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-08-05 10:10:00",
       "zjawisko_zarastania": "101",
