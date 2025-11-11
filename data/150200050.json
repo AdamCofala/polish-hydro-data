@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-04T22:23:55.103274+00:00",
-    "data": {
-      "id_stacji": "150200050",
-      "stacja": "Michałów",
-      "rzeka": "Mierzawa",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "20.4564",
-      "lat": "50.4917",
-      "stan_wody": "95",
-      "stan_wody_data_pomiaru": "2025-11-04 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.34",
-      "przeplyw_data": "2025-11-04 21:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-03-01 11:00:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-14 11:20:00"
-    }
-  },
-  {
     "timestamp": "2025-11-04T22:43:35.669600+00:00",
     "data": {
       "id_stacji": "150200050",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.99",
       "przeplyw_data": "2025-11-11 20:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-03-01 11:00:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-14 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-11T22:24:41.755749+00:00",
+    "data": {
+      "id_stacji": "150200050",
+      "stacja": "Michałów",
+      "rzeka": "Mierzawa",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "20.4564",
+      "lat": "50.4917",
+      "stan_wody": "91",
+      "stan_wody_data_pomiaru": "2025-11-11 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.99",
+      "przeplyw_data": "2025-11-11 21:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-03-01 11:00:00",
       "zjawisko_zarastania": "1",
