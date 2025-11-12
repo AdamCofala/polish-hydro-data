@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-05T15:45:57.706279+00:00",
-    "data": {
-      "id_stacji": "149190350",
-      "stacja": "Krzczonów",
-      "rzeka": "Krzczonówka",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.9539",
-      "lat": "49.7367",
-      "stan_wody": "170",
-      "stan_wody_data_pomiaru": "2025-11-05 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.5",
-      "przeplyw_data": "2025-11-05 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-07 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-13 11:40:00"
-    }
-  },
-  {
     "timestamp": "2025-11-05T16:34:09.715483+00:00",
     "data": {
       "id_stacji": "149190350",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.25",
       "przeplyw_data": "2025-11-12 15:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-07 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-13 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-12T15:49:02.842079+00:00",
+    "data": {
+      "id_stacji": "149190350",
+      "stacja": "Krzczonów",
+      "rzeka": "Krzczonówka",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.9539",
+      "lat": "49.7367",
+      "stan_wody": "163",
+      "stan_wody_data_pomiaru": "2025-11-12 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.25",
+      "przeplyw_data": "2025-11-12 15:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-07 10:10:00",
       "zjawisko_zarastania": "0",

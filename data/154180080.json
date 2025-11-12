@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-05T15:45:57.706279+00:00",
-    "data": {
-      "id_stacji": "154180080",
-      "stacja": "Wejherowo",
-      "rzeka": "Reda",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.225",
-      "lat": "54.6133",
-      "stan_wody": "71",
-      "stan_wody_data_pomiaru": "2025-11-05 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "4.03",
-      "przeplyw_data": "2025-11-05 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-11 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-02 10:10:00"
-    }
-  },
-  {
     "timestamp": "2025-11-05T16:34:09.715483+00:00",
     "data": {
       "id_stacji": "154180080",
@@ -4277,6 +4256,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.78",
       "przeplyw_data": "2025-11-12 15:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-11 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-07 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-12T15:49:02.842079+00:00",
+    "data": {
+      "id_stacji": "154180080",
+      "stacja": "Wejherowo",
+      "rzeka": "Reda",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.225",
+      "lat": "54.6133",
+      "stan_wody": "68",
+      "stan_wody_data_pomiaru": "2025-11-12 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.71",
+      "przeplyw_data": "2025-11-12 15:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-11 10:00:00",
       "zjawisko_zarastania": "0",
