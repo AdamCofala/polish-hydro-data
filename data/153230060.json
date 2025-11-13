@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-06T03:59:39.581381+00:00",
-    "data": {
-      "id_stacji": "153230060",
-      "stacja": "Zawady",
-      "rzeka": "Biała",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.1067",
-      "lat": "53.1603",
-      "stan_wody": "220",
-      "stan_wody_data_pomiaru": "2025-11-06 03:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.25",
-      "przeplyw_data": "2025-11-06 03:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-02-05 09:00:00",
-      "zjawisko_zarastania": "111",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-24 11:40:00"
-    }
-  },
-  {
     "timestamp": "2025-11-06T04:36:16.312340+00:00",
     "data": {
       "id_stacji": "153230060",
@@ -4361,6 +4340,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.25",
       "przeplyw_data": "2025-11-13 03:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-02-05 09:00:00",
+      "zjawisko_zarastania": "111",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-24 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-13T04:31:00.566839+00:00",
+    "data": {
+      "id_stacji": "153230060",
+      "stacja": "Zawady",
+      "rzeka": "Biała",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.1067",
+      "lat": "53.1603",
+      "stan_wody": "216",
+      "stan_wody_data_pomiaru": "2025-11-13 04:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.22",
+      "przeplyw_data": "2025-11-13 04:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-02-05 09:00:00",
       "zjawisko_zarastania": "111",
