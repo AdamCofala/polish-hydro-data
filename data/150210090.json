@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-06T15:48:02.109995+00:00",
-    "data": {
-      "id_stacji": "150210090",
-      "stacja": "Kunów",
-      "rzeka": "Kamienna",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.2789",
-      "lat": "50.9619",
-      "stan_wody": "89",
-      "stan_wody_data_pomiaru": "2025-11-06 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.68",
-      "przeplyw_data": "2025-11-06 15:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-10 14:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-30 10:40:00"
-    }
-  },
-  {
     "timestamp": "2025-11-06T16:34:36.260610+00:00",
     "data": {
       "id_stacji": "150210090",
@@ -4277,6 +4256,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.88",
       "przeplyw_data": "2025-11-13 15:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-10 14:00:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-30 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-13T16:31:24.834199+00:00",
+    "data": {
+      "id_stacji": "150210090",
+      "stacja": "Kunów",
+      "rzeka": "Kamienna",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.2789",
+      "lat": "50.9619",
+      "stan_wody": "81",
+      "stan_wody_data_pomiaru": "2025-11-13 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.8",
+      "przeplyw_data": "2025-11-13 16:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-10 14:00:00",
       "zjawisko_zarastania": "200",

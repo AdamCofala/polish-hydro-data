@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-06T15:48:02.109995+00:00",
-    "data": {
-      "id_stacji": "154210100",
-      "stacja": "Mieduniszki",
-      "rzeka": "Węgorapa",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "21.98",
-      "lat": "54.3264",
-      "stan_wody": "297",
-      "stan_wody_data_pomiaru": "2025-11-06 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "16.1",
-      "przeplyw_data": "2025-11-06 15:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2022-12-08 13:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-26 12:20:00"
-    }
-  },
-  {
     "timestamp": "2025-11-06T17:44:13.875880+00:00",
     "data": {
       "id_stacji": "154210100",
@@ -1694,6 +1673,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "10.2",
       "przeplyw_data": "2025-11-13 14:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2022-12-08 13:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-26 12:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-13T16:31:24.834199+00:00",
+    "data": {
+      "id_stacji": "154210100",
+      "stacja": "Mieduniszki",
+      "rzeka": "Węgorapa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "21.98",
+      "lat": "54.3264",
+      "stan_wody": "235",
+      "stan_wody_data_pomiaru": "2025-11-13 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "10.2",
+      "przeplyw_data": "2025-11-13 16:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2022-12-08 13:00:00",
       "zjawisko_zarastania": "100",
