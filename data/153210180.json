@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-07T05:25:29.798969+00:00",
-    "data": {
-      "id_stacji": "153210180",
-      "stacja": "Zaruzie",
-      "rzeka": "Ruź",
-      "wojewodztwo": "podlaskie",
-      "lon": "21.8003",
-      "lat": "53.1483",
-      "stan_wody": "149",
-      "stan_wody_data_pomiaru": "2025-11-07 04:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.2",
-      "przeplyw_data": "2025-11-07 04:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-12 09:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-09 10:20:00"
-    }
-  },
-  {
     "timestamp": "2025-11-07T05:43:46.256548+00:00",
     "data": {
       "id_stacji": "153210180",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.89",
       "przeplyw_data": "2025-11-14 04:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-12 09:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-07 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-14T05:26:00.013572+00:00",
+    "data": {
+      "id_stacji": "153210180",
+      "stacja": "Zaruzie",
+      "rzeka": "Ruź",
+      "wojewodztwo": "podlaskie",
+      "lon": "21.8003",
+      "lat": "53.1483",
+      "stan_wody": "127",
+      "stan_wody_data_pomiaru": "2025-11-14 05:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.87",
+      "przeplyw_data": "2025-11-14 04:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-12 09:00:00",
       "zjawisko_zarastania": "100",
