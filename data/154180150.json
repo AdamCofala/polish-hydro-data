@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-07T03:56:09.010815+00:00",
-    "data": {
-      "id_stacji": "154180150",
-      "stacja": "Tczew",
-      "rzeka": "Wisła",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.8056",
-      "lat": "54.0872",
-      "stan_wody": "343",
-      "stan_wody_data_pomiaru": "2025-11-07 03:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "653",
-      "przeplyw_data": "2025-11-07 03:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-10-15 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-04 11:50:00"
-    }
-  },
-  {
     "timestamp": "2025-11-07T04:30:32.735860+00:00",
     "data": {
       "id_stacji": "154180150",
@@ -4088,6 +4067,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "692",
       "przeplyw_data": "2025-11-14 03:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-10-15 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-04 11:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-14T04:30:00.280224+00:00",
+    "data": {
+      "id_stacji": "154180150",
+      "stacja": "Tczew",
+      "rzeka": "Wisła",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.8056",
+      "lat": "54.0872",
+      "stan_wody": "353",
+      "stan_wody_data_pomiaru": "2025-11-14 04:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "685",
+      "przeplyw_data": "2025-11-14 04:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-10-15 10:10:00",
       "zjawisko_zarastania": "0",
