@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-08T13:27:38.371539+00:00",
-    "data": {
-      "id_stacji": "151180020",
-      "stacja": "Piwonice",
-      "rzeka": "Prosna",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "18.1072",
-      "lat": "51.7267",
-      "stan_wody": "104",
-      "stan_wody_data_pomiaru": "2025-11-08 12:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "11",
-      "przeplyw_data": "2025-11-08 12:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-12 08:10:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-22 10:20:00"
-    }
-  },
-  {
     "timestamp": "2025-11-08T14:20:40.973945+00:00",
     "data": {
       "id_stacji": "151180020",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "7.67",
       "przeplyw_data": "2025-11-15 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-11-14 08:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-14 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-15T13:28:59.581543+00:00",
+    "data": {
+      "id_stacji": "151180020",
+      "stacja": "Piwonice",
+      "rzeka": "Prosna",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "18.1072",
+      "lat": "51.7267",
+      "stan_wody": "94",
+      "stan_wody_data_pomiaru": "2025-11-15 12:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "7.67",
+      "przeplyw_data": "2025-11-15 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-11-14 08:10:00",
       "zjawisko_zarastania": "0",
