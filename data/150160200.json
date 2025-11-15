@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-08T06:33:51.613486+00:00",
-    "data": {
-      "id_stacji": "150160200",
-      "stacja": "Żelazno",
-      "rzeka": "Biała Lądecka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.6739",
-      "lat": "50.3731",
-      "stan_wody": "50",
-      "stan_wody_data_pomiaru": "2025-11-08 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.55",
-      "przeplyw_data": "2025-11-08 06:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-04-09 07:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-28 12:10:00"
-    }
-  },
-  {
     "timestamp": "2025-11-08T07:21:49.633131+00:00",
     "data": {
       "id_stacji": "150160200",
@@ -4130,6 +4109,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.65",
       "przeplyw_data": "2025-11-15 05:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-04-09 07:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-28 12:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-15T06:34:55.715256+00:00",
+    "data": {
+      "id_stacji": "150160200",
+      "stacja": "Żelazno",
+      "rzeka": "Biała Lądecka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.6739",
+      "lat": "50.3731",
+      "stan_wody": "45",
+      "stan_wody_data_pomiaru": "2025-11-15 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.49",
+      "przeplyw_data": "2025-11-15 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-04-09 07:00:00",
       "zjawisko_zarastania": "0",
