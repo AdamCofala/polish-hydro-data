@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-12T03:18:04.405126+00:00",
-    "data": {
-      "id_stacji": "153220260",
-      "stacja": "Dębowo",
-      "rzeka": "Biebrza",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.9303",
-      "lat": "53.6097",
-      "stan_wody": "130",
-      "stan_wody_data_pomiaru": "2025-11-12 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "8.74",
-      "przeplyw_data": "2025-11-12 02:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-04-02 09:00:00",
-      "zjawisko_zarastania": "211",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-15 11:00:00"
-    }
-  },
-  {
     "timestamp": "2025-11-12T03:57:00.958936+00:00",
     "data": {
       "id_stacji": "153220260",
@@ -4382,6 +4361,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "10.2",
       "przeplyw_data": "2025-11-19 02:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-04-02 09:00:00",
+      "zjawisko_zarastania": "211",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-15 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-19T03:56:33.860582+00:00",
+    "data": {
+      "id_stacji": "153220260",
+      "stacja": "Dębowo",
+      "rzeka": "Biebrza",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.9303",
+      "lat": "53.6097",
+      "stan_wody": "134",
+      "stan_wody_data_pomiaru": "2025-11-19 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "10.2",
+      "przeplyw_data": "2025-11-19 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-04-02 09:00:00",
       "zjawisko_zarastania": "211",
