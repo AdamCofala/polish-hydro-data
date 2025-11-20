@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-13T09:46:03.837788+00:00",
-    "data": {
-      "id_stacji": "151160140",
-      "stacja": "Osetno",
-      "rzeka": "Barycz",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.4622",
-      "lat": "51.6317",
-      "stan_wody": "197",
-      "stan_wody_data_pomiaru": "2025-11-13 09:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "7.96",
-      "przeplyw_data": "2025-11-13 09:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-09-17 08:50:00",
-      "zjawisko_zarastania": "11",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-07 09:30:00"
-    }
-  },
-  {
     "timestamp": "2025-11-13T10:29:47.566263+00:00",
     "data": {
       "id_stacji": "151160140",
@@ -4382,6 +4361,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "10.8",
       "przeplyw_data": "2025-11-20 09:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-09-17 08:50:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-18 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-20T10:28:24.891955+00:00",
+    "data": {
+      "id_stacji": "151160140",
+      "stacja": "Osetno",
+      "rzeka": "Barycz",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.4622",
+      "lat": "51.6317",
+      "stan_wody": "199",
+      "stan_wody_data_pomiaru": "2025-11-20 10:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "10.8",
+      "przeplyw_data": "2025-11-20 10:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-09-17 08:50:00",
       "zjawisko_zarastania": "1",
