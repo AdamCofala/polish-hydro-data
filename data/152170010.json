@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-14T14:46:10.466773+00:00",
-    "data": {
-      "id_stacji": "152170010",
-      "stacja": "Śrem",
-      "rzeka": "Warta",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.0161",
-      "lat": "52.0931",
-      "stan_wody": "255",
-      "stan_wody_data_pomiaru": "2025-11-14 14:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "76.2",
-      "przeplyw_data": "2025-11-14 14:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2022-03-09 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-04 09:01:00"
-    }
-  },
-  {
     "timestamp": "2025-11-14T15:23:38.065485+00:00",
     "data": {
       "id_stacji": "152170010",
@@ -4256,6 +4235,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "76.7",
       "przeplyw_data": "2025-11-21 14:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-11-19 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-04 09:01:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-21T15:23:17.398299+00:00",
+    "data": {
+      "id_stacji": "152170010",
+      "stacja": "Śrem",
+      "rzeka": "Warta",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.0161",
+      "lat": "52.0931",
+      "stan_wody": "256",
+      "stan_wody_data_pomiaru": "2025-11-21 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "76.7",
+      "przeplyw_data": "2025-11-21 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-11-19 10:10:00",
       "zjawisko_zarastania": "0",
