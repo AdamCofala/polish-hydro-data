@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-14T03:33:56.811011+00:00",
-    "data": {
-      "id_stacji": "151160130",
-      "stacja": "Ścinawa",
-      "rzeka": "Odra",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.4433",
-      "lat": "51.4089",
-      "stan_wody": "112",
-      "stan_wody_data_pomiaru": "2025-11-14 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "99.4",
-      "przeplyw_data": "2025-11-14 03:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-19 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-23 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-11-14T04:30:00.280224+00:00",
     "data": {
       "id_stacji": "151160130",
@@ -4319,6 +4298,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "138",
       "przeplyw_data": "2025-11-21 02:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-19 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-23 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-21T03:55:58.647104+00:00",
+    "data": {
+      "id_stacji": "151160130",
+      "stacja": "Ścinawa",
+      "rzeka": "Odra",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.4433",
+      "lat": "51.4089",
+      "stan_wody": "159",
+      "stan_wody_data_pomiaru": "2025-11-21 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "138",
+      "przeplyw_data": "2025-11-21 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-19 10:00:00",
       "zjawisko_zarastania": "0",

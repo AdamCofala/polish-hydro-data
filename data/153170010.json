@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-14T03:33:56.811011+00:00",
-    "data": {
-      "id_stacji": "153170010",
-      "stacja": "Białośliwie",
-      "rzeka": "Noteć",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.1247",
-      "lat": "53.0736",
-      "stan_wody": "182",
-      "stan_wody_data_pomiaru": "2025-11-14 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.74",
-      "przeplyw_data": "2025-11-14 03:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-04-16 09:00:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-27 09:20:00"
-    }
-  },
-  {
     "timestamp": "2025-11-14T04:30:00.280224+00:00",
     "data": {
       "id_stacji": "153170010",
@@ -4361,6 +4340,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.97",
       "przeplyw_data": "2025-11-21 02:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-11-20 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-20 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-21T03:55:58.647104+00:00",
+    "data": {
+      "id_stacji": "153170010",
+      "stacja": "Białośliwie",
+      "rzeka": "Noteć",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.1247",
+      "lat": "53.0736",
+      "stan_wody": "186",
+      "stan_wody_data_pomiaru": "2025-11-21 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.97",
+      "przeplyw_data": "2025-11-21 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-11-20 12:00:00",
       "zjawisko_zarastania": "0",
