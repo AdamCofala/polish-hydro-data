@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-15T22:20:04.390556+00:00",
-    "data": {
-      "id_stacji": "153220140",
-      "stacja": "Przechody",
-      "rzeka": "Ełk (Kanał.Rudzki)",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.5864",
-      "lat": "53.555",
-      "stan_wody": "211",
-      "stan_wody_data_pomiaru": "2025-11-15 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "5.86",
-      "przeplyw_data": "2025-11-15 21:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-12 09:10:00",
-      "zjawisko_zarastania": "221",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-02 11:40:00"
-    }
-  },
-  {
     "timestamp": "2025-11-15T23:22:01.604649+00:00",
     "data": {
       "id_stacji": "153220140",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "6.05",
       "przeplyw_data": "2025-11-22 20:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-12 09:10:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-21 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-22T22:23:59.468202+00:00",
+    "data": {
+      "id_stacji": "153220140",
+      "stacja": "Przechody",
+      "rzeka": "Ełk (Kanał.Rudzki)",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.5864",
+      "lat": "53.555",
+      "stan_wody": "206",
+      "stan_wody_data_pomiaru": "2025-11-22 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "6.05",
+      "przeplyw_data": "2025-11-22 21:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-12 09:10:00",
       "zjawisko_zarastania": "100",
