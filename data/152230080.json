@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-16T23:22:38.846951+00:00",
-    "data": {
-      "id_stacji": "152230080",
-      "stacja": "Krzyczew",
-      "rzeka": "Bug",
-      "wojewodztwo": "lubelskie",
-      "lon": "23.4992",
-      "lat": "52.1469",
-      "stan_wody": "139",
-      "stan_wody_data_pomiaru": "2025-11-16 22:50:00",
-      "temperatura_wody": "5.4",
-      "temperatura_wody_data_pomiaru": "2025-11-16 06:00:00",
-      "przelyw": "32.1",
-      "przeplyw_data": "2025-11-16 22:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-18 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-06-02 13:00:00"
-    }
-  },
-  {
     "timestamp": "2025-11-17T02:01:46.730802+00:00",
     "data": {
       "id_stacji": "152230080",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": "2025-11-23 06:00:00",
       "przelyw": "39.9",
       "przeplyw_data": "2025-11-23 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-18 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-06-02 13:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-23T23:23:18.175903+00:00",
+    "data": {
+      "id_stacji": "152230080",
+      "stacja": "Krzyczew",
+      "rzeka": "Bug",
+      "wojewodztwo": "lubelskie",
+      "lon": "23.4992",
+      "lat": "52.1469",
+      "stan_wody": "152",
+      "stan_wody_data_pomiaru": "2025-11-23 22:50:00",
+      "temperatura_wody": "3.6",
+      "temperatura_wody_data_pomiaru": "2025-11-23 06:00:00",
+      "przelyw": "39.9",
+      "przeplyw_data": "2025-11-23 22:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-18 10:00:00",
       "zjawisko_zarastania": "0",
