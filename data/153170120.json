@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-18T15:29:17.967911+00:00",
-    "data": {
-      "id_stacji": "153170120",
-      "stacja": "Tuchola",
-      "rzeka": "Brda",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "17.9036",
-      "lat": "53.5731",
-      "stan_wody": "115",
-      "stan_wody_data_pomiaru": "2025-11-18 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "20.6",
-      "przeplyw_data": "2025-11-18 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-12-05 10:10:00",
-      "zjawisko_zarastania": "110",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-16 09:50:00"
-    }
-  },
-  {
     "timestamp": "2025-11-18T15:48:36.038289+00:00",
     "data": {
       "id_stacji": "153170120",
@@ -4256,6 +4235,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "19.8",
       "przeplyw_data": "2025-11-25 15:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-12-05 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-20 10:57:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-25T15:48:33.465039+00:00",
+    "data": {
+      "id_stacji": "153170120",
+      "stacja": "Tuchola",
+      "rzeka": "Brda",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lon": "17.9036",
+      "lat": "53.5731",
+      "stan_wody": "113",
+      "stan_wody_data_pomiaru": "2025-11-25 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "19.8",
+      "przeplyw_data": "2025-11-25 15:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-12-05 10:10:00",
       "zjawisko_zarastania": "0",
