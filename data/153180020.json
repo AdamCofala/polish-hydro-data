@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-19T23:23:59.559730+00:00",
-    "data": {
-      "id_stacji": "153180020",
-      "stacja": "Fordon",
-      "rzeka": "Wisła",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "18.17",
-      "lat": "53.1464",
-      "stan_wody": "162",
-      "stan_wody_data_pomiaru": "2025-11-19 22:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "517",
-      "przeplyw_data": "2025-11-19 22:50:00",
-      "zjawisko_lodowe": "1",
-      "zjawisko_lodowe_data_pomiaru": "2022-12-19 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-05 13:10:00"
-    }
-  },
-  {
     "timestamp": "2025-11-20T01:58:01.629756+00:00",
     "data": {
       "id_stacji": "153180020",
@@ -4319,6 +4298,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "658",
       "przeplyw_data": "2025-11-26 22:10:00",
+      "zjawisko_lodowe": "1",
+      "zjawisko_lodowe_data_pomiaru": "2022-12-19 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-05 13:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-26T23:24:10.426608+00:00",
+    "data": {
+      "id_stacji": "153180020",
+      "stacja": "Fordon",
+      "rzeka": "Wisła",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lon": "18.17",
+      "lat": "53.1464",
+      "stan_wody": "193",
+      "stan_wody_data_pomiaru": "2025-11-26 22:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "653",
+      "przeplyw_data": "2025-11-26 22:50:00",
       "zjawisko_lodowe": "1",
       "zjawisko_lodowe_data_pomiaru": "2022-12-19 06:00:00",
       "zjawisko_zarastania": "0",
