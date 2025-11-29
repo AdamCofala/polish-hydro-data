@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-22T05:42:18.289601+00:00",
-    "data": {
-      "id_stacji": "154170160",
-      "stacja": "Lębork",
-      "rzeka": "Łeba",
-      "wojewodztwo": "pomorskie",
-      "lon": "17.7475",
-      "lat": "54.5419",
-      "stan_wody": "118",
-      "stan_wody_data_pomiaru": "2025-11-22 05:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6.32",
-      "przeplyw_data": "2025-11-22 05:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-17 12:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-21 10:00:00"
-    }
-  },
-  {
     "timestamp": "2025-11-22T06:34:45.299552+00:00",
     "data": {
       "id_stacji": "154170160",
@@ -4277,6 +4256,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "5.37",
       "przeplyw_data": "2025-11-29 04:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-11-27 09:40:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-27 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-29T05:43:57.096993+00:00",
+    "data": {
+      "id_stacji": "154170160",
+      "stacja": "Lębork",
+      "rzeka": "Łeba",
+      "wojewodztwo": "pomorskie",
+      "lon": "17.7475",
+      "lat": "54.5419",
+      "stan_wody": "114",
+      "stan_wody_data_pomiaru": "2025-11-29 05:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "5.37",
+      "przeplyw_data": "2025-11-29 05:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-11-27 09:40:00",
       "zjawisko_zarastania": "100",
