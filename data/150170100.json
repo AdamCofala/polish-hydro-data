@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-22T06:34:45.299552+00:00",
-    "data": {
-      "id_stacji": "150170100",
-      "stacja": "Kopice",
-      "rzeka": "Nysa Kłodzka",
-      "wojewodztwo": "opolskie",
-      "lon": "17.4783",
-      "lat": "50.6456",
-      "stan_wody": "80",
-      "stan_wody_data_pomiaru": "2025-11-22 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "15.2",
-      "przeplyw_data": "2025-11-22 06:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-03-20 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-03 10:50:00"
-    }
-  },
-  {
     "timestamp": "2025-11-22T07:22:20.948282+00:00",
     "data": {
       "id_stacji": "150170100",
@@ -4277,6 +4256,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "22.3",
       "przeplyw_data": "2025-11-29 05:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-03-20 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-03 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-11-29T06:36:13.747945+00:00",
+    "data": {
+      "id_stacji": "150170100",
+      "stacja": "Kopice",
+      "rzeka": "Nysa Kłodzka",
+      "wojewodztwo": "opolskie",
+      "lon": "17.4783",
+      "lat": "50.6456",
+      "stan_wody": "103",
+      "stan_wody_data_pomiaru": "2025-11-29 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "22.3",
+      "przeplyw_data": "2025-11-29 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-03-20 06:00:00",
       "zjawisko_zarastania": "0",
