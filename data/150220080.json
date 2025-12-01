@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-24T07:25:50.994226+00:00",
-    "data": {
-      "id_stacji": "150220080",
-      "stacja": "Tryńcza",
-      "rzeka": "Wisłok",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.5472",
-      "lat": "50.1622",
-      "stan_wody": "225",
-      "stan_wody_data_pomiaru": "2025-11-24 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "18.2",
-      "przeplyw_data": "2025-11-24 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-19 13:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-19 13:10:00"
-    }
-  },
-  {
     "timestamp": "2025-11-24T07:42:14.031146+00:00",
     "data": {
       "id_stacji": "150220080",
@@ -4361,6 +4340,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "37.7",
       "przeplyw_data": "2025-12-01 06:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-11-19 13:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-19 13:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-01T07:28:50.193303+00:00",
+    "data": {
+      "id_stacji": "150220080",
+      "stacja": "Tryńcza",
+      "rzeka": "Wisłok",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.5472",
+      "lat": "50.1622",
+      "stan_wody": "289",
+      "stan_wody_data_pomiaru": "2025-12-01 07:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "38",
+      "przeplyw_data": "2025-12-01 07:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-11-19 13:10:00",
       "zjawisko_zarastania": "0",
