@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-24T18:37:54.339961+00:00",
-    "data": {
-      "id_stacji": "149220200",
-      "stacja": "Krówniki",
-      "rzeka": "Wiar",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.8231",
-      "lat": "49.7669",
-      "stan_wody": "86",
-      "stan_wody_data_pomiaru": "2025-11-24 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.02",
-      "przeplyw_data": "2025-11-24 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-05-12 12:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-03-18 14:00:00"
-    }
-  },
-  {
     "timestamp": "2025-11-24T19:19:00.450952+00:00",
     "data": {
       "id_stacji": "149220200",
@@ -4319,6 +4298,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "9.2",
       "przeplyw_data": "2025-12-01 17:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-11-25 10:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-03-18 14:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-01T18:42:25.645341+00:00",
+    "data": {
+      "id_stacji": "149220200",
+      "stacja": "Krówniki",
+      "rzeka": "Wiar",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.8231",
+      "lat": "49.7669",
+      "stan_wody": "111",
+      "stan_wody_data_pomiaru": "2025-12-01 18:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "9.5",
+      "przeplyw_data": "2025-12-01 18:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-11-25 10:50:00",
       "zjawisko_zarastania": "0",
