@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-24T20:29:11.202048+00:00",
-    "data": {
-      "id_stacji": "153220060",
-      "stacja": "Ełk",
-      "rzeka": "Ełk",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "22.3833",
-      "lat": "53.8317",
-      "stan_wody": "86",
-      "stan_wody_data_pomiaru": "2025-11-24 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.1",
-      "przeplyw_data": "2025-11-24 20:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-04-03 14:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-20 12:30:00"
-    }
-  },
-  {
     "timestamp": "2025-11-24T20:45:01.070969+00:00",
     "data": {
       "id_stacji": "153220060",
@@ -4361,6 +4340,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.71",
       "przeplyw_data": "2025-12-01 19:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-04-03 14:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-20 12:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-01T20:42:43.718916+00:00",
+    "data": {
+      "id_stacji": "153220060",
+      "stacja": "Ełk",
+      "rzeka": "Ełk",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "22.3833",
+      "lat": "53.8317",
+      "stan_wody": "107",
+      "stan_wody_data_pomiaru": "2025-12-01 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.71",
+      "przeplyw_data": "2025-12-01 20:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-04-03 14:00:00",
       "zjawisko_zarastania": "100",
