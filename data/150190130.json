@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-25T11:42:34.760180+00:00",
-    "data": {
-      "id_stacji": "150190130",
-      "stacja": "Łagisza",
-      "rzeka": "Czarna Przemsza",
-      "wojewodztwo": "śląskie",
-      "lon": "19.1856",
-      "lat": "50.3503",
-      "stan_wody": "128",
-      "stan_wody_data_pomiaru": "2025-11-25 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.68",
-      "przeplyw_data": "2025-11-25 11:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-12 09:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-08 08:50:00"
-    }
-  },
-  {
     "timestamp": "2025-11-25T12:54:48.994228+00:00",
     "data": {
       "id_stacji": "150190130",
@@ -4361,6 +4340,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.56",
       "przeplyw_data": "2025-12-02 10:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-12 09:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-08 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-02T11:43:15.111679+00:00",
+    "data": {
+      "id_stacji": "150190130",
+      "stacja": "Łagisza",
+      "rzeka": "Czarna Przemsza",
+      "wojewodztwo": "śląskie",
+      "lon": "19.1856",
+      "lat": "50.3503",
+      "stan_wody": "126",
+      "stan_wody_data_pomiaru": "2025-12-02 11:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.56",
+      "przeplyw_data": "2025-12-02 11:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-12 09:00:00",
       "zjawisko_zarastania": "0",
