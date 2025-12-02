@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-25T17:45:01.735444+00:00",
-    "data": {
-      "id_stacji": "150160140",
-      "stacja": "Dzierżoniów",
-      "rzeka": "Piława",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.6461",
-      "lat": "50.7258",
-      "stan_wody": "155",
-      "stan_wody_data_pomiaru": "2025-11-25 17:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.55",
-      "przeplyw_data": "2025-11-25 17:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-09-25 07:50:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-09 08:00:00"
-    }
-  },
-  {
     "timestamp": "2025-11-25T18:38:55.622171+00:00",
     "data": {
       "id_stacji": "150160140",
@@ -4319,6 +4298,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.74",
       "przeplyw_data": "2025-12-02 16:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-09-25 07:50:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-09 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-02T17:49:16.896311+00:00",
+    "data": {
+      "id_stacji": "150160140",
+      "stacja": "Dzierżoniów",
+      "rzeka": "Piława",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.6461",
+      "lat": "50.7258",
+      "stan_wody": "158",
+      "stan_wody_data_pomiaru": "2025-12-02 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.74",
+      "przeplyw_data": "2025-12-02 17:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-09-25 07:50:00",
       "zjawisko_zarastania": "1",
