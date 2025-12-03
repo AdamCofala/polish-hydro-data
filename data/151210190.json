@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-26T15:26:33.617247+00:00",
-    "data": {
-      "id_stacji": "151210190",
-      "stacja": "Puławy",
-      "rzeka": "Wisła",
-      "wojewodztwo": "lubelskie",
-      "lon": "21.9456",
-      "lat": "51.4453",
-      "stan_wody": "160",
-      "stan_wody_data_pomiaru": "2025-11-26 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "324",
-      "przeplyw_data": "2025-11-26 14:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-03-20 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-07 09:05:00"
-    }
-  },
-  {
     "timestamp": "2025-11-26T15:45:22.494767+00:00",
     "data": {
       "id_stacji": "151210190",
@@ -4277,6 +4256,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "525",
       "przeplyw_data": "2025-12-03 14:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-03-20 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-07 09:05:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-03T15:30:47.496790+00:00",
+    "data": {
+      "id_stacji": "151210190",
+      "stacja": "Puławy",
+      "rzeka": "Wisła",
+      "wojewodztwo": "lubelskie",
+      "lon": "21.9456",
+      "lat": "51.4453",
+      "stan_wody": "223",
+      "stan_wody_data_pomiaru": "2025-12-03 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "529",
+      "przeplyw_data": "2025-12-03 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-03-20 11:00:00",
       "zjawisko_zarastania": "0",
