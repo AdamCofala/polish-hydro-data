@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-27T17:22:31.295947+00:00",
-    "data": {
-      "id_stacji": "150150120",
-      "stacja": "Bukówka",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.9575",
-      "lat": "50.7128",
-      "stan_wody": "88",
-      "stan_wody_data_pomiaru": "2025-11-27 16:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.65",
-      "przeplyw_data": "2025-11-27 16:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2020-01-31 09:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-21 08:40:00"
-    }
-  },
-  {
     "timestamp": "2025-11-27T18:35:13.733982+00:00",
     "data": {
       "id_stacji": "150150120",
@@ -4130,6 +4109,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.4",
       "przeplyw_data": "2025-12-04 16:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2020-01-31 09:00:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-04 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-04T17:27:48.342955+00:00",
+    "data": {
+      "id_stacji": "150150120",
+      "stacja": "Bukówka",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.9575",
+      "lat": "50.7128",
+      "stan_wody": "83",
+      "stan_wody_data_pomiaru": "2025-12-04 16:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.4",
+      "przeplyw_data": "2025-12-04 16:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2020-01-31 09:00:00",
       "zjawisko_zarastania": "200",
