@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-27T23:23:53.347396+00:00",
-    "data": {
-      "id_stacji": "153190120",
-      "stacja": "Rodzone",
-      "rzeka": "Drwęca",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "19.6597",
-      "lat": "53.5222",
-      "stan_wody": "242",
-      "stan_wody_data_pomiaru": "2025-11-27 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "12.1",
-      "przeplyw_data": "2025-11-27 22:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-01-11 11:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-19 11:04:00"
-    }
-  },
-  {
     "timestamp": "2025-11-28T01:58:30.008364+00:00",
     "data": {
       "id_stacji": "153190120",
@@ -4256,6 +4235,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "13.9",
       "przeplyw_data": "2025-12-04 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-01 12:52:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-19 11:04:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-04T23:25:07.902987+00:00",
+    "data": {
+      "id_stacji": "153190120",
+      "stacja": "Rodzone",
+      "rzeka": "Drwęca",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "19.6597",
+      "lat": "53.5222",
+      "stan_wody": "255",
+      "stan_wody_data_pomiaru": "2025-12-04 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "14",
+      "przeplyw_data": "2025-12-04 22:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-01 12:52:00",
       "zjawisko_zarastania": "0",
