@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-27T13:36:22.960297+00:00",
-    "data": {
-      "id_stacji": "150160190",
-      "stacja": "Międzylesie",
-      "rzeka": "Nysa Kłodzka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.6642",
-      "lat": "50.1556",
-      "stan_wody": "89",
-      "stan_wody_data_pomiaru": "2025-11-27 13:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.22",
-      "przeplyw_data": "2025-11-27 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-11 08:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-16 07:00:00"
-    }
-  },
-  {
     "timestamp": "2025-11-27T14:26:29.370407+00:00",
     "data": {
       "id_stacji": "150160190",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.47",
       "przeplyw_data": "2025-12-04 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-11 08:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-03 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-04T13:42:41.067442+00:00",
+    "data": {
+      "id_stacji": "150160190",
+      "stacja": "Międzylesie",
+      "rzeka": "Nysa Kłodzka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.6642",
+      "lat": "50.1556",
+      "stan_wody": "96",
+      "stan_wody_data_pomiaru": "2025-12-04 13:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.47",
+      "przeplyw_data": "2025-12-04 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-11 08:00:00",
       "zjawisko_zarastania": "0",
