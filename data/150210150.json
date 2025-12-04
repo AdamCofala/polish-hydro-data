@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-27T07:43:08.529442+00:00",
-    "data": {
-      "id_stacji": "150210150",
-      "stacja": "Koło",
-      "rzeka": "Wisła",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.5111",
-      "lat": "50.5047",
-      "stan_wody": "251",
-      "stan_wody_data_pomiaru": "2025-11-27 07:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "403",
-      "przeplyw_data": "2025-11-27 07:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-12-16 12:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-22 10:50:00"
-    }
-  },
-  {
     "timestamp": "2025-11-27T08:35:25.904966+00:00",
     "data": {
       "id_stacji": "150210150",
@@ -4256,6 +4235,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "275",
       "przeplyw_data": "2025-12-04 06:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-12-16 12:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-22 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-04T07:43:33.586928+00:00",
+    "data": {
+      "id_stacji": "150210150",
+      "stacja": "Koło",
+      "rzeka": "Wisła",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.5111",
+      "lat": "50.5047",
+      "stan_wody": "203",
+      "stan_wody_data_pomiaru": "2025-12-04 07:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "275",
+      "przeplyw_data": "2025-12-04 07:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-12-16 12:10:00",
       "zjawisko_zarastania": "0",
