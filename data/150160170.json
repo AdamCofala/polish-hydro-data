@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-28T14:25:53.764845+00:00",
-    "data": {
-      "id_stacji": "150160170",
-      "stacja": "Bystrzyca Kłodzka",
-      "rzeka": "Nysa Kłodzka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.6483",
-      "lat": "50.2936",
-      "stan_wody": "42",
-      "stan_wody_data_pomiaru": "2025-11-28 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.5",
-      "przeplyw_data": "2025-11-28 13:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-19 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-03 13:50:00"
-    }
-  },
-  {
     "timestamp": "2025-11-28T15:26:22.298427+00:00",
     "data": {
       "id_stacji": "150160170",
@@ -4151,6 +4130,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.4",
       "przeplyw_data": "2025-12-05 13:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-19 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-03 13:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-05T14:27:37.212315+00:00",
+    "data": {
+      "id_stacji": "150160170",
+      "stacja": "Bystrzyca Kłodzka",
+      "rzeka": "Nysa Kłodzka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.6483",
+      "lat": "50.2936",
+      "stan_wody": "60",
+      "stan_wody_data_pomiaru": "2025-12-05 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.4",
+      "przeplyw_data": "2025-12-05 13:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-19 10:00:00",
       "zjawisko_zarastania": "0",
