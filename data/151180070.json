@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-29T16:30:34.025384+00:00",
-    "data": {
-      "id_stacji": "151180070",
-      "stacja": "Gorzów Śląski",
-      "rzeka": "Prosna",
-      "wojewodztwo": "opolskie",
-      "lon": "18.4344",
-      "lat": "51.0353",
-      "stan_wody": "137",
-      "stan_wody_data_pomiaru": "2025-11-29 15:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.79",
-      "przeplyw_data": "2025-11-29 16:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-13 07:20:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-13 07:20:00"
-    }
-  },
-  {
     "timestamp": "2025-11-29T17:21:43.526619+00:00",
     "data": {
       "id_stacji": "151180070",
@@ -4319,6 +4298,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.06",
       "przeplyw_data": "2025-12-06 16:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-03 07:50:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-03 07:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-06T16:48:49.136712+00:00",
+    "data": {
+      "id_stacji": "151180070",
+      "stacja": "Gorzów Śląski",
+      "rzeka": "Prosna",
+      "wojewodztwo": "opolskie",
+      "lon": "18.4344",
+      "lat": "51.0353",
+      "stan_wody": "145",
+      "stan_wody_data_pomiaru": "2025-12-06 16:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.06",
+      "przeplyw_data": "2025-12-06 16:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-03 07:50:00",
       "zjawisko_zarastania": "101",

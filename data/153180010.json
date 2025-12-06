@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-29T16:30:34.025384+00:00",
-    "data": {
-      "id_stacji": "153180010",
-      "stacja": "Czarna Woda",
-      "rzeka": "Wda",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.0928",
-      "lat": "53.8411",
-      "stan_wody": "70",
-      "stan_wody_data_pomiaru": "2025-11-29 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6.7",
-      "przeplyw_data": "2025-11-29 16:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-04-07 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-21 11:30:00"
-    }
-  },
-  {
     "timestamp": "2025-11-29T17:21:43.526619+00:00",
     "data": {
       "id_stacji": "153180010",
@@ -4277,6 +4256,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "6.41",
       "przeplyw_data": "2025-12-06 16:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-04-07 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-21 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-06T16:48:49.136712+00:00",
+    "data": {
+      "id_stacji": "153180010",
+      "stacja": "Czarna Woda",
+      "rzeka": "Wda",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.0928",
+      "lat": "53.8411",
+      "stan_wody": "66",
+      "stan_wody_data_pomiaru": "2025-12-06 16:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "6.41",
+      "przeplyw_data": "2025-12-06 16:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-04-07 10:10:00",
       "zjawisko_zarastania": "0",
