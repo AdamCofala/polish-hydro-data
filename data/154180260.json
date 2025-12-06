@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-29T12:49:58.429545+00:00",
-    "data": {
-      "id_stacji": "154180260",
-      "stacja": "Pruszcz Gdański_kanał",
-      "rzeka": "Kanał Raduni",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.63",
-      "lat": "54.2533",
-      "stan_wody": "190",
-      "stan_wody_data_pomiaru": "2025-11-29 12:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.37",
-      "przeplyw_data": "2025-11-29 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-12-10 10:00:00",
-      "zjawisko_zarastania": "301",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-12 08:10:00"
-    }
-  },
-  {
     "timestamp": "2025-11-29T13:30:52.347809+00:00",
     "data": {
       "id_stacji": "154180260",
@@ -4319,6 +4298,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.79",
       "przeplyw_data": "2025-12-06 10:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-12-10 10:00:00",
+      "zjawisko_zarastania": "301",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-12 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-06T12:50:30.018694+00:00",
+    "data": {
+      "id_stacji": "154180260",
+      "stacja": "Pruszcz Gdański_kanał",
+      "rzeka": "Kanał Raduni",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.63",
+      "lat": "54.2533",
+      "stan_wody": "172",
+      "stan_wody_data_pomiaru": "2025-12-06 12:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.79",
+      "przeplyw_data": "2025-12-06 12:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-12-10 10:00:00",
       "zjawisko_zarastania": "301",
