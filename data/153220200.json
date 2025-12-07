@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-11-30T20:27:53.363900+00:00",
-    "data": {
-      "id_stacji": "153220200",
-      "stacja": "Rajgród",
-      "rzeka": "Jegrznia",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.7017",
-      "lat": "53.7306",
-      "stan_wody": "124",
-      "stan_wody_data_pomiaru": "2025-11-30 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.09",
-      "przeplyw_data": "2025-11-30 19:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-20 08:10:00",
-      "zjawisko_zarastania": "110",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-14 08:20:00"
-    }
-  },
-  {
     "timestamp": "2025-11-30T20:44:33.642172+00:00",
     "data": {
       "id_stacji": "153220200",
@@ -4340,6 +4319,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.48",
       "przeplyw_data": "2025-12-07 19:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-20 08:10:00",
+      "zjawisko_zarastania": "110",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-14 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-07T20:43:41.899334+00:00",
+    "data": {
+      "id_stacji": "153220200",
+      "stacja": "Rajgród",
+      "rzeka": "Jegrznia",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.7017",
+      "lat": "53.7306",
+      "stan_wody": "127",
+      "stan_wody_data_pomiaru": "2025-12-07 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.48",
+      "przeplyw_data": "2025-12-07 20:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2025-02-20 08:10:00",
       "zjawisko_zarastania": "110",
