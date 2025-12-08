@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-01T05:03:20.863014+00:00",
-    "data": {
-      "id_stacji": "151160070",
-      "stacja": "Winnica",
-      "rzeka": "Nysa Szalona",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.0936",
-      "lat": "51.1117",
-      "stan_wody": "40",
-      "stan_wody_data_pomiaru": "2025-12-01 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.82",
-      "przeplyw_data": "2025-12-01 04:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-08-26 09:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-10 09:00:00"
-    }
-  },
-  {
     "timestamp": "2025-12-01T05:50:15.436912+00:00",
     "data": {
       "id_stacji": "151160070",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.82",
       "przeplyw_data": "2025-12-08 04:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-08-26 09:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-10 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-08T05:29:21.086993+00:00",
+    "data": {
+      "id_stacji": "151160070",
+      "stacja": "Winnica",
+      "rzeka": "Nysa Szalona",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.0936",
+      "lat": "51.1117",
+      "stan_wody": "40",
+      "stan_wody_data_pomiaru": "2025-12-08 05:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.82",
+      "przeplyw_data": "2025-12-08 05:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-08-26 09:10:00",
       "zjawisko_zarastania": "0",
