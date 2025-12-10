@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-03T13:41:27.875129+00:00",
-    "data": {
-      "id_stacji": "152160130",
-      "stacja": "Mosin",
-      "rzeka": "Kanał Mosiński",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.8564",
-      "lat": "52.2483",
-      "stan_wody": "51",
-      "stan_wody_data_pomiaru": "2025-12-03 12:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.94",
-      "przeplyw_data": "2025-12-03 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-02-16 14:00:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-07 08:30:00"
-    }
-  },
-  {
     "timestamp": "2025-12-03T14:28:48.673133+00:00",
     "data": {
       "id_stacji": "152160130",
@@ -2261,6 +2240,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.72",
       "przeplyw_data": "2025-12-10 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-04 08:30:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-07 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T13:43:08.975873+00:00",
+    "data": {
+      "id_stacji": "152160130",
+      "stacja": "Mosin",
+      "rzeka": "Kanał Mosiński",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "16.8564",
+      "lat": "52.2483",
+      "stan_wody": "58",
+      "stan_wody_data_pomiaru": "2025-12-10 13:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.83",
+      "przeplyw_data": "2025-12-10 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-04 08:30:00",
       "zjawisko_zarastania": "101",
