@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-04T22:43:54.823784+00:00",
-    "data": {
-      "id_stacji": "150160230",
-      "stacja": "Lądek Zdrój",
-      "rzeka": "Biała Lądecka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.8703",
-      "lat": "50.3467",
-      "stan_wody": "32",
-      "stan_wody_data_pomiaru": "2025-12-04 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.08",
-      "przeplyw_data": "2025-12-04 22:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-04-09 08:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-01 09:50:00"
-    }
-  },
-  {
     "timestamp": "2025-12-04T23:25:07.902987+00:00",
     "data": {
       "id_stacji": "150160230",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.14",
       "przeplyw_data": "2025-12-11 21:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-05 09:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-09 07:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T22:46:49.306332+00:00",
+    "data": {
+      "id_stacji": "150160230",
+      "stacja": "Lądek Zdrój",
+      "rzeka": "Biała Lądecka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.8703",
+      "lat": "50.3467",
+      "stan_wody": "42",
+      "stan_wody_data_pomiaru": "2025-12-11 22:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.14",
+      "przeplyw_data": "2025-12-11 22:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-05 09:50:00",
       "zjawisko_zarastania": "0",
