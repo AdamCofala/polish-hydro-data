@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-04T14:28:34.320234+00:00",
-    "data": {
-      "id_stacji": "149210140",
-      "stacja": "Iskrzynia",
-      "rzeka": "Morwawa",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.8644",
-      "lat": "49.6772",
-      "stan_wody": "250",
-      "stan_wody_data_pomiaru": "2025-12-04 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.7",
-      "przeplyw_data": "2025-12-04 14:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-14 09:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-14 09:20:00"
-    }
-  },
-  {
     "timestamp": "2025-12-04T14:51:23.924561+00:00",
     "data": {
       "id_stacji": "149210140",
@@ -4277,6 +4256,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.23",
       "przeplyw_data": "2025-12-11 14:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-11 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-11 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T14:48:52.054670+00:00",
+    "data": {
+      "id_stacji": "149210140",
+      "stacja": "Iskrzynia",
+      "rzeka": "Morwawa",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.8644",
+      "lat": "49.6772",
+      "stan_wody": "226",
+      "stan_wody_data_pomiaru": "2025-12-11 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.23",
+      "przeplyw_data": "2025-12-11 14:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-11 11:40:00",
       "zjawisko_zarastania": "0",
