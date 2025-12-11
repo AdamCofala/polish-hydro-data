@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-04T11:25:37.516687+00:00",
-    "data": {
-      "id_stacji": "150200100",
-      "stacja": "Popędzynka",
-      "rzeka": "Wisła",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.5494",
-      "lat": "50.1414",
-      "stan_wody": "221",
-      "stan_wody_data_pomiaru": "2025-12-04 11:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "102",
-      "przeplyw_data": "2025-12-04 10:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-26 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-09 09:30:00"
-    }
-  },
-  {
     "timestamp": "2025-12-04T11:43:04.504508+00:00",
     "data": {
       "id_stacji": "150200100",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "147",
       "przeplyw_data": "2025-12-11 10:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-09 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-09 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T11:25:39.647093+00:00",
+    "data": {
+      "id_stacji": "150200100",
+      "stacja": "Popędzynka",
+      "rzeka": "Wisła",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.5494",
+      "lat": "50.1414",
+      "stan_wody": "263",
+      "stan_wody_data_pomiaru": "2025-12-11 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "147",
+      "przeplyw_data": "2025-12-11 10:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-09 11:40:00",
       "zjawisko_zarastania": "0",
