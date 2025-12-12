@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-05T09:28:11.556878+00:00",
-    "data": {
-      "id_stacji": "150210040",
-      "stacja": "Rzepin",
-      "rzeka": "Świślin",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.0919",
-      "lat": "50.9728",
-      "stan_wody": "111",
-      "stan_wody_data_pomiaru": "2025-12-05 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.31",
-      "przeplyw_data": "2025-12-05 09:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-24 15:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-30 13:58:00"
-    }
-  },
-  {
     "timestamp": "2025-12-05T09:45:47.242509+00:00",
     "data": {
       "id_stacji": "150210040",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.36",
       "przeplyw_data": "2025-12-12 08:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-10 12:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-30 13:58:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-12T09:31:25.908995+00:00",
+    "data": {
+      "id_stacji": "150210040",
+      "stacja": "Rzepin",
+      "rzeka": "Świślin",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.0919",
+      "lat": "50.9728",
+      "stan_wody": "114",
+      "stan_wody_data_pomiaru": "2025-12-12 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.36",
+      "przeplyw_data": "2025-12-12 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-10 12:20:00",
       "zjawisko_zarastania": "0",
