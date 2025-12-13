@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-06T15:23:40.155991+00:00",
-    "data": {
-      "id_stacji": "149210030",
-      "stacja": "Klęczany",
-      "rzeka": "Ropa",
-      "wojewodztwo": "małopolskie",
-      "lon": "21.2167",
-      "lat": "49.7014",
-      "stan_wody": "100",
-      "stan_wody_data_pomiaru": "2025-12-06 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "12.2",
-      "przeplyw_data": "2025-12-06 14:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-14 09:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-14 09:50:00"
-    }
-  },
-  {
     "timestamp": "2025-12-06T16:30:14.331135+00:00",
     "data": {
       "id_stacji": "149210030",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "5.15",
       "przeplyw_data": "2025-12-13 14:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-10 12:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-10 12:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T15:24:37.927451+00:00",
+    "data": {
+      "id_stacji": "149210030",
+      "stacja": "Klęczany",
+      "rzeka": "Ropa",
+      "wojewodztwo": "małopolskie",
+      "lon": "21.2167",
+      "lat": "49.7014",
+      "stan_wody": "83",
+      "stan_wody_data_pomiaru": "2025-12-13 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "5.15",
+      "przeplyw_data": "2025-12-13 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-10 12:20:00",
       "zjawisko_zarastania": "0",
