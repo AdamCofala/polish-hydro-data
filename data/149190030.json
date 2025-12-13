@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-06T16:30:14.331135+00:00",
-    "data": {
-      "id_stacji": "149190030",
-      "stacja": "Mikuszowice",
-      "rzeka": "Biała",
-      "wojewodztwo": "śląskie",
-      "lon": "19.0742",
-      "lat": "49.7794",
-      "stan_wody": "99",
-      "stan_wody_data_pomiaru": "2025-12-06 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.55",
-      "przeplyw_data": "2025-12-06 16:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-25 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-14 09:50:00"
-    }
-  },
-  {
     "timestamp": "2025-12-06T16:48:49.136712+00:00",
     "data": {
       "id_stacji": "149190030",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.45",
       "przeplyw_data": "2025-12-13 14:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-25 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-14 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-13T16:31:18.578175+00:00",
+    "data": {
+      "id_stacji": "149190030",
+      "stacja": "Mikuszowice",
+      "rzeka": "Biała",
+      "wojewodztwo": "śląskie",
+      "lon": "19.0742",
+      "lat": "49.7794",
+      "stan_wody": "96",
+      "stan_wody_data_pomiaru": "2025-12-13 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.4",
+      "przeplyw_data": "2025-12-13 16:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-25 10:10:00",
       "zjawisko_zarastania": "0",
