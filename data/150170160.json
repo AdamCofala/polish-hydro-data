@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-08T10:31:21.687801+00:00",
-    "data": {
-      "id_stacji": "150170160",
-      "stacja": "Branice 1",
-      "rzeka": "Opawa",
-      "wojewodztwo": "opolskie",
-      "lon": "17.7694",
-      "lat": "50.0511",
-      "stan_wody": "109",
-      "stan_wody_data_pomiaru": "2025-12-08 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.16",
-      "przeplyw_data": "2025-12-08 10:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-02 10:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-22 10:00:00"
-    }
-  },
-  {
     "timestamp": "2025-12-08T11:24:59.728474+00:00",
     "data": {
       "id_stacji": "150170160",
@@ -4172,6 +4151,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.98",
       "przeplyw_data": "2025-12-15 09:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-02 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-22 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-15T10:34:33.613575+00:00",
+    "data": {
+      "id_stacji": "150170160",
+      "stacja": "Branice 1",
+      "rzeka": "Opawa",
+      "wojewodztwo": "opolskie",
+      "lon": "17.7694",
+      "lat": "50.0511",
+      "stan_wody": "92",
+      "stan_wody_data_pomiaru": "2025-12-15 10:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.1",
+      "przeplyw_data": "2025-12-15 10:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-02 10:40:00",
       "zjawisko_zarastania": "0",
