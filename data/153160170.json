@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-08T23:25:08.289053+00:00",
-    "data": {
-      "id_stacji": "153160170",
-      "stacja": "Ujście",
-      "rzeka": "Noteć",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.7303",
-      "lat": "53.0547",
-      "stan_wody": "194",
-      "stan_wody_data_pomiaru": "2025-12-08 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "12.2",
-      "przeplyw_data": "2025-12-08 22:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-08 12:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-08 12:20:00"
-    }
-  },
-  {
     "timestamp": "2025-12-09T02:03:47.818212+00:00",
     "data": {
       "id_stacji": "153160170",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "6.8",
       "przeplyw_data": "2025-12-15 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-08 12:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-08 12:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-15T23:26:41.596618+00:00",
+    "data": {
+      "id_stacji": "153160170",
+      "stacja": "Ujście",
+      "rzeka": "Noteć",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "16.7303",
+      "lat": "53.0547",
+      "stan_wody": "151",
+      "stan_wody_data_pomiaru": "2025-12-15 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "6.8",
+      "przeplyw_data": "2025-12-15 22:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-08 12:20:00",
       "zjawisko_zarastania": "0",
