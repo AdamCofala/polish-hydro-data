@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-09T05:27:15.655962+00:00",
-    "data": {
-      "id_stacji": "150160290",
-      "stacja": "Gniechowice",
-      "rzeka": "Czarna Woda",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.8292",
-      "lat": "50.9875",
-      "stan_wody": "117",
-      "stan_wody_data_pomiaru": "2025-12-09 04:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.86",
-      "przeplyw_data": "2025-12-09 04:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-05 08:20:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-06 09:00:00"
-    }
-  },
-  {
     "timestamp": "2025-12-09T05:46:10.536242+00:00",
     "data": {
       "id_stacji": "150160290",
@@ -3395,6 +3374,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.46",
       "przeplyw_data": "2025-12-16 04:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-15 09:10:00",
+      "zjawisko_zarastania": "20",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-15 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-16T05:29:20.169086+00:00",
+    "data": {
+      "id_stacji": "150160290",
+      "stacja": "Gniechowice",
+      "rzeka": "Czarna Woda",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.8292",
+      "lat": "50.9875",
+      "stan_wody": "97",
+      "stan_wody_data_pomiaru": "2025-12-16 04:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.46",
+      "przeplyw_data": "2025-12-16 05:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-15 09:10:00",
       "zjawisko_zarastania": "20",
