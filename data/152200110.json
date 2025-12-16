@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-09T14:29:27.402694+00:00",
-    "data": {
-      "id_stacji": "152200110",
-      "stacja": "Modlin",
-      "rzeka": "Wisła",
-      "wojewodztwo": "mazowieckie",
-      "lon": "20.6597",
-      "lat": "52.4306",
-      "stan_wody": "311",
-      "stan_wody_data_pomiaru": "2025-12-09 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "730",
-      "przeplyw_data": "2025-12-09 14:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-20 13:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-05-16 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-12-09T14:52:24.878949+00:00",
     "data": {
       "id_stacji": "152200110",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "725",
       "przeplyw_data": "2025-12-16 13:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-11-20 13:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2023-05-16 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-16T14:31:21.060270+00:00",
+    "data": {
+      "id_stacji": "152200110",
+      "stacja": "Modlin",
+      "rzeka": "Wisła",
+      "wojewodztwo": "mazowieckie",
+      "lon": "20.6597",
+      "lat": "52.4306",
+      "stan_wody": "310",
+      "stan_wody_data_pomiaru": "2025-12-16 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "725",
+      "przeplyw_data": "2025-12-16 14:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-11-20 13:20:00",
       "zjawisko_zarastania": "0",
