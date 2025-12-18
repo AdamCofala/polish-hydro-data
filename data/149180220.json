@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-11T23:42:44.294634+00:00",
-    "data": {
-      "id_stacji": "149180220",
-      "stacja": "Pszczyna",
-      "rzeka": "Pszczynka",
-      "wojewodztwo": "śląskie",
-      "lon": "18.9458",
-      "lat": "49.9792",
-      "stan_wody": "228",
-      "stan_wody_data_pomiaru": "2025-12-11 23:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.15",
-      "przeplyw_data": "2025-12-11 23:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2022-03-21 11:00:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-25 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-12-12T02:07:27.851052+00:00",
     "data": {
       "id_stacji": "149180220",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.51",
       "przeplyw_data": "2025-12-18 22:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2022-03-21 11:00:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-25 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-18T23:43:25.443226+00:00",
+    "data": {
+      "id_stacji": "149180220",
+      "stacja": "Pszczyna",
+      "rzeka": "Pszczynka",
+      "wojewodztwo": "śląskie",
+      "lon": "18.9458",
+      "lat": "49.9792",
+      "stan_wody": "215",
+      "stan_wody_data_pomiaru": "2025-12-18 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.55",
+      "przeplyw_data": "2025-12-18 23:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2022-03-21 11:00:00",
       "zjawisko_zarastania": "101",
