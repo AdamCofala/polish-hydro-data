@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-12T18:40:06.546416+00:00",
-    "data": {
-      "id_stacji": "153210190",
-      "stacja": "Pisz",
-      "rzeka": "Pisa",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "21.8064",
-      "lat": "53.6244",
-      "stan_wody": "158",
-      "stan_wody_data_pomiaru": "2025-12-12 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "11.7",
-      "przeplyw_data": "2025-12-12 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-28 11:10:00",
-      "zjawisko_zarastania": "210",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-14 09:30:00"
-    }
-  },
-  {
     "timestamp": "2025-12-12T19:22:00.448164+00:00",
     "data": {
       "id_stacji": "153210190",
@@ -4319,6 +4298,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "16.7",
       "przeplyw_data": "2025-12-19 18:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-17 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-17 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-19T19:21:38.184236+00:00",
+    "data": {
+      "id_stacji": "153210190",
+      "stacja": "Pisz",
+      "rzeka": "Pisa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "21.8064",
+      "lat": "53.6244",
+      "stan_wody": "196",
+      "stan_wody_data_pomiaru": "2025-12-19 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "16.7",
+      "przeplyw_data": "2025-12-19 18:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-17 11:40:00",
       "zjawisko_zarastania": "0",
