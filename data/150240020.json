@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-13T22:24:34.649428+00:00",
-    "data": {
-      "id_stacji": "150240020",
-      "stacja": "Kryłów",
-      "rzeka": "Bug",
-      "wojewodztwo": "lubelskie",
-      "lon": "24.0625",
-      "lat": "50.6772",
-      "stan_wody": "150",
-      "stan_wody_data_pomiaru": "2025-12-13 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "21.1",
-      "przeplyw_data": "2025-12-13 21:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-10 12:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-10 12:10:00"
-    }
-  },
-  {
     "timestamp": "2025-12-13T22:43:13.459539+00:00",
     "data": {
       "id_stacji": "150240020",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "18.7",
       "przeplyw_data": "2025-12-20 21:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-10 12:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-10 12:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T22:43:05.510218+00:00",
+    "data": {
+      "id_stacji": "150240020",
+      "stacja": "Kryłów",
+      "rzeka": "Bug",
+      "wojewodztwo": "lubelskie",
+      "lon": "24.0625",
+      "lat": "50.6772",
+      "stan_wody": "132",
+      "stan_wody_data_pomiaru": "2025-12-20 22:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "18.7",
+      "przeplyw_data": "2025-12-20 22:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-10 12:10:00",
       "zjawisko_zarastania": "0",
