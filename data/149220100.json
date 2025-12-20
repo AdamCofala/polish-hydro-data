@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-13T12:51:11.042822+00:00",
-    "data": {
-      "id_stacji": "149220100",
-      "stacja": "Terka",
-      "rzeka": "Solinka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.4292",
-      "lat": "49.2997",
-      "stan_wody": "100",
-      "stan_wody_data_pomiaru": "2025-12-13 12:30:00",
-      "temperatura_wody": "5",
-      "temperatura_wody_data_pomiaru": "2025-12-13 06:00:00",
-      "przelyw": "7.1",
-      "przeplyw_data": "2025-12-13 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-04-15 12:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2024-07-18 13:00:00"
-    }
-  },
-  {
     "timestamp": "2025-12-13T13:31:43.040162+00:00",
     "data": {
       "id_stacji": "149220100",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": "2025-12-20 06:00:00",
       "przelyw": "3.7",
       "przeplyw_data": "2025-12-20 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-16 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2024-07-18 13:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-20T13:31:33.240267+00:00",
+    "data": {
+      "id_stacji": "149220100",
+      "stacja": "Terka",
+      "rzeka": "Solinka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.4292",
+      "lat": "49.2997",
+      "stan_wody": "90",
+      "stan_wody_data_pomiaru": "2025-12-20 13:00:00",
+      "temperatura_wody": "4.7",
+      "temperatura_wody_data_pomiaru": "2025-12-20 06:00:00",
+      "przelyw": "3.7",
+      "przeplyw_data": "2025-12-20 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-16 12:00:00",
       "zjawisko_zarastania": "0",
