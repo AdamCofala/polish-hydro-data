@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-15T14:32:59.690685+00:00",
-    "data": {
-      "id_stacji": "150180210",
-      "stacja": "Niwki",
-      "rzeka": "Liswarta",
-      "wojewodztwo": "śląskie",
-      "lon": "18.6625",
-      "lat": "50.8208",
-      "stan_wody": "142",
-      "stan_wody_data_pomiaru": "2025-12-15 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.92",
-      "przeplyw_data": "2025-12-15 14:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-28 12:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-04 09:40:00"
-    }
-  },
-  {
     "timestamp": "2025-12-15T15:31:10.344910+00:00",
     "data": {
       "id_stacji": "150180210",
@@ -4361,6 +4340,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.4",
       "przeplyw_data": "2025-12-22 13:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-28 12:00:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-04 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-22T14:48:03.435986+00:00",
+    "data": {
+      "id_stacji": "150180210",
+      "stacja": "Niwki",
+      "rzeka": "Liswarta",
+      "wojewodztwo": "śląskie",
+      "lon": "18.6625",
+      "lat": "50.8208",
+      "stan_wody": "138",
+      "stan_wody_data_pomiaru": "2025-12-22 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.4",
+      "przeplyw_data": "2025-12-22 14:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-28 12:00:00",
       "zjawisko_zarastania": "200",
