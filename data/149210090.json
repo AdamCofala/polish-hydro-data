@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-15T08:40:19.127631+00:00",
-    "data": {
-      "id_stacji": "149210090",
-      "stacja": "Krempna-Kotań",
-      "rzeka": "Wisłoka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.4831",
-      "lat": "49.5153",
-      "stan_wody": "272",
-      "stan_wody_data_pomiaru": "2025-12-15 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.54",
-      "przeplyw_data": "2025-12-15 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-10 09:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-10 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-12-15T09:38:58.321948+00:00",
     "data": {
       "id_stacji": "149210090",
@@ -4361,6 +4340,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.76",
       "przeplyw_data": "2025-12-22 08:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-10 09:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-10 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-22T09:35:28.154424+00:00",
+    "data": {
+      "id_stacji": "149210090",
+      "stacja": "Krempna-Kotań",
+      "rzeka": "Wisłoka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.4831",
+      "lat": "49.5153",
+      "stan_wody": "266",
+      "stan_wody_data_pomiaru": "2025-12-22 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.76",
+      "przeplyw_data": "2025-12-22 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-10 09:10:00",
       "zjawisko_zarastania": "0",
