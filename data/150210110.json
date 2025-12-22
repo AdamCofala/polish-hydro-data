@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-15T17:30:02.837637+00:00",
-    "data": {
-      "id_stacji": "150210110",
-      "stacja": "Głowaczowa",
-      "rzeka": "Grabinianka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.3125",
-      "lat": "50.0497",
-      "stan_wody": "153",
-      "stan_wody_data_pomiaru": "2025-12-15 17:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.47",
-      "przeplyw_data": "2025-12-15 17:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-10-09 08:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-09 08:40:00"
-    }
-  },
-  {
     "timestamp": "2025-12-15T17:51:14.519224+00:00",
     "data": {
       "id_stacji": "150210110",
@@ -4403,6 +4382,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.42",
       "przeplyw_data": "2025-12-22 16:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-10-09 08:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-09 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-22T17:44:40.755904+00:00",
+    "data": {
+      "id_stacji": "150210110",
+      "stacja": "Głowaczowa",
+      "rzeka": "Grabinianka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.3125",
+      "lat": "50.0497",
+      "stan_wody": "150",
+      "stan_wody_data_pomiaru": "2025-12-22 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.42",
+      "przeplyw_data": "2025-12-22 17:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-10-09 08:40:00",
       "zjawisko_zarastania": "0",
