@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-15T19:42:12.911886+00:00",
-    "data": {
-      "id_stacji": "150210180",
-      "stacja": "Annopol",
-      "rzeka": "Wisła",
-      "wojewodztwo": "lubelskie",
-      "lon": "21.8322",
-      "lat": "50.8992",
-      "stan_wody": "237",
-      "stan_wody_data_pomiaru": "2025-12-15 19:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "361",
-      "przeplyw_data": "2025-12-15 19:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-20 12:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-20 12:20:00"
-    }
-  },
-  {
     "timestamp": "2025-12-15T20:31:51.093942+00:00",
     "data": {
       "id_stacji": "150210180",
@@ -4403,6 +4382,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "264",
       "przeplyw_data": "2025-12-22 18:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-11-20 12:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-20 12:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-22T20:30:07.604968+00:00",
+    "data": {
+      "id_stacji": "150210180",
+      "stacja": "Annopol",
+      "rzeka": "Wisła",
+      "wojewodztwo": "lubelskie",
+      "lon": "21.8322",
+      "lat": "50.8992",
+      "stan_wody": "216",
+      "stan_wody_data_pomiaru": "2025-12-22 20:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "264",
+      "przeplyw_data": "2025-12-22 20:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-11-20 12:20:00",
       "zjawisko_zarastania": "0",
