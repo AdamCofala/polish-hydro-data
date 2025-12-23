@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-16T16:38:01.983515+00:00",
-    "data": {
-      "id_stacji": "154220050",
-      "stacja": "Jurkiszki",
-      "rzeka": "Jarka",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "22.3681",
-      "lat": "54.3092",
-      "stan_wody": "97",
-      "stan_wody_data_pomiaru": "2025-12-16 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.54",
-      "przeplyw_data": "2025-12-16 16:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-04 09:40:00",
-      "zjawisko_zarastania": "210",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-26 08:50:00"
-    }
-  },
-  {
     "timestamp": "2025-12-16T17:29:10.891882+00:00",
     "data": {
       "id_stacji": "154220050",
@@ -4424,6 +4403,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.94",
       "przeplyw_data": "2025-12-23 16:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-04 09:40:00",
+      "zjawisko_zarastania": "210",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-26 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-23T17:26:24.613212+00:00",
+    "data": {
+      "id_stacji": "154220050",
+      "stacja": "Jurkiszki",
+      "rzeka": "Jarka",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "22.3681",
+      "lat": "54.3092",
+      "stan_wody": "74",
+      "stan_wody_data_pomiaru": "2025-12-23 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.94",
+      "przeplyw_data": "2025-12-23 16:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-04 09:40:00",
       "zjawisko_zarastania": "210",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-16T16:38:01.983515+00:00",
-    "data": {
-      "id_stacji": "149180240",
-      "stacja": "Goczałkowice",
-      "rzeka": "Wisła",
-      "wojewodztwo": "śląskie",
-      "lon": "18.9858",
-      "lat": "49.9317",
-      "stan_wody": "125",
-      "stan_wody_data_pomiaru": "2025-12-16 15:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "10.4",
-      "przeplyw_data": "2025-12-16 16:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-12-10 09:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-14 08:50:00"
-    }
-  },
-  {
     "timestamp": "2025-12-16T17:29:10.891882+00:00",
     "data": {
       "id_stacji": "149180240",
@@ -4382,6 +4361,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "7.02",
       "przeplyw_data": "2025-12-23 16:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-18 12:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-14 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-23T17:26:24.613212+00:00",
+    "data": {
+      "id_stacji": "149180240",
+      "stacja": "Goczałkowice",
+      "rzeka": "Wisła",
+      "wojewodztwo": "śląskie",
+      "lon": "18.9858",
+      "lat": "49.9317",
+      "stan_wody": "112",
+      "stan_wody_data_pomiaru": "2025-12-23 16:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "7.02",
+      "przeplyw_data": "2025-12-23 16:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-18 12:30:00",
       "zjawisko_zarastania": "0",
