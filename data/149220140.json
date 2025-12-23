@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-16T07:28:43.173840+00:00",
-    "data": {
-      "id_stacji": "149220140",
-      "stacja": "Polana",
-      "rzeka": "Czarny",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.5742",
-      "lat": "49.3025",
-      "stan_wody": "311",
-      "stan_wody_data_pomiaru": "2025-12-16 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.7",
-      "przeplyw_data": "2025-12-16 07:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-24 13:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-04-15 12:00:00"
-    }
-  },
-  {
     "timestamp": "2025-12-16T07:46:10.947390+00:00",
     "data": {
       "id_stacji": "149220140",
@@ -4361,6 +4340,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.43",
       "przeplyw_data": "2025-12-23 06:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-16 11:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-04-15 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-23T07:29:26.844272+00:00",
+    "data": {
+      "id_stacji": "149220140",
+      "stacja": "Polana",
+      "rzeka": "Czarny",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.5742",
+      "lat": "49.3025",
+      "stan_wody": "307",
+      "stan_wody_data_pomiaru": "2025-12-23 07:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.43",
+      "przeplyw_data": "2025-12-23 07:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-16 11:20:00",
       "zjawisko_zarastania": "0",
