@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-16T21:26:54.664660+00:00",
-    "data": {
-      "id_stacji": "150180060",
-      "stacja": "Racibórz Miedonia",
-      "rzeka": "Odra",
-      "wojewodztwo": "śląskie",
-      "lon": "18.2297",
-      "lat": "50.1219",
-      "stan_wody": "167",
-      "stan_wody_data_pomiaru": "2025-12-16 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "39.3",
-      "przeplyw_data": "2025-12-16 20:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-27 12:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-23 12:10:00"
-    }
-  },
-  {
     "timestamp": "2025-12-16T21:44:38.921181+00:00",
     "data": {
       "id_stacji": "150180060",
@@ -4466,6 +4445,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "29.5",
       "przeplyw_data": "2025-12-23 20:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-11-27 12:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-23 12:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-23T21:42:34.295021+00:00",
+    "data": {
+      "id_stacji": "150180060",
+      "stacja": "Racibórz Miedonia",
+      "rzeka": "Odra",
+      "wojewodztwo": "śląskie",
+      "lon": "18.2297",
+      "lat": "50.1219",
+      "stan_wody": "151",
+      "stan_wody_data_pomiaru": "2025-12-23 21:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "29.5",
+      "przeplyw_data": "2025-12-23 21:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-11-27 12:20:00",
       "zjawisko_zarastania": "0",
