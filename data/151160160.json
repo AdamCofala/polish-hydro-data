@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-17T18:41:25.409944+00:00",
-    "data": {
-      "id_stacji": "151160160",
-      "stacja": "Rydzyna",
-      "rzeka": "Polski Rów",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.6689",
-      "lat": "51.7828",
-      "stan_wody": "152",
-      "stan_wody_data_pomiaru": "2025-12-17 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.42",
-      "przeplyw_data": "2025-12-17 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-01 09:10:00",
-      "zjawisko_zarastania": "123",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-01 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-12-17T19:24:51.109894+00:00",
     "data": {
       "id_stacji": "151160160",
@@ -4445,6 +4424,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.58",
       "przeplyw_data": "2025-12-24 18:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-01 09:10:00",
+      "zjawisko_zarastania": "123",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-01 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-24T19:21:00.152684+00:00",
+    "data": {
+      "id_stacji": "151160160",
+      "stacja": "Rydzyna",
+      "rzeka": "Polski Rów",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "16.6689",
+      "lat": "51.7828",
+      "stan_wody": "170",
+      "stan_wody_data_pomiaru": "2025-12-24 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.58",
+      "przeplyw_data": "2025-12-24 18:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-01 09:10:00",
       "zjawisko_zarastania": "123",
