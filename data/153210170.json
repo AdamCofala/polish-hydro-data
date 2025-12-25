@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-18T14:52:19.285902+00:00",
-    "data": {
-      "id_stacji": "153210170",
-      "stacja": "Ptaki",
-      "rzeka": "Pisa",
-      "wojewodztwo": "podlaskie",
-      "lon": "21.7922",
-      "lat": "53.3931",
-      "stan_wody": "110",
-      "stan_wody_data_pomiaru": "2025-12-18 14:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "18.6",
-      "przeplyw_data": "2025-12-18 14:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-17 13:40:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-28 12:30:00"
-    }
-  },
-  {
     "timestamp": "2025-12-18T15:30:29.784671+00:00",
     "data": {
       "id_stacji": "153210170",
@@ -4466,6 +4445,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "21.2",
       "przeplyw_data": "2025-12-25 14:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-17 13:40:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-28 12:30:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T15:27:17.102078+00:00",
+    "data": {
+      "id_stacji": "153210170",
+      "stacja": "Ptaki",
+      "rzeka": "Pisa",
+      "wojewodztwo": "podlaskie",
+      "lon": "21.7922",
+      "lat": "53.3931",
+      "stan_wody": "125",
+      "stan_wody_data_pomiaru": "2025-12-25 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "21.2",
+      "przeplyw_data": "2025-12-25 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-17 13:40:00",
       "zjawisko_zarastania": "200",
