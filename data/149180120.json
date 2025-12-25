@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-18T14:29:20.608239+00:00",
-    "data": {
-      "id_stacji": "149180120",
-      "stacja": "Górki Wielkie",
-      "rzeka": "Brennica",
-      "wojewodztwo": "śląskie",
-      "lon": "18.8525",
-      "lat": "49.7725",
-      "stan_wody": "161",
-      "stan_wody_data_pomiaru": "2025-12-18 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.98",
-      "przeplyw_data": "2025-12-18 14:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-02 08:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-20 09:50:00"
-    }
-  },
-  {
     "timestamp": "2025-12-18T14:52:19.285902+00:00",
     "data": {
       "id_stacji": "149180120",
@@ -4466,6 +4445,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.6",
       "przeplyw_data": "2025-12-25 13:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-02 08:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-20 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-25T14:46:08.689388+00:00",
+    "data": {
+      "id_stacji": "149180120",
+      "stacja": "Górki Wielkie",
+      "rzeka": "Brennica",
+      "wojewodztwo": "śląskie",
+      "lon": "18.8525",
+      "lat": "49.7725",
+      "stan_wody": "159",
+      "stan_wody_data_pomiaru": "2025-12-25 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.6",
+      "przeplyw_data": "2025-12-25 14:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-02 08:20:00",
       "zjawisko_zarastania": "0",
