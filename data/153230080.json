@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-19T07:27:21.055647+00:00",
-    "data": {
-      "id_stacji": "153230080",
-      "stacja": "Sochonie",
-      "rzeka": "Czarna",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.1806",
-      "lat": "53.2169",
-      "stan_wody": "59",
-      "stan_wody_data_pomiaru": "2025-12-19 06:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.7",
-      "przeplyw_data": "2025-12-19 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-03 15:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-03 15:00:00"
-    }
-  },
-  {
     "timestamp": "2025-12-19T07:44:11.831081+00:00",
     "data": {
       "id_stacji": "153230080",
@@ -4445,6 +4424,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.56",
       "przeplyw_data": "2025-12-26 06:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-03 15:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-03 15:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-26T07:27:24.439919+00:00",
+    "data": {
+      "id_stacji": "153230080",
+      "stacja": "Sochonie",
+      "rzeka": "Czarna",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.1806",
+      "lat": "53.2169",
+      "stan_wody": "49",
+      "stan_wody_data_pomiaru": "2025-12-26 06:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.56",
+      "przeplyw_data": "2025-12-26 06:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-03 15:00:00",
       "zjawisko_zarastania": "0",
