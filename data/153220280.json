@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-19T10:29:55.994725+00:00",
-    "data": {
-      "id_stacji": "153220280",
-      "stacja": "Białobrzegi",
-      "rzeka": "Netta",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.9664",
-      "lat": "53.8042",
-      "stan_wody": "145",
-      "stan_wody_data_pomiaru": "2025-12-19 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "8.95",
-      "przeplyw_data": "2025-12-19 10:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-18 10:20:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-18 10:20:00"
-    }
-  },
-  {
     "timestamp": "2025-12-19T10:50:41.250473+00:00",
     "data": {
       "id_stacji": "153220280",
@@ -4529,6 +4508,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "7.51",
       "przeplyw_data": "2025-12-26 10:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-19 12:50:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-18 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-26T10:49:09.122629+00:00",
+    "data": {
+      "id_stacji": "153220280",
+      "stacja": "Białobrzegi",
+      "rzeka": "Netta",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.9664",
+      "lat": "53.8042",
+      "stan_wody": "138",
+      "stan_wody_data_pomiaru": "2025-12-26 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "7.51",
+      "przeplyw_data": "2025-12-26 10:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-19 12:50:00",
       "zjawisko_zarastania": "100",
