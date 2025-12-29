@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-22T03:53:55.819501+00:00",
-    "data": {
-      "id_stacji": "150190210",
-      "stacja": "Kuźnica Sulikowska",
-      "rzeka": "Mitręga",
-      "wojewodztwo": "śląskie",
-      "lon": "19.2728",
-      "lat": "50.4531",
-      "stan_wody": "104",
-      "stan_wody_data_pomiaru": "2025-12-22 03:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.13",
-      "przeplyw_data": "2025-12-22 03:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-03 08:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-07 10:00:00"
-    }
-  },
-  {
     "timestamp": "2025-12-22T04:45:55.012672+00:00",
     "data": {
       "id_stacji": "150190210",
@@ -4550,6 +4529,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.08",
       "przeplyw_data": "2025-12-29 01:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-03 08:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-07 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-29T04:01:03.237676+00:00",
+    "data": {
+      "id_stacji": "150190210",
+      "stacja": "Kuźnica Sulikowska",
+      "rzeka": "Mitręga",
+      "wojewodztwo": "śląskie",
+      "lon": "19.2728",
+      "lat": "50.4531",
+      "stan_wody": "99",
+      "stan_wody_data_pomiaru": "2025-12-29 03:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.08",
+      "przeplyw_data": "2025-12-29 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-03 08:00:00",
       "zjawisko_zarastania": "0",
