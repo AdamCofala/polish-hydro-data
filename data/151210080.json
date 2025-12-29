@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-22T14:27:51.878504+00:00",
-    "data": {
-      "id_stacji": "151210080",
-      "stacja": "Kazanów",
-      "rzeka": "Iłżanka",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.4667",
-      "lat": "51.2733",
-      "stan_wody": "166",
-      "stan_wody_data_pomiaru": "2025-12-22 13:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.36",
-      "przeplyw_data": "2025-12-22 13:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-18 06:00:00",
-      "zjawisko_zarastania": "2",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-13 10:00:00"
-    }
-  },
-  {
     "timestamp": "2025-12-22T14:48:03.435986+00:00",
     "data": {
       "id_stacji": "151210080",
@@ -4487,6 +4466,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.25",
       "przeplyw_data": "2025-12-29 13:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-18 06:00:00",
+      "zjawisko_zarastania": "2",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-13 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-29T14:28:28.625983+00:00",
+    "data": {
+      "id_stacji": "151210080",
+      "stacja": "Kazanów",
+      "rzeka": "Iłżanka",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.4667",
+      "lat": "51.2733",
+      "stan_wody": "165",
+      "stan_wody_data_pomiaru": "2025-12-29 13:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.25",
+      "przeplyw_data": "2025-12-29 14:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2025-02-18 06:00:00",
       "zjawisko_zarastania": "2",
