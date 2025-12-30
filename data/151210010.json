@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-23T16:35:36.917470+00:00",
-    "data": {
-      "id_stacji": "151210010",
-      "stacja": "Wąchock",
-      "rzeka": "Kamienna",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.0189",
-      "lat": "51.0758",
-      "stan_wody": "25",
-      "stan_wody_data_pomiaru": "2025-12-23 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.88",
-      "przeplyw_data": "2025-12-23 16:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-10 10:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-26 11:40:00"
-    }
-  },
-  {
     "timestamp": "2025-12-23T17:26:24.613212+00:00",
     "data": {
       "id_stacji": "151210010",
@@ -4487,6 +4466,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.72",
       "przeplyw_data": "2025-12-30 15:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-10 10:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-26 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-30T16:35:48.524606+00:00",
+    "data": {
+      "id_stacji": "151210010",
+      "stacja": "Wąchock",
+      "rzeka": "Kamienna",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.0189",
+      "lat": "51.0758",
+      "stan_wody": "21",
+      "stan_wody_data_pomiaru": "2025-12-30 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.72",
+      "przeplyw_data": "2025-12-30 16:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-10 10:20:00",
       "zjawisko_zarastania": "0",
