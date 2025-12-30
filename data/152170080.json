@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-23T07:46:59.895674+00:00",
-    "data": {
-      "id_stacji": "152170080",
-      "stacja": "Pyzdry",
-      "rzeka": "Warta",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.6953",
-      "lat": "52.1678",
-      "stan_wody": "306",
-      "stan_wody_data_pomiaru": "2025-12-23 07:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "75.8",
-      "przeplyw_data": "2025-12-23 07:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-12 12:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-06-12 12:57:00"
-    }
-  },
-  {
     "timestamp": "2025-12-23T08:37:42.040620+00:00",
     "data": {
       "id_stacji": "152170080",
@@ -4571,6 +4550,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "60.3",
       "przeplyw_data": "2025-12-30 07:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-12 12:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-06-12 12:57:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-30T08:37:07.081617+00:00",
+    "data": {
+      "id_stacji": "152170080",
+      "stacja": "Pyzdry",
+      "rzeka": "Warta",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.6953",
+      "lat": "52.1678",
+      "stan_wody": "273",
+      "stan_wody_data_pomiaru": "2025-12-30 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "60.3",
+      "przeplyw_data": "2025-12-30 08:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-12 12:20:00",
       "zjawisko_zarastania": "0",

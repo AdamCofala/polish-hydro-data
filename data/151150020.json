@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-23T07:46:59.895674+00:00",
-    "data": {
-      "id_stacji": "151150020",
-      "stacja": "Ostróżno",
-      "rzeka": "Witka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.0328",
-      "lat": "51.0208",
-      "stan_wody": "123",
-      "stan_wody_data_pomiaru": "2025-12-23 07:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.31",
-      "przeplyw_data": "2025-12-23 07:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-16 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-16 06:00:00"
-    }
-  },
-  {
     "timestamp": "2025-12-23T08:37:42.040620+00:00",
     "data": {
       "id_stacji": "151150020",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.03",
       "przeplyw_data": "2025-12-30 07:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-16 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-16 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-30T08:37:07.081617+00:00",
+    "data": {
+      "id_stacji": "151150020",
+      "stacja": "Ostróżno",
+      "rzeka": "Witka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.0328",
+      "lat": "51.0208",
+      "stan_wody": "118",
+      "stan_wody_data_pomiaru": "2025-12-30 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.97",
+      "przeplyw_data": "2025-12-30 08:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-16 06:00:00",
       "zjawisko_zarastania": "0",
