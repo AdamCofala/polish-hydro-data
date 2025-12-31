@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-24T14:26:30.819283+00:00",
-    "data": {
-      "id_stacji": "153210210",
-      "stacja": "Nowogród",
-      "rzeka": "Narew",
-      "wojewodztwo": "podlaskie",
-      "lon": "21.8653",
-      "lat": "53.2267",
-      "stan_wody": "199",
-      "stan_wody_data_pomiaru": "2025-12-24 14:00:00",
-      "temperatura_wody": "3.1",
-      "temperatura_wody_data_pomiaru": "2025-12-24 06:00:00",
-      "przelyw": "75.3",
-      "przeplyw_data": "2025-12-24 13:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-05 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-07 08:40:00"
-    }
-  },
-  {
     "timestamp": "2025-12-24T14:46:58.783865+00:00",
     "data": {
       "id_stacji": "153210210",
@@ -4508,6 +4487,27 @@
       "temperatura_wody_data_pomiaru": "2025-12-31 06:00:00",
       "przelyw": "69",
       "przeplyw_data": "2025-12-31 13:10:00",
+      "zjawisko_lodowe": "1",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-31 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-07 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-31T14:26:50.490411+00:00",
+    "data": {
+      "id_stacji": "153210210",
+      "stacja": "Nowogród",
+      "rzeka": "Narew",
+      "wojewodztwo": "podlaskie",
+      "lon": "21.8653",
+      "lat": "53.2267",
+      "stan_wody": "190",
+      "stan_wody_data_pomiaru": "2025-12-31 14:00:00",
+      "temperatura_wody": "1.3",
+      "temperatura_wody_data_pomiaru": "2025-12-31 06:00:00",
+      "przelyw": "69",
+      "przeplyw_data": "2025-12-31 13:50:00",
       "zjawisko_lodowe": "1",
       "zjawisko_lodowe_data_pomiaru": "2025-12-31 06:00:00",
       "zjawisko_zarastania": "0",
