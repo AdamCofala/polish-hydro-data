@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-24T03:46:06.714136+00:00",
-    "data": {
-      "id_stacji": "149220190",
-      "stacja": "Przemyśl",
-      "rzeka": "San",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.7672",
-      "lat": "49.7847",
-      "stan_wody": "93",
-      "stan_wody_data_pomiaru": "2025-12-24 03:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "17.1",
-      "przeplyw_data": "2025-12-24 03:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-04-02 13:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-20 14:10:00"
-    }
-  },
-  {
     "timestamp": "2025-12-24T04:40:18.612468+00:00",
     "data": {
       "id_stacji": "149220190",
@@ -4529,6 +4508,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "16.4",
       "przeplyw_data": "2025-12-31 01:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-04-02 13:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-20 14:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-31T03:48:59.392323+00:00",
+    "data": {
+      "id_stacji": "149220190",
+      "stacja": "Przemyśl",
+      "rzeka": "San",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.7672",
+      "lat": "49.7847",
+      "stan_wody": "90",
+      "stan_wody_data_pomiaru": "2025-12-31 03:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "15.8",
+      "przeplyw_data": "2025-12-31 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-04-02 13:00:00",
       "zjawisko_zarastania": "100",

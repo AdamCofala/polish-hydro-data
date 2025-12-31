@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-24T03:46:06.714136+00:00",
-    "data": {
-      "id_stacji": "150220010",
-      "stacja": "Rzeszów",
-      "rzeka": "Wisłok",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.0156",
-      "lat": "50.0397",
-      "stan_wody": "56",
-      "stan_wody_data_pomiaru": "2025-12-24 03:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "7.58",
-      "przeplyw_data": "2025-12-24 03:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-08 14:20:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-08 14:20:00"
-    }
-  },
-  {
     "timestamp": "2025-12-24T04:40:18.612468+00:00",
     "data": {
       "id_stacji": "150220010",
@@ -4508,6 +4487,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "4.71",
       "przeplyw_data": "2025-12-31 01:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-08 14:20:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-08 14:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-31T03:48:59.392323+00:00",
+    "data": {
+      "id_stacji": "150220010",
+      "stacja": "Rzeszów",
+      "rzeka": "Wisłok",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.0156",
+      "lat": "50.0397",
+      "stan_wody": "49",
+      "stan_wody_data_pomiaru": "2025-12-31 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "4.71",
+      "przeplyw_data": "2025-12-31 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-08 14:20:00",
       "zjawisko_zarastania": "1",
