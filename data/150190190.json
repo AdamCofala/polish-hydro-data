@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-24T23:43:04.867888+00:00",
-    "data": {
-      "id_stacji": "150190190",
-      "stacja": "Piwoń",
-      "rzeka": "Przemsza",
-      "wojewodztwo": "śląskie",
-      "lon": "19.2533",
-      "lat": "50.4831",
-      "stan_wody": "185",
-      "stan_wody_data_pomiaru": "2025-12-24 23:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.24",
-      "przeplyw_data": "2025-12-24 23:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-28 09:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-07 09:20:00"
-    }
-  },
-  {
     "timestamp": "2025-12-25T02:08:28.213815+00:00",
     "data": {
       "id_stacji": "150190190",
@@ -4508,6 +4487,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.22",
       "przeplyw_data": "2025-12-31 22:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-28 09:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-07 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-31T23:43:11.861652+00:00",
+    "data": {
+      "id_stacji": "150190190",
+      "stacja": "Piwoń",
+      "rzeka": "Przemsza",
+      "wojewodztwo": "śląskie",
+      "lon": "19.2533",
+      "lat": "50.4831",
+      "stan_wody": "183",
+      "stan_wody_data_pomiaru": "2025-12-31 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.22",
+      "przeplyw_data": "2025-12-31 23:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-28 09:10:00",
       "zjawisko_zarastania": "0",
