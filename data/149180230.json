@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-24T22:26:13.082224+00:00",
-    "data": {
-      "id_stacji": "149180230",
-      "stacja": "Podkępie",
-      "rzeka": "Wapienica",
-      "wojewodztwo": "śląskie",
-      "lon": "18.9775",
-      "lat": "49.8956",
-      "stan_wody": "245",
-      "stan_wody_data_pomiaru": "2025-12-24 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.42",
-      "przeplyw_data": "2025-12-24 21:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2022-02-17 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-27 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-12-24T22:45:37.689576+00:00",
     "data": {
       "id_stacji": "149180230",
@@ -4550,6 +4529,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.36",
       "przeplyw_data": "2025-12-31 21:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2022-02-17 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-27 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2025-12-31T22:26:59.236688+00:00",
+    "data": {
+      "id_stacji": "149180230",
+      "stacja": "Podkępie",
+      "rzeka": "Wapienica",
+      "wojewodztwo": "śląskie",
+      "lon": "18.9775",
+      "lat": "49.8956",
+      "stan_wody": "244",
+      "stan_wody_data_pomiaru": "2025-12-31 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.36",
+      "przeplyw_data": "2025-12-31 21:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2022-02-17 10:10:00",
       "zjawisko_zarastania": "0",
