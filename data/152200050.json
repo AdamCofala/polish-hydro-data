@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-25T05:30:34.526509+00:00",
-    "data": {
-      "id_stacji": "152200050",
-      "stacja": "Żuków",
-      "rzeka": "Bzura",
-      "wojewodztwo": "mazowieckie",
-      "lon": "20.2692",
-      "lat": "52.2617",
-      "stan_wody": "120",
-      "stan_wody_data_pomiaru": "2025-12-25 05:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "14.8",
-      "przeplyw_data": "2025-12-25 05:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-18 10:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-15 10:30:00"
-    }
-  },
-  {
     "timestamp": "2025-12-25T06:41:44.423255+00:00",
     "data": {
       "id_stacji": "152200050",
@@ -4529,6 +4508,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "13.1",
       "przeplyw_data": "2026-01-01 04:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-18 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-15 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-01T05:51:17.350027+00:00",
+    "data": {
+      "id_stacji": "152200050",
+      "stacja": "Żuków",
+      "rzeka": "Bzura",
+      "wojewodztwo": "mazowieckie",
+      "lon": "20.2692",
+      "lat": "52.2617",
+      "stan_wody": "110",
+      "stan_wody_data_pomiaru": "2026-01-01 05:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "12.9",
+      "przeplyw_data": "2026-01-01 05:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-18 10:40:00",
       "zjawisko_zarastania": "0",
