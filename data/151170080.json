@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-26T02:07:25.956981+00:00",
-    "data": {
-      "id_stacji": "151170080",
-      "stacja": "Odolanów 2",
-      "rzeka": "Kuroch",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.6703",
-      "lat": "51.5783",
-      "stan_wody": "103",
-      "stan_wody_data_pomiaru": "2025-12-26 01:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.17",
-      "przeplyw_data": "2025-12-26 01:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-04 09:20:00",
-      "zjawisko_zarastania": "212",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-04 09:20:00"
-    }
-  },
-  {
     "timestamp": "2025-12-26T03:46:15.643428+00:00",
     "data": {
       "id_stacji": "151170080",
@@ -4487,6 +4466,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.15",
       "przeplyw_data": "2026-01-01 23:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-04 09:20:00",
+      "zjawisko_zarastania": "212",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-04 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-02T02:10:53.731049+00:00",
+    "data": {
+      "id_stacji": "151170080",
+      "stacja": "Odolanów 2",
+      "rzeka": "Kuroch",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.6703",
+      "lat": "51.5783",
+      "stan_wody": "99",
+      "stan_wody_data_pomiaru": "2026-01-02 01:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.15",
+      "przeplyw_data": "2026-01-02 01:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-04 09:20:00",
       "zjawisko_zarastania": "212",
