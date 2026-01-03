@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-27T17:22:35.489011+00:00",
-    "data": {
-      "id_stacji": "152150200",
-      "stacja": "Międzychód",
-      "rzeka": "Warta",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "15.8861",
-      "lat": "52.6042",
-      "stan_wody": "185",
-      "stan_wody_data_pomiaru": "2025-12-27 17:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "104",
-      "przeplyw_data": "2025-12-27 16:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-20 13:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-03-23 13:57:00"
-    }
-  },
-  {
     "timestamp": "2025-12-27T17:42:44.113874+00:00",
     "data": {
       "id_stacji": "152150200",
@@ -4466,6 +4445,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "81.4",
       "przeplyw_data": "2026-01-03 16:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-11-20 13:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2023-03-23 13:57:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-03T17:23:15.874687+00:00",
+    "data": {
+      "id_stacji": "152150200",
+      "stacja": "Międzychód",
+      "rzeka": "Warta",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "15.8861",
+      "lat": "52.6042",
+      "stan_wody": "152",
+      "stan_wody_data_pomiaru": "2026-01-03 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "81.4",
+      "przeplyw_data": "2026-01-03 16:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-11-20 13:10:00",
       "zjawisko_zarastania": "0",
