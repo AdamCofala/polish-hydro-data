@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-28T16:32:28.129558+00:00",
-    "data": {
-      "id_stacji": "152210090",
-      "stacja": "Wyszków",
-      "rzeka": "Bug",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.4528",
-      "lat": "52.5883",
-      "stan_wody": "217",
-      "stan_wody_data_pomiaru": "2025-12-28 16:00:00",
-      "temperatura_wody": "0.2",
-      "temperatura_wody_data_pomiaru": "2025-12-28 06:00:00",
-      "przelyw": "78.5",
-      "przeplyw_data": "2025-12-28 16:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-28 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-29 09:50:00"
-    }
-  },
-  {
     "timestamp": "2025-12-28T17:23:40.332280+00:00",
     "data": {
       "id_stacji": "152210090",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": "2026-01-04 06:00:00",
       "przelyw": "69.5",
       "przeplyw_data": "2026-01-04 16:10:00",
+      "zjawisko_lodowe": "2",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-03 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-29 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-04T17:23:23.542872+00:00",
+    "data": {
+      "id_stacji": "152210090",
+      "stacja": "Wyszków",
+      "rzeka": "Bug",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.4528",
+      "lat": "52.5883",
+      "stan_wody": "334",
+      "stan_wody_data_pomiaru": "2026-01-04 17:00:00",
+      "temperatura_wody": "0.3",
+      "temperatura_wody_data_pomiaru": "2026-01-04 06:00:00",
+      "przelyw": "69.5",
+      "przeplyw_data": "2026-01-04 16:50:00",
       "zjawisko_lodowe": "2",
       "zjawisko_lodowe_data_pomiaru": "2026-01-03 06:00:00",
       "zjawisko_zarastania": "0",
