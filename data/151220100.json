@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-29T13:43:45.791840+00:00",
-    "data": {
-      "id_stacji": "151220100",
-      "stacja": "Sobianowice",
-      "rzeka": "Bystrzyca",
-      "wojewodztwo": "lubelskie",
-      "lon": "22.6881",
-      "lat": "51.3017",
-      "stan_wody": "92",
-      "stan_wody_data_pomiaru": "2025-12-29 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.17",
-      "przeplyw_data": "2025-12-29 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-05 09:10:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-03 10:10:00"
-    }
-  },
-  {
     "timestamp": "2025-12-29T14:28:28.625983+00:00",
     "data": {
       "id_stacji": "151220100",
@@ -4487,6 +4466,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.02",
       "przeplyw_data": "2026-01-05 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-05 09:10:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-03 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-05T13:48:54.200800+00:00",
+    "data": {
+      "id_stacji": "151220100",
+      "stacja": "Sobianowice",
+      "rzeka": "Bystrzyca",
+      "wojewodztwo": "lubelskie",
+      "lon": "22.6881",
+      "lat": "51.3017",
+      "stan_wody": "89",
+      "stan_wody_data_pomiaru": "2026-01-05 13:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.02",
+      "przeplyw_data": "2026-01-05 13:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-05 09:10:00",
       "zjawisko_zarastania": "1",
