@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-29T08:39:50.598617+00:00",
-    "data": {
-      "id_stacji": "151200120",
-      "stacja": "Białobrzegi",
-      "rzeka": "Pilica",
-      "wojewodztwo": "mazowieckie",
-      "lon": "20.9511",
-      "lat": "51.6575",
-      "stan_wody": "154",
-      "stan_wody_data_pomiaru": "2025-12-29 08:00:00",
-      "temperatura_wody": "0.9",
-      "temperatura_wody_data_pomiaru": "2025-12-29 06:00:00",
-      "przelyw": "29.9",
-      "przeplyw_data": "2025-12-29 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-29 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-19 10:31:00"
-    }
-  },
-  {
     "timestamp": "2025-12-29T09:37:05.729296+00:00",
     "data": {
       "id_stacji": "151200120",
@@ -4382,6 +4361,27 @@
       "temperatura_wody_data_pomiaru": "2026-01-05 06:00:00",
       "przelyw": "26.9",
       "przeplyw_data": "2026-01-05 07:10:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-05 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-19 10:31:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-05T08:42:05.120990+00:00",
+    "data": {
+      "id_stacji": "151200120",
+      "stacja": "Białobrzegi",
+      "rzeka": "Pilica",
+      "wojewodztwo": "mazowieckie",
+      "lon": "20.9511",
+      "lat": "51.6575",
+      "stan_wody": "151",
+      "stan_wody_data_pomiaru": "2026-01-05 08:00:00",
+      "temperatura_wody": "-0.1",
+      "temperatura_wody_data_pomiaru": "2026-01-05 06:00:00",
+      "przelyw": "26.9",
+      "przeplyw_data": "2026-01-05 08:10:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-05 06:00:00",
       "zjawisko_zarastania": "0",
