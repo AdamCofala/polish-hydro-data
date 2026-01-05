@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-29T12:58:26.128951+00:00",
-    "data": {
-      "id_stacji": "150150020",
-      "stacja": "Mirsk 2",
-      "rzeka": "Czarny Potok",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.3839",
-      "lat": "50.9867",
-      "stan_wody": "110",
-      "stan_wody_data_pomiaru": "2025-12-29 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.29",
-      "przeplyw_data": "2025-12-29 12:30:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2023-02-08 10:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-07-31 10:00:00"
-    }
-  },
-  {
     "timestamp": "2025-12-29T13:43:45.791840+00:00",
     "data": {
       "id_stacji": "150150020",
@@ -4508,6 +4487,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.29",
       "przeplyw_data": "2026-01-05 11:10:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2023-02-08 10:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-07-31 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-05T13:00:18.949735+00:00",
+    "data": {
+      "id_stacji": "150150020",
+      "stacja": "Mirsk 2",
+      "rzeka": "Czarny Potok",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.3839",
+      "lat": "50.9867",
+      "stan_wody": "112",
+      "stan_wody_data_pomiaru": "2026-01-05 12:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.36",
+      "przeplyw_data": "2026-01-05 12:30:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2023-02-08 10:00:00",
       "zjawisko_zarastania": "100",
