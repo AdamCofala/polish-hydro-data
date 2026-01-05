@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-29T05:04:01.018596+00:00",
-    "data": {
-      "id_stacji": "150160220",
-      "stacja": "Bardo Śląskie",
-      "rzeka": "Nysa Kłodzka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.7397",
-      "lat": "50.5044",
-      "stan_wody": "45",
-      "stan_wody_data_pomiaru": "2025-12-29 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "7.75",
-      "przeplyw_data": "2025-12-29 04:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-26 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-18 10:20:00"
-    }
-  },
-  {
     "timestamp": "2025-12-29T05:52:21.811699+00:00",
     "data": {
       "id_stacji": "150160220",
@@ -4508,6 +4487,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "9.3",
       "przeplyw_data": "2026-01-05 03:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-26 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-18 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-05T05:10:34.968228+00:00",
+    "data": {
+      "id_stacji": "150160220",
+      "stacja": "Bardo Śląskie",
+      "rzeka": "Nysa Kłodzka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.7397",
+      "lat": "50.5044",
+      "stan_wody": "50",
+      "stan_wody_data_pomiaru": "2026-01-05 04:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "8.75",
+      "przeplyw_data": "2026-01-05 04:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-26 10:10:00",
       "zjawisko_zarastania": "0",
