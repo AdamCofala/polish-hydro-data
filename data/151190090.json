@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-30T12:57:27.635684+00:00",
-    "data": {
-      "id_stacji": "151190090",
-      "stacja": "Przedbórz",
-      "rzeka": "Pilica",
-      "wojewodztwo": "łódzkie",
-      "lon": "19.875",
-      "lat": "51.0894",
-      "stan_wody": "218",
-      "stan_wody_data_pomiaru": "2025-12-30 12:30:00",
-      "temperatura_wody": "1",
-      "temperatura_wody_data_pomiaru": "2025-12-30 06:00:00",
-      "przelyw": "9.9",
-      "przeplyw_data": "2025-12-30 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-16 09:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-19 10:00:00"
-    }
-  },
-  {
     "timestamp": "2025-12-30T13:41:06.616775+00:00",
     "data": {
       "id_stacji": "151190090",
@@ -4445,6 +4424,27 @@
       "temperatura_wody_data_pomiaru": "2026-01-06 06:00:00",
       "przelyw": "8.7",
       "przeplyw_data": "2026-01-06 11:10:00",
+      "zjawisko_lodowe": "1",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-06 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-19 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-06T12:57:46.679637+00:00",
+    "data": {
+      "id_stacji": "151190090",
+      "stacja": "Przedbórz",
+      "rzeka": "Pilica",
+      "wojewodztwo": "łódzkie",
+      "lon": "19.875",
+      "lat": "51.0894",
+      "stan_wody": "213",
+      "stan_wody_data_pomiaru": "2026-01-06 12:30:00",
+      "temperatura_wody": "0.1",
+      "temperatura_wody_data_pomiaru": "2026-01-06 06:00:00",
+      "przelyw": "8.9",
+      "przeplyw_data": "2026-01-06 12:30:00",
       "zjawisko_lodowe": "1",
       "zjawisko_lodowe_data_pomiaru": "2026-01-06 06:00:00",
       "zjawisko_zarastania": "0",
