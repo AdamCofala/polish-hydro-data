@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-30T21:44:21.423333+00:00",
-    "data": {
-      "id_stacji": "150160060",
-      "stacja": "Jugowice",
-      "rzeka": "Bystrzyca",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.4033",
-      "lat": "50.7331",
-      "stan_wody": "19",
-      "stan_wody_data_pomiaru": "2025-12-30 21:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.57",
-      "przeplyw_data": "2025-12-30 21:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-13 09:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-13 09:30:00"
-    }
-  },
-  {
     "timestamp": "2025-12-30T22:26:03.176422+00:00",
     "data": {
       "id_stacji": "150160060",
@@ -4424,6 +4403,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.01",
       "przeplyw_data": "2026-01-06 20:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-11-13 09:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-13 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-06T21:46:02.134467+00:00",
+    "data": {
+      "id_stacji": "150160060",
+      "stacja": "Jugowice",
+      "rzeka": "Bystrzyca",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.4033",
+      "lat": "50.7331",
+      "stan_wody": "37",
+      "stan_wody_data_pomiaru": "2026-01-06 21:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.01",
+      "przeplyw_data": "2026-01-06 21:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-11-13 09:30:00",
       "zjawisko_zarastania": "0",
