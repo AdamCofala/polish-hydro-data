@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-31T20:29:48.221869+00:00",
-    "data": {
-      "id_stacji": "152210070",
-      "stacja": "Wólka Mlądzka",
-      "rzeka": "Świder",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.3303",
-      "lat": "52.1392",
-      "stan_wody": "73",
-      "stan_wody_data_pomiaru": "2025-12-31 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.82",
-      "przeplyw_data": "2025-12-31 20:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-13 11:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-21 10:36:00"
-    }
-  },
-  {
     "timestamp": "2025-12-31T20:48:10.333125+00:00",
     "data": {
       "id_stacji": "152210070",
@@ -4361,6 +4340,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.91",
       "przeplyw_data": "2026-01-07 19:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-13 11:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-21 10:36:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T20:32:46.718363+00:00",
+    "data": {
+      "id_stacji": "152210070",
+      "stacja": "Wólka Mlądzka",
+      "rzeka": "Świder",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.3303",
+      "lat": "52.1392",
+      "stan_wody": "111",
+      "stan_wody_data_pomiaru": "2026-01-07 20:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.91",
+      "przeplyw_data": "2026-01-07 20:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2025-02-13 11:10:00",
       "zjawisko_zarastania": "0",
