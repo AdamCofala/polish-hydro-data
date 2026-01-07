@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-31T09:31:03.975732+00:00",
-    "data": {
-      "id_stacji": "152150090",
-      "stacja": "Santok",
-      "rzeka": "Noteć",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.4178",
-      "lat": "52.7392",
-      "stan_wody": "101",
-      "stan_wody_data_pomiaru": "2025-12-31 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-04 07:11:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-03 07:10:00"
-    }
-  },
-  {
     "timestamp": "2025-12-31T10:28:59.878979+00:00",
     "data": {
       "id_stacji": "152150090",
@@ -4407,6 +4386,27 @@
       "zjawisko_lodowe_data_pomiaru": "2025-12-04 07:11:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2025-11-03 07:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T09:34:53.711539+00:00",
+    "data": {
+      "id_stacji": "152150090",
+      "stacja": "Santok",
+      "rzeka": "Noteć",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.4178",
+      "lat": "52.7392",
+      "stan_wody": "78",
+      "stan_wody_data_pomiaru": "2026-01-07 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "1",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-07 08:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-07 08:30:00"
     }
   }
 ]

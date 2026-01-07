@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2025-12-31T09:31:03.975732+00:00",
-    "data": {
-      "id_stacji": "154200010",
-      "stacja": "Bornity",
-      "rzeka": "Wałsza",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "20.0478",
-      "lat": "54.1858",
-      "stan_wody": "170",
-      "stan_wody_data_pomiaru": "2025-12-31 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.95",
-      "przeplyw_data": "2025-12-31 09:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-15 11:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-10 09:10:00"
-    }
-  },
-  {
     "timestamp": "2025-12-31T10:28:59.878979+00:00",
     "data": {
       "id_stacji": "154200010",
@@ -4424,6 +4403,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.44",
       "przeplyw_data": "2026-01-07 08:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-15 11:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-10 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T09:34:53.711539+00:00",
+    "data": {
+      "id_stacji": "154200010",
+      "stacja": "Bornity",
+      "rzeka": "Wałsza",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "20.0478",
+      "lat": "54.1858",
+      "stan_wody": "196",
+      "stan_wody_data_pomiaru": "2026-01-07 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.59",
+      "przeplyw_data": "2026-01-07 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-15 11:10:00",
       "zjawisko_zarastania": "0",
