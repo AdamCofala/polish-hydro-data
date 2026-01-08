@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-01T12:55:47.826460+00:00",
-    "data": {
-      "id_stacji": "150210140",
-      "stacja": "Brzeźnica",
-      "rzeka": "Wielopolka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.4869",
-      "lat": "50.1064",
-      "stan_wody": "96",
-      "stan_wody_data_pomiaru": "2026-01-01 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1",
-      "przeplyw_data": "2026-01-01 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-08 11:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-08 11:20:00"
-    }
-  },
-  {
     "timestamp": "2026-01-01T13:38:09.613028+00:00",
     "data": {
       "id_stacji": "150210140",
@@ -4298,6 +4277,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.95",
       "przeplyw_data": "2026-01-08 11:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-08 11:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-08 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-08T12:59:52.125945+00:00",
+    "data": {
+      "id_stacji": "150210140",
+      "stacja": "Brzeźnica",
+      "rzeka": "Wielopolka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.4869",
+      "lat": "50.1064",
+      "stan_wody": "96",
+      "stan_wody_data_pomiaru": "2026-01-08 12:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1",
+      "przeplyw_data": "2026-01-08 12:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-08 11:20:00",
       "zjawisko_zarastania": "0",
