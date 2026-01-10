@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-03T15:43:30.611636+00:00",
-    "data": {
-      "id_stacji": "150190070",
-      "stacja": "Szabelnia",
-      "rzeka": "-",
-      "wojewodztwo": "śląskie",
-      "lon": "19.1367",
-      "lat": "50.2594",
-      "stan_wody": "21",
-      "stan_wody_data_pomiaru": "2026-01-03 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2",
-      "przeplyw_data": "2026-01-03 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-29 07:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-24 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-03T16:32:31.300340+00:00",
     "data": {
       "id_stacji": "150190070",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2",
       "przeplyw_data": "2026-01-10 15:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-29 07:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-24 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-10T16:32:14.772806+00:00",
+    "data": {
+      "id_stacji": "150190070",
+      "stacja": "Szabelnia",
+      "rzeka": "-",
+      "wojewodztwo": "śląskie",
+      "lon": "19.1367",
+      "lat": "50.2594",
+      "stan_wody": "20",
+      "stan_wody_data_pomiaru": "2026-01-10 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2",
+      "przeplyw_data": "2026-01-10 16:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-29 07:20:00",
       "zjawisko_zarastania": "0",
