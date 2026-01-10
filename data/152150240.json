@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-03T05:28:19.041253+00:00",
-    "data": {
-      "id_stacji": "152150240",
-      "stacja": "Drawiny",
-      "rzeka": "Drawa",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "15.9778",
-      "lat": "52.8856",
-      "stan_wody": "27",
-      "stan_wody_data_pomiaru": "2026-01-03 05:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "13.6",
-      "przeplyw_data": "2026-01-03 05:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-05 12:20:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-04 12:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-03T05:48:20.174328+00:00",
     "data": {
       "id_stacji": "152150240",
@@ -3794,6 +3773,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "13.4",
       "przeplyw_data": "2026-01-09 22:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-08 12:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-08 12:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-10T05:28:25.036373+00:00",
+    "data": {
+      "id_stacji": "152150240",
+      "stacja": "Drawiny",
+      "rzeka": "Drawa",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "15.9778",
+      "lat": "52.8856",
+      "stan_wody": "24",
+      "stan_wody_data_pomiaru": "2026-01-10 04:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "12.9",
+      "przeplyw_data": "2026-01-10 04:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-08 12:20:00",
       "zjawisko_zarastania": "0",
