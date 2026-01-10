@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-03T05:48:20.174328+00:00",
-    "data": {
-      "id_stacji": "150230080",
-      "stacja": "Michałów",
-      "rzeka": "Wieprz",
-      "wojewodztwo": "lubelskie",
-      "lon": "23.0206",
-      "lat": "50.7342",
-      "stan_wody": "49",
-      "stan_wody_data_pomiaru": "2026-01-03 05:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.59",
-      "przeplyw_data": "2026-01-03 05:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-18 13:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-05 12:20:00"
-    }
-  },
-  {
     "timestamp": "2026-01-03T06:39:43.203606+00:00",
     "data": {
       "id_stacji": "150230080",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.54",
       "przeplyw_data": "2026-01-10 05:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-18 13:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-05 12:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-10T06:38:49.530000+00:00",
+    "data": {
+      "id_stacji": "150230080",
+      "stacja": "Michałów",
+      "rzeka": "Wieprz",
+      "wojewodztwo": "lubelskie",
+      "lon": "23.0206",
+      "lat": "50.7342",
+      "stan_wody": "48",
+      "stan_wody_data_pomiaru": "2026-01-10 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.54",
+      "przeplyw_data": "2026-01-10 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-18 13:00:00",
       "zjawisko_zarastania": "100",
