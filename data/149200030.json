@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-03T10:46:45.871469+00:00",
-    "data": {
-      "id_stacji": "149200030",
-      "stacja": "Nowy Targ",
-      "rzeka": "Czarny Dunajec",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.0311",
-      "lat": "49.4844",
-      "stan_wody": "116",
-      "stan_wody_data_pomiaru": "2026-01-03 10:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.49",
-      "przeplyw_data": "2026-01-03 10:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-11 14:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-11 14:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-03T11:21:53.488191+00:00",
     "data": {
       "id_stacji": "149200030",
@@ -4046,6 +4025,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.3",
       "przeplyw_data": "2026-01-10 10:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-11 14:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-11 14:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-10T11:21:50.667972+00:00",
+    "data": {
+      "id_stacji": "149200030",
+      "stacja": "Nowy Targ",
+      "rzeka": "Czarny Dunajec",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.0311",
+      "lat": "49.4844",
+      "stan_wody": "114",
+      "stan_wody_data_pomiaru": "2026-01-10 10:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.14",
+      "przeplyw_data": "2026-01-10 10:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-11 14:30:00",
       "zjawisko_zarastania": "0",
