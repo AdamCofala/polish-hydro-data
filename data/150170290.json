@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-04T22:46:42.807076+00:00",
-    "data": {
-      "id_stacji": "150170290",
-      "stacja": "Opole - Groszowice",
-      "rzeka": "Odra",
-      "wojewodztwo": "opolskie",
-      "lon": "17.9383",
-      "lat": "50.6342",
-      "stan_wody": "402",
-      "stan_wody_data_pomiaru": "2026-01-04 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1100",
-      "przeplyw_data": "2024-09-17 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-21 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-09 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-04T23:26:13.272733+00:00",
     "data": {
       "id_stacji": "150170290",
@@ -4252,6 +4231,27 @@
       "lat": "50.6342",
       "stan_wody": "400",
       "stan_wody_data_pomiaru": "2026-01-11 22:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1100",
+      "przeplyw_data": "2024-09-17 09:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-05 12:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-05 12:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T23:25:44.022118+00:00",
+    "data": {
+      "id_stacji": "150170290",
+      "stacja": "Opole - Groszowice",
+      "rzeka": "Odra",
+      "wojewodztwo": "opolskie",
+      "lon": "17.9383",
+      "lat": "50.6342",
+      "stan_wody": "401",
+      "stan_wody_data_pomiaru": "2026-01-11 23:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1100",

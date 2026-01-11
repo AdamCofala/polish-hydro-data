@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-04T22:46:42.807076+00:00",
-    "data": {
-      "id_stacji": "151160150",
-      "stacja": "Malczyce",
-      "rzeka": "Odra",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.4928",
-      "lat": "51.2261",
-      "stan_wody": "173",
-      "stan_wody_data_pomiaru": "2026-01-04 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "71.4",
-      "przeplyw_data": "2026-01-04 22:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-16 11:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-16 11:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-04T23:26:13.272733+00:00",
     "data": {
       "id_stacji": "151160150",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "76.3",
       "przeplyw_data": "2026-01-11 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-05 09:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-16 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T23:25:44.022118+00:00",
+    "data": {
+      "id_stacji": "151160150",
+      "stacja": "Malczyce",
+      "rzeka": "Odra",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.4928",
+      "lat": "51.2261",
+      "stan_wody": "181",
+      "stan_wody_data_pomiaru": "2026-01-11 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "77",
+      "przeplyw_data": "2026-01-11 22:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-05 09:00:00",
       "zjawisko_zarastania": "0",
