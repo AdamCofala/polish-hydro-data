@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-04T05:02:37.193538+00:00",
-    "data": {
-      "id_stacji": "149200020",
-      "stacja": "Szaflary",
-      "rzeka": "Biały Dunajec",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.0247",
-      "lat": "49.4242",
-      "stan_wody": "97",
-      "stan_wody_data_pomiaru": "2026-01-04 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.22",
-      "przeplyw_data": "2026-01-04 04:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-11 13:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-07 12:20:00"
-    }
-  },
-  {
     "timestamp": "2026-01-04T05:49:54.020972+00:00",
     "data": {
       "id_stacji": "149200020",
@@ -4235,6 +4214,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.2",
       "przeplyw_data": "2026-01-11 04:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-11 13:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-07 12:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T05:49:02.382513+00:00",
+    "data": {
+      "id_stacji": "149200020",
+      "stacja": "Szaflary",
+      "rzeka": "Biały Dunajec",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.0247",
+      "lat": "49.4242",
+      "stan_wody": "109",
+      "stan_wody_data_pomiaru": "2026-01-11 05:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.19",
+      "przeplyw_data": "2026-01-11 05:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-11 13:50:00",
       "zjawisko_zarastania": "0",
