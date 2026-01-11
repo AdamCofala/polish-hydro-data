@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-04T22:26:23.645408+00:00",
-    "data": {
-      "id_stacji": "149180200",
-      "stacja": "Wisła Czarne",
-      "rzeka": "Czarna Wisełka",
-      "wojewodztwo": "śląskie",
-      "lon": "18.9261",
-      "lat": "49.6075",
-      "stan_wody": "80",
-      "stan_wody_data_pomiaru": "2026-01-04 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.08",
-      "przeplyw_data": "2026-01-04 21:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-12 10:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-12 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-01-04T22:46:42.807076+00:00",
     "data": {
       "id_stacji": "149180200",
@@ -4193,6 +4172,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.045",
       "przeplyw_data": "2026-01-11 21:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-09 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-12 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T22:45:57.924894+00:00",
+    "data": {
+      "id_stacji": "149180200",
+      "stacja": "Wisła Czarne",
+      "rzeka": "Czarna Wisełka",
+      "wojewodztwo": "śląskie",
+      "lon": "18.9261",
+      "lat": "49.6075",
+      "stan_wody": "79",
+      "stan_wody_data_pomiaru": "2026-01-11 22:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.06",
+      "przeplyw_data": "2026-01-11 22:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-09 10:40:00",
       "zjawisko_zarastania": "0",
