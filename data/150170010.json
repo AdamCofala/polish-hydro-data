@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-05T05:58:05.032085+00:00",
-    "data": {
-      "id_stacji": "150170010",
-      "stacja": "Zborowice",
-      "rzeka": "Oława",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "17.1706",
-      "lat": "50.8056",
-      "stan_wody": "143",
-      "stan_wody_data_pomiaru": "2026-01-05 05:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.59",
-      "przeplyw_data": "2026-01-05 05:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-10 08:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-10 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-05T06:53:23.415783+00:00",
     "data": {
       "id_stacji": "150170010",
@@ -4214,6 +4193,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.64",
       "przeplyw_data": "2026-01-12 05:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-10 08:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-10 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-12T06:48:03.729304+00:00",
+    "data": {
+      "id_stacji": "150170010",
+      "stacja": "Zborowice",
+      "rzeka": "Oława",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "17.1706",
+      "lat": "50.8056",
+      "stan_wody": "132",
+      "stan_wody_data_pomiaru": "2026-01-12 06:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.64",
+      "przeplyw_data": "2026-01-12 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-10 08:30:00",
       "zjawisko_zarastania": "0",
