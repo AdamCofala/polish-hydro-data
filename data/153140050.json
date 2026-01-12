@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-05T15:30:50.028174+00:00",
-    "data": {
-      "id_stacji": "153140050",
-      "stacja": "Szczecin",
-      "rzeka": "Odra",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "14.5597",
-      "lat": "53.4225",
-      "stan_wody": "545",
-      "stan_wody_data_pomiaru": "2026-01-05 15:00:00",
-      "temperatura_wody": "0.4",
-      "temperatura_wody_data_pomiaru": "2026-01-05 06:00:00",
-      "przelyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "41",
-      "zjawisko_lodowe_data_pomiaru": "2025-10-07 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-08-24 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-05T16:35:13.615443+00:00",
     "data": {
       "id_stacji": "153140050",
@@ -4231,6 +4210,27 @@
       "lat": "53.4225",
       "stan_wody": "546",
       "stan_wody_data_pomiaru": "2026-01-12 14:00:00",
+      "temperatura_wody": "0",
+      "temperatura_wody_data_pomiaru": "2026-01-12 06:00:00",
+      "przelyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-12 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2023-08-24 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-12T15:33:14.767787+00:00",
+    "data": {
+      "id_stacji": "153140050",
+      "stacja": "Szczecin",
+      "rzeka": "Odra",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "14.5597",
+      "lat": "53.4225",
+      "stan_wody": "544",
+      "stan_wody_data_pomiaru": "2026-01-12 15:00:00",
       "temperatura_wody": "0",
       "temperatura_wody_data_pomiaru": "2026-01-12 06:00:00",
       "przelyw": null,

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-05T15:30:50.028174+00:00",
-    "data": {
-      "id_stacji": "150190160",
-      "stacja": "Oświęcim",
-      "rzeka": "Soła",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.2186",
-      "lat": "50.04",
-      "stan_wody": "262",
-      "stan_wody_data_pomiaru": "2026-01-05 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.96",
-      "przeplyw_data": "2026-01-05 15:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-05 11:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-25 12:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-05T16:35:13.615443+00:00",
     "data": {
       "id_stacji": "150190160",
@@ -4193,6 +4172,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.6",
       "przeplyw_data": "2026-01-12 14:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-05 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-25 12:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-12T15:33:14.767787+00:00",
+    "data": {
+      "id_stacji": "150190160",
+      "stacja": "Oświęcim",
+      "rzeka": "Soła",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.2186",
+      "lat": "50.04",
+      "stan_wody": "260",
+      "stan_wody_data_pomiaru": "2026-01-12 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.6",
+      "przeplyw_data": "2026-01-12 15:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-05 11:40:00",
       "zjawisko_zarastania": "0",
