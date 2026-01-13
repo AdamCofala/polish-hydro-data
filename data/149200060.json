@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-06T07:32:13.956672+00:00",
-    "data": {
-      "id_stacji": "149200060",
-      "stacja": "Mszana Dolna",
-      "rzeka": "Raba",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.0592",
-      "lat": "49.6581",
-      "stan_wody": "126",
-      "stan_wody_data_pomiaru": "2026-01-06 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1",
-      "przeplyw_data": "2026-01-06 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-01-11 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-15 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-01-08T11:27:08.081280+00:00",
     "data": {
       "id_stacji": "149200060",
@@ -560,6 +539,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.56",
       "przeplyw_data": "2026-01-13 07:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-01-11 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-15 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-13T08:39:19.600366+00:00",
+    "data": {
+      "id_stacji": "149200060",
+      "stacja": "Mszana Dolna",
+      "rzeka": "Raba",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.0592",
+      "lat": "49.6581",
+      "stan_wody": "122",
+      "stan_wody_data_pomiaru": "2026-01-13 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.67",
+      "przeplyw_data": "2026-01-13 08:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2023-01-11 10:00:00",
       "zjawisko_zarastania": "0",
