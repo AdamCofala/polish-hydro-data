@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-07T18:41:55.970132+00:00",
-    "data": {
-      "id_stacji": "150220050",
-      "stacja": "Harasiuki",
-      "rzeka": "Tanew",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.4742",
-      "lat": "50.4775",
-      "stan_wody": "90",
-      "stan_wody_data_pomiaru": "2026-01-07 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "5.45",
-      "przeplyw_data": "2026-01-07 17:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-26 09:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2020-06-10 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-07T19:43:41.003469+00:00",
     "data": {
       "id_stacji": "150220050",
@@ -3752,6 +3731,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "5.96",
       "przeplyw_data": "2026-01-14 17:10:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-13 09:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2020-06-10 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-14T18:42:16.503331+00:00",
+    "data": {
+      "id_stacji": "150220050",
+      "stacja": "Harasiuki",
+      "rzeka": "Tanew",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.4742",
+      "lat": "50.4775",
+      "stan_wody": "92",
+      "stan_wody_data_pomiaru": "2026-01-14 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "5.79",
+      "przeplyw_data": "2026-01-14 18:10:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-13 09:20:00",
       "zjawisko_zarastania": "0",
