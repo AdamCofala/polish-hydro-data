@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-08T23:23:59.312256+00:00",
-    "data": {
-      "id_stacji": "149220150",
-      "stacja": "Dwernik",
-      "rzeka": "San",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.6328",
-      "lat": "49.2186",
-      "stan_wody": "110",
-      "stan_wody_data_pomiaru": "2026-01-08 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.72",
-      "przeplyw_data": "2026-01-08 22:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-05 11:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-05 11:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-08T23:42:41.119294+00:00",
     "data": {
       "id_stacji": "149220150",
@@ -4109,6 +4088,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.73",
       "przeplyw_data": "2026-01-15 22:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-05 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-05 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-15T23:28:02.708694+00:00",
+    "data": {
+      "id_stacji": "149220150",
+      "stacja": "Dwernik",
+      "rzeka": "San",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.6328",
+      "lat": "49.2186",
+      "stan_wody": "103",
+      "stan_wody_data_pomiaru": "2026-01-15 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.73",
+      "przeplyw_data": "2026-01-15 22:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-05 11:40:00",
       "zjawisko_zarastania": "0",
