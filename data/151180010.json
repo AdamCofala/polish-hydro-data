@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-09T12:59:03.673854+00:00",
-    "data": {
-      "id_stacji": "151180010",
-      "stacja": "Ołobok",
-      "rzeka": "Ołobok",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "18.0689",
-      "lat": "51.6394",
-      "stan_wody": "70",
-      "stan_wody_data_pomiaru": "2026-01-09 12:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.83",
-      "przeplyw_data": "2026-01-09 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-03 13:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-03 13:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-09T13:45:24.932367+00:00",
     "data": {
       "id_stacji": "151180010",
@@ -4109,6 +4088,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.51",
       "przeplyw_data": "2026-01-16 11:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-13 12:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-03 13:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-16T12:59:01.764937+00:00",
+    "data": {
+      "id_stacji": "151180010",
+      "stacja": "Ołobok",
+      "rzeka": "Ołobok",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "18.0689",
+      "lat": "51.6394",
+      "stan_wody": "87",
+      "stan_wody_data_pomiaru": "2026-01-16 12:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.48",
+      "przeplyw_data": "2026-01-16 12:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-13 12:50:00",
       "zjawisko_zarastania": "0",
