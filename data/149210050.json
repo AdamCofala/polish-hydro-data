@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-10T12:53:07.924000+00:00",
-    "data": {
-      "id_stacji": "149210050",
-      "stacja": "Krajowice",
-      "rzeka": "Wisłoka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.4125",
-      "lat": "49.7722",
-      "stan_wody": "130",
-      "stan_wody_data_pomiaru": "2026-01-10 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "7.3",
-      "przeplyw_data": "2026-01-10 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-18 09:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-18 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-10T13:33:29.116753+00:00",
     "data": {
       "id_stacji": "149210050",
@@ -4151,6 +4130,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "9.61",
       "przeplyw_data": "2026-01-17 12:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-12 12:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-12 12:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-17T13:33:16.508429+00:00",
+    "data": {
+      "id_stacji": "149210050",
+      "stacja": "Krajowice",
+      "rzeka": "Wisłoka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.4125",
+      "lat": "49.7722",
+      "stan_wody": "137",
+      "stan_wody_data_pomiaru": "2026-01-17 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "9.61",
+      "przeplyw_data": "2026-01-17 13:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-12 12:50:00",
       "zjawisko_zarastania": "0",
