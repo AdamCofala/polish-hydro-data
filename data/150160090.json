@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-10T22:26:02.668164+00:00",
-    "data": {
-      "id_stacji": "150160090",
-      "stacja": "Łażany",
-      "rzeka": "Strzegomka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.4925",
-      "lat": "50.9531",
-      "stan_wody": "119",
-      "stan_wody_data_pomiaru": "2026-01-10 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.48",
-      "przeplyw_data": "2026-01-10 21:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-07 10:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-07 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-10T22:45:45.899101+00:00",
     "data": {
       "id_stacji": "150160090",
@@ -4130,6 +4109,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.87",
       "przeplyw_data": "2026-01-17 20:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-07 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-07 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-17T22:26:10.942599+00:00",
+    "data": {
+      "id_stacji": "150160090",
+      "stacja": "Łażany",
+      "rzeka": "Strzegomka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.4925",
+      "lat": "50.9531",
+      "stan_wody": "97",
+      "stan_wody_data_pomiaru": "2026-01-17 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.87",
+      "przeplyw_data": "2026-01-17 21:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-07 10:40:00",
       "zjawisko_zarastania": "0",
