@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-11T07:43:56.027928+00:00",
-    "data": {
-      "id_stacji": "152210030",
-      "stacja": "Maków Mazowiecki",
-      "rzeka": "Orzyc",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.1069",
-      "lat": "52.8608",
-      "stan_wody": "181",
-      "stan_wody_data_pomiaru": "2026-01-11 07:30:00",
-      "temperatura_wody": "-0.1",
-      "temperatura_wody_data_pomiaru": "2026-01-10 06:00:00",
-      "przelyw": "6.77",
-      "przeplyw_data": "2026-01-11 07:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-16 11:50:00",
-      "zjawisko_zarastania": "211",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-23 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-11T08:34:31.204240+00:00",
     "data": {
       "id_stacji": "152210030",
@@ -3731,6 +3710,27 @@
       "temperatura_wody_data_pomiaru": "2026-01-17 06:00:00",
       "przelyw": "6.14",
       "przeplyw_data": "2026-01-18 06:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-14 13:20:00",
+      "zjawisko_zarastania": "211",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-23 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-18T08:34:19.313423+00:00",
+    "data": {
+      "id_stacji": "152210030",
+      "stacja": "Maków Mazowiecki",
+      "rzeka": "Orzyc",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.1069",
+      "lat": "52.8608",
+      "stan_wody": "176",
+      "stan_wody_data_pomiaru": "2026-01-18 08:00:00",
+      "temperatura_wody": "-0.1",
+      "temperatura_wody_data_pomiaru": "2026-01-17 06:00:00",
+      "przelyw": "5.72",
+      "przeplyw_data": "2026-01-18 08:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-14 13:20:00",
       "zjawisko_zarastania": "211",

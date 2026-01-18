@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-11T07:43:56.027928+00:00",
-    "data": {
-      "id_stacji": "150150040",
-      "stacja": "Barcinek",
-      "rzeka": "Kamienica",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.6039",
-      "lat": "50.9439",
-      "stan_wody": "46",
-      "stan_wody_data_pomiaru": "2026-01-11 07:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.49",
-      "przeplyw_data": "2026-01-11 07:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-08 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-07 13:47:00"
-    }
-  },
-  {
     "timestamp": "2026-01-11T08:34:31.204240+00:00",
     "data": {
       "id_stacji": "150150040",
@@ -4172,6 +4151,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.49",
       "przeplyw_data": "2026-01-18 07:10:00",
+      "zjawisko_lodowe": "5",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-16 12:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-07 13:47:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-18T08:34:19.313423+00:00",
+    "data": {
+      "id_stacji": "150150040",
+      "stacja": "Barcinek",
+      "rzeka": "Kamienica",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.6039",
+      "lat": "50.9439",
+      "stan_wody": "50",
+      "stan_wody_data_pomiaru": "2026-01-18 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.49",
+      "przeplyw_data": "2026-01-18 08:10:00",
       "zjawisko_lodowe": "5",
       "zjawisko_lodowe_data_pomiaru": "2026-01-16 12:30:00",
       "zjawisko_zarastania": "0",
