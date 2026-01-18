@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-11T04:02:14.096720+00:00",
-    "data": {
-      "id_stacji": "152230200",
-      "stacja": "Zabuże",
-      "rzeka": "Bug",
-      "wojewodztwo": "mazowieckie",
-      "lon": "23.0489",
-      "lat": "52.3175",
-      "stan_wody": "259",
-      "stan_wody_data_pomiaru": "2026-01-11 03:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "63.6",
-      "przeplyw_data": "2026-01-11 03:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-11 09:00:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-01-11T05:02:01.499025+00:00",
     "data": {
       "id_stacji": "152230200",
@@ -3479,6 +3458,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "48.4",
       "przeplyw_data": "2026-01-18 03:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-11 09:00:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-01-18T04:48:28.537329+00:00",
+    "data": {
+      "id_stacji": "152230200",
+      "stacja": "Zabuże",
+      "rzeka": "Bug",
+      "wojewodztwo": "mazowieckie",
+      "lon": "23.0489",
+      "lat": "52.3175",
+      "stan_wody": "295",
+      "stan_wody_data_pomiaru": "2026-01-18 04:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "48.4",
+      "przeplyw_data": "2026-01-18 04:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-11 09:00:00",
       "zjawisko_zarastania": null,
