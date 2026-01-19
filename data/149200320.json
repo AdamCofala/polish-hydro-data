@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-12T22:45:29.689671+00:00",
-    "data": {
-      "id_stacji": "149200320",
-      "stacja": "Koszyce Wielkie",
-      "rzeka": "Biała",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.9494",
-      "lat": "49.9972",
-      "stan_wody": "94",
-      "stan_wody_data_pomiaru": "2026-01-12 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.7",
-      "przeplyw_data": "2026-01-12 22:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-04 13:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-04 13:50:00"
-    }
-  },
-  {
     "timestamp": "2026-01-12T23:22:19.493702+00:00",
     "data": {
       "id_stacji": "149200320",
@@ -3836,6 +3815,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.87",
       "przeplyw_data": "2026-01-19 22:10:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-15 09:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-04 13:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:49:16.684616+00:00",
+    "data": {
+      "id_stacji": "149200320",
+      "stacja": "Koszyce Wielkie",
+      "rzeka": "Biała",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.9494",
+      "lat": "49.9972",
+      "stan_wody": "80",
+      "stan_wody_data_pomiaru": "2026-01-19 22:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.87",
+      "przeplyw_data": "2026-01-19 22:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-15 09:10:00",
       "zjawisko_zarastania": "0",
