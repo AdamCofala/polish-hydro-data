@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-13T08:39:19.600366+00:00",
-    "data": {
-      "id_stacji": "149220110",
-      "stacja": "Kalnica",
-      "rzeka": "Wetlina",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.4292",
-      "lat": "49.1889",
-      "stan_wody": "280",
-      "stan_wody_data_pomiaru": "2026-01-13 07:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.15",
-      "przeplyw_data": "2026-01-13 06:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-30 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-05-08 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-13T13:58:11.544413+00:00",
     "data": {
       "id_stacji": "149220110",
@@ -3605,6 +3584,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.16",
       "przeplyw_data": "2026-01-20 07:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-30 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-05-08 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-20T08:41:16.222129+00:00",
+    "data": {
+      "id_stacji": "149220110",
+      "stacja": "Kalnica",
+      "rzeka": "Wetlina",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.4292",
+      "lat": "49.1889",
+      "stan_wody": "279",
+      "stan_wody_data_pomiaru": "2026-01-20 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.16",
+      "przeplyw_data": "2026-01-20 08:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2025-12-30 06:00:00",
       "zjawisko_zarastania": "0",
