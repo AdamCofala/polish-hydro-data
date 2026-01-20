@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-13T21:47:10.230424+00:00",
-    "data": {
-      "id_stacji": "152140050",
-      "stacja": "Słubice",
-      "rzeka": "Odra",
-      "wojewodztwo": "-",
-      "lon": "14.5556",
-      "lat": "52.3481",
-      "stan_wody": "144",
-      "stan_wody_data_pomiaru": "2026-01-13 21:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "153",
-      "przeplyw_data": "2026-01-13 21:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-02 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-02 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-13T22:29:13.395043+00:00",
     "data": {
       "id_stacji": "152140050",
@@ -4172,6 +4151,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "184",
       "przeplyw_data": "2026-01-20 21:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-02 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-19 10:27:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-20T22:28:48.178806+00:00",
+    "data": {
+      "id_stacji": "152140050",
+      "stacja": "Słubice",
+      "rzeka": "Odra",
+      "wojewodztwo": "-",
+      "lon": "14.5556",
+      "lat": "52.3481",
+      "stan_wody": "168",
+      "stan_wody_data_pomiaru": "2026-01-20 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "184",
+      "przeplyw_data": "2026-01-20 22:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-02 12:00:00",
       "zjawisko_zarastania": "0",

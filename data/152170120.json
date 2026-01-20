@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-13T21:47:10.230424+00:00",
-    "data": {
-      "id_stacji": "152170120",
-      "stacja": "Samarzewo",
-      "rzeka": "Wrześnica",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.7431",
-      "lat": "52.2233",
-      "stan_wody": "119",
-      "stan_wody_data_pomiaru": "2026-01-13 21:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.52",
-      "przeplyw_data": "2026-01-13 21:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-12 11:00:00",
-      "zjawisko_zarastania": "202",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-12 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-13T22:29:13.395043+00:00",
     "data": {
       "id_stacji": "152170120",
@@ -4172,6 +4151,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.65",
       "przeplyw_data": "2026-01-20 21:10:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 09:10:00",
+      "zjawisko_zarastania": "202",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-12 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-20T22:28:48.178806+00:00",
+    "data": {
+      "id_stacji": "152170120",
+      "stacja": "Samarzewo",
+      "rzeka": "Wrześnica",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.7431",
+      "lat": "52.2233",
+      "stan_wody": "125",
+      "stan_wody_data_pomiaru": "2026-01-20 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.65",
+      "przeplyw_data": "2026-01-20 22:10:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 09:10:00",
       "zjawisko_zarastania": "202",
