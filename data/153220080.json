@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-13T23:25:25.986900+00:00",
-    "data": {
-      "id_stacji": "153220080",
-      "stacja": "Prostki",
-      "rzeka": "Ełk",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "22.4392",
-      "lat": "53.7006",
-      "stan_wody": "100",
-      "stan_wody_data_pomiaru": "2026-01-13 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "7.55",
-      "przeplyw_data": "2026-01-13 22:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-07 08:20:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-21 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-14T02:22:05.839662+00:00",
     "data": {
       "id_stacji": "153220080",
@@ -3458,6 +3437,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "7.85",
       "przeplyw_data": "2026-01-20 21:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-07 08:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-21 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-20T23:29:38.248652+00:00",
+    "data": {
+      "id_stacji": "153220080",
+      "stacja": "Prostki",
+      "rzeka": "Ełk",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "22.4392",
+      "lat": "53.7006",
+      "stan_wody": "165",
+      "stan_wody_data_pomiaru": "2026-01-20 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "7.85",
+      "przeplyw_data": "2026-01-20 22:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-07 08:20:00",
       "zjawisko_zarastania": "100",
