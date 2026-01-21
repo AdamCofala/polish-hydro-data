@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-14T11:46:14.704140+00:00",
-    "data": {
-      "id_stacji": "149200290",
-      "stacja": "Muszyna",
-      "rzeka": "Poprad",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.8853",
-      "lat": "49.35",
-      "stan_wody": "132",
-      "stan_wody_data_pomiaru": "2026-01-14 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "9.42",
-      "przeplyw_data": "2026-01-14 11:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-09 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-09 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-14T13:01:22.304577+00:00",
     "data": {
       "id_stacji": "149200290",
@@ -4151,6 +4130,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "9.36",
       "przeplyw_data": "2026-01-21 11:10:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 10:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-09 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-21T11:49:47.184502+00:00",
+    "data": {
+      "id_stacji": "149200290",
+      "stacja": "Muszyna",
+      "rzeka": "Poprad",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.8853",
+      "lat": "49.35",
+      "stan_wody": "126",
+      "stan_wody_data_pomiaru": "2026-01-21 11:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "9.36",
+      "przeplyw_data": "2026-01-21 11:30:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 10:50:00",
       "zjawisko_zarastania": "0",

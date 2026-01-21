@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-14T11:46:14.704140+00:00",
-    "data": {
-      "id_stacji": "149190120",
-      "stacja": "Czaniec (Kobiernice)",
-      "rzeka": "Soła",
-      "wojewodztwo": "śląskie",
-      "lon": "19.2278",
-      "lat": "49.8483",
-      "stan_wody": "152",
-      "stan_wody_data_pomiaru": "2026-01-14 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.64",
-      "przeplyw_data": "2026-01-14 11:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-11 11:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-08 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-14T13:01:22.304577+00:00",
     "data": {
       "id_stacji": "149190120",
@@ -4174,6 +4153,27 @@
       "przeplyw_data": "2026-01-21 11:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-11 11:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-08 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-21T11:49:47.184502+00:00",
+    "data": {
+      "id_stacji": "149190120",
+      "stacja": "Czaniec (Kobiernice)",
+      "rzeka": "Soła",
+      "wojewodztwo": "śląskie",
+      "lon": "19.2278",
+      "lat": "49.8483",
+      "stan_wody": "147",
+      "stan_wody_data_pomiaru": "2026-01-21 11:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.4",
+      "przeplyw_data": "2026-01-21 11:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-21 11:20:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2025-10-08 09:40:00"
     }
