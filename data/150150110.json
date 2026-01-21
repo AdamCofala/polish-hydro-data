@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-14T20:29:46.511898+00:00",
-    "data": {
-      "id_stacji": "150150110",
-      "stacja": "Kowary",
-      "rzeka": "Jedlica",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.8342",
-      "lat": "50.7947",
-      "stan_wody": "27",
-      "stan_wody_data_pomiaru": "2026-01-14 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.09",
-      "przeplyw_data": "2026-01-14 20:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-07 08:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2019-08-05 08:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-14T20:49:20.695416+00:00",
     "data": {
       "id_stacji": "150150110",
@@ -4130,6 +4109,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.04",
       "przeplyw_data": "2026-01-21 19:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-19 08:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2019-08-05 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-21T20:39:01.890527+00:00",
+    "data": {
+      "id_stacji": "150150110",
+      "stacja": "Kowary",
+      "rzeka": "Jedlica",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.8342",
+      "lat": "50.7947",
+      "stan_wody": "25",
+      "stan_wody_data_pomiaru": "2026-01-21 20:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.04",
+      "przeplyw_data": "2026-01-21 20:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-19 08:20:00",
       "zjawisko_zarastania": "0",
