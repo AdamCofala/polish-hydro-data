@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-14T06:43:41.119912+00:00",
-    "data": {
-      "id_stacji": "149200120",
-      "stacja": "Niedzica",
-      "rzeka": "Niedziczanka",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.3022",
-      "lat": "49.4114",
-      "stan_wody": "131",
-      "stan_wody_data_pomiaru": "2026-01-14 06:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.99",
-      "przeplyw_data": "2026-01-14 06:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-18 10:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-18 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-01-14T07:31:46.196409+00:00",
     "data": {
       "id_stacji": "149200120",
@@ -4151,6 +4130,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.89",
       "przeplyw_data": "2026-01-21 05:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-14 11:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-18 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-21T06:48:15.372251+00:00",
+    "data": {
+      "id_stacji": "149200120",
+      "stacja": "Niedzica",
+      "rzeka": "Niedziczanka",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.3022",
+      "lat": "49.4114",
+      "stan_wody": "128",
+      "stan_wody_data_pomiaru": "2026-01-21 06:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.89",
+      "przeplyw_data": "2026-01-21 06:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-14 11:30:00",
       "zjawisko_zarastania": "0",
