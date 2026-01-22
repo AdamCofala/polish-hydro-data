@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-15T21:47:11.382020+00:00",
-    "data": {
-      "id_stacji": "150170030",
-      "stacja": "Oława 2",
-      "rzeka": "Oława",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "17.2928",
-      "lat": "50.9478",
-      "stan_wody": "143",
-      "stan_wody_data_pomiaru": "2026-01-15 21:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.03",
-      "przeplyw_data": "2026-01-15 21:10:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-12 09:50:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-10 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-15T22:28:54.135014+00:00",
     "data": {
       "id_stacji": "150170030",
@@ -3920,6 +3899,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.54",
       "przeplyw_data": "2026-01-22 21:10:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-22 11:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-22 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-22T21:50:47.202353+00:00",
+    "data": {
+      "id_stacji": "150170030",
+      "stacja": "Oława 2",
+      "rzeka": "Oława",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "17.2928",
+      "lat": "50.9478",
+      "stan_wody": "132",
+      "stan_wody_data_pomiaru": "2026-01-22 21:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.54",
+      "przeplyw_data": "2026-01-22 21:30:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-22 11:20:00",
       "zjawisko_zarastania": "0",
