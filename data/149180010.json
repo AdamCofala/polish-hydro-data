@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-16T21:45:37.387022+00:00",
-    "data": {
-      "id_stacji": "149180010",
-      "stacja": "Krzyżanowice",
-      "rzeka": "Odra",
-      "wojewodztwo": "śląskie",
-      "lon": "18.2872",
-      "lat": "49.9936",
-      "stan_wody": "101",
-      "stan_wody_data_pomiaru": "2026-01-16 21:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "22",
-      "przeplyw_data": "2026-01-16 21:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-09 11:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-28 12:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-16T22:27:43.507316+00:00",
     "data": {
       "id_stacji": "149180010",
@@ -4046,6 +4025,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "17.5",
       "przeplyw_data": "2026-01-23 20:50:00",
+      "zjawisko_lodowe": "1",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-21 13:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-28 12:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-23T21:46:33.034124+00:00",
+    "data": {
+      "id_stacji": "149180010",
+      "stacja": "Krzyżanowice",
+      "rzeka": "Odra",
+      "wojewodztwo": "śląskie",
+      "lon": "18.2872",
+      "lat": "49.9936",
+      "stan_wody": "90",
+      "stan_wody_data_pomiaru": "2026-01-23 21:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "17.5",
+      "przeplyw_data": "2026-01-23 21:10:00",
       "zjawisko_lodowe": "1",
       "zjawisko_lodowe_data_pomiaru": "2026-01-21 13:00:00",
       "zjawisko_zarastania": "0",
