@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-16T13:45:08.754145+00:00",
-    "data": {
-      "id_stacji": "152210020",
-      "stacja": "Piaseczno",
-      "rzeka": "Jeziorka",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.0394",
-      "lat": "52.0633",
-      "stan_wody": "177",
-      "stan_wody_data_pomiaru": "2026-01-16 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.28",
-      "przeplyw_data": "2026-01-16 13:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-12 13:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-21 12:49:00"
-    }
-  },
-  {
     "timestamp": "2026-01-16T14:30:35.556410+00:00",
     "data": {
       "id_stacji": "152210020",
@@ -4046,6 +4025,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.35",
       "przeplyw_data": "2026-01-23 12:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-12 13:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-21 12:49:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-23T13:58:53.376002+00:00",
+    "data": {
+      "id_stacji": "152210020",
+      "stacja": "Piaseczno",
+      "rzeka": "Jeziorka",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.0394",
+      "lat": "52.0633",
+      "stan_wody": "179",
+      "stan_wody_data_pomiaru": "2026-01-23 13:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.35",
+      "przeplyw_data": "2026-01-23 13:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-12 13:10:00",
       "zjawisko_zarastania": "0",
