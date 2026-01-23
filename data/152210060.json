@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-16T15:31:07.370190+00:00",
-    "data": {
-      "id_stacji": "152210060",
-      "stacja": "Zambski Kościelne",
-      "rzeka": "Narew",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.2061",
-      "lat": "52.7561",
-      "stan_wody": "286",
-      "stan_wody_data_pomiaru": "2026-01-16 15:00:00",
-      "temperatura_wody": "0",
-      "temperatura_wody_data_pomiaru": "2026-01-12 06:00:00",
-      "przelyw": "95.4",
-      "przeplyw_data": "2026-01-16 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-26 10:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-02 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-16T16:37:39.860067+00:00",
     "data": {
       "id_stacji": "152210060",
@@ -4067,6 +4046,27 @@
       "temperatura_wody_data_pomiaru": "2026-01-23 06:00:00",
       "przelyw": "94.9",
       "przeplyw_data": "2026-01-23 14:10:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-22 08:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-02 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-23T15:33:40.040016+00:00",
+    "data": {
+      "id_stacji": "152210060",
+      "stacja": "Zambski Kościelne",
+      "rzeka": "Narew",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.2061",
+      "lat": "52.7561",
+      "stan_wody": "266",
+      "stan_wody_data_pomiaru": "2026-01-23 15:00:00",
+      "temperatura_wody": "0.2",
+      "temperatura_wody_data_pomiaru": "2026-01-23 06:00:00",
+      "przelyw": "94.9",
+      "przeplyw_data": "2026-01-23 15:10:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-22 08:50:00",
       "zjawisko_zarastania": "0",

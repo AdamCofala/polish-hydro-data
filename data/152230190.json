@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-16T15:31:07.370190+00:00",
-    "data": {
-      "id_stacji": "152230190",
-      "stacja": "Białowieża",
-      "rzeka": "Narewka",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.8414",
-      "lat": "52.7014",
-      "stan_wody": "104",
-      "stan_wody_data_pomiaru": "2026-01-16 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.82",
-      "przeplyw_data": "2026-01-16 15:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-09 11:10:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-27 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-16T16:37:39.860067+00:00",
     "data": {
       "id_stacji": "152230190",
@@ -4025,6 +4004,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.74",
       "przeplyw_data": "2026-01-23 13:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-21 13:10:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-27 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-23T15:33:40.040016+00:00",
+    "data": {
+      "id_stacji": "152230190",
+      "stacja": "Białowieża",
+      "rzeka": "Narewka",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.8414",
+      "lat": "52.7014",
+      "stan_wody": "101",
+      "stan_wody_data_pomiaru": "2026-01-23 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.76",
+      "przeplyw_data": "2026-01-23 14:50:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-21 13:10:00",
       "zjawisko_zarastania": "100",

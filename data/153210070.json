@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-16T15:31:07.370190+00:00",
-    "data": {
-      "id_stacji": "153210070",
-      "stacja": "Białobrzeg Bliższy",
-      "rzeka": "Omulew",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.4786",
-      "lat": "53.1083",
-      "stan_wody": "118",
-      "stan_wody_data_pomiaru": "2026-01-16 15:00:00",
-      "temperatura_wody": "0.1",
-      "temperatura_wody_data_pomiaru": "2026-01-16 06:00:00",
-      "przelyw": "6.45",
-      "przeplyw_data": "2026-01-16 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-23 08:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-23 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-16T16:37:39.860067+00:00",
     "data": {
       "id_stacji": "153210070",
@@ -4046,6 +4025,27 @@
       "temperatura_wody_data_pomiaru": "2026-01-23 06:00:00",
       "przelyw": "6.5",
       "przeplyw_data": "2026-01-23 14:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-23 08:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-23 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-23T15:33:40.040016+00:00",
+    "data": {
+      "id_stacji": "153210070",
+      "stacja": "Białobrzeg Bliższy",
+      "rzeka": "Omulew",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.4786",
+      "lat": "53.1083",
+      "stan_wody": "123",
+      "stan_wody_data_pomiaru": "2026-01-23 15:00:00",
+      "temperatura_wody": "0",
+      "temperatura_wody_data_pomiaru": "2026-01-23 06:00:00",
+      "przelyw": "6.5",
+      "przeplyw_data": "2026-01-23 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-23 08:30:00",
       "zjawisko_zarastania": "0",
