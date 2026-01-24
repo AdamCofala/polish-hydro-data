@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-17T08:34:04.823531+00:00",
-    "data": {
-      "id_stacji": "150200060",
-      "stacja": "Sierosławice",
-      "rzeka": "Wisła",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.4567",
-      "lat": "50.1319",
-      "stan_wody": "61",
-      "stan_wody_data_pomiaru": "2026-01-17 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "40.5",
-      "przeplyw_data": "2026-01-17 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-08-07 07:01:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-27 13:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-17T09:27:04.328952+00:00",
     "data": {
       "id_stacji": "150200060",
@@ -3626,6 +3605,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "40.5",
       "przeplyw_data": "2026-01-24 06:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-23 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-27 13:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-24T08:34:41.717562+00:00",
+    "data": {
+      "id_stacji": "150200060",
+      "stacja": "Sierosławice",
+      "rzeka": "Wisła",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.4567",
+      "lat": "50.1319",
+      "stan_wody": "60",
+      "stan_wody_data_pomiaru": "2026-01-24 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "40",
+      "przeplyw_data": "2026-01-24 08:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-23 11:40:00",
       "zjawisko_zarastania": "0",
