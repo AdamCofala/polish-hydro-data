@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-17T11:22:32.850579+00:00",
-    "data": {
-      "id_stacji": "149200010",
-      "stacja": "Poronin",
-      "rzeka": "Poroniec",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.0031",
-      "lat": "49.3372",
-      "stan_wody": "133",
-      "stan_wody_data_pomiaru": "2026-01-17 10:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.11",
-      "przeplyw_data": "2026-01-17 10:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-12 07:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-12 07:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-17T12:52:58.807860+00:00",
     "data": {
       "id_stacji": "149200010",
@@ -4025,6 +4004,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.11",
       "przeplyw_data": "2026-01-24 10:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-22 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-12 07:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:23:17.545051+00:00",
+    "data": {
+      "id_stacji": "149200010",
+      "stacja": "Poronin",
+      "rzeka": "Poroniec",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.0031",
+      "lat": "49.3372",
+      "stan_wody": "134",
+      "stan_wody_data_pomiaru": "2026-01-24 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.11",
+      "przeplyw_data": "2026-01-24 10:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-22 12:00:00",
       "zjawisko_zarastania": "0",
