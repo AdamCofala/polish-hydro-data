@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-18T20:29:23.510416+00:00",
-    "data": {
-      "id_stacji": "149190020",
-      "stacja": "Kamesznica",
-      "rzeka": "Bystra",
-      "wojewodztwo": "śląskie",
-      "lon": "19.0697",
-      "lat": "49.5681",
-      "stan_wody": "133",
-      "stan_wody_data_pomiaru": "2026-01-18 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.4",
-      "przeplyw_data": "2026-01-18 20:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-15 09:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-16 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-18T20:47:19.547364+00:00",
     "data": {
       "id_stacji": "149190020",
@@ -4025,6 +4004,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.24",
       "przeplyw_data": "2026-01-25 18:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 08:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-16 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-25T20:31:31.678392+00:00",
+    "data": {
+      "id_stacji": "149190020",
+      "stacja": "Kamesznica",
+      "rzeka": "Bystra",
+      "wojewodztwo": "śląskie",
+      "lon": "19.0697",
+      "lat": "49.5681",
+      "stan_wody": "119",
+      "stan_wody_data_pomiaru": "2026-01-25 20:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.24",
+      "przeplyw_data": "2026-01-25 20:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 08:30:00",
       "zjawisko_zarastania": "0",
