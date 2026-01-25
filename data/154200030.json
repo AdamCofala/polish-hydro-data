@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-18T17:23:25.233618+00:00",
-    "data": {
-      "id_stacji": "154200030",
-      "stacja": "Smolajny",
-      "rzeka": "Łyna",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "20.3969",
-      "lat": "54.0258",
-      "stan_wody": "236",
-      "stan_wody_data_pomiaru": "2026-01-18 17:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "16.2",
-      "przeplyw_data": "2026-01-18 16:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-02-22 13:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-16 10:50:00"
-    }
-  },
-  {
     "timestamp": "2026-01-18T17:43:43.258977+00:00",
     "data": {
       "id_stacji": "154200030",
@@ -4025,6 +4004,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "16.3",
       "przeplyw_data": "2026-01-25 16:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-22 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-16 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-25T17:23:50.236550+00:00",
+    "data": {
+      "id_stacji": "154200030",
+      "stacja": "Smolajny",
+      "rzeka": "Łyna",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "20.3969",
+      "lat": "54.0258",
+      "stan_wody": "221",
+      "stan_wody_data_pomiaru": "2026-01-25 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "16.3",
+      "przeplyw_data": "2026-01-25 16:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-22 11:40:00",
       "zjawisko_zarastania": "0",
