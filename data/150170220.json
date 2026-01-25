@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-18T04:48:28.537329+00:00",
-    "data": {
-      "id_stacji": "150170220",
-      "stacja": "Dobra",
-      "rzeka": "Biała",
-      "wojewodztwo": "opolskie",
-      "lon": "17.8969",
-      "lat": "50.4481",
-      "stan_wody": "73",
-      "stan_wody_data_pomiaru": "2026-01-18 04:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.63",
-      "przeplyw_data": "2026-01-18 04:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-20 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-05 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-18T08:34:19.313423+00:00",
     "data": {
       "id_stacji": "150170220",
@@ -3584,6 +3563,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.41",
       "przeplyw_data": "2026-01-25 03:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-22 09:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-22 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-25T05:05:17.331325+00:00",
+    "data": {
+      "id_stacji": "150170220",
+      "stacja": "Dobra",
+      "rzeka": "Biała",
+      "wojewodztwo": "opolskie",
+      "lon": "17.8969",
+      "lat": "50.4481",
+      "stan_wody": "69",
+      "stan_wody_data_pomiaru": "2026-01-25 04:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.41",
+      "przeplyw_data": "2026-01-25 04:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-22 09:00:00",
       "zjawisko_zarastania": "0",
