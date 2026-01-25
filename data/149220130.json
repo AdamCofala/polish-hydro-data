@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-18T07:26:13.079545+00:00",
-    "data": {
-      "id_stacji": "149220130",
-      "stacja": "Zatwarnica",
-      "rzeka": "San",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.5631",
-      "lat": "49.235",
-      "stan_wody": "125",
-      "stan_wody_data_pomiaru": "2026-01-18 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.1",
-      "przeplyw_data": "2026-01-18 06:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-30 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2024-08-07 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-18T07:42:40.624488+00:00",
     "data": {
       "id_stacji": "149220130",
@@ -3941,6 +3920,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.15",
       "przeplyw_data": "2026-01-25 06:10:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2024-08-07 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-25T07:27:31.590338+00:00",
+    "data": {
+      "id_stacji": "149220130",
+      "stacja": "Zatwarnica",
+      "rzeka": "San",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.5631",
+      "lat": "49.235",
+      "stan_wody": "131",
+      "stan_wody_data_pomiaru": "2026-01-25 07:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.83",
+      "przeplyw_data": "2026-01-25 06:50:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 11:00:00",
       "zjawisko_zarastania": "0",
