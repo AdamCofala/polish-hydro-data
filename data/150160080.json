@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-18T15:26:05.707502+00:00",
-    "data": {
-      "id_stacji": "150160080",
-      "stacja": "Tłumaczów",
-      "rzeka": "Ścinawka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.4361",
-      "lat": "50.5519",
-      "stan_wody": "110",
-      "stan_wody_data_pomiaru": "2026-01-18 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.4",
-      "przeplyw_data": "2026-01-18 14:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-13 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-13 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-18T15:43:30.027112+00:00",
     "data": {
       "id_stacji": "150160080",
@@ -4025,6 +4004,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.1",
       "przeplyw_data": "2026-01-25 14:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-13 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-13 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:27:10.746001+00:00",
+    "data": {
+      "id_stacji": "150160080",
+      "stacja": "Tłumaczów",
+      "rzeka": "Ścinawka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.4361",
+      "lat": "50.5519",
+      "stan_wody": "105",
+      "stan_wody_data_pomiaru": "2026-01-25 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.1",
+      "przeplyw_data": "2026-01-25 14:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-13 10:00:00",
       "zjawisko_zarastania": "0",
