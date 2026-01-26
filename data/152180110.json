@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-19T04:03:03.107237+00:00",
-    "data": {
-      "id_stacji": "152180110",
-      "stacja": "Kościelec",
-      "rzeka": "Kiełbaska",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "18.5753",
-      "lat": "52.1753",
-      "stan_wody": "155",
-      "stan_wody_data_pomiaru": "2026-01-19 03:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.33",
-      "przeplyw_data": "2026-01-19 03:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-11 11:40:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-12 11:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-19T10:36:32.866162+00:00",
     "data": {
       "id_stacji": "152180110",
@@ -3836,6 +3815,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.91",
       "przeplyw_data": "2026-01-26 02:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 12:30:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-12 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-26T04:08:40.484197+00:00",
+    "data": {
+      "id_stacji": "152180110",
+      "stacja": "Kościelec",
+      "rzeka": "Kiełbaska",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "18.5753",
+      "lat": "52.1753",
+      "stan_wody": "144",
+      "stan_wody_data_pomiaru": "2026-01-26 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.91",
+      "przeplyw_data": "2026-01-26 03:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 12:30:00",
       "zjawisko_zarastania": "101",
