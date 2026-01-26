@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-19T10:36:32.866162+00:00",
-    "data": {
-      "id_stacji": "149190050",
-      "stacja": "Rajcza",
-      "rzeka": "Soła",
-      "wojewodztwo": "śląskie",
-      "lon": "19.1164",
-      "lat": "49.5139",
-      "stan_wody": "166",
-      "stan_wody_data_pomiaru": "2026-01-19 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.38",
-      "przeplyw_data": "2026-01-19 10:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-15 11:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-09-21 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-19T11:27:35.222978+00:00",
     "data": {
       "id_stacji": "149190050",
@@ -560,6 +539,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.3",
       "przeplyw_data": "2026-01-23 10:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 08:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2023-09-21 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-26T11:27:09.938162+00:00",
+    "data": {
+      "id_stacji": "149190050",
+      "stacja": "Rajcza",
+      "rzeka": "Soła",
+      "wojewodztwo": "śląskie",
+      "lon": "19.1164",
+      "lat": "49.5139",
+      "stan_wody": "184",
+      "stan_wody_data_pomiaru": "2026-01-26 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.1",
+      "przeplyw_data": "2026-01-26 10:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 08:50:00",
       "zjawisko_zarastania": "0",
