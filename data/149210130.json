@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-20T14:02:03.704698+00:00",
-    "data": {
-      "id_stacji": "149210130",
-      "stacja": "Żarnowa",
-      "rzeka": "Wisłok",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.8175",
-      "lat": "49.8778",
-      "stan_wody": "181",
-      "stan_wody_data_pomiaru": "2026-01-20 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "5.11",
-      "przeplyw_data": "2026-01-20 13:30:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-12 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-12 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-20T14:58:33.342566+00:00",
     "data": {
       "id_stacji": "149210130",
@@ -4025,6 +4004,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "21.4",
       "przeplyw_data": "2026-01-27 12:30:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-12 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-12 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-27T14:02:57.797162+00:00",
+    "data": {
+      "id_stacji": "149210130",
+      "stacja": "Żarnowa",
+      "rzeka": "Wisłok",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.8175",
+      "lat": "49.8778",
+      "stan_wody": "227",
+      "stan_wody_data_pomiaru": "2026-01-27 13:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "22.6",
+      "przeplyw_data": "2026-01-27 13:30:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-12 11:00:00",
       "zjawisko_zarastania": "0",
