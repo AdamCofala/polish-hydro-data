@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-20T03:55:47.901662+00:00",
-    "data": {
-      "id_stacji": "150200120",
-      "stacja": "Morawica",
-      "rzeka": "Czarna Nida",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "20.6167",
-      "lat": "50.7503",
-      "stan_wody": "108",
-      "stan_wody_data_pomiaru": "2026-01-20 03:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.34",
-      "przeplyw_data": "2026-01-20 03:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-12 12:20:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-14 11:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-20T04:52:04.322420+00:00",
     "data": {
       "id_stacji": "150200120",
@@ -1064,6 +1043,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.88",
       "przeplyw_data": "2026-01-27 01:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-21 11:20:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-14 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-27T03:58:22.012789+00:00",
+    "data": {
+      "id_stacji": "150200120",
+      "stacja": "Morawica",
+      "rzeka": "Czarna Nida",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "20.6167",
+      "lat": "50.7503",
+      "stan_wody": "123",
+      "stan_wody_data_pomiaru": "2026-01-27 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.88",
+      "przeplyw_data": "2026-01-27 03:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-21 11:20:00",
       "zjawisko_zarastania": "1",
