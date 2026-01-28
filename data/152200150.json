@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-21T11:30:11.290440+00:00",
-    "data": {
-      "id_stacji": "152200150",
-      "stacja": "Wychódźc",
-      "rzeka": "Wisła",
-      "wojewodztwo": "mazowieckie",
-      "lon": "20.4228",
-      "lat": "52.3939",
-      "stan_wody": "353",
-      "stan_wody_data_pomiaru": "2026-01-21 11:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "451",
-      "przeplyw_data": "2026-01-21 11:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-09 08:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-09 08:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-21T11:49:47.184502+00:00",
     "data": {
       "id_stacji": "152200150",
@@ -4046,6 +4025,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "454",
       "przeplyw_data": "2026-01-28 11:10:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 09:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-09 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T11:48:34.272272+00:00",
+    "data": {
+      "id_stacji": "152200150",
+      "stacja": "Wychódźc",
+      "rzeka": "Wisła",
+      "wojewodztwo": "mazowieckie",
+      "lon": "20.4228",
+      "lat": "52.3939",
+      "stan_wody": "357",
+      "stan_wody_data_pomiaru": "2026-01-28 11:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "454",
+      "przeplyw_data": "2026-01-28 11:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-28 09:40:00",
       "zjawisko_zarastania": "0",
