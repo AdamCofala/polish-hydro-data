@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-21T04:51:13.910932+00:00",
-    "data": {
-      "id_stacji": "152140130",
-      "stacja": "Połęcko",
-      "rzeka": "Odra",
-      "wojewodztwo": "lubuskie",
-      "lon": "14.8922",
-      "lat": "52.0525",
-      "stan_wody": "105",
-      "stan_wody_data_pomiaru": "2026-01-21 04:30:00",
-      "temperatura_wody": "8.4",
-      "temperatura_wody_data_pomiaru": "2025-11-18 06:00:00",
-      "przelyw": "144",
-      "przeplyw_data": "2026-01-21 04:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-18 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-07 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-21T05:35:08.510489+00:00",
     "data": {
       "id_stacji": "152140130",
@@ -4025,6 +4004,27 @@
       "temperatura_wody_data_pomiaru": "2025-11-18 06:00:00",
       "przelyw": "135",
       "przeplyw_data": "2026-01-28 04:30:00",
+      "zjawisko_lodowe": "1",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-25 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-07 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-28T05:35:05.032884+00:00",
+    "data": {
+      "id_stacji": "152140130",
+      "stacja": "Połęcko",
+      "rzeka": "Odra",
+      "wojewodztwo": "lubuskie",
+      "lon": "14.8922",
+      "lat": "52.0525",
+      "stan_wody": "96",
+      "stan_wody_data_pomiaru": "2026-01-28 05:00:00",
+      "temperatura_wody": "8.4",
+      "temperatura_wody_data_pomiaru": "2025-11-18 06:00:00",
+      "przelyw": "131",
+      "przeplyw_data": "2026-01-28 05:10:00",
       "zjawisko_lodowe": "1",
       "zjawisko_lodowe_data_pomiaru": "2026-01-25 06:00:00",
       "zjawisko_zarastania": "0",
