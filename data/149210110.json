@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-22T18:43:11.161832+00:00",
-    "data": {
-      "id_stacji": "149210110",
-      "stacja": "Krosno",
-      "rzeka": "Wisłok",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.7747",
-      "lat": "49.6939",
-      "stan_wody": "177",
-      "stan_wody_data_pomiaru": "2026-01-22 18:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.7",
-      "przeplyw_data": "2026-01-22 18:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-22 08:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-22 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-22T19:30:18.418584+00:00",
     "data": {
       "id_stacji": "149210110",
@@ -3983,6 +3962,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "11.2",
       "przeplyw_data": "2026-01-29 17:30:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-22 08:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-22 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:10:26.824490+00:00",
+    "data": {
+      "id_stacji": "149210110",
+      "stacja": "Krosno",
+      "rzeka": "Wisłok",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.7747",
+      "lat": "49.6939",
+      "stan_wody": "226",
+      "stan_wody_data_pomiaru": "2026-01-29 18:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "11",
+      "przeplyw_data": "2026-01-29 18:50:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-22 08:30:00",
       "zjawisko_zarastania": "0",
