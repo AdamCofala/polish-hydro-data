@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-23T03:53:50.461041+00:00",
-    "data": {
-      "id_stacji": "149180060",
-      "stacja": "Cieszyn",
-      "rzeka": "Olza",
-      "wojewodztwo": "śląskie",
-      "lon": "18.6297",
-      "lat": "49.7458",
-      "stan_wody": "18",
-      "stan_wody_data_pomiaru": "2026-01-23 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.42",
-      "przeplyw_data": "2026-01-23 02:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-15 11:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2021-05-20 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-23T04:49:39.539991+00:00",
     "data": {
       "id_stacji": "149180060",
@@ -3899,6 +3878,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.5",
       "przeplyw_data": "2026-01-30 02:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-23 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2021-05-20 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-30T04:45:28.167145+00:00",
+    "data": {
+      "id_stacji": "149180060",
+      "stacja": "Cieszyn",
+      "rzeka": "Olza",
+      "wojewodztwo": "śląskie",
+      "lon": "18.6297",
+      "lat": "49.7458",
+      "stan_wody": "26",
+      "stan_wody_data_pomiaru": "2026-01-30 04:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.78",
+      "przeplyw_data": "2026-01-30 04:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-23 10:00:00",
       "zjawisko_zarastania": "0",
