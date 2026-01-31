@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-24T03:48:21.050492+00:00",
-    "data": {
-      "id_stacji": "149200250",
-      "stacja": "Nowy Sącz",
-      "rzeka": "Kamienica",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.6958",
-      "lat": "49.6253",
-      "stan_wody": "83",
-      "stan_wody_data_pomiaru": "2026-01-24 03:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.84",
-      "przeplyw_data": "2026-01-24 03:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-23 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-23 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-24T04:39:45.024160+00:00",
     "data": {
       "id_stacji": "149200250",
@@ -3752,6 +3731,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2",
       "przeplyw_data": "2026-01-31 02:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-29 16:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-23 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-31T04:38:52.821549+00:00",
+    "data": {
+      "id_stacji": "149200250",
+      "stacja": "Nowy Sącz",
+      "rzeka": "Kamienica",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.6958",
+      "lat": "49.6253",
+      "stan_wody": "92",
+      "stan_wody_data_pomiaru": "2026-01-31 03:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.85",
+      "przeplyw_data": "2026-01-31 04:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-29 16:30:00",
       "zjawisko_zarastania": "0",
