@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-24T14:26:07.623970+00:00",
-    "data": {
-      "id_stacji": "150150080",
-      "stacja": "Jelenia Góra",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.7214",
-      "lat": "50.9108",
-      "stan_wody": "86",
-      "stan_wody_data_pomiaru": "2026-01-24 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6.9",
-      "przeplyw_data": "2026-01-24 13:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-16 08:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-10-05 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-24T15:26:55.427437+00:00",
     "data": {
       "id_stacji": "150150080",
@@ -3185,6 +3164,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "5.8",
       "przeplyw_data": "2026-01-31 12:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-16 08:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2023-10-05 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-31T14:34:06.150496+00:00",
+    "data": {
+      "id_stacji": "150150080",
+      "stacja": "Jelenia Góra",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.7214",
+      "lat": "50.9108",
+      "stan_wody": "85",
+      "stan_wody_data_pomiaru": "2026-01-31 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "5.8",
+      "przeplyw_data": "2026-01-31 13:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-16 08:10:00",
       "zjawisko_zarastania": "0",
