@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-24T20:28:52.408129+00:00",
-    "data": {
-      "id_stacji": "149220070",
-      "stacja": "Hoczew",
-      "rzeka": "Hoczewka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.3283",
-      "lat": "49.4239",
-      "stan_wody": "120",
-      "stan_wody_data_pomiaru": "2026-01-24 19:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.69",
-      "przeplyw_data": "2026-01-24 20:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-12 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2024-08-22 07:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-24T20:46:36.445898+00:00",
     "data": {
       "id_stacji": "149220070",
@@ -3668,6 +3647,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.05",
       "przeplyw_data": "2026-01-31 19:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-29 11:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2024-08-22 07:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-31T20:33:25.868975+00:00",
+    "data": {
+      "id_stacji": "149220070",
+      "stacja": "Hoczew",
+      "rzeka": "Hoczewka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.3283",
+      "lat": "49.4239",
+      "stan_wody": "114",
+      "stan_wody_data_pomiaru": "2026-01-31 20:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.89",
+      "przeplyw_data": "2026-01-31 20:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-29 11:30:00",
       "zjawisko_zarastania": "0",
