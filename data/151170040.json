@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-24T22:26:30.819578+00:00",
-    "data": {
-      "id_stacji": "151170040",
-      "stacja": "Łąki",
-      "rzeka": "Barycz",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "17.1464",
-      "lat": "51.4931",
-      "stan_wody": "115",
-      "stan_wody_data_pomiaru": "2026-01-24 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.1",
-      "przeplyw_data": "2026-01-24 21:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-21 09:40:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-21 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-24T22:46:14.095012+00:00",
     "data": {
       "id_stacji": "151170040",
@@ -3668,6 +3647,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.72",
       "przeplyw_data": "2026-01-31 21:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-21 09:40:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-21 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-31T22:30:21.030816+00:00",
+    "data": {
+      "id_stacji": "151170040",
+      "stacja": "Łąki",
+      "rzeka": "Barycz",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "17.1464",
+      "lat": "51.4931",
+      "stan_wody": "105",
+      "stan_wody_data_pomiaru": "2026-01-31 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.72",
+      "przeplyw_data": "2026-01-31 22:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-21 09:40:00",
       "zjawisko_zarastania": "1",
