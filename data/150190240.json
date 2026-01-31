@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-24T18:38:20.395511+00:00",
-    "data": {
-      "id_stacji": "150190240",
-      "stacja": "Kręciwilk",
-      "rzeka": "Warta",
-      "wojewodztwo": "śląskie",
-      "lon": "19.3703",
-      "lat": "50.5453",
-      "stan_wody": "20",
-      "stan_wody_data_pomiaru": "2026-01-24 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.49",
-      "przeplyw_data": "2026-01-24 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-14 11:40:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-09 10:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-24T19:21:53.828340+00:00",
     "data": {
       "id_stacji": "150190240",
@@ -3647,6 +3626,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.49",
       "przeplyw_data": "2026-01-31 17:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-27 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-27 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-01-31T18:42:14.079900+00:00",
+    "data": {
+      "id_stacji": "150190240",
+      "stacja": "Kręciwilk",
+      "rzeka": "Warta",
+      "wojewodztwo": "śląskie",
+      "lon": "19.3703",
+      "lat": "50.5453",
+      "stan_wody": "20",
+      "stan_wody_data_pomiaru": "2026-01-31 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.49",
+      "przeplyw_data": "2026-01-31 18:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-27 10:10:00",
       "zjawisko_zarastania": "0",
