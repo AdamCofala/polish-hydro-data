@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-25T06:41:07.688099+00:00",
-    "data": {
-      "id_stacji": "151180130",
-      "stacja": "Działoszyn",
-      "rzeka": "Warta",
-      "wojewodztwo": "łódzkie",
-      "lon": "18.8733",
-      "lat": "51.1103",
-      "stan_wody": "413",
-      "stan_wody_data_pomiaru": "2026-01-25 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "10.4",
-      "przeplyw_data": "2026-01-25 06:10:00",
-      "zjawisko_lodowe": "1",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-20 07:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-10 08:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-25T07:27:31.590338+00:00",
     "data": {
       "id_stacji": "151180130",
@@ -3626,6 +3605,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "9.81",
       "przeplyw_data": "2026-02-01 05:50:00",
+      "zjawisko_lodowe": "1",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 07:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-10 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-01T07:22:02.014122+00:00",
+    "data": {
+      "id_stacji": "151180130",
+      "stacja": "Działoszyn",
+      "rzeka": "Warta",
+      "wojewodztwo": "łódzkie",
+      "lon": "18.8733",
+      "lat": "51.1103",
+      "stan_wody": "409",
+      "stan_wody_data_pomiaru": "2026-02-01 07:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "9.25",
+      "przeplyw_data": "2026-02-01 06:50:00",
       "zjawisko_lodowe": "1",
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 07:40:00",
       "zjawisko_zarastania": "0",
