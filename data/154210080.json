@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-25T22:27:16.150789+00:00",
-    "data": {
-      "id_stacji": "154210080",
-      "stacja": "Prynowo",
-      "rzeka": "Węgorapa",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "21.72",
-      "lat": "54.2442",
-      "stan_wody": "198",
-      "stan_wody_data_pomiaru": "2026-01-25 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6.71",
-      "przeplyw_data": "2026-01-25 21:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-04 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-19 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-25T22:47:40.196191+00:00",
     "data": {
       "id_stacji": "154210080",
@@ -3563,6 +3542,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "6.14",
       "przeplyw_data": "2026-02-01 21:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-29 11:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-19 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-01T22:32:42.905388+00:00",
+    "data": {
+      "id_stacji": "154210080",
+      "stacja": "Prynowo",
+      "rzeka": "Węgorapa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "21.72",
+      "lat": "54.2442",
+      "stan_wody": "192",
+      "stan_wody_data_pomiaru": "2026-02-01 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "6.14",
+      "przeplyw_data": "2026-02-01 22:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-29 11:30:00",
       "zjawisko_zarastania": "0",
