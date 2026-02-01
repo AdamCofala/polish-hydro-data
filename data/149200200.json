@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-25T21:25:37.095525+00:00",
-    "data": {
-      "id_stacji": "149200200",
-      "stacja": "Jakubkowice",
-      "rzeka": "Łososina",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.63",
-      "lat": "49.7394",
-      "stan_wody": "54",
-      "stan_wody_data_pomiaru": "2026-01-25 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.78",
-      "przeplyw_data": "2026-01-25 20:50:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-08 12:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-08 12:50:00"
-    }
-  },
-  {
     "timestamp": "2026-01-25T21:43:35.963914+00:00",
     "data": {
       "id_stacji": "149200200",
@@ -3395,6 +3374,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.55",
       "przeplyw_data": "2026-02-01 20:10:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-08 12:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-08 12:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-01T21:29:57.872221+00:00",
+    "data": {
+      "id_stacji": "149200200",
+      "stacja": "Jakubkowice",
+      "rzeka": "Łososina",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.63",
+      "lat": "49.7394",
+      "stan_wody": "50",
+      "stan_wody_data_pomiaru": "2026-02-01 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.2",
+      "przeplyw_data": "2026-02-01 21:10:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-08 12:50:00",
       "zjawisko_zarastania": "0",

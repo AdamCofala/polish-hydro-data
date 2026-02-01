@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-25T21:25:37.095525+00:00",
-    "data": {
-      "id_stacji": "151190120",
-      "stacja": "Dąbrowa",
-      "rzeka": "Czarna",
-      "wojewodztwo": "łódzkie",
-      "lon": "19.9717",
-      "lat": "51.3139",
-      "stan_wody": "258",
-      "stan_wody_data_pomiaru": "2026-01-25 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.72",
-      "przeplyw_data": "2026-01-25 20:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-02 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-25T21:43:35.963914+00:00",
     "data": {
       "id_stacji": "151190120",
@@ -3563,6 +3542,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.38",
       "przeplyw_data": "2026-02-01 20:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-30 08:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-02 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-01T21:29:57.872221+00:00",
+    "data": {
+      "id_stacji": "151190120",
+      "stacja": "Dąbrowa",
+      "rzeka": "Czarna",
+      "wojewodztwo": "łódzkie",
+      "lon": "19.9717",
+      "lat": "51.3139",
+      "stan_wody": "256",
+      "stan_wody_data_pomiaru": "2026-02-01 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.65",
+      "przeplyw_data": "2026-02-01 21:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-30 08:10:00",
       "zjawisko_zarastania": "0",
