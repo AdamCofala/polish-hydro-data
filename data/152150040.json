@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-25T13:37:10.120218+00:00",
-    "data": {
-      "id_stacji": "152150040",
-      "stacja": "Gorzów Wielkopolski",
-      "rzeka": "Warta",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.2531",
-      "lat": "52.73",
-      "stan_wody": "329",
-      "stan_wody_data_pomiaru": "2026-01-25 13:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "126",
-      "przeplyw_data": "2026-01-25 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-09 11:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-09 11:50:00"
-    }
-  },
-  {
     "timestamp": "2026-01-25T14:25:53.391875+00:00",
     "data": {
       "id_stacji": "152150040",
@@ -3605,6 +3584,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "125",
       "przeplyw_data": "2026-02-01 12:30:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-29 07:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-29 07:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-01T13:59:26.447179+00:00",
+    "data": {
+      "id_stacji": "152150040",
+      "stacja": "Gorzów Wielkopolski",
+      "rzeka": "Warta",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.2531",
+      "lat": "52.73",
+      "stan_wody": "349",
+      "stan_wody_data_pomiaru": "2026-02-01 13:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "125",
+      "przeplyw_data": "2026-02-01 13:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-29 07:20:00",
       "zjawisko_zarastania": "0",
