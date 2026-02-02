@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-26T08:41:42.404365+00:00",
-    "data": {
-      "id_stacji": "153230170",
-      "stacja": "Nowosiółki",
-      "rzeka": "Supraśl",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.53",
-      "lat": "53.1733",
-      "stan_wody": "145",
-      "stan_wody_data_pomiaru": "2026-01-26 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.86",
-      "przeplyw_data": "2026-01-26 08:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-20 07:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-18 11:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-26T09:41:07.301046+00:00",
     "data": {
       "id_stacji": "153230170",
@@ -3479,6 +3458,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.56",
       "przeplyw_data": "2026-02-02 07:30:00",
+      "zjawisko_lodowe": "41",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 11:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-18 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-02T08:53:58.546852+00:00",
+    "data": {
+      "id_stacji": "153230170",
+      "stacja": "Nowosiółki",
+      "rzeka": "Supraśl",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.53",
+      "lat": "53.1733",
+      "stan_wody": "139",
+      "stan_wody_data_pomiaru": "2026-02-02 08:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.56",
+      "przeplyw_data": "2026-02-02 08:30:00",
       "zjawisko_lodowe": "41",
       "zjawisko_lodowe_data_pomiaru": "2026-01-28 11:50:00",
       "zjawisko_zarastania": "0",

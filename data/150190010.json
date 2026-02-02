@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-26T08:41:42.404365+00:00",
-    "data": {
-      "id_stacji": "150190010",
-      "stacja": "Brynica",
-      "rzeka": "Brynica",
-      "wojewodztwo": "śląskie",
-      "lon": "19.0006",
-      "lat": "50.4725",
-      "stan_wody": "152",
-      "stan_wody_data_pomiaru": "2026-01-26 08:00:00",
-      "temperatura_wody": "1.4",
-      "temperatura_wody_data_pomiaru": "2026-01-25 06:00:00",
-      "przelyw": "0.31",
-      "przeplyw_data": "2026-01-26 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-12 10:30:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-18 08:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-26T09:41:07.301046+00:00",
     "data": {
       "id_stacji": "150190010",
@@ -3479,6 +3458,27 @@
       "temperatura_wody_data_pomiaru": "2026-02-01 06:00:00",
       "przelyw": "0.26",
       "przeplyw_data": "2026-02-02 07:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-12 10:30:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-18 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-02T08:53:58.546852+00:00",
+    "data": {
+      "id_stacji": "150190010",
+      "stacja": "Brynica",
+      "rzeka": "Brynica",
+      "wojewodztwo": "śląskie",
+      "lon": "19.0006",
+      "lat": "50.4725",
+      "stan_wody": "147",
+      "stan_wody_data_pomiaru": "2026-02-02 08:30:00",
+      "temperatura_wody": "0.6",
+      "temperatura_wody_data_pomiaru": "2026-02-01 06:00:00",
+      "przelyw": "0.26",
+      "przeplyw_data": "2026-02-02 08:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-12 10:30:00",
       "zjawisko_zarastania": "100",
