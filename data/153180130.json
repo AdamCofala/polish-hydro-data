@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-26T09:41:07.301046+00:00",
-    "data": {
-      "id_stacji": "153180130",
-      "stacja": "Kwidzyn",
-      "rzeka": "Liwa",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.9114",
-      "lat": "53.7222",
-      "stan_wody": "164",
-      "stan_wody_data_pomiaru": "2026-01-26 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "4.62",
-      "przeplyw_data": "2026-01-26 09:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-20 11:30:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-03 11:50:00"
-    }
-  },
-  {
     "timestamp": "2026-01-26T10:34:31.594632+00:00",
     "data": {
       "id_stacji": "153180130",
@@ -3479,6 +3458,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.61",
       "przeplyw_data": "2026-02-02 08:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 11:30:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-03 11:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-02T09:59:02.610135+00:00",
+    "data": {
+      "id_stacji": "153180130",
+      "stacja": "Kwidzyn",
+      "rzeka": "Liwa",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.9114",
+      "lat": "53.7222",
+      "stan_wody": "147",
+      "stan_wody_data_pomiaru": "2026-02-02 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.66",
+      "przeplyw_data": "2026-02-02 09:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 11:30:00",
       "zjawisko_zarastania": "1",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-26T09:41:07.301046+00:00",
-    "data": {
-      "id_stacji": "151190060",
-      "stacja": "Bobry",
-      "rzeka": "Warta",
-      "wojewodztwo": "łódzkie",
-      "lon": "19.4053",
-      "lat": "51.0253",
-      "stan_wody": "87",
-      "stan_wody_data_pomiaru": "2026-01-26 09:00:00",
-      "temperatura_wody": "-0.4",
-      "temperatura_wody_data_pomiaru": "2026-01-21 06:00:00",
-      "przelyw": "6.36",
-      "przeplyw_data": "2026-01-26 09:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-05 10:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-22 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-26T10:34:31.594632+00:00",
     "data": {
       "id_stacji": "151190060",
@@ -3458,6 +3437,27 @@
       "temperatura_wody_data_pomiaru": "2026-02-01 06:00:00",
       "przelyw": "10.8",
       "przeplyw_data": "2026-02-02 08:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-29 10:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-22 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-02T09:59:02.610135+00:00",
+    "data": {
+      "id_stacji": "151190060",
+      "stacja": "Bobry",
+      "rzeka": "Warta",
+      "wojewodztwo": "łódzkie",
+      "lon": "19.4053",
+      "lat": "51.0253",
+      "stan_wody": "94",
+      "stan_wody_data_pomiaru": "2026-02-02 09:30:00",
+      "temperatura_wody": "-0.1",
+      "temperatura_wody_data_pomiaru": "2026-02-01 06:00:00",
+      "przelyw": "8.79",
+      "przeplyw_data": "2026-02-02 09:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-29 10:00:00",
       "zjawisko_zarastania": "100",
