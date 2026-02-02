@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-26T17:36:05.426801+00:00",
-    "data": {
-      "id_stacji": "149190290",
-      "stacja": "Jordanów",
-      "rzeka": "Skawa",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.83",
-      "lat": "49.6364",
-      "stan_wody": "152",
-      "stan_wody_data_pomiaru": "2026-01-26 17:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.32",
-      "przeplyw_data": "2026-01-26 17:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-21 10:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-01 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-26T18:46:46.061524+00:00",
     "data": {
       "id_stacji": "149190290",
@@ -3458,6 +3437,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.22",
       "przeplyw_data": "2026-02-02 16:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-21 10:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-01 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-02T18:06:06.248981+00:00",
+    "data": {
+      "id_stacji": "149190290",
+      "stacja": "Jordanów",
+      "rzeka": "Skawa",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.83",
+      "lat": "49.6364",
+      "stan_wody": "149",
+      "stan_wody_data_pomiaru": "2026-02-02 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.22",
+      "przeplyw_data": "2026-02-02 17:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-21 10:30:00",
       "zjawisko_zarastania": "0",

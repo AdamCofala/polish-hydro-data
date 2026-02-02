@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-26T17:36:05.426801+00:00",
-    "data": {
-      "id_stacji": "152210170",
-      "stacja": "Warszawa-Bulwary",
-      "rzeka": "Wisła",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.0208",
-      "lat": "52.2472",
-      "stan_wody": "171",
-      "stan_wody_data_pomiaru": "2026-01-26 17:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "269",
-      "przeplyw_data": "2026-01-26 17:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-26 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-07-04 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-26T18:46:46.061524+00:00",
     "data": {
       "id_stacji": "152210170",
@@ -3458,6 +3437,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "280",
       "przeplyw_data": "2026-02-02 16:50:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-02 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-07-04 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-02T18:06:06.248981+00:00",
+    "data": {
+      "id_stacji": "152210170",
+      "stacja": "Warszawa-Bulwary",
+      "rzeka": "Wisła",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.0208",
+      "lat": "52.2472",
+      "stan_wody": "204",
+      "stan_wody_data_pomiaru": "2026-02-02 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "280",
+      "przeplyw_data": "2026-02-02 17:30:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-02-02 06:00:00",
       "zjawisko_zarastania": "0",

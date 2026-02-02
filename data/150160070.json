@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-26T17:36:05.426801+00:00",
-    "data": {
-      "id_stacji": "150160070",
-      "stacja": "Lubachów",
-      "rzeka": "Bystrzyca",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.4311",
-      "lat": "50.7658",
-      "stan_wody": "185",
-      "stan_wody_data_pomiaru": "2026-01-26 17:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.9",
-      "przeplyw_data": "2026-01-26 17:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-15 09:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-15 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-26T18:46:46.061524+00:00",
     "data": {
       "id_stacji": "150160070",
@@ -3458,6 +3437,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.25",
       "przeplyw_data": "2026-02-02 16:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-15 09:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-15 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-02T18:06:06.248981+00:00",
+    "data": {
+      "id_stacji": "150160070",
+      "stacja": "Lubachów",
+      "rzeka": "Bystrzyca",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.4311",
+      "lat": "50.7658",
+      "stan_wody": "140",
+      "stan_wody_data_pomiaru": "2026-02-02 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.25",
+      "przeplyw_data": "2026-02-02 17:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-15 09:40:00",
       "zjawisko_zarastania": "0",
