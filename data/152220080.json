@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-26T15:37:48.429897+00:00",
-    "data": {
-      "id_stacji": "152220080",
-      "stacja": "Suraż",
-      "rzeka": "Narew",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.955",
-      "lat": "52.9489",
-      "stan_wody": "142",
-      "stan_wody_data_pomiaru": "2026-01-26 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6.34",
-      "przeplyw_data": "2026-01-26 15:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-26 06:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-03 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-26T16:42:07.938678+00:00",
     "data": {
       "id_stacji": "152220080",
@@ -3374,6 +3353,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "6.35",
       "przeplyw_data": "2026-02-02 14:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-26 06:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-03 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-02T16:00:54.858216+00:00",
+    "data": {
+      "id_stacji": "152220080",
+      "stacja": "Suraż",
+      "rzeka": "Narew",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.955",
+      "lat": "52.9489",
+      "stan_wody": "145",
+      "stan_wody_data_pomiaru": "2026-02-02 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "6.35",
+      "przeplyw_data": "2026-02-02 15:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-26 06:00:00",
       "zjawisko_zarastania": "100",
