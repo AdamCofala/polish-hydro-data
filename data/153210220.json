@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27T06:46:56.708444+00:00",
-    "data": {
-      "id_stacji": "153210220",
-      "stacja": "Dobrylas",
-      "rzeka": "Pisa",
-      "wojewodztwo": "podlaskie",
-      "lon": "21.8647",
-      "lat": "53.2858",
-      "stan_wody": "209",
-      "stan_wody_data_pomiaru": "2026-01-27 06:30:00",
-      "temperatura_wody": "0.9",
-      "temperatura_wody_data_pomiaru": "2026-01-25 06:00:00",
-      "przelyw": "23.8",
-      "przeplyw_data": "2026-01-27 06:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-27 06:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-21 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-27T07:34:16.249449+00:00",
     "data": {
       "id_stacji": "153210220",
@@ -3166,6 +3145,27 @@
       "przeplyw_data": "2026-02-03 05:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-02 06:00:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-21 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-03T07:03:01.052488+00:00",
+    "data": {
+      "id_stacji": "153210220",
+      "stacja": "Dobrylas",
+      "rzeka": "Pisa",
+      "wojewodztwo": "podlaskie",
+      "lon": "21.8647",
+      "lat": "53.2858",
+      "stan_wody": "154",
+      "stan_wody_data_pomiaru": "2026-02-03 06:30:00",
+      "temperatura_wody": "0.9",
+      "temperatura_wody_data_pomiaru": "2026-01-25 06:00:00",
+      "przelyw": "24",
+      "przeplyw_data": "2026-02-03 06:30:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-03 06:00:00",
       "zjawisko_zarastania": "200",
       "zjawisko_zarastania_data_pomiaru": "2025-10-21 10:40:00"
     }

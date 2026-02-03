@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27T06:46:56.708444+00:00",
-    "data": {
-      "id_stacji": "150170090",
-      "stacja": "Brzeg (most)",
-      "rzeka": "Odra",
-      "wojewodztwo": "opolskie",
-      "lon": "17.4694",
-      "lat": "50.8656",
-      "stan_wody": "145",
-      "stan_wody_data_pomiaru": "2026-01-27 06:30:00",
-      "temperatura_wody": "0.3",
-      "temperatura_wody_data_pomiaru": "2026-01-26 06:00:00",
-      "przelyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-21 09:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-21 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-27T07:34:16.249449+00:00",
     "data": {
       "id_stacji": "150170090",
@@ -3265,6 +3244,27 @@
       "lat": "50.8656",
       "stan_wody": "175",
       "stan_wody_data_pomiaru": "2026-02-03 05:30:00",
+      "temperatura_wody": "0",
+      "temperatura_wody_data_pomiaru": "2026-02-02 06:00:00",
+      "przelyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 09:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-28 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-03T07:03:01.052488+00:00",
+    "data": {
+      "id_stacji": "150170090",
+      "stacja": "Brzeg (most)",
+      "rzeka": "Odra",
+      "wojewodztwo": "opolskie",
+      "lon": "17.4694",
+      "lat": "50.8656",
+      "stan_wody": "177",
+      "stan_wody_data_pomiaru": "2026-02-03 06:30:00",
       "temperatura_wody": "0",
       "temperatura_wody_data_pomiaru": "2026-02-02 06:00:00",
       "przelyw": null,
