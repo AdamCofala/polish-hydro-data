@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27T09:40:12.571506+00:00",
-    "data": {
-      "id_stacji": "150150100",
-      "stacja": "Wojanów",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.8269",
-      "lat": "50.8703",
-      "stan_wody": "110",
-      "stan_wody_data_pomiaru": "2026-01-27 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.41",
-      "przeplyw_data": "2026-01-27 09:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-12 08:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-05-13 15:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-27T10:36:05.623647+00:00",
     "data": {
       "id_stacji": "150150100",
@@ -3269,6 +3248,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.32",
       "przeplyw_data": "2026-02-03 08:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-03 08:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-05-13 15:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-03T10:07:22.922068+00:00",
+    "data": {
+      "id_stacji": "150150100",
+      "stacja": "Wojanów",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.8269",
+      "lat": "50.8703",
+      "stan_wody": "99",
+      "stan_wody_data_pomiaru": "2026-02-03 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.32",
+      "przeplyw_data": "2026-02-03 09:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-03 08:10:00",
       "zjawisko_zarastania": "0",
