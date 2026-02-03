@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27T22:28:59.643258+00:00",
-    "data": {
-      "id_stacji": "153180090",
-      "stacja": "Toruń",
-      "rzeka": "Wisła",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "18.6075",
-      "lat": "53.0078",
-      "stan_wody": "152",
-      "stan_wody_data_pomiaru": "2026-01-27 22:00:00",
-      "temperatura_wody": "0.5",
-      "temperatura_wody_data_pomiaru": "2026-01-27 06:00:00",
-      "przelyw": "448",
-      "przeplyw_data": "2026-01-27 22:10:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-24 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-27 10:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-27T22:50:03.862608+00:00",
     "data": {
       "id_stacji": "153180090",
@@ -2240,6 +2219,27 @@
       "temperatura_wody_data_pomiaru": "2026-02-02 06:00:00",
       "przelyw": "1330",
       "przeplyw_data": "2026-02-03 21:30:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-30 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-27 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-03T22:45:43.869758+00:00",
+    "data": {
+      "id_stacji": "153180090",
+      "stacja": "Toruń",
+      "rzeka": "Wisła",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lon": "18.6075",
+      "lat": "53.0078",
+      "stan_wody": "335",
+      "stan_wody_data_pomiaru": "2026-02-03 22:30:00",
+      "temperatura_wody": "0",
+      "temperatura_wody_data_pomiaru": "2026-02-02 06:00:00",
+      "przelyw": "1340",
+      "przeplyw_data": "2026-02-03 22:10:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-30 10:40:00",
       "zjawisko_zarastania": "0",
