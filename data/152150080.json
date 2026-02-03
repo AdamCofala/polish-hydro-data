@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27T07:34:16.249449+00:00",
-    "data": {
-      "id_stacji": "152150080",
-      "stacja": "Santok 2",
-      "rzeka": "Warta",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.3967",
-      "lat": "52.7336",
-      "stan_wody": "349",
-      "stan_wody_data_pomiaru": "2026-01-27 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-22 07:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-22 07:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-27T08:41:20.170792+00:00",
     "data": {
       "id_stacji": "152150080",
@@ -3273,6 +3252,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-01-29 09:20:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2026-01-29 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-03T08:01:57.315661+00:00",
+    "data": {
+      "id_stacji": "152150080",
+      "stacja": "Santok 2",
+      "rzeka": "Warta",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.3967",
+      "lat": "52.7336",
+      "stan_wody": "289",
+      "stan_wody_data_pomiaru": "2026-02-03 07:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-03 07:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-03 07:30:00"
     }
   }
 ]

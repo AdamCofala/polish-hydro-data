@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27T07:34:16.249449+00:00",
-    "data": {
-      "id_stacji": "149200130",
-      "stacja": "Stradomka",
-      "rzeka": "Stradomka",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.3083",
-      "lat": "49.9206",
-      "stan_wody": "67",
-      "stan_wody_data_pomiaru": "2026-01-27 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.14",
-      "przeplyw_data": "2026-01-27 07:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-16 12:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-07 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-27T08:41:20.170792+00:00",
     "data": {
       "id_stacji": "149200130",
@@ -3269,6 +3248,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.68",
       "przeplyw_data": "2026-02-03 06:30:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 08:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-07 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-03T08:01:57.315661+00:00",
+    "data": {
+      "id_stacji": "149200130",
+      "stacja": "Stradomka",
+      "rzeka": "Stradomka",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.3083",
+      "lat": "49.9206",
+      "stan_wody": "40",
+      "stan_wody_data_pomiaru": "2026-02-03 07:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.61",
+      "przeplyw_data": "2026-02-03 07:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-28 08:20:00",
       "zjawisko_zarastania": "0",
