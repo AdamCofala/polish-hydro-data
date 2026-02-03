@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27T16:38:30.968381+00:00",
-    "data": {
-      "id_stacji": "151180180",
-      "stacja": "Grabno",
-      "rzeka": "Grabia",
-      "wojewodztwo": "łódzkie",
-      "lon": "18.9853",
-      "lat": "51.4583",
-      "stan_wody": "132",
-      "stan_wody_data_pomiaru": "2026-01-27 15:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.88",
-      "przeplyw_data": "2026-01-27 16:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-08 10:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-02 10:50:00"
-    }
-  },
-  {
     "timestamp": "2026-01-27T17:34:39.628643+00:00",
     "data": {
       "id_stacji": "151180180",
@@ -3227,6 +3206,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.76",
       "przeplyw_data": "2026-02-03 15:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-08 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-02 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-03T17:31:20.911774+00:00",
+    "data": {
+      "id_stacji": "151180180",
+      "stacja": "Grabno",
+      "rzeka": "Grabia",
+      "wojewodztwo": "łódzkie",
+      "lon": "18.9853",
+      "lat": "51.4583",
+      "stan_wody": "150",
+      "stan_wody_data_pomiaru": "2026-02-03 16:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.77",
+      "przeplyw_data": "2026-02-03 17:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-08 10:40:00",
       "zjawisko_zarastania": "0",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27T16:38:30.968381+00:00",
-    "data": {
-      "id_stacji": "150150090",
-      "stacja": "Łomnica",
-      "rzeka": "Łomnica",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.8031",
-      "lat": "50.8764",
-      "stan_wody": "226",
-      "stan_wody_data_pomiaru": "2026-01-27 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.4",
-      "przeplyw_data": "2026-01-27 16:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-30 10:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2023-07-12 12:10:00"
-    }
-  },
-  {
     "timestamp": "2026-01-27T17:34:39.628643+00:00",
     "data": {
       "id_stacji": "150150090",
@@ -3248,6 +3227,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.02",
       "przeplyw_data": "2026-02-03 15:50:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-03 08:50:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2023-07-12 12:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-03T17:31:20.911774+00:00",
+    "data": {
+      "id_stacji": "150150090",
+      "stacja": "Łomnica",
+      "rzeka": "Łomnica",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.8031",
+      "lat": "50.8764",
+      "stan_wody": "222",
+      "stan_wody_data_pomiaru": "2026-02-03 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.02",
+      "przeplyw_data": "2026-02-03 17:10:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-02-03 08:50:00",
       "zjawisko_zarastania": "100",
