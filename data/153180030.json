@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27T10:36:05.623647+00:00",
-    "data": {
-      "id_stacji": "153180030",
-      "stacja": "Bożepole",
-      "rzeka": "Wierzyca",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.2311",
-      "lat": "53.9764",
-      "stan_wody": "77",
-      "stan_wody_data_pomiaru": "2026-01-27 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.81",
-      "przeplyw_data": "2026-01-27 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2019-01-30 10:10:00",
-      "zjawisko_zarastania": "111",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-02 11:20:00"
-    }
-  },
-  {
     "timestamp": "2026-01-27T11:29:00.394298+00:00",
     "data": {
       "id_stacji": "153180030",
@@ -3248,6 +3227,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.59",
       "przeplyw_data": "2026-02-03 09:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2019-01-30 10:10:00",
+      "zjawisko_zarastania": "111",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-02 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-03T11:08:20.121457+00:00",
+    "data": {
+      "id_stacji": "153180030",
+      "stacja": "Bożepole",
+      "rzeka": "Wierzyca",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.2311",
+      "lat": "53.9764",
+      "stan_wody": "70",
+      "stan_wody_data_pomiaru": "2026-02-03 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.59",
+      "przeplyw_data": "2026-02-03 10:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2019-01-30 10:10:00",
       "zjawisko_zarastania": "111",

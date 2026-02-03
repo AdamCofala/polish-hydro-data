@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27T10:36:05.623647+00:00",
-    "data": {
-      "id_stacji": "153210140",
-      "stacja": "Szkwa",
-      "rzeka": "Szkwa",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.6858",
-      "lat": "53.1803",
-      "stan_wody": "373",
-      "stan_wody_data_pomiaru": "2026-01-27 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.81",
-      "przeplyw_data": "2026-01-27 10:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-20 09:10:00",
-      "zjawisko_zarastania": "111",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-21 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-27T11:29:00.394298+00:00",
     "data": {
       "id_stacji": "153210140",
@@ -3017,6 +2996,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.65",
       "przeplyw_data": "2026-02-03 09:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-11-20 09:10:00",
+      "zjawisko_zarastania": "111",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-21 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-03T11:08:20.121457+00:00",
+    "data": {
+      "id_stacji": "153210140",
+      "stacja": "Szkwa",
+      "rzeka": "Szkwa",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.6858",
+      "lat": "53.1803",
+      "stan_wody": "369",
+      "stan_wody_data_pomiaru": "2026-02-03 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.62",
+      "przeplyw_data": "2026-02-03 10:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-11-20 09:10:00",
       "zjawisko_zarastania": "111",

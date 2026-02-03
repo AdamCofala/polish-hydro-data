@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27T10:36:05.623647+00:00",
-    "data": {
-      "id_stacji": "151200090",
-      "stacja": "Nowe Miasto/Pilicą",
-      "rzeka": "Pilica",
-      "wojewodztwo": "mazowieckie",
-      "lon": "20.5733",
-      "lat": "51.6092",
-      "stan_wody": "98",
-      "stan_wody_data_pomiaru": "2026-01-27 09:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "23.9",
-      "przeplyw_data": "2026-01-27 10:10:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-21 10:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-20 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-27T11:29:00.394298+00:00",
     "data": {
       "id_stacji": "151200090",
@@ -3269,6 +3248,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "23.9",
       "przeplyw_data": "2026-02-03 09:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-30 14:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-20 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-03T11:08:20.121457+00:00",
+    "data": {
+      "id_stacji": "151200090",
+      "stacja": "Nowe Miasto/Pilicą",
+      "rzeka": "Pilica",
+      "wojewodztwo": "mazowieckie",
+      "lon": "20.5733",
+      "lat": "51.6092",
+      "stan_wody": "83",
+      "stan_wody_data_pomiaru": "2026-02-03 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "23.9",
+      "przeplyw_data": "2026-02-03 10:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-30 14:10:00",
       "zjawisko_zarastania": "0",

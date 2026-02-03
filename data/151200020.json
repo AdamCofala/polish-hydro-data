@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-27T10:36:05.623647+00:00",
-    "data": {
-      "id_stacji": "151200020",
-      "stacja": "Spała",
-      "rzeka": "Pilica",
-      "wojewodztwo": "łódzkie",
-      "lon": "20.1339",
-      "lat": "51.5372",
-      "stan_wody": "18",
-      "stan_wody_data_pomiaru": "2026-01-27 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "12.7",
-      "przeplyw_data": "2026-01-27 10:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-31 09:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-02 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-01-27T11:29:00.394298+00:00",
     "data": {
       "id_stacji": "151200020",
@@ -3269,6 +3248,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "26.5",
       "przeplyw_data": "2026-02-03 09:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-30 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-02 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-03T11:08:20.121457+00:00",
+    "data": {
+      "id_stacji": "151200020",
+      "stacja": "Spała",
+      "rzeka": "Pilica",
+      "wojewodztwo": "łódzkie",
+      "lon": "20.1339",
+      "lat": "51.5372",
+      "stan_wody": "59",
+      "stan_wody_data_pomiaru": "2026-02-03 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "27.4",
+      "przeplyw_data": "2026-02-03 10:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-30 10:40:00",
       "zjawisko_zarastania": "0",
