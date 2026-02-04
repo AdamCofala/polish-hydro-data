@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-28T16:48:00.505165+00:00",
-    "data": {
-      "id_stacji": "150180190",
-      "stacja": "Krupski Młyn",
-      "rzeka": "Mała Panew",
-      "wojewodztwo": "śląskie",
-      "lon": "18.6244",
-      "lat": "50.5711",
-      "stan_wody": "26",
-      "stan_wody_data_pomiaru": "2026-01-28 16:30:00",
-      "temperatura_wody": "2.8",
-      "temperatura_wody_data_pomiaru": "2026-01-28 06:00:00",
-      "przelyw": "1.68",
-      "przeplyw_data": "2026-01-28 16:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-22 09:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-04 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-28T17:38:08.781805+00:00",
     "data": {
       "id_stacji": "150180190",
@@ -3122,6 +3101,27 @@
       "temperatura_wody_data_pomiaru": "2026-02-04 06:00:00",
       "przelyw": "1.46",
       "przeplyw_data": "2026-02-04 15:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-22 09:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-04 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T17:26:04.678599+00:00",
+    "data": {
+      "id_stacji": "150180190",
+      "stacja": "Krupski Młyn",
+      "rzeka": "Mała Panew",
+      "wojewodztwo": "śląskie",
+      "lon": "18.6244",
+      "lat": "50.5711",
+      "stan_wody": "23",
+      "stan_wody_data_pomiaru": "2026-02-04 17:00:00",
+      "temperatura_wody": "0.4",
+      "temperatura_wody_data_pomiaru": "2026-02-04 06:00:00",
+      "przelyw": "1.46",
+      "przeplyw_data": "2026-02-04 16:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-22 09:00:00",
       "zjawisko_zarastania": "100",
