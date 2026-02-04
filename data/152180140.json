@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-28T09:40:39.722097+00:00",
-    "data": {
-      "id_stacji": "152180140",
-      "stacja": "Grzegorzew",
-      "rzeka": "Rgilewka",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "18.7428",
-      "lat": "52.2",
-      "stan_wody": "109",
-      "stan_wody_data_pomiaru": "2026-01-28 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.61",
-      "przeplyw_data": "2026-01-28 09:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-20 11:20:00",
-      "zjawisko_zarastania": "202",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-20 11:20:00"
-    }
-  },
-  {
     "timestamp": "2026-01-28T10:36:26.289183+00:00",
     "data": {
       "id_stacji": "152180140",
@@ -3143,6 +3122,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.27",
       "przeplyw_data": "2026-02-04 08:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 11:20:00",
+      "zjawisko_zarastania": "202",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-20 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T10:09:46.695331+00:00",
+    "data": {
+      "id_stacji": "152180140",
+      "stacja": "Grzegorzew",
+      "rzeka": "Rgilewka",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "18.7428",
+      "lat": "52.2",
+      "stan_wody": "102",
+      "stan_wody_data_pomiaru": "2026-02-04 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.27",
+      "przeplyw_data": "2026-02-04 09:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 11:20:00",
       "zjawisko_zarastania": "202",
