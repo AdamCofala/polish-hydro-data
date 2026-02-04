@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-28T07:33:01.890373+00:00",
-    "data": {
-      "id_stacji": "152200090",
-      "stacja": "Krubice",
-      "rzeka": "Utrata",
-      "wojewodztwo": "mazowieckie",
-      "lon": "20.4517",
-      "lat": "52.2397",
-      "stan_wody": "122",
-      "stan_wody_data_pomiaru": "2026-01-28 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.49",
-      "przeplyw_data": "2026-01-28 07:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-14 09:00:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-13 11:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-28T08:41:28.255272+00:00",
     "data": {
       "id_stacji": "152200090",
@@ -3038,6 +3017,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.64",
       "przeplyw_data": "2026-02-04 06:30:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 09:30:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-13 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T08:02:41.705504+00:00",
+    "data": {
+      "id_stacji": "152200090",
+      "stacja": "Krubice",
+      "rzeka": "Utrata",
+      "wojewodztwo": "mazowieckie",
+      "lon": "20.4517",
+      "lat": "52.2397",
+      "stan_wody": "115",
+      "stan_wody_data_pomiaru": "2026-02-04 07:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.67",
+      "przeplyw_data": "2026-02-04 07:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-28 09:30:00",
       "zjawisko_zarastania": "1",

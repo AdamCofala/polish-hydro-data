@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-28T07:33:01.890373+00:00",
-    "data": {
-      "id_stacji": "151140040",
-      "stacja": "Przewóz",
-      "rzeka": "Nysa Łużycka",
-      "wojewodztwo": "lubuskie",
-      "lon": "14.9469",
-      "lat": "51.4722",
-      "stan_wody": "102",
-      "stan_wody_data_pomiaru": "2026-01-28 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "12.7",
-      "przeplyw_data": "2026-01-28 07:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-14 09:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-17 10:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-28T08:41:28.255272+00:00",
     "data": {
       "id_stacji": "151140040",
@@ -3143,6 +3122,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "10.2",
       "przeplyw_data": "2026-02-04 06:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-14 09:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-17 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T08:02:41.705504+00:00",
+    "data": {
+      "id_stacji": "151140040",
+      "stacja": "Przewóz",
+      "rzeka": "Nysa Łużycka",
+      "wojewodztwo": "lubuskie",
+      "lon": "14.9469",
+      "lat": "51.4722",
+      "stan_wody": "94",
+      "stan_wody_data_pomiaru": "2026-02-04 07:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "10.2",
+      "przeplyw_data": "2026-02-04 07:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-14 09:50:00",
       "zjawisko_zarastania": "0",
