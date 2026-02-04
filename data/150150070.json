@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-28T13:05:20.135738+00:00",
-    "data": {
-      "id_stacji": "150150070",
-      "stacja": "Jelenia Góra 2",
-      "rzeka": "Kamienna",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.7222",
-      "lat": "50.8986",
-      "stan_wody": "57",
-      "stan_wody_data_pomiaru": "2026-01-28 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.88",
-      "przeplyw_data": "2026-01-28 12:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2025-11-28 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2020-02-27 16:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-28T14:02:29.954982+00:00",
     "data": {
       "id_stacji": "150150070",
@@ -3101,6 +3080,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.56",
       "przeplyw_data": "2026-02-04 11:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-03 10:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2020-02-27 16:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T13:19:48.700921+00:00",
+    "data": {
+      "id_stacji": "150150070",
+      "stacja": "Jelenia Góra 2",
+      "rzeka": "Kamienna",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.7222",
+      "lat": "50.8986",
+      "stan_wody": "56",
+      "stan_wody_data_pomiaru": "2026-02-04 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.7",
+      "przeplyw_data": "2026-02-04 12:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-03 10:30:00",
       "zjawisko_zarastania": "0",
