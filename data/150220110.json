@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-28T10:36:26.289183+00:00",
-    "data": {
-      "id_stacji": "150220110",
-      "stacja": "Biłgoraj",
-      "rzeka": "Biała Łada",
-      "wojewodztwo": "lubelskie",
-      "lon": "22.7153",
-      "lat": "50.5422",
-      "stan_wody": "78",
-      "stan_wody_data_pomiaru": "2026-01-28 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.77",
-      "przeplyw_data": "2026-01-28 10:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-13 08:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2021-08-27 07:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-28T11:28:54.610670+00:00",
     "data": {
       "id_stacji": "150220110",
@@ -1799,6 +1778,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.17",
       "przeplyw_data": "2026-02-02 06:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-13 08:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2021-08-27 07:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-04T11:08:33.187423+00:00",
+    "data": {
+      "id_stacji": "150220110",
+      "stacja": "Biłgoraj",
+      "rzeka": "Biała Łada",
+      "wojewodztwo": "lubelskie",
+      "lon": "22.7153",
+      "lat": "50.5422",
+      "stan_wody": "76",
+      "stan_wody_data_pomiaru": "2026-02-04 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.72",
+      "przeplyw_data": "2026-02-04 10:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-13 08:10:00",
       "zjawisko_zarastania": "0",
