@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-29T19:53:27.286054+00:00",
-    "data": {
-      "id_stacji": "153180100",
-      "stacja": "Grudziądz",
-      "rzeka": "Wisła",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "18.7453",
-      "lat": "53.485",
-      "stan_wody": "320",
-      "stan_wody_data_pomiaru": "2026-01-29 19:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1110",
-      "przeplyw_data": "2026-01-29 19:30:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-28 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-07 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-01-29T20:38:16.567950+00:00",
     "data": {
       "id_stacji": "153180100",
@@ -3101,6 +3080,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "930",
       "przeplyw_data": "2026-02-05 18:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-30 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-07 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T19:59:04.358237+00:00",
+    "data": {
+      "id_stacji": "153180100",
+      "stacja": "Grudziądz",
+      "rzeka": "Wisła",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lon": "18.7453",
+      "lat": "53.485",
+      "stan_wody": "288",
+      "stan_wody_data_pomiaru": "2026-02-05 19:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "930",
+      "przeplyw_data": "2026-02-05 19:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-30 06:00:00",
       "zjawisko_zarastania": "0",
