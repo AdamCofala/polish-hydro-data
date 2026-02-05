@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-29T15:06:43.940070+00:00",
-    "data": {
-      "id_stacji": "151180120",
-      "stacja": "Burzenin",
-      "rzeka": "Warta",
-      "wojewodztwo": "łódzkie",
-      "lon": "18.8378",
-      "lat": "51.4583",
-      "stan_wody": "77",
-      "stan_wody_data_pomiaru": "2026-01-29 14:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "13.2",
-      "przeplyw_data": "2026-01-29 14:30:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-20 09:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-10 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-29T16:03:27.704933+00:00",
     "data": {
       "id_stacji": "151180120",
@@ -3101,6 +3080,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "12.4",
       "przeplyw_data": "2026-02-05 13:50:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 09:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-10 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T15:21:17.976805+00:00",
+    "data": {
+      "id_stacji": "151180120",
+      "stacja": "Burzenin",
+      "rzeka": "Warta",
+      "wojewodztwo": "łódzkie",
+      "lon": "18.8378",
+      "lat": "51.4583",
+      "stan_wody": "128",
+      "stan_wody_data_pomiaru": "2026-02-05 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "12.2",
+      "przeplyw_data": "2026-02-05 14:50:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 09:30:00",
       "zjawisko_zarastania": "0",
