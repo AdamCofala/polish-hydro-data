@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-29T13:12:17.942218+00:00",
-    "data": {
-      "id_stacji": "151180140",
-      "stacja": "Podgórze",
-      "rzeka": "Widawka",
-      "wojewodztwo": "łódzkie",
-      "lon": "18.9431",
-      "lat": "51.465",
-      "stan_wody": "114",
-      "stan_wody_data_pomiaru": "2026-01-29 12:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6.38",
-      "przeplyw_data": "2026-01-29 12:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-27 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-10 11:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-29T14:10:51.154626+00:00",
     "data": {
       "id_stacji": "151180140",
@@ -2828,6 +2807,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "5.96",
       "przeplyw_data": "2026-02-05 11:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 12:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-10 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T13:17:33.571690+00:00",
+    "data": {
+      "id_stacji": "151180140",
+      "stacja": "Podgórze",
+      "rzeka": "Widawka",
+      "wojewodztwo": "łódzkie",
+      "lon": "18.9431",
+      "lat": "51.465",
+      "stan_wody": "118",
+      "stan_wody_data_pomiaru": "2026-02-05 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "6.09",
+      "przeplyw_data": "2026-02-05 12:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 12:20:00",
       "zjawisko_zarastania": "0",
