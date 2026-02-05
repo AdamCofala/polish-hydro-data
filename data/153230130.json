@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-29T04:43:59.256092+00:00",
-    "data": {
-      "id_stacji": "153230130",
-      "stacja": "Harasimowicze",
-      "rzeka": "Sidra",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.4489",
-      "lat": "53.6625",
-      "stan_wody": "484",
-      "stan_wody_data_pomiaru": "2026-01-29 04:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.58",
-      "przeplyw_data": "2026-01-29 03:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-13 11:10:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-16 07:30:00"
-    }
-  },
-  {
     "timestamp": "2026-01-29T05:50:48.507824+00:00",
     "data": {
       "id_stacji": "153230130",
@@ -2807,6 +2786,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.31",
       "przeplyw_data": "2026-02-05 01:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 09:50:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-16 07:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-05T04:54:07.813512+00:00",
+    "data": {
+      "id_stacji": "153230130",
+      "stacja": "Harasimowicze",
+      "rzeka": "Sidra",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.4489",
+      "lat": "53.6625",
+      "stan_wody": "466",
+      "stan_wody_data_pomiaru": "2026-02-05 04:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.31",
+      "przeplyw_data": "2026-02-05 03:50:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 09:50:00",
       "zjawisko_zarastania": "100",
