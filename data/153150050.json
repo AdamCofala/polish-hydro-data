@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-30T08:50:10.418634+00:00",
-    "data": {
-      "id_stacji": "153150050",
-      "stacja": "Resko",
-      "rzeka": "Rega",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "15.3953",
-      "lat": "53.7728",
-      "stan_wody": "312",
-      "stan_wody_data_pomiaru": "2026-01-30 08:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6",
-      "przeplyw_data": "2026-01-30 08:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-12 11:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-18 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-01-30T09:48:12.031449+00:00",
     "data": {
       "id_stacji": "153150050",
@@ -3101,6 +3080,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "7.58",
       "przeplyw_data": "2026-02-06 07:30:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-05 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-18 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-06T09:10:13.509866+00:00",
+    "data": {
+      "id_stacji": "153150050",
+      "stacja": "Resko",
+      "rzeka": "Rega",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "15.3953",
+      "lat": "53.7728",
+      "stan_wody": "332",
+      "stan_wody_data_pomiaru": "2026-02-06 08:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "7.58",
+      "przeplyw_data": "2026-02-06 08:50:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-02-05 06:00:00",
       "zjawisko_zarastania": "0",
