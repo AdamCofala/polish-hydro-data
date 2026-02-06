@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-30T06:59:58.525388+00:00",
-    "data": {
-      "id_stacji": "152200030",
-      "stacja": "Wyszogród",
-      "rzeka": "Wisła",
-      "wojewodztwo": "mazowieckie",
-      "lon": "20.1931",
-      "lat": "52.3847",
-      "stan_wody": "369",
-      "stan_wody_data_pomiaru": "2026-01-30 06:30:00",
-      "temperatura_wody": "0.2",
-      "temperatura_wody_data_pomiaru": "2026-01-29 06:00:00",
-      "przelyw": "466",
-      "przeplyw_data": "2026-01-30 06:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-30 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-07-15 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-30T09:48:12.031449+00:00",
     "data": {
       "id_stacji": "152200030",
@@ -3061,6 +3040,27 @@
       "przeplyw_data": "2026-02-06 05:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-05 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-07-15 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-06T07:08:04.214951+00:00",
+    "data": {
+      "id_stacji": "152200030",
+      "stacja": "Wyszogród",
+      "rzeka": "Wisła",
+      "wojewodztwo": "mazowieckie",
+      "lon": "20.1931",
+      "lat": "52.3847",
+      "stan_wody": "350",
+      "stan_wody_data_pomiaru": "2026-02-06 06:30:00",
+      "temperatura_wody": "0.2",
+      "temperatura_wody_data_pomiaru": "2026-02-06 06:00:00",
+      "przelyw": "470",
+      "przeplyw_data": "2026-02-06 06:30:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-06 06:00:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2025-07-15 09:00:00"
     }
