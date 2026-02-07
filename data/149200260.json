@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-31T11:26:43.759979+00:00",
-    "data": {
-      "id_stacji": "149200260",
-      "stacja": "Nowy Sącz 1",
-      "rzeka": "Łubinka",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.7047",
-      "lat": "49.6353",
-      "stan_wody": "206",
-      "stan_wody_data_pomiaru": "2026-01-31 11:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.5",
-      "przeplyw_data": "2026-01-31 10:50:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-08 07:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-08 07:50:00"
-    }
-  },
-  {
     "timestamp": "2026-01-31T11:46:20.869509+00:00",
     "data": {
       "id_stacji": "149200260",
@@ -3101,6 +3080,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.79",
       "przeplyw_data": "2026-02-07 10:10:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-02 09:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-08 07:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-07T11:27:53.964572+00:00",
+    "data": {
+      "id_stacji": "149200260",
+      "stacja": "Nowy Sącz 1",
+      "rzeka": "Łubinka",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.7047",
+      "lat": "49.6353",
+      "stan_wody": "211",
+      "stan_wody_data_pomiaru": "2026-02-07 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.73",
+      "przeplyw_data": "2026-02-07 10:50:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-02 09:50:00",
       "zjawisko_zarastania": "0",
