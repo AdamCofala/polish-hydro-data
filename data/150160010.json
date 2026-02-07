@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-31T17:29:08.454474+00:00",
-    "data": {
-      "id_stacji": "150160010",
-      "stacja": "Kamienna Góra",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.0361",
-      "lat": "50.7864",
-      "stan_wody": "66",
-      "stan_wody_data_pomiaru": "2026-01-31 16:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.18",
-      "przeplyw_data": "2026-01-31 17:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-28 08:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2024-09-15 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-31T17:52:06.198102+00:00",
     "data": {
       "id_stacji": "150160010",
@@ -3101,6 +3080,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.26",
       "przeplyw_data": "2026-02-07 16:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 08:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2024-09-15 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-07T17:32:26.802433+00:00",
+    "data": {
+      "id_stacji": "150160010",
+      "stacja": "Kamienna Góra",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.0361",
+      "lat": "50.7864",
+      "stan_wody": "76",
+      "stan_wody_data_pomiaru": "2026-02-07 16:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.52",
+      "przeplyw_data": "2026-02-07 17:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-28 08:50:00",
       "zjawisko_zarastania": "0",
