@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-01-31T11:46:20.869509+00:00",
-    "data": {
-      "id_stacji": "149210070",
-      "stacja": "Żółków",
-      "rzeka": "Wisłoka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.4592",
-      "lat": "49.73",
-      "stan_wody": "69",
-      "stan_wody_data_pomiaru": "2026-01-31 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6.5",
-      "przeplyw_data": "2026-01-31 11:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-16 09:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-16 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-01-31T13:02:16.517569+00:00",
     "data": {
       "id_stacji": "149210070",
@@ -3101,6 +3080,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "11.7",
       "przeplyw_data": "2026-02-07 10:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-16 09:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-16 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-07T11:48:03.918215+00:00",
+    "data": {
+      "id_stacji": "149210070",
+      "stacja": "Żółków",
+      "rzeka": "Wisłoka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.4592",
+      "lat": "49.73",
+      "stan_wody": "92",
+      "stan_wody_data_pomiaru": "2026-02-07 11:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "11.7",
+      "przeplyw_data": "2026-02-07 11:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-16 09:00:00",
       "zjawisko_zarastania": "0",
