@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-01T13:04:22.329862+00:00",
-    "data": {
-      "id_stacji": "151210060",
-      "stacja": "Rogożek",
-      "rzeka": "Radomka",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.3586",
-      "lat": "51.6356",
-      "stan_wody": "117",
-      "stan_wody_data_pomiaru": "2026-02-01 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.79",
-      "przeplyw_data": "2026-02-01 12:30:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-21 09:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-29 07:37:00"
-    }
-  },
-  {
     "timestamp": "2026-02-01T13:59:26.447179+00:00",
     "data": {
       "id_stacji": "151210060",
@@ -2996,6 +2975,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.32",
       "przeplyw_data": "2026-02-08 11:30:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-21 09:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-29 07:37:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-08T13:04:41.185010+00:00",
+    "data": {
+      "id_stacji": "151210060",
+      "stacja": "Rogożek",
+      "rzeka": "Radomka",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.3586",
+      "lat": "51.6356",
+      "stan_wody": "129",
+      "stan_wody_data_pomiaru": "2026-02-08 12:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.32",
+      "przeplyw_data": "2026-02-08 12:30:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-21 09:10:00",
       "zjawisko_zarastania": "0",
