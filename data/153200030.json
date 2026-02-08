@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-01T23:32:32.373956+00:00",
-    "data": {
-      "id_stacji": "153200030",
-      "stacja": "Kalisty",
-      "rzeka": "Pasłęka",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "20.1958",
-      "lat": "53.9172",
-      "stan_wody": "90",
-      "stan_wody_data_pomiaru": "2026-02-01 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6.56",
-      "przeplyw_data": "2026-02-01 23:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-16 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-02T02:48:09.406326+00:00",
     "data": {
       "id_stacji": "153200030",
@@ -2954,6 +2933,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "5.94",
       "przeplyw_data": "2026-02-08 22:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-16 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-08T23:38:00.503782+00:00",
+    "data": {
+      "id_stacji": "153200030",
+      "stacja": "Kalisty",
+      "rzeka": "Pasłęka",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "20.1958",
+      "lat": "53.9172",
+      "stan_wody": "81",
+      "stan_wody_data_pomiaru": "2026-02-08 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "5.86",
+      "przeplyw_data": "2026-02-08 23:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:50:00",
       "zjawisko_zarastania": "0",

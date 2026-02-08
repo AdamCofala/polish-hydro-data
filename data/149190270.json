@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-01T23:32:32.373956+00:00",
-    "data": {
-      "id_stacji": "149190270",
-      "stacja": "Radziszów",
-      "rzeka": "Skawinka",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.8089",
-      "lat": "49.94",
-      "stan_wody": "161",
-      "stan_wody_data_pomiaru": "2026-02-01 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.73",
-      "przeplyw_data": "2026-02-01 23:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-17 13:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-05 11:20:00"
-    }
-  },
-  {
     "timestamp": "2026-02-02T02:48:09.406326+00:00",
     "data": {
       "id_stacji": "149190270",
@@ -2954,6 +2933,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.05",
       "przeplyw_data": "2026-02-08 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-17 13:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-05 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-08T23:38:00.503782+00:00",
+    "data": {
+      "id_stacji": "149190270",
+      "stacja": "Radziszów",
+      "rzeka": "Skawinka",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.8089",
+      "lat": "49.94",
+      "stan_wody": "175",
+      "stan_wody_data_pomiaru": "2026-02-08 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.16",
+      "przeplyw_data": "2026-02-08 23:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-17 13:10:00",
       "zjawisko_zarastania": "0",

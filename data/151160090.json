@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-01T23:32:32.373956+00:00",
-    "data": {
-      "id_stacji": "151160090",
-      "stacja": "Jawor",
-      "rzeka": "Nysa Szalona",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.1897",
-      "lat": "51.0483",
-      "stan_wody": "27",
-      "stan_wody_data_pomiaru": "2026-02-01 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.36",
-      "przeplyw_data": "2026-02-01 23:10:00",
-      "zjawisko_lodowe": "5",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-21 08:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-19 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-02-02T02:48:09.406326+00:00",
     "data": {
       "id_stacji": "151160090",
@@ -2954,6 +2933,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.62",
       "przeplyw_data": "2026-02-08 22:10:00",
+      "zjawisko_lodowe": "5",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-21 08:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-19 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-08T23:38:00.503782+00:00",
+    "data": {
+      "id_stacji": "151160090",
+      "stacja": "Jawor",
+      "rzeka": "Nysa Szalona",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.1897",
+      "lat": "51.0483",
+      "stan_wody": "30",
+      "stan_wody_data_pomiaru": "2026-02-08 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.62",
+      "przeplyw_data": "2026-02-08 23:10:00",
       "zjawisko_lodowe": "5",
       "zjawisko_lodowe_data_pomiaru": "2026-01-21 08:50:00",
       "zjawisko_zarastania": "0",
