@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-01T06:12:04.897385+00:00",
-    "data": {
-      "id_stacji": "151210120",
-      "stacja": "Dęblin",
-      "rzeka": "Wisła",
-      "wojewodztwo": "lubelskie",
-      "lon": "21.8264",
-      "lat": "51.5628",
-      "stan_wody": "247",
-      "stan_wody_data_pomiaru": "2026-02-01 05:30:00",
-      "temperatura_wody": "0.1",
-      "temperatura_wody_data_pomiaru": "2026-01-31 06:00:00",
-      "przelyw": "481",
-      "przeplyw_data": "2026-02-01 05:50:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-30 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-03 12:45:00"
-    }
-  },
-  {
     "timestamp": "2026-02-01T07:22:02.014122+00:00",
     "data": {
       "id_stacji": "151210120",
@@ -2809,6 +2788,27 @@
       "przeplyw_data": "2026-02-08 04:50:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-07 12:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-03 12:45:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-08T06:26:56.764170+00:00",
+    "data": {
+      "id_stacji": "151210120",
+      "stacja": "Dęblin",
+      "rzeka": "Wisła",
+      "wojewodztwo": "lubelskie",
+      "lon": "21.8264",
+      "lat": "51.5628",
+      "stan_wody": "220",
+      "stan_wody_data_pomiaru": "2026-02-08 06:00:00",
+      "temperatura_wody": "0.2",
+      "temperatura_wody_data_pomiaru": "2026-02-07 06:00:00",
+      "przelyw": "400",
+      "przeplyw_data": "2026-02-08 05:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-08 06:00:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2025-12-03 12:45:00"
     }

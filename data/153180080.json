@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-01T06:12:04.897385+00:00",
-    "data": {
-      "id_stacji": "153180080",
-      "stacja": "Chełmno",
-      "rzeka": "Wisła",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "18.415",
-      "lat": "53.3631",
-      "stan_wody": "301",
-      "stan_wody_data_pomiaru": "2026-02-01 05:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1000",
-      "przeplyw_data": "2026-02-01 05:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-28 12:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-20 12:20:00"
-    }
-  },
-  {
     "timestamp": "2026-02-01T07:22:02.014122+00:00",
     "data": {
       "id_stacji": "153180080",
@@ -2975,6 +2954,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1080",
       "przeplyw_data": "2026-02-08 04:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 12:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-20 12:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-08T06:26:56.764170+00:00",
+    "data": {
+      "id_stacji": "153180080",
+      "stacja": "Chełmno",
+      "rzeka": "Wisła",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lon": "18.415",
+      "lat": "53.3631",
+      "stan_wody": "314",
+      "stan_wody_data_pomiaru": "2026-02-08 05:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1080",
+      "przeplyw_data": "2026-02-08 05:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-28 12:40:00",
       "zjawisko_zarastania": "0",
