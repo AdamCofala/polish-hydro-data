@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-02T18:06:06.248981+00:00",
-    "data": {
-      "id_stacji": "153190090",
-      "stacja": "Nowe Miasto Lubawskie",
-      "rzeka": "Drwęca",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "19.59",
-      "lat": "53.4222",
-      "stan_wody": "223",
-      "stan_wody_data_pomiaru": "2026-02-02 17:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "15.5",
-      "przeplyw_data": "2026-02-02 17:30:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-30 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-17 06:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-02T23:35:32.289528+00:00",
     "data": {
       "id_stacji": "153190090",
@@ -2912,6 +2891,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "18.7",
       "przeplyw_data": "2026-02-09 17:10:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-07 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-17 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-09T18:30:30.133150+00:00",
+    "data": {
+      "id_stacji": "153190090",
+      "stacja": "Nowe Miasto Lubawskie",
+      "rzeka": "Drwęca",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "19.59",
+      "lat": "53.4222",
+      "stan_wody": "253",
+      "stan_wody_data_pomiaru": "2026-02-09 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "18.7",
+      "przeplyw_data": "2026-02-09 18:10:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-07 06:00:00",
       "zjawisko_zarastania": "0",
