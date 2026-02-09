@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-02T14:12:24.348194+00:00",
-    "data": {
-      "id_stacji": "151160220",
-      "stacja": "Kanclerzowice",
-      "rzeka": "Sąsiecznica",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.9561",
-      "lat": "51.4536",
-      "stan_wody": "103",
-      "stan_wody_data_pomiaru": "2026-02-02 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.38",
-      "przeplyw_data": "2026-02-02 13:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-19 10:10:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-19 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-02-02T15:09:31.485093+00:00",
     "data": {
       "id_stacji": "151160220",
@@ -2933,6 +2912,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.3",
       "przeplyw_data": "2026-02-09 12:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-19 10:10:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-19 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-09T14:35:44.857567+00:00",
+    "data": {
+      "id_stacji": "151160220",
+      "stacja": "Kanclerzowice",
+      "rzeka": "Sąsiecznica",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.9561",
+      "lat": "51.4536",
+      "stan_wody": "98",
+      "stan_wody_data_pomiaru": "2026-02-09 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.3",
+      "przeplyw_data": "2026-02-09 14:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-19 10:10:00",
       "zjawisko_zarastania": "1",
