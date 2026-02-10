@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-03T04:52:23.441592+00:00",
-    "data": {
-      "id_stacji": "152180120",
-      "stacja": "Koło",
-      "rzeka": "Warta",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "18.6344",
-      "lat": "52.1953",
-      "stan_wody": "291",
-      "stan_wody_data_pomiaru": "2026-02-03 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "65.6",
-      "przeplyw_data": "2026-02-03 04:30:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-20 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2020-10-19 08:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-03T05:56:10.603161+00:00",
     "data": {
       "id_stacji": "152180120",
@@ -2996,6 +2975,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "10.3",
       "przeplyw_data": "2026-02-10 03:10:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2020-10-19 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-10T05:39:57.260401+00:00",
+    "data": {
+      "id_stacji": "152180120",
+      "stacja": "Koło",
+      "rzeka": "Warta",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "18.6344",
+      "lat": "52.1953",
+      "stan_wody": "212",
+      "stan_wody_data_pomiaru": "2026-02-10 05:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "10.3",
+      "przeplyw_data": "2026-02-10 05:10:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 10:10:00",
       "zjawisko_zarastania": "0",
