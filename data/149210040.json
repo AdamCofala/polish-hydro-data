@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-03T16:27:19.920937+00:00",
-    "data": {
-      "id_stacji": "149210040",
-      "stacja": "Łabuzie",
-      "rzeka": "Wisłoka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.3097",
-      "lat": "49.9878",
-      "stan_wody": "248",
-      "stan_wody_data_pomiaru": "2026-02-03 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "11.2",
-      "przeplyw_data": "2026-02-03 15:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-22 14:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-18 13:40:00"
-    }
-  },
-  {
     "timestamp": "2026-02-03T17:31:20.911774+00:00",
     "data": {
       "id_stacji": "149210040",
@@ -2933,6 +2912,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "27",
       "przeplyw_data": "2026-02-10 15:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-10 09:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-10 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-10T17:10:30.784105+00:00",
+    "data": {
+      "id_stacji": "149210040",
+      "stacja": "Łabuzie",
+      "rzeka": "Wisłoka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.3097",
+      "lat": "49.9878",
+      "stan_wody": "280",
+      "stan_wody_data_pomiaru": "2026-02-10 16:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "26.5",
+      "przeplyw_data": "2026-02-10 16:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-10 09:00:00",
       "zjawisko_zarastania": "0",
