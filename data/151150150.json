@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-02T23:35:32.289528+00:00",
-    "data": {
-      "id_stacji": "151150150",
-      "stacja": "Nowa Sól",
-      "rzeka": "Odra",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.7217",
-      "lat": "51.8022",
-      "stan_wody": "161",
-      "stan_wody_data_pomiaru": "2026-02-02 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "101",
-      "przeplyw_data": "2026-02-02 23:10:00",
-      "zjawisko_lodowe": "1",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-25 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-13 11:10:00"
-    }
-  },
-  {
     "timestamp": "2026-02-03T02:44:26.586029+00:00",
     "data": {
       "id_stacji": "151150150",
@@ -2996,6 +2975,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "96.4",
       "przeplyw_data": "2026-02-09 22:10:00",
+      "zjawisko_lodowe": "1",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-07 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-13 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-10T00:02:24.666534+00:00",
+    "data": {
+      "id_stacji": "151150150",
+      "stacja": "Nowa Sól",
+      "rzeka": "Odra",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.7217",
+      "lat": "51.8022",
+      "stan_wody": "156",
+      "stan_wody_data_pomiaru": "2026-02-09 23:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "96.4",
+      "przeplyw_data": "2026-02-09 23:10:00",
       "zjawisko_lodowe": "1",
       "zjawisko_lodowe_data_pomiaru": "2026-02-07 06:00:00",
       "zjawisko_zarastania": "0",
