@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04T09:09:21.003046+00:00",
-    "data": {
-      "id_stacji": "151140020",
-      "stacja": "Pleśno",
-      "rzeka": "Lubsza",
-      "wojewodztwo": "lubuskie",
-      "lon": "14.7544",
-      "lat": "51.9156",
-      "stan_wody": "131",
-      "stan_wody_data_pomiaru": "2026-02-04 08:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-15 10:20:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-15 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-02-04T10:09:46.695331+00:00",
     "data": {
       "id_stacji": "151140020",
@@ -2887,6 +2866,27 @@
       "lat": "51.9156",
       "stan_wody": "145",
       "stan_wody_data_pomiaru": "2026-02-11 07:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-05 09:50:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-15 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-11T09:28:59.107161+00:00",
+    "data": {
+      "id_stacji": "151140020",
+      "stacja": "Pleśno",
+      "rzeka": "Lubsza",
+      "wojewodztwo": "lubuskie",
+      "lon": "14.7544",
+      "lat": "51.9156",
+      "stan_wody": "145",
+      "stan_wody_data_pomiaru": "2026-02-11 09:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przelyw": null,

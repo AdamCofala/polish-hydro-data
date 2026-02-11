@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04T09:09:21.003046+00:00",
-    "data": {
-      "id_stacji": "153210120",
-      "stacja": "Walery",
-      "rzeka": "Rozoga",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.6194",
-      "lat": "53.1472",
-      "stan_wody": "181",
-      "stan_wody_data_pomiaru": "2026-02-04 08:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.16",
-      "przeplyw_data": "2026-02-04 08:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-29 12:40:00",
-      "zjawisko_zarastania": "110",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-06 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-02-04T10:09:46.695331+00:00",
     "data": {
       "id_stacji": "153210120",
@@ -2891,6 +2870,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.18",
       "przeplyw_data": "2026-02-11 07:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-29 12:40:00",
+      "zjawisko_zarastania": "110",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-06 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-11T09:28:59.107161+00:00",
+    "data": {
+      "id_stacji": "153210120",
+      "stacja": "Walery",
+      "rzeka": "Rozoga",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.6194",
+      "lat": "53.1472",
+      "stan_wody": "179",
+      "stan_wody_data_pomiaru": "2026-02-11 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.18",
+      "przeplyw_data": "2026-02-11 09:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-29 12:40:00",
       "zjawisko_zarastania": "110",

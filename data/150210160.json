@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04T09:09:21.003046+00:00",
-    "data": {
-      "id_stacji": "150210160",
-      "stacja": "Koprzywnica",
-      "rzeka": "Koprzywianka",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.5731",
-      "lat": "50.5958",
-      "stan_wody": "165",
-      "stan_wody_data_pomiaru": "2026-02-04 08:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.68",
-      "przeplyw_data": "2026-02-04 08:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-12 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-23 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-02-04T10:09:46.695331+00:00",
     "data": {
       "id_stacji": "150210160",
@@ -2891,6 +2870,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.95",
       "przeplyw_data": "2026-02-11 07:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-09 14:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-23 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-11T09:28:59.107161+00:00",
+    "data": {
+      "id_stacji": "150210160",
+      "stacja": "Koprzywnica",
+      "rzeka": "Koprzywianka",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.5731",
+      "lat": "50.5958",
+      "stan_wody": "175",
+      "stan_wody_data_pomiaru": "2026-02-11 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.95",
+      "przeplyw_data": "2026-02-11 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-09 14:00:00",
       "zjawisko_zarastania": "0",

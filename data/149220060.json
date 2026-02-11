@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04T09:09:21.003046+00:00",
-    "data": {
-      "id_stacji": "149220060",
-      "stacja": "Lesko",
-      "rzeka": "San",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.3222",
-      "lat": "49.4692",
-      "stan_wody": "182",
-      "stan_wody_data_pomiaru": "2026-02-04 08:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "25.1",
-      "przeplyw_data": "2026-02-04 08:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-12 07:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-13 11:30:00"
-    }
-  },
-  {
     "timestamp": "2026-02-04T10:09:46.695331+00:00",
     "data": {
       "id_stacji": "149220060",
@@ -2849,6 +2828,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "27.2",
       "przeplyw_data": "2026-02-11 07:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-10 15:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-10 15:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-11T09:28:59.107161+00:00",
+    "data": {
+      "id_stacji": "149220060",
+      "stacja": "Lesko",
+      "rzeka": "San",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.3222",
+      "lat": "49.4692",
+      "stan_wody": "184",
+      "stan_wody_data_pomiaru": "2026-02-11 08:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "27.2",
+      "przeplyw_data": "2026-02-11 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-10 15:00:00",
       "zjawisko_zarastania": "0",
