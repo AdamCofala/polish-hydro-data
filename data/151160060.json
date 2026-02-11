@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04T08:02:41.705504+00:00",
-    "data": {
-      "id_stacji": "151160060",
-      "stacja": "Głogów",
-      "rzeka": "Odra",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.0592",
-      "lat": "51.6739",
-      "stan_wody": "197",
-      "stan_wody_data_pomiaru": "2026-02-04 07:30:00",
-      "temperatura_wody": "0",
-      "temperatura_wody_data_pomiaru": "2026-02-03 06:00:00",
-      "przelyw": "83.6",
-      "przeplyw_data": "2026-02-04 07:30:00",
-      "zjawisko_lodowe": "1",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-13 09:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-13 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-02-04T09:09:21.003046+00:00",
     "data": {
       "id_stacji": "151160060",
@@ -2891,6 +2870,27 @@
       "temperatura_wody_data_pomiaru": "2026-02-10 06:00:00",
       "przelyw": "108",
       "przeplyw_data": "2026-02-11 06:50:00",
+      "zjawisko_lodowe": "1",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 09:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-04 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-11T08:06:29.254976+00:00",
+    "data": {
+      "id_stacji": "151160060",
+      "stacja": "Głogów",
+      "rzeka": "Odra",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.0592",
+      "lat": "51.6739",
+      "stan_wody": "226",
+      "stan_wody_data_pomiaru": "2026-02-11 07:30:00",
+      "temperatura_wody": "1",
+      "temperatura_wody_data_pomiaru": "2026-02-10 06:00:00",
+      "przelyw": "108",
+      "przeplyw_data": "2026-02-11 07:30:00",
       "zjawisko_lodowe": "1",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 09:50:00",
       "zjawisko_zarastania": "0",
