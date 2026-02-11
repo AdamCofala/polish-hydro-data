@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04T11:08:33.187423+00:00",
-    "data": {
-      "id_stacji": "149200180",
-      "stacja": "Szczawnica",
-      "rzeka": "Grajcarek",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "71",
-      "stan_wody_data_pomiaru": "2026-02-04 10:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.62",
-      "przeplyw_data": "2026-02-04 10:50:00",
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-02-04T11:56:07.180135+00:00",
     "data": {
       "id_stacji": "149200180",
@@ -2744,6 +2723,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.55",
       "przeplyw_data": "2026-02-11 10:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-05 11:30:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-02-11T11:28:04.618803+00:00",
+    "data": {
+      "id_stacji": "149200180",
+      "stacja": "Szczawnica",
+      "rzeka": "Grajcarek",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "70",
+      "stan_wody_data_pomiaru": "2026-02-11 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.55",
+      "przeplyw_data": "2026-02-11 10:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-05 11:30:00",
       "zjawisko_zarastania": null,

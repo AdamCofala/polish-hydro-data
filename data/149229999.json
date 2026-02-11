@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04T11:08:33.187423+00:00",
-    "data": {
-      "id_stacji": "149229999",
-      "stacja": "Manasterz",
-      "rzeka": "Mleczka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "259",
-      "stan_wody_data_pomiaru": "2026-02-04 10:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-02-04T11:56:07.180135+00:00",
     "data": {
       "id_stacji": "149229999",
@@ -2887,6 +2866,27 @@
       "lat": null,
       "stan_wody": "261",
       "stan_wody_data_pomiaru": "2026-02-11 10:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-09 09:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-09 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-11T11:28:04.618803+00:00",
+    "data": {
+      "id_stacji": "149229999",
+      "stacja": "Manasterz",
+      "rzeka": "Mleczka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "261",
+      "stan_wody_data_pomiaru": "2026-02-11 11:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przelyw": null,

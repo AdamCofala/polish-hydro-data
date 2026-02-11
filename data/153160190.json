@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04T11:08:33.187423+00:00",
-    "data": {
-      "id_stacji": "153160190",
-      "stacja": "Zabrodzie",
-      "rzeka": "Piława",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "153",
-      "stan_wody_data_pomiaru": "2026-02-04 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "9.89",
-      "przeplyw_data": "2026-02-04 10:50:00",
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-02-04T11:56:07.180135+00:00",
     "data": {
       "id_stacji": "153160190",
@@ -2221,6 +2200,27 @@
       "przeplyw_data": "2026-02-10 04:50:00",
       "zjawisko_lodowe": null,
       "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-02-11T11:28:04.618803+00:00",
+    "data": {
+      "id_stacji": "153160190",
+      "stacja": "Zabrodzie",
+      "rzeka": "Piława",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "143",
+      "stan_wody_data_pomiaru": "2026-02-11 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "8.44",
+      "przeplyw_data": "2026-02-11 10:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-11 10:40:00",
       "zjawisko_zarastania": null,
       "zjawisko_zarastania_data_pomiaru": null
     }
