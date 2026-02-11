@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-03T23:34:55.885142+00:00",
-    "data": {
-      "id_stacji": "154160070",
-      "stacja": "Stary Kraków",
-      "rzeka": "Wieprza",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "16.6064",
-      "lat": "54.4422",
-      "stan_wody": "245",
-      "stan_wody_data_pomiaru": "2026-02-03 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "18.4",
-      "przeplyw_data": "2026-02-03 23:10:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-23 10:20:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-06 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-04T02:38:54.971780+00:00",
     "data": {
       "id_stacji": "154160070",
@@ -2912,6 +2891,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "13",
       "przeplyw_data": "2026-02-10 22:50:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-23 10:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-06 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-11T00:03:34.341946+00:00",
+    "data": {
+      "id_stacji": "154160070",
+      "stacja": "Stary Kraków",
+      "rzeka": "Wieprza",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "16.6064",
+      "lat": "54.4422",
+      "stan_wody": "205",
+      "stan_wody_data_pomiaru": "2026-02-10 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "13",
+      "przeplyw_data": "2026-02-10 23:30:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-23 10:20:00",
       "zjawisko_zarastania": "100",
