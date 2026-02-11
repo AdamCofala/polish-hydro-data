@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04T04:45:42.567233+00:00",
-    "data": {
-      "id_stacji": "153200040",
-      "stacja": "Tomaryny",
-      "rzeka": "Pasłęka",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "20.2067",
-      "lat": "53.7361",
-      "stan_wody": "180",
-      "stan_wody_data_pomiaru": "2026-02-04 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.14",
-      "przeplyw_data": "2026-02-04 04:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-16 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-04T05:54:55.727210+00:00",
     "data": {
       "id_stacji": "153200040",
@@ -2912,6 +2891,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.47",
       "przeplyw_data": "2026-02-11 03:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-16 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-11T05:38:59.744429+00:00",
+    "data": {
+      "id_stacji": "153200040",
+      "stacja": "Tomaryny",
+      "rzeka": "Pasłęka",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "20.2067",
+      "lat": "53.7361",
+      "stan_wody": "206",
+      "stan_wody_data_pomiaru": "2026-02-11 05:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.41",
+      "przeplyw_data": "2026-02-11 05:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:10:00",
       "zjawisko_zarastania": "0",
