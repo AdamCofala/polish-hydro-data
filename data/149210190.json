@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-04T19:59:38.404045+00:00",
-    "data": {
-      "id_stacji": "149210190",
-      "stacja": "Uście gorlickie",
-      "rzeka": "Ropa",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "169",
-      "stan_wody_data_pomiaru": "2026-02-04 19:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.48",
-      "przeplyw_data": "2026-02-04 19:30:00",
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-02-04T20:49:43.745757+00:00",
     "data": {
       "id_stacji": "149210190",
@@ -2849,6 +2828,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.78",
       "przeplyw_data": "2026-02-11 19:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-05 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-05 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-11T20:47:54.126531+00:00",
+    "data": {
+      "id_stacji": "149210190",
+      "stacja": "Uście gorlickie",
+      "rzeka": "Ropa",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "171",
+      "stan_wody_data_pomiaru": "2026-02-11 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.78",
+      "przeplyw_data": "2026-02-11 20:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-05 11:40:00",
       "zjawisko_zarastania": "0",
