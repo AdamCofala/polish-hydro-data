@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-05T19:59:04.358237+00:00",
-    "data": {
-      "id_stacji": "150150010",
-      "stacja": "Mirsk",
-      "rzeka": "Kwisa",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.3842",
-      "lat": "50.9892",
-      "stan_wody": "318",
-      "stan_wody_data_pomiaru": "2026-02-05 19:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.23",
-      "przeplyw_data": "2026-02-05 19:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-13 10:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2020-10-16 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-05T20:47:28.959913+00:00",
     "data": {
       "id_stacji": "150150010",
@@ -2807,6 +2786,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.88",
       "przeplyw_data": "2026-02-12 19:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-13 10:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2020-10-16 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-12T20:42:23.743616+00:00",
+    "data": {
+      "id_stacji": "150150010",
+      "stacja": "Mirsk",
+      "rzeka": "Kwisa",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.3842",
+      "lat": "50.9892",
+      "stan_wody": "325",
+      "stan_wody_data_pomiaru": "2026-02-12 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.88",
+      "przeplyw_data": "2026-02-12 20:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-13 10:30:00",
       "zjawisko_zarastania": "0",
