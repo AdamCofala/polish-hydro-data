@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-05T07:32:47.508610+00:00",
-    "data": {
-      "id_stacji": "149200090",
-      "stacja": "Dobczyce",
-      "rzeka": "Raba",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.0861",
-      "lat": "49.8836",
-      "stan_wody": "219",
-      "stan_wody_data_pomiaru": "2026-02-05 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.95",
-      "przeplyw_data": "2026-02-05 07:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-23 13:10:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-16 08:40:00"
-    }
-  },
-  {
     "timestamp": "2026-02-05T08:54:42.036696+00:00",
     "data": {
       "id_stacji": "149200090",
@@ -2828,6 +2807,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.1",
       "przeplyw_data": "2026-02-12 06:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-23 13:10:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-16 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-12T07:56:13.082814+00:00",
+    "data": {
+      "id_stacji": "149200090",
+      "stacja": "Dobczyce",
+      "rzeka": "Raba",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.0861",
+      "lat": "49.8836",
+      "stan_wody": "218",
+      "stan_wody_data_pomiaru": "2026-02-12 07:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.95",
+      "przeplyw_data": "2026-02-12 07:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-23 13:10:00",
       "zjawisko_zarastania": "200",
