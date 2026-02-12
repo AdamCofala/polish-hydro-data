@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-05T02:41:12.464335+00:00",
-    "data": {
-      "id_stacji": "150180040",
-      "stacja": "Bojanów",
-      "rzeka": "Psina",
-      "wojewodztwo": "śląskie",
-      "lon": "18.1542",
-      "lat": "50.0306",
-      "stan_wody": "52",
-      "stan_wody_data_pomiaru": "2026-02-05 02:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.68",
-      "przeplyw_data": "2026-02-05 02:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-27 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-21 12:16:00"
-    }
-  },
-  {
     "timestamp": "2026-02-05T04:54:07.813512+00:00",
     "data": {
       "id_stacji": "150180040",
@@ -2828,6 +2807,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1",
       "przeplyw_data": "2026-02-11 23:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-27 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-21 12:16:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-12T02:51:01.738517+00:00",
+    "data": {
+      "id_stacji": "150180040",
+      "stacja": "Bojanów",
+      "rzeka": "Psina",
+      "wojewodztwo": "śląskie",
+      "lon": "18.1542",
+      "lat": "50.0306",
+      "stan_wody": "60",
+      "stan_wody_data_pomiaru": "2026-02-12 02:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.05",
+      "przeplyw_data": "2026-02-12 02:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-27 11:00:00",
       "zjawisko_zarastania": "0",
