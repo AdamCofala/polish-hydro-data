@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-05T15:21:17.976805+00:00",
-    "data": {
-      "id_stacji": "149220180",
-      "stacja": "Stuposiany",
-      "rzeka": "Wołosaty",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.6836",
-      "lat": "49.1856",
-      "stan_wody": "157",
-      "stan_wody_data_pomiaru": "2026-02-05 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.41",
-      "przeplyw_data": "2026-02-05 14:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-05 12:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-13 14:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-05T16:09:12.663200+00:00",
     "data": {
       "id_stacji": "149220180",
@@ -2828,6 +2807,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "9.47",
       "przeplyw_data": "2026-02-12 14:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-05 12:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-13 14:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-12T15:59:44.946037+00:00",
+    "data": {
+      "id_stacji": "149220180",
+      "stacja": "Stuposiany",
+      "rzeka": "Wołosaty",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.6836",
+      "lat": "49.1856",
+      "stan_wody": "186",
+      "stan_wody_data_pomiaru": "2026-02-12 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "8.96",
+      "przeplyw_data": "2026-02-12 15:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-05 12:20:00",
       "zjawisko_zarastania": "0",
