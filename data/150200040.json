@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06T21:37:49.610779+00:00",
-    "data": {
-      "id_stacji": "150200040",
-      "stacja": "Tokarnia",
-      "rzeka": "Czarna Nida",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "20.4531",
-      "lat": "50.7742",
-      "stan_wody": "111",
-      "stan_wody_data_pomiaru": "2026-02-06 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.73",
-      "przeplyw_data": "2026-02-06 20:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-21 10:40:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-09 11:40:00"
-    }
-  },
-  {
     "timestamp": "2026-02-06T22:32:54.687620+00:00",
     "data": {
       "id_stacji": "150200040",
@@ -2639,6 +2618,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "5.73",
       "przeplyw_data": "2026-02-13 19:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-21 10:40:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-09 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-13T22:00:29.973510+00:00",
+    "data": {
+      "id_stacji": "150200040",
+      "stacja": "Tokarnia",
+      "rzeka": "Czarna Nida",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "20.4531",
+      "lat": "50.7742",
+      "stan_wody": "121",
+      "stan_wody_data_pomiaru": "2026-02-13 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "5.73",
+      "przeplyw_data": "2026-02-13 20:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-21 10:40:00",
       "zjawisko_zarastania": "1",
