@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06T08:02:55.591950+00:00",
-    "data": {
-      "id_stacji": "152150180",
-      "stacja": "Mierzęcin",
-      "rzeka": "Mierzęcka Struga",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "37",
-      "stan_wody_data_pomiaru": "2026-02-06 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.19",
-      "przeplyw_data": "2026-02-06 06:50:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-02-04 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-06T09:10:13.509866+00:00",
     "data": {
       "id_stacji": "152150180",
@@ -2681,6 +2660,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.99",
       "przeplyw_data": "2026-02-13 06:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-04 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-13T08:53:38.570297+00:00",
+    "data": {
+      "id_stacji": "152150180",
+      "stacja": "Mierzęcin",
+      "rzeka": "Mierzęcka Struga",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "21",
+      "stan_wody_data_pomiaru": "2026-02-13 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.99",
+      "przeplyw_data": "2026-02-13 07:50:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 12:00:00",
       "zjawisko_zarastania": "0",
