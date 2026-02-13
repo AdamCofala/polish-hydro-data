@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06T07:08:04.214951+00:00",
-    "data": {
-      "id_stacji": "150190410",
-      "stacja": "Częstochowa 3",
-      "rzeka": "Warta",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "110",
-      "stan_wody_data_pomiaru": "2026-02-06 06:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-02-06T08:02:55.591950+00:00",
     "data": {
       "id_stacji": "150190410",
@@ -2782,6 +2761,27 @@
       "lat": null,
       "stan_wody": "121",
       "stan_wody_data_pomiaru": "2026-02-13 05:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-10 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-13T07:33:15.672506+00:00",
+    "data": {
+      "id_stacji": "150190410",
+      "stacja": "Częstochowa 3",
+      "rzeka": "Warta",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "121",
+      "stan_wody_data_pomiaru": "2026-02-13 07:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przelyw": null,

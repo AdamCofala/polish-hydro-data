@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06T07:08:04.214951+00:00",
-    "data": {
-      "id_stacji": "150190200",
-      "stacja": "Lgota Nadwarcie",
-      "rzeka": "Warta",
-      "wojewodztwo": "śląskie",
-      "lon": "19.2594",
-      "lat": "50.6183",
-      "stan_wody": "83",
-      "stan_wody_data_pomiaru": "2026-02-06 06:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.87",
-      "przeplyw_data": "2026-02-06 06:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-03-01 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-05 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-02-06T08:02:55.591950+00:00",
     "data": {
       "id_stacji": "150190200",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.38",
       "przeplyw_data": "2026-02-13 05:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-03-01 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-05 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-13T07:33:15.672506+00:00",
+    "data": {
+      "id_stacji": "150190200",
+      "stacja": "Lgota Nadwarcie",
+      "rzeka": "Warta",
+      "wojewodztwo": "śląskie",
+      "lon": "19.2594",
+      "lat": "50.6183",
+      "stan_wody": "119",
+      "stan_wody_data_pomiaru": "2026-02-13 07:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.33",
+      "przeplyw_data": "2026-02-13 07:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2023-03-01 10:00:00",
       "zjawisko_zarastania": "0",
