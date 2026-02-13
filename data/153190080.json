@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06T16:06:40.728317+00:00",
-    "data": {
-      "id_stacji": "153190080",
-      "stacja": "Iława",
-      "rzeka": "Jez. Jeziorak",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "907",
-      "stan_wody_data_pomiaru": "2026-02-06 15:00:00",
-      "temperatura_wody": "0.5",
-      "temperatura_wody_data_pomiaru": "2026-02-06 06:00:00",
-      "przelyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-02-06T17:22:27.548490+00:00",
     "data": {
       "id_stacji": "153190080",
@@ -2656,6 +2635,27 @@
       "lat": null,
       "stan_wody": "905",
       "stan_wody_data_pomiaru": "2026-02-13 11:20:00",
+      "temperatura_wody": "0.6",
+      "temperatura_wody_data_pomiaru": "2026-02-13 06:00:00",
+      "przelyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-11 06:00:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-02-13T16:09:11.026106+00:00",
+    "data": {
+      "id_stacji": "153190080",
+      "stacja": "Iława",
+      "rzeka": "Jez. Jeziorak",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "905",
+      "stan_wody_data_pomiaru": "2026-02-13 15:00:00",
       "temperatura_wody": "0.6",
       "temperatura_wody_data_pomiaru": "2026-02-13 06:00:00",
       "przelyw": null,
