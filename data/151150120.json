@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06T09:10:13.509866+00:00",
-    "data": {
-      "id_stacji": "151150120",
-      "stacja": "Szprotawa",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.5267",
-      "lat": "51.5614",
-      "stan_wody": "119",
-      "stan_wody_data_pomiaru": "2026-02-06 08:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "17.8",
-      "przeplyw_data": "2026-02-06 08:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-10 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-07 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-02-06T10:08:18.750132+00:00",
     "data": {
       "id_stacji": "151150120",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "18.6",
       "przeplyw_data": "2026-02-13 08:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-10 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-07 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-13T09:54:41.630791+00:00",
+    "data": {
+      "id_stacji": "151150120",
+      "stacja": "Szprotawa",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.5267",
+      "lat": "51.5614",
+      "stan_wody": "125",
+      "stan_wody_data_pomiaru": "2026-02-13 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "21",
+      "przeplyw_data": "2026-02-13 09:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-10 10:00:00",
       "zjawisko_zarastania": "0",

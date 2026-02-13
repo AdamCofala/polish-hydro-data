@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06T09:10:13.509866+00:00",
-    "data": {
-      "id_stacji": "149180110",
-      "stacja": "Ustroń Obłaziec",
-      "rzeka": "Wisła",
-      "wojewodztwo": "śląskie",
-      "lon": "18.8503",
-      "lat": "49.6806",
-      "stan_wody": "119",
-      "stan_wody_data_pomiaru": "2026-02-06 08:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.82",
-      "przeplyw_data": "2026-02-06 08:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-16 10:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-27 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-06T10:08:18.750132+00:00",
     "data": {
       "id_stacji": "149180110",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.75",
       "przeplyw_data": "2026-02-13 08:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-16 10:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-27 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-13T09:54:41.630791+00:00",
+    "data": {
+      "id_stacji": "149180110",
+      "stacja": "Ustroń Obłaziec",
+      "rzeka": "Wisła",
+      "wojewodztwo": "śląskie",
+      "lon": "18.8503",
+      "lat": "49.6806",
+      "stan_wody": "126",
+      "stan_wody_data_pomiaru": "2026-02-13 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.9",
+      "przeplyw_data": "2026-02-13 09:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-16 10:20:00",
       "zjawisko_zarastania": "0",

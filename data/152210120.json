@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06T09:10:13.509866+00:00",
-    "data": {
-      "id_stacji": "152210120",
-      "stacja": "Łochów",
-      "rzeka": "Liwiec",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.6783",
-      "lat": "52.51",
-      "stan_wody": "143",
-      "stan_wody_data_pomiaru": "2026-02-06 08:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6.68",
-      "przeplyw_data": "2026-02-06 08:50:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-27 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-29 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-06T10:08:18.750132+00:00",
     "data": {
       "id_stacji": "152210120",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "6.82",
       "przeplyw_data": "2026-02-13 08:30:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-27 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-29 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-13T09:54:41.630791+00:00",
+    "data": {
+      "id_stacji": "152210120",
+      "stacja": "Łochów",
+      "rzeka": "Liwiec",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.6783",
+      "lat": "52.51",
+      "stan_wody": "150",
+      "stan_wody_data_pomiaru": "2026-02-13 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "6.97",
+      "przeplyw_data": "2026-02-13 09:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-27 12:00:00",
       "zjawisko_zarastania": "0",

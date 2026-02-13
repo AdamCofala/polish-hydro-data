@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06T09:10:13.509866+00:00",
-    "data": {
-      "id_stacji": "150210030",
-      "stacja": "Mocha",
-      "rzeka": "Łagowica",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.0803",
-      "lat": "50.6706",
-      "stan_wody": "283",
-      "stan_wody_data_pomiaru": "2026-02-06 08:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.21",
-      "przeplyw_data": "2026-02-06 08:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-15 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-28 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-06T10:08:18.750132+00:00",
     "data": {
       "id_stacji": "150210030",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.35",
       "przeplyw_data": "2026-02-13 08:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-15 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-28 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-13T09:54:41.630791+00:00",
+    "data": {
+      "id_stacji": "150210030",
+      "stacja": "Mocha",
+      "rzeka": "Łagowica",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.0803",
+      "lat": "50.6706",
+      "stan_wody": "292",
+      "stan_wody_data_pomiaru": "2026-02-13 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.35",
+      "przeplyw_data": "2026-02-13 09:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-15 12:00:00",
       "zjawisko_zarastania": "0",
