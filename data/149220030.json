@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06T20:45:51.546709+00:00",
-    "data": {
-      "id_stacji": "149220030",
-      "stacja": "Olchowce",
-      "rzeka": "San",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.2186",
-      "lat": "49.5561",
-      "stan_wody": "156",
-      "stan_wody_data_pomiaru": "2026-02-06 20:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "36.4",
-      "przeplyw_data": "2026-02-06 20:10:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-21 08:50:00"
-    }
-  },
-  {
     "timestamp": "2026-02-06T21:37:49.610779+00:00",
     "data": {
       "id_stacji": "149220030",
@@ -2744,6 +2723,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "58",
       "przeplyw_data": "2026-02-13 19:30:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-21 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-13T21:05:14.689163+00:00",
+    "data": {
+      "id_stacji": "149220030",
+      "stacja": "Olchowce",
+      "rzeka": "San",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.2186",
+      "lat": "49.5561",
+      "stan_wody": "170",
+      "stan_wody_data_pomiaru": "2026-02-13 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "58",
+      "przeplyw_data": "2026-02-13 20:30:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:00:00",
       "zjawisko_zarastania": "0",
