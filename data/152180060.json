@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06T10:08:18.750132+00:00",
-    "data": {
-      "id_stacji": "152180060",
-      "stacja": "Posoka",
-      "rzeka": "Powa",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "18.2225",
-      "lat": "52.2031",
-      "stan_wody": "159",
-      "stan_wody_data_pomiaru": "2026-02-06 09:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.19",
-      "przeplyw_data": "2026-02-06 09:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-20 14:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-12 12:50:00"
-    }
-  },
-  {
     "timestamp": "2026-02-06T11:08:10.379168+00:00",
     "data": {
       "id_stacji": "152180060",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.73",
       "przeplyw_data": "2026-02-13 09:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 14:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-12 12:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-13T10:49:54.482969+00:00",
+    "data": {
+      "id_stacji": "152180060",
+      "stacja": "Posoka",
+      "rzeka": "Powa",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "18.2225",
+      "lat": "52.2031",
+      "stan_wody": "188",
+      "stan_wody_data_pomiaru": "2026-02-13 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.73",
+      "przeplyw_data": "2026-02-13 10:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 14:00:00",
       "zjawisko_zarastania": "0",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-06T10:08:18.750132+00:00",
-    "data": {
-      "id_stacji": "151150180",
-      "stacja": "Chojnów",
-      "rzeka": "Skora",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.9456",
-      "lat": "51.2728",
-      "stan_wody": "58",
-      "stan_wody_data_pomiaru": "2026-02-06 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.71",
-      "przeplyw_data": "2026-02-06 08:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-02-04 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-06T11:08:10.379168+00:00",
     "data": {
       "id_stacji": "151150180",
@@ -2639,6 +2618,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.12",
       "przeplyw_data": "2026-02-13 09:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-04 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-13T10:49:54.482969+00:00",
+    "data": {
+      "id_stacji": "151150180",
+      "stacja": "Chojnów",
+      "rzeka": "Skora",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.9456",
+      "lat": "51.2728",
+      "stan_wody": "65",
+      "stan_wody_data_pomiaru": "2026-02-13 10:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.12",
+      "przeplyw_data": "2026-02-13 09:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:00:00",
       "zjawisko_zarastania": "0",
