@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-07T11:27:53.964572+00:00",
-    "data": {
-      "id_stacji": "153230020",
-      "stacja": "Karpowicze",
-      "rzeka": "Brzozówka",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.0433",
-      "lat": "53.5853",
-      "stan_wody": "190",
-      "stan_wody_data_pomiaru": "2026-02-07 11:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.61",
-      "przeplyw_data": "2026-02-07 10:50:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-06 08:40:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-22 07:40:00"
-    }
-  },
-  {
     "timestamp": "2026-02-07T11:48:03.918215+00:00",
     "data": {
       "id_stacji": "153230020",
@@ -2660,6 +2639,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.67",
       "przeplyw_data": "2026-02-14 10:10:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-06 08:40:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-22 07:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T11:28:37.086467+00:00",
+    "data": {
+      "id_stacji": "153230020",
+      "stacja": "Karpowicze",
+      "rzeka": "Brzozówka",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.0433",
+      "lat": "53.5853",
+      "stan_wody": "215",
+      "stan_wody_data_pomiaru": "2026-02-14 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.67",
+      "przeplyw_data": "2026-02-14 11:10:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-06 08:40:00",
       "zjawisko_zarastania": "100",
