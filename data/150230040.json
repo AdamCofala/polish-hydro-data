@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-07T15:32:20.879241+00:00",
-    "data": {
-      "id_stacji": "150230040",
-      "stacja": "Krasnystaw",
-      "rzeka": "Wieprz",
-      "wojewodztwo": "lubelskie",
-      "lon": "23.1767",
-      "lat": "50.9853",
-      "stan_wody": "301",
-      "stan_wody_data_pomiaru": "2026-02-07 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "8.74",
-      "przeplyw_data": "2026-02-07 15:10:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-12 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-07 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-02-07T16:39:17.228795+00:00",
     "data": {
       "id_stacji": "150230040",
@@ -2744,6 +2723,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "10",
       "przeplyw_data": "2026-02-14 14:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-10 09:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-07 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T15:32:22.121722+00:00",
+    "data": {
+      "id_stacji": "150230040",
+      "stacja": "Krasnystaw",
+      "rzeka": "Wieprz",
+      "wojewodztwo": "lubelskie",
+      "lon": "23.1767",
+      "lat": "50.9853",
+      "stan_wody": "298",
+      "stan_wody_data_pomiaru": "2026-02-14 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "10.1",
+      "przeplyw_data": "2026-02-14 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-10 09:30:00",
       "zjawisko_zarastania": "0",
