@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-07T19:31:04.607212+00:00",
-    "data": {
-      "id_stacji": "150150050",
-      "stacja": "Piechowice",
-      "rzeka": "Kamienna",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.5883",
-      "lat": "50.85",
-      "stan_wody": "70",
-      "stan_wody_data_pomiaru": "2026-02-07 19:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.55",
-      "przeplyw_data": "2026-02-07 19:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2020-01-30 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2020-08-18 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-02-07T20:35:44.438286+00:00",
     "data": {
       "id_stacji": "150150050",
@@ -2765,6 +2744,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.96",
       "przeplyw_data": "2026-02-14 19:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2020-01-30 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2020-08-18 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T19:50:16.405937+00:00",
+    "data": {
+      "id_stacji": "150150050",
+      "stacja": "Piechowice",
+      "rzeka": "Kamienna",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.5883",
+      "lat": "50.85",
+      "stan_wody": "81",
+      "stan_wody_data_pomiaru": "2026-02-14 19:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.83",
+      "przeplyw_data": "2026-02-14 19:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2020-01-30 10:00:00",
       "zjawisko_zarastania": "0",
