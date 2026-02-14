@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-07T14:00:03.446682+00:00",
-    "data": {
-      "id_stacji": "150200030",
-      "stacja": "Brzegi",
-      "rzeka": "Nida",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "20.4139",
-      "lat": "50.7419",
-      "stan_wody": "77",
-      "stan_wody_data_pomiaru": "2026-02-07 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "6.28",
-      "przeplyw_data": "2026-02-07 13:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-10 11:00:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-17 11:20:00"
-    }
-  },
-  {
     "timestamp": "2026-02-07T14:38:49.044416+00:00",
     "data": {
       "id_stacji": "150200030",
@@ -2744,6 +2723,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "9.05",
       "przeplyw_data": "2026-02-14 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-10 11:00:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-17 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T14:00:17.560245+00:00",
+    "data": {
+      "id_stacji": "150200030",
+      "stacja": "Brzegi",
+      "rzeka": "Nida",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "20.4139",
+      "lat": "50.7419",
+      "stan_wody": "95",
+      "stan_wody_data_pomiaru": "2026-02-14 13:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "9.05",
+      "przeplyw_data": "2026-02-14 13:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-10 11:00:00",
       "zjawisko_zarastania": "101",
