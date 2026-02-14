@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-07T18:45:42.539352+00:00",
-    "data": {
-      "id_stacji": "151150060",
-      "stacja": "Leśna",
-      "rzeka": "Kwisa",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.2867",
-      "lat": "51.0283",
-      "stan_wody": "13",
-      "stan_wody_data_pomiaru": "2026-02-07 18:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.8",
-      "przeplyw_data": "2026-02-07 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2019-07-08 09:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-29 11:10:00"
-    }
-  },
-  {
     "timestamp": "2026-02-07T19:31:04.607212+00:00",
     "data": {
       "id_stacji": "151150060",
@@ -2765,6 +2744,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "9.1",
       "przeplyw_data": "2026-02-14 18:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2019-07-08 09:00:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-29 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T19:30:12.780073+00:00",
+    "data": {
+      "id_stacji": "151150060",
+      "stacja": "Leśna",
+      "rzeka": "Kwisa",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.2867",
+      "lat": "51.0283",
+      "stan_wody": "47",
+      "stan_wody_data_pomiaru": "2026-02-14 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "9.1",
+      "przeplyw_data": "2026-02-14 19:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2019-07-08 09:00:00",
       "zjawisko_zarastania": "200",
