@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-07T09:37:47.334793+00:00",
-    "data": {
-      "id_stacji": "150150190",
-      "stacja": "Podgórzyn",
-      "rzeka": "Podgórna",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.6836",
-      "lat": "50.8203",
-      "stan_wody": "69",
-      "stan_wody_data_pomiaru": "2026-02-07 08:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.47",
-      "przeplyw_data": "2026-02-07 09:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2021-10-06 11:07:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2020-02-17 12:10:00"
-    }
-  },
-  {
     "timestamp": "2026-02-07T10:34:12.973005+00:00",
     "data": {
       "id_stacji": "150150190",
@@ -2744,6 +2723,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.61",
       "przeplyw_data": "2026-02-14 08:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-09 09:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2020-02-17 12:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-14T09:38:12.331960+00:00",
+    "data": {
+      "id_stacji": "150150190",
+      "stacja": "Podgórzyn",
+      "rzeka": "Podgórna",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.6836",
+      "lat": "50.8203",
+      "stan_wody": "74",
+      "stan_wody_data_pomiaru": "2026-02-14 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.61",
+      "przeplyw_data": "2026-02-14 09:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-09 09:00:00",
       "zjawisko_zarastania": "0",
