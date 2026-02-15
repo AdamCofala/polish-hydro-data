@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-08T06:26:56.764170+00:00",
-    "data": {
-      "id_stacji": "149190160",
-      "stacja": "Rudze",
-      "rzeka": "Wieprzówka",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.4425",
-      "lat": "49.9617",
-      "stan_wody": "63",
-      "stan_wody_data_pomiaru": "2026-02-08 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.06",
-      "przeplyw_data": "2026-02-08 05:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-08 13:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-06 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-02-08T07:23:47.301168+00:00",
     "data": {
       "id_stacji": "149190160",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.1",
       "przeplyw_data": "2026-02-15 05:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-13 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-06 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-15T07:22:10.840724+00:00",
+    "data": {
+      "id_stacji": "149190160",
+      "stacja": "Rudze",
+      "rzeka": "Wieprzówka",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.4425",
+      "lat": "49.9617",
+      "stan_wody": "114",
+      "stan_wody_data_pomiaru": "2026-02-15 07:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.96",
+      "przeplyw_data": "2026-02-15 06:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-13 11:00:00",
       "zjawisko_zarastania": "0",
