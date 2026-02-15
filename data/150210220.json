@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-07T23:37:00.994680+00:00",
-    "data": {
-      "id_stacji": "150210220",
-      "stacja": "Włochy",
-      "rzeka": "Pokrzywianka",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.1469",
-      "lat": "50.9075",
-      "stan_wody": "157",
-      "stan_wody_data_pomiaru": "2026-02-07 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.59",
-      "przeplyw_data": "2026-02-07 23:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-07 06:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-27 16:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-08T03:20:15.578670+00:00",
     "data": {
       "id_stacji": "150210220",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.31",
       "przeplyw_data": "2026-02-14 23:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-13 06:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-27 16:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-15T02:52:13.095069+00:00",
+    "data": {
+      "id_stacji": "150210220",
+      "stacja": "Włochy",
+      "rzeka": "Pokrzywianka",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.1469",
+      "lat": "50.9075",
+      "stan_wody": "178",
+      "stan_wody_data_pomiaru": "2026-02-15 02:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.15",
+      "przeplyw_data": "2026-02-15 02:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-13 06:00:00",
       "zjawisko_zarastania": "100",
