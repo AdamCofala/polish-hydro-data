@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-08T14:00:50.364213+00:00",
-    "data": {
-      "id_stacji": "149200330",
-      "stacja": "Ciężkowice",
-      "rzeka": "Biała",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.9736",
-      "lat": "49.7922",
-      "stan_wody": "206",
-      "stan_wody_data_pomiaru": "2026-02-08 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "8.96",
-      "przeplyw_data": "2026-02-08 13:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 10:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-03 11:40:00"
-    }
-  },
-  {
     "timestamp": "2026-02-08T14:55:12.814641+00:00",
     "data": {
       "id_stacji": "149200330",
@@ -2765,6 +2744,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "7.04",
       "przeplyw_data": "2026-02-15 12:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 10:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-03 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-15T14:00:57.857018+00:00",
+    "data": {
+      "id_stacji": "149200330",
+      "stacja": "Ciężkowice",
+      "rzeka": "Biała",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.9736",
+      "lat": "49.7922",
+      "stan_wody": "200",
+      "stan_wody_data_pomiaru": "2026-02-15 13:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "7.5",
+      "przeplyw_data": "2026-02-15 13:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 10:20:00",
       "zjawisko_zarastania": "0",

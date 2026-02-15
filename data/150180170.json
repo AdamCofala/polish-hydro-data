@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-08T14:00:50.364213+00:00",
-    "data": {
-      "id_stacji": "150180170",
-      "stacja": "Pyskowice",
-      "rzeka": "Drama",
-      "wojewodztwo": "śląskie",
-      "lon": "18.5889",
-      "lat": "50.3864",
-      "stan_wody": "152",
-      "stan_wody_data_pomiaru": "2026-02-08 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.85",
-      "przeplyw_data": "2026-02-08 13:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-03 08:00:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-09 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-02-08T14:55:12.814641+00:00",
     "data": {
       "id_stacji": "150180170",
@@ -2282,6 +2261,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.97",
       "przeplyw_data": "2026-02-15 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-12 10:40:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-09 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-15T14:00:57.857018+00:00",
+    "data": {
+      "id_stacji": "150180170",
+      "stacja": "Pyskowice",
+      "rzeka": "Drama",
+      "wojewodztwo": "śląskie",
+      "lon": "18.5889",
+      "lat": "50.3864",
+      "stan_wody": "154",
+      "stan_wody_data_pomiaru": "2026-02-15 13:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.97",
+      "przeplyw_data": "2026-02-15 13:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-12 10:40:00",
       "zjawisko_zarastania": "101",

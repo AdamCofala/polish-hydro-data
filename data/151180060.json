@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-08T14:00:50.364213+00:00",
-    "data": {
-      "id_stacji": "151180060",
-      "stacja": "Kraszewice",
-      "rzeka": "Łużyca",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "18.225",
-      "lat": "51.5192",
-      "stan_wody": "156",
-      "stan_wody_data_pomiaru": "2026-02-08 13:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.61",
-      "przeplyw_data": "2026-02-08 13:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-03 13:40:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-03 13:40:00"
-    }
-  },
-  {
     "timestamp": "2026-02-08T14:55:12.814641+00:00",
     "data": {
       "id_stacji": "151180060",
@@ -2765,6 +2744,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.08",
       "przeplyw_data": "2026-02-15 12:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-10 13:10:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-03 13:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-15T14:00:57.857018+00:00",
+    "data": {
+      "id_stacji": "151180060",
+      "stacja": "Kraszewice",
+      "rzeka": "Łużyca",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "18.225",
+      "lat": "51.5192",
+      "stan_wody": "191",
+      "stan_wody_data_pomiaru": "2026-02-15 13:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.05",
+      "przeplyw_data": "2026-02-15 13:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-10 13:10:00",
       "zjawisko_zarastania": "1",
