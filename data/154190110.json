@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-08T10:35:25.667415+00:00",
-    "data": {
-      "id_stacji": "154190110",
-      "stacja": "Nowe Sadłuki",
-      "rzeka": "Bauda",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "19.7117",
-      "lat": "54.2603",
-      "stan_wody": "87",
-      "stan_wody_data_pomiaru": "2026-02-08 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.24",
-      "przeplyw_data": "2026-02-08 10:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-01 11:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-01 11:30:00"
-    }
-  },
-  {
     "timestamp": "2026-02-08T11:29:25.408798+00:00",
     "data": {
       "id_stacji": "154190110",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.16",
       "przeplyw_data": "2026-02-15 10:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-11 12:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-01 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-15T11:28:42.980578+00:00",
+    "data": {
+      "id_stacji": "154190110",
+      "stacja": "Nowe Sadłuki",
+      "rzeka": "Bauda",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "19.7117",
+      "lat": "54.2603",
+      "stan_wody": "123",
+      "stan_wody_data_pomiaru": "2026-02-15 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.16",
+      "przeplyw_data": "2026-02-15 11:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-11 12:20:00",
       "zjawisko_zarastania": "0",
