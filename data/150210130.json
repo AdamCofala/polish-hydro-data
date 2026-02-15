@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-08T07:23:47.301168+00:00",
-    "data": {
-      "id_stacji": "150210130",
-      "stacja": "Pustków",
-      "rzeka": "Wisłoka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.465",
-      "lat": "50.1433",
-      "stan_wody": "123",
-      "stan_wody_data_pomiaru": "2026-02-08 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "26.1",
-      "przeplyw_data": "2026-02-08 06:50:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-19 11:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-19 11:20:00"
-    }
-  },
-  {
     "timestamp": "2026-02-08T07:58:07.822739+00:00",
     "data": {
       "id_stacji": "150210130",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "48",
       "przeplyw_data": "2026-02-15 06:50:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-19 11:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-19 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-15T07:57:51.514750+00:00",
+    "data": {
+      "id_stacji": "150210130",
+      "stacja": "Pustków",
+      "rzeka": "Wisłoka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.465",
+      "lat": "50.1433",
+      "stan_wody": "158",
+      "stan_wody_data_pomiaru": "2026-02-15 07:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "46.8",
+      "przeplyw_data": "2026-02-15 07:30:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-19 11:20:00",
       "zjawisko_zarastania": "0",
