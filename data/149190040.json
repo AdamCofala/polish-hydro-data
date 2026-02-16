@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-09T09:05:52.653064+00:00",
-    "data": {
-      "id_stacji": "149190040",
-      "stacja": "Ujsoły",
-      "rzeka": "Woda Ujsolska",
-      "wojewodztwo": "śląskie",
-      "lon": "19.1172",
-      "lat": "49.4925",
-      "stan_wody": "82",
-      "stan_wody_data_pomiaru": "2026-02-09 08:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.38",
-      "przeplyw_data": "2026-02-09 08:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-15 10:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-16 08:50:00"
-    }
-  },
-  {
     "timestamp": "2026-02-09T10:35:05.467394+00:00",
     "data": {
       "id_stacji": "149190040",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.23",
       "przeplyw_data": "2026-02-16 08:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-15 10:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-16 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-16T10:29:09.471034+00:00",
+    "data": {
+      "id_stacji": "149190040",
+      "stacja": "Ujsoły",
+      "rzeka": "Woda Ujsolska",
+      "wojewodztwo": "śląskie",
+      "lon": "19.1172",
+      "lat": "49.4925",
+      "stan_wody": "76",
+      "stan_wody_data_pomiaru": "2026-02-16 10:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.62",
+      "przeplyw_data": "2026-02-16 10:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-15 10:50:00",
       "zjawisko_zarastania": "0",
