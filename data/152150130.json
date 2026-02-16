@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-09T14:35:44.857567+00:00",
-    "data": {
-      "id_stacji": "152150130",
-      "stacja": "Cigacice",
-      "rzeka": "Odra",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.6075",
-      "lat": "52.0331",
-      "stan_wody": "155",
-      "stan_wody_data_pomiaru": "2026-02-09 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "97.5",
-      "przeplyw_data": "2026-02-09 14:10:00",
-      "zjawisko_lodowe": "1",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-02-04 11:50:00"
-    }
-  },
-  {
     "timestamp": "2026-02-09T16:02:24.500737+00:00",
     "data": {
       "id_stacji": "152150130",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "143",
       "przeplyw_data": "2026-02-16 13:10:00",
+      "zjawisko_lodowe": "1",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-04 11:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-16T14:50:25.370713+00:00",
+    "data": {
+      "id_stacji": "152150130",
+      "stacja": "Cigacice",
+      "rzeka": "Odra",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.6075",
+      "lat": "52.0331",
+      "stan_wody": "194",
+      "stan_wody_data_pomiaru": "2026-02-16 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "144",
+      "przeplyw_data": "2026-02-16 14:30:00",
       "zjawisko_lodowe": "1",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:50:00",
       "zjawisko_zarastania": "0",
