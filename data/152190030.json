@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-09T11:51:20.205962+00:00",
-    "data": {
-      "id_stacji": "152190030",
-      "stacja": "Włocławek",
-      "rzeka": "Wisła",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "19.0694",
-      "lat": "52.6633",
-      "stan_wody": "142",
-      "stan_wody_data_pomiaru": "2026-02-09 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "507",
-      "przeplyw_data": "2026-02-09 11:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-09 09:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-25 12:30:00"
-    }
-  },
-  {
     "timestamp": "2026-02-09T13:24:24.422121+00:00",
     "data": {
       "id_stacji": "152190030",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "705",
       "przeplyw_data": "2026-02-16 10:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-09 09:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-25 12:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-16T12:00:42.038236+00:00",
+    "data": {
+      "id_stacji": "152190030",
+      "stacja": "Włocławek",
+      "rzeka": "Wisła",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lon": "19.0694",
+      "lat": "52.6633",
+      "stan_wody": "181",
+      "stan_wody_data_pomiaru": "2026-02-16 11:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "700",
+      "przeplyw_data": "2026-02-16 11:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-09 09:50:00",
       "zjawisko_zarastania": "0",
