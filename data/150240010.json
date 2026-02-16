@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-09T06:43:25.565954+00:00",
-    "data": {
-      "id_stacji": "150240010",
-      "stacja": "Strzyżów",
-      "rzeka": "Bug",
-      "wojewodztwo": "lubelskie",
-      "lon": "24.0358",
-      "lat": "50.8394",
-      "stan_wody": "334",
-      "stan_wody_data_pomiaru": "2026-02-09 06:30:00",
-      "temperatura_wody": "0.1",
-      "temperatura_wody_data_pomiaru": "2026-01-11 06:00:00",
-      "przelyw": "20.2",
-      "przeplyw_data": "2026-02-09 06:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-28 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-10 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-09T07:59:24.495958+00:00",
     "data": {
       "id_stacji": "150240010",
@@ -2786,6 +2765,27 @@
       "temperatura_wody_data_pomiaru": "2026-02-15 06:00:00",
       "przelyw": "25",
       "przeplyw_data": "2026-02-16 06:10:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-10 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-16T07:57:44.145560+00:00",
+    "data": {
+      "id_stacji": "150240010",
+      "stacja": "Strzyżów",
+      "rzeka": "Bug",
+      "wojewodztwo": "lubelskie",
+      "lon": "24.0358",
+      "lat": "50.8394",
+      "stan_wody": "385",
+      "stan_wody_data_pomiaru": "2026-02-16 07:30:00",
+      "temperatura_wody": "0.6",
+      "temperatura_wody_data_pomiaru": "2026-02-15 06:00:00",
+      "przelyw": "25",
+      "przeplyw_data": "2026-02-16 07:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-01-28 11:00:00",
       "zjawisko_zarastania": "0",
