@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-10T20:01:26.294762+00:00",
-    "data": {
-      "id_stacji": "152150190",
-      "stacja": "Nowe Drezdenko",
-      "rzeka": "Noteć",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.8375",
-      "lat": "52.8508",
-      "stan_wody": "197",
-      "stan_wody_data_pomiaru": "2026-02-10 19:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "41.8",
-      "przeplyw_data": "2026-02-10 19:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-16 09:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-17 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-10T21:11:33.857417+00:00",
     "data": {
       "id_stacji": "152150190",
@@ -2870,6 +2849,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "44.2",
       "przeplyw_data": "2026-02-17 19:30:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-17 09:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-17 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-17T21:04:05.494048+00:00",
+    "data": {
+      "id_stacji": "152150190",
+      "stacja": "Nowe Drezdenko",
+      "rzeka": "Noteć",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.8375",
+      "lat": "52.8508",
+      "stan_wody": "125",
+      "stan_wody_data_pomiaru": "2026-02-17 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "44.2",
+      "przeplyw_data": "2026-02-17 20:30:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-02-17 09:20:00",
       "zjawisko_zarastania": "0",
