@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-10T07:15:08.088740+00:00",
-    "data": {
-      "id_stacji": "153180150",
-      "stacja": "Rogóźno",
-      "rzeka": "Osa",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "18.9489",
-      "lat": "53.5167",
-      "stan_wody": "93",
-      "stan_wody_data_pomiaru": "2026-02-10 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.96",
-      "przeplyw_data": "2026-02-10 06:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 13:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-12 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-10T09:34:10.281985+00:00",
     "data": {
       "id_stacji": "153180150",
@@ -2681,6 +2660,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "3.72",
       "przeplyw_data": "2026-02-17 04:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 13:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-12 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-17T07:32:51.503269+00:00",
+    "data": {
+      "id_stacji": "153180150",
+      "stacja": "Rogóźno",
+      "rzeka": "Osa",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lon": "18.9489",
+      "lat": "53.5167",
+      "stan_wody": "89",
+      "stan_wody_data_pomiaru": "2026-02-17 07:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "3.72",
+      "przeplyw_data": "2026-02-17 06:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 13:00:00",
       "zjawisko_zarastania": "0",

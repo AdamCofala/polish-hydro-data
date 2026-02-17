@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-10T07:15:08.088740+00:00",
-    "data": {
-      "id_stacji": "151170110",
-      "stacja": "Bogusław",
-      "rzeka": "Prosna",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.9536",
-      "lat": "51.8983",
-      "stan_wody": "63",
-      "stan_wody_data_pomiaru": "2026-02-10 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "7.47",
-      "przeplyw_data": "2026-02-10 06:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-27 13:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-04 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-02-10T09:34:10.281985+00:00",
     "data": {
       "id_stacji": "151170110",
@@ -2702,6 +2681,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "10.6",
       "przeplyw_data": "2026-02-17 04:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-11 10:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-04 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-17T07:32:51.503269+00:00",
+    "data": {
+      "id_stacji": "151170110",
+      "stacja": "Bogusław",
+      "rzeka": "Prosna",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.9536",
+      "lat": "51.8983",
+      "stan_wody": "80",
+      "stan_wody_data_pomiaru": "2026-02-17 07:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "10.5",
+      "przeplyw_data": "2026-02-17 06:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-11 10:30:00",
       "zjawisko_zarastania": "0",
