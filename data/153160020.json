@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-10T03:39:58.842532+00:00",
-    "data": {
-      "id_stacji": "153160020",
-      "stacja": "Tychówko",
-      "rzeka": "Parsęta",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "16.0653",
-      "lat": "53.9006",
-      "stan_wody": "154",
-      "stan_wody_data_pomiaru": "2026-02-10 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "5.62",
-      "przeplyw_data": "2026-02-10 03:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-27 12:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-20 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-02-10T05:39:57.260401+00:00",
     "data": {
       "id_stacji": "153160020",
@@ -2828,6 +2807,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "7.66",
       "przeplyw_data": "2026-02-17 02:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-12 11:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-20 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-17T04:58:32.015685+00:00",
+    "data": {
+      "id_stacji": "153160020",
+      "stacja": "Tychówko",
+      "rzeka": "Parsęta",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "16.0653",
+      "lat": "53.9006",
+      "stan_wody": "170",
+      "stan_wody_data_pomiaru": "2026-02-17 04:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "7.8",
+      "przeplyw_data": "2026-02-17 04:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-12 11:20:00",
       "zjawisko_zarastania": "100",
