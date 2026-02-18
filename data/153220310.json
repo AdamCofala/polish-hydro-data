@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-11T12:06:59.154841+00:00",
-    "data": {
-      "id_stacji": "153220310",
-      "stacja": "Czarna wieś",
-      "rzeka": "Kanał Kuwasy",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "139",
-      "stan_wody_data_pomiaru": "2026-02-11 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.53",
-      "przeplyw_data": "2026-02-11 11:30:00",
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-02-11T13:56:14.962823+00:00",
     "data": {
       "id_stacji": "153220310",
@@ -2790,6 +2769,27 @@
       "zjawisko_lodowe_data_pomiaru": null,
       "zjawisko_zarastania": null,
       "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-02-18T13:21:02.737286+00:00",
+    "data": {
+      "id_stacji": "153220310",
+      "stacja": "Czarna wieś",
+      "rzeka": "Kanał Kuwasy",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "140",
+      "stan_wody_data_pomiaru": "2026-02-18 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.56",
+      "przeplyw_data": "2026-02-18 09:50:00",
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-18 11:40:00"
     }
   }
 ]
