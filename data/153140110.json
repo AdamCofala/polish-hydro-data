@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-11T13:56:14.962823+00:00",
-    "data": {
-      "id_stacji": "153140110",
-      "stacja": "Okunica",
-      "rzeka": "Płonia",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "92",
-      "stan_wody_data_pomiaru": "2026-02-11 13:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.33",
-      "przeplyw_data": "2026-02-11 12:50:00",
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-02-11T15:03:35.673143+00:00",
     "data": {
       "id_stacji": "153140110",
@@ -2761,6 +2740,27 @@
       "lat": null,
       "stan_wody": "101",
       "stan_wody_data_pomiaru": "2026-02-18 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.55",
+      "przeplyw_data": "2026-02-18 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-18 12:00:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-18 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-18T14:27:50.610599+00:00",
+    "data": {
+      "id_stacji": "153140110",
+      "stacja": "Okunica",
+      "rzeka": "Płonia",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "102",
+      "stan_wody_data_pomiaru": "2026-02-18 14:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.55",
