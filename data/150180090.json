@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-11T08:06:29.254976+00:00",
-    "data": {
-      "id_stacji": "150180090",
-      "stacja": "Nędza",
-      "rzeka": "Sumina",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "51",
-      "stan_wody_data_pomiaru": "2026-02-11 07:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.55",
-      "przeplyw_data": "2026-02-11 07:30:00",
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-02-11T09:28:59.107161+00:00",
     "data": {
       "id_stacji": "150180090",
@@ -2870,6 +2849,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.65",
       "przeplyw_data": "2026-02-18 07:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-17 13:10:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-02-18T08:55:27.365395+00:00",
+    "data": {
+      "id_stacji": "150180090",
+      "stacja": "Nędza",
+      "rzeka": "Sumina",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "53",
+      "stan_wody_data_pomiaru": "2026-02-18 08:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.65",
+      "przeplyw_data": "2026-02-18 08:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-17 13:10:00",
       "zjawisko_zarastania": null,
