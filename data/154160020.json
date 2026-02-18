@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-11T07:12:06.483846+00:00",
-    "data": {
-      "id_stacji": "154160020",
-      "stacja": "Białogórzyno",
-      "rzeka": "Radew",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "16.1167",
-      "lat": "54.0625",
-      "stan_wody": "50",
-      "stan_wody_data_pomiaru": "2026-02-11 06:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "5.8",
-      "przeplyw_data": "2026-02-11 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-12 11:04:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-15 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-02-11T08:06:29.254976+00:00",
     "data": {
       "id_stacji": "154160020",
@@ -2870,6 +2849,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "6.44",
       "przeplyw_data": "2026-02-18 05:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-16 10:40:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-15 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-18T07:33:51.256521+00:00",
+    "data": {
+      "id_stacji": "154160020",
+      "stacja": "Białogórzyno",
+      "rzeka": "Radew",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "16.1167",
+      "lat": "54.0625",
+      "stan_wody": "54",
+      "stan_wody_data_pomiaru": "2026-02-18 07:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "6.44",
+      "przeplyw_data": "2026-02-18 07:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-16 10:40:00",
       "zjawisko_zarastania": "100",
