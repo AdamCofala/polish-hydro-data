@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-12T06:39:11.071280+00:00",
-    "data": {
-      "id_stacji": "151150190",
-      "stacja": "Lubiatów",
-      "rzeka": "Obrzyca",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "329",
-      "stan_wody_data_pomiaru": "2026-02-12 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:20:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-02-12T07:56:13.082814+00:00",
     "data": {
       "id_stacji": "151150190",
@@ -2803,6 +2782,27 @@
       "lat": null,
       "stan_wody": "329",
       "stan_wody_data_pomiaru": "2026-02-19 05:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.43",
+      "przeplyw_data": "2026-02-18 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-12 16:20:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-02-19T07:33:12.666814+00:00",
+    "data": {
+      "id_stacji": "151150190",
+      "stacja": "Lubiatów",
+      "rzeka": "Obrzyca",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "329",
+      "stan_wody_data_pomiaru": "2026-02-19 07:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.43",
