@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-13T18:04:29.163663+00:00",
-    "data": {
-      "id_stacji": "150200160",
-      "stacja": "Daleszyce",
-      "rzeka": "Czarna Nida",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "20.8131",
-      "lat": "50.8008",
-      "stan_wody": "134",
-      "stan_wody_data_pomiaru": "2026-02-13 17:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.8",
-      "przeplyw_data": "2026-02-13 17:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-12 11:10:00"
-    }
-  },
-  {
     "timestamp": "2026-02-13T19:26:58.628848+00:00",
     "data": {
       "id_stacji": "150200160",
@@ -2971,6 +2950,27 @@
       "lat": "50.8008",
       "stan_wody": "120",
       "stan_wody_data_pomiaru": "2026-02-20 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.67",
+      "przeplyw_data": "2026-02-18 09:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-12 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-20T19:21:32.053150+00:00",
+    "data": {
+      "id_stacji": "150200160",
+      "stacja": "Daleszyce",
+      "rzeka": "Czarna Nida",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "20.8131",
+      "lat": "50.8008",
+      "stan_wody": "121",
+      "stan_wody_data_pomiaru": "2026-02-20 19:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.67",
