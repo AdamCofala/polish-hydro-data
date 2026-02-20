@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-13T16:09:11.026106+00:00",
-    "data": {
-      "id_stacji": "153150020",
-      "stacja": "Morzyca",
-      "rzeka": "Mała Ina",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "111",
-      "stan_wody_data_pomiaru": "2026-02-13 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.84",
-      "przeplyw_data": "2026-02-13 15:50:00",
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-02-13T17:24:48.420991+00:00",
     "data": {
       "id_stacji": "153150020",
@@ -2845,6 +2824,27 @@
       "lat": null,
       "stan_wody": "105",
       "stan_wody_data_pomiaru": "2026-02-20 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "2.66",
+      "przeplyw_data": "2026-02-18 09:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-18 11:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-18 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-02-20T17:08:52.752921+00:00",
+    "data": {
+      "id_stacji": "153150020",
+      "stacja": "Morzyca",
+      "rzeka": "Mała Ina",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "105",
+      "stan_wody_data_pomiaru": "2026-02-20 16:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "2.66",
