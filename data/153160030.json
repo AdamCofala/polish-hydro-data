@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-13T17:24:48.420991+00:00",
-    "data": {
-      "id_stacji": "153160030",
-      "stacja": "Stare drawsko",
-      "rzeka": "Drawa",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "113",
-      "stan_wody_data_pomiaru": "2026-02-13 17:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.3",
-      "przeplyw_data": "2026-02-13 16:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-09 12:20:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-02-13T18:04:29.163663+00:00",
     "data": {
       "id_stacji": "153160030",
@@ -703,6 +682,27 @@
       "lat": null,
       "stan_wody": "114",
       "stan_wody_data_pomiaru": "2026-02-20 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.32",
+      "przeplyw_data": "2026-02-14 03:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-19 10:00:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-02-20T18:04:25.482689+00:00",
+    "data": {
+      "id_stacji": "153160030",
+      "stacja": "Stare drawsko",
+      "rzeka": "Drawa",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "114",
+      "stan_wody_data_pomiaru": "2026-02-20 17:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.32",
