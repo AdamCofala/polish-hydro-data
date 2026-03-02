@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-02-23T20:57:25.081257+00:00",
-    "data": {
-      "id_stacji": "151210110",
-      "stacja": "Mika",
-      "rzeka": "Okrzejka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "334",
-      "stan_wody_data_pomiaru": "2026-02-23 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.71",
-      "przeplyw_data": "2026-02-18 09:50:00",
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-02-23T21:55:20.779733+00:00",
     "data": {
       "id_stacji": "151210110",
@@ -2425,6 +2404,27 @@
       "lat": null,
       "stan_wody": "246",
       "stan_wody_data_pomiaru": "2026-03-02 20:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.71",
+      "przeplyw_data": "2026-02-18 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-27 10:20:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-03-02T21:40:07.609197+00:00",
+    "data": {
+      "id_stacji": "151210110",
+      "stacja": "Mika",
+      "rzeka": "Okrzejka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "246",
+      "stan_wody_data_pomiaru": "2026-03-02 21:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.71",
