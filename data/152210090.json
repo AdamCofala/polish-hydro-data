@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-03-08T05:49:47.480162+00:00",
-    "data": {
-      "id_stacji": "152210090",
-      "stacja": "Wyszków",
-      "rzeka": "Bug",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.4528",
-      "lat": "52.5883",
-      "stan_wody": "308",
-      "stan_wody_data_pomiaru": "2026-03-08 05:30:00",
-      "temperatura_wody": "0.4",
-      "temperatura_wody_data_pomiaru": "2026-03-07 06:00:00",
-      "przelyw": "72.4",
-      "przeplyw_data": "2026-02-18 09:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-06 10:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-29 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-03-08T06:53:45.861576+00:00",
     "data": {
       "id_stacji": "152210090",
@@ -3036,6 +3015,27 @@
       "stan_wody_data_pomiaru": "2026-03-15 05:00:00",
       "temperatura_wody": "6.5",
       "temperatura_wody_data_pomiaru": "2026-03-14 06:00:00",
+      "przelyw": "72.4",
+      "przeplyw_data": "2026-02-18 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-13 10:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-29 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-03-15T06:34:41.398859+00:00",
+    "data": {
+      "id_stacji": "152210090",
+      "stacja": "Wyszków",
+      "rzeka": "Bug",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.4528",
+      "lat": "52.5883",
+      "stan_wody": "303",
+      "stan_wody_data_pomiaru": "2026-03-15 06:00:00",
+      "temperatura_wody": "7.2",
+      "temperatura_wody_data_pomiaru": "2026-03-15 06:00:00",
       "przelyw": "72.4",
       "przeplyw_data": "2026-02-18 09:50:00",
       "zjawisko_lodowe": "0",
