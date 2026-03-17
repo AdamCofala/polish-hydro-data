@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-03-10T21:35:13.742767+00:00",
-    "data": {
-      "id_stacji": "154170010",
-      "stacja": "Słupsk",
-      "rzeka": "Słupia",
-      "wojewodztwo": "pomorskie",
-      "lon": "17.0314",
-      "lat": "54.47",
-      "stan_wody": "135",
-      "stan_wody_data_pomiaru": "2026-03-10 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "13.1",
-      "przeplyw_data": "2026-02-18 09:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-10 09:50:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2023-07-05 08:00:00"
-    }
-  },
-  {
     "timestamp": "2026-03-10T22:35:17.731663+00:00",
     "data": {
       "id_stacji": "154170010",
@@ -2824,6 +2803,27 @@
       "lat": "54.47",
       "stan_wody": "122",
       "stan_wody_data_pomiaru": "2026-03-17 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "13.1",
+      "przeplyw_data": "2026-02-18 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-13 11:50:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2023-07-05 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-03-17T21:45:55.974970+00:00",
+    "data": {
+      "id_stacji": "154170010",
+      "stacja": "Słupsk",
+      "rzeka": "Słupia",
+      "wojewodztwo": "pomorskie",
+      "lon": "17.0314",
+      "lat": "54.47",
+      "stan_wody": "123",
+      "stan_wody_data_pomiaru": "2026-03-17 21:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "13.1",
