@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-03-16T05:29:02.625271+00:00",
-    "data": {
-      "id_stacji": "152140100",
-      "stacja": "Dolsk",
-      "rzeka": "Myśla",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "74",
-      "stan_wody_data_pomiaru": "2026-03-16 05:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.46",
-      "przeplyw_data": "2026-02-18 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-13 06:20:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-03-13 06:20:00"
-    }
-  },
-  {
     "timestamp": "2026-03-16T06:55:02.484403+00:00",
     "data": {
       "id_stacji": "152140100",
@@ -2769,6 +2748,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-03-17 06:20:00",
       "zjawisko_zarastania": "100",
       "zjawisko_zarastania_data_pomiaru": "2026-03-17 06:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-03-23T06:48:33.219485+00:00",
+    "data": {
+      "id_stacji": "152140100",
+      "stacja": "Dolsk",
+      "rzeka": "Myśla",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "72",
+      "stan_wody_data_pomiaru": "2026-03-23 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.46",
+      "przeplyw_data": "2026-02-18 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-23 06:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-03-23 06:20:00"
     }
   }
 ]
