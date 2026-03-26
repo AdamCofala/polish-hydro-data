@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-03-19T06:07:19.591288+00:00",
-    "data": {
-      "id_stacji": "153170040",
-      "stacja": "Wyrzysk",
-      "rzeka": "Łobżonka",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.2708",
-      "lat": "53.1508",
-      "stan_wody": "67",
-      "stan_wody_data_pomiaru": "2026-03-19 05:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.11",
-      "przeplyw_data": "2026-02-18 09:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-16 11:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-20 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-03-19T07:31:32.710470+00:00",
     "data": {
       "id_stacji": "153170040",
@@ -2887,6 +2866,27 @@
       "lat": "53.1508",
       "stan_wody": "50",
       "stan_wody_data_pomiaru": "2026-03-26 05:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "1.11",
+      "przeplyw_data": "2026-02-18 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-20 10:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-20 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-03-26T07:19:29.347816+00:00",
+    "data": {
+      "id_stacji": "153170040",
+      "stacja": "Wyrzysk",
+      "rzeka": "Łobżonka",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.2708",
+      "lat": "53.1508",
+      "stan_wody": "49",
+      "stan_wody_data_pomiaru": "2026-03-26 07:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "1.11",
