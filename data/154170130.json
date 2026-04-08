@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-01T07:43:55.777714+00:00",
-    "data": {
-      "id_stacji": "154170130",
-      "stacja": "Pogorzelice",
-      "rzeka": "Pogorzelica",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "120",
-      "stan_wody_data_pomiaru": "2026-04-01 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.69",
-      "przeplyw_data": "2026-02-18 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-20 11:00:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-04-01T17:54:41.024983+00:00",
     "data": {
       "id_stacji": "154170130",
@@ -1501,6 +1480,27 @@
       "lat": null,
       "stan_wody": "120",
       "stan_wody_data_pomiaru": "2026-04-08 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przelyw": "0.69",
+      "przeplyw_data": "2026-02-18 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-07 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-07 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-08T08:15:48.424720+00:00",
+    "data": {
+      "id_stacji": "154170130",
+      "stacja": "Pogorzelice",
+      "rzeka": "Pogorzelica",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "120",
+      "stan_wody_data_pomiaru": "2026-04-08 08:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przelyw": "0.69",
