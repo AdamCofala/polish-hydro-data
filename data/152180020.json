@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08T20:57:22.915180+00:00",
-    "data": {
-      "id_stacji": "152180020",
-      "stacja": "Goryszewo",
-      "rzeka": "Panna",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "129",
-      "stan_wody_data_pomiaru": "2026-04-08 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.37",
-      "przeplyw_data": "2026-02-18 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-31 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-03-31 06:00:00"
-    }
-  },
-  {
     "timestamp": "2026-04-08T21:54:32.696966+00:00",
     "data": {
       "id_stacji": "152180020",
@@ -2261,6 +2240,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.66",
       "przeplyw_data": "2026-04-15 18:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-15 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-15 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-15T21:27:48.412897+00:00",
+    "data": {
+      "id_stacji": "152180020",
+      "stacja": "Goryszewo",
+      "rzeka": "Panna",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "137",
+      "stan_wody_data_pomiaru": "2026-04-15 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.69",
+      "przeplyw_data": "2026-04-15 20:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-15 06:00:00",
       "zjawisko_zarastania": "0",
