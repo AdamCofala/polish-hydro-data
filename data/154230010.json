@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-08T15:59:52.728660+00:00",
-    "data": {
-      "id_stacji": "154230010",
-      "stacja": "Poszeszupie",
-      "rzeka": "Szeszupa",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "124",
-      "stan_wody_data_pomiaru": "2026-04-08 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "2.57",
-      "przeplyw_data": "2026-02-13 11:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-12 11:00:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-04-08T17:18:09.252326+00:00",
     "data": {
       "id_stacji": "154230010",
@@ -2366,6 +2345,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.93",
       "przeplyw_data": "2026-04-15 15:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-12 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-10 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-15T17:13:44.294221+00:00",
+    "data": {
+      "id_stacji": "154230010",
+      "stacja": "Poszeszupie",
+      "rzeka": "Szeszupa",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "122",
+      "stan_wody_data_pomiaru": "2026-04-15 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.93",
+      "przeplyw_data": "2026-04-15 16:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-12 11:00:00",
       "zjawisko_zarastania": "0",
