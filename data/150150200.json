@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09T14:20:58.346218+00:00",
-    "data": {
-      "id_stacji": "150150200",
-      "stacja": "Sosnówka",
-      "rzeka": "Sośniak",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.7192",
-      "lat": "50.8222",
-      "stan_wody": "7",
-      "stan_wody_data_pomiaru": "2026-04-09 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.06",
-      "przeplyw_data": "2026-02-18 09:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-16 08:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-02-16 08:40:00"
-    }
-  },
-  {
     "timestamp": "2026-04-09T16:03:29.090341+00:00",
     "data": {
       "id_stacji": "150150200",
@@ -2303,6 +2282,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.04",
       "przeplyw_data": "2026-04-16 12:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-16 08:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-02-16 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-16T15:00:53.079368+00:00",
+    "data": {
+      "id_stacji": "150150200",
+      "stacja": "Sosnówka",
+      "rzeka": "Sośniak",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.7192",
+      "lat": "50.8222",
+      "stan_wody": "5",
+      "stan_wody_data_pomiaru": "2026-04-16 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.06",
+      "przeplyw_data": "2026-04-16 14:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-16 08:40:00",
       "zjawisko_zarastania": "0",
