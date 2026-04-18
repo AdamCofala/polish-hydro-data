@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-11T15:57:39.575573+00:00",
-    "data": {
-      "id_stacji": "150230030",
-      "stacja": "Krzak",
-      "rzeka": "Łabuńka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "135",
-      "stan_wody_data_pomiaru": "2026-04-11 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "1.81",
-      "przeplyw_data": "2026-02-18 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 09:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-03-18 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-04-11T16:50:36.048326+00:00",
     "data": {
       "id_stacji": "150230030",
@@ -2366,6 +2345,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.06",
       "przeplyw_data": "2026-04-18 14:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 09:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-03-18 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-18T16:03:18.608241+00:00",
+    "data": {
+      "id_stacji": "150230030",
+      "stacja": "Krzak",
+      "rzeka": "Łabuńka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "128",
+      "stan_wody_data_pomiaru": "2026-04-18 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.06",
+      "przeplyw_data": "2026-04-18 15:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-18 09:10:00",
       "zjawisko_zarastania": "0",
