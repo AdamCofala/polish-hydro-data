@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12T21:59:51.425838+00:00",
-    "data": {
-      "id_stacji": "154180010",
-      "stacja": "Sarnowy",
-      "rzeka": "Wierzyca",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "111",
-      "stan_wody_data_pomiaru": "2026-04-12 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.55",
-      "przeplyw_data": "2026-02-18 09:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-12 11:20:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-04-12T22:50:10.100378+00:00",
     "data": {
       "id_stacji": "154180010",
@@ -2261,6 +2240,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.53",
       "przeplyw_data": "2026-04-19 19:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-13 10:50:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-04-19T22:01:25.636333+00:00",
+    "data": {
+      "id_stacji": "154180010",
+      "stacja": "Sarnowy",
+      "rzeka": "Wierzyca",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "107",
+      "stan_wody_data_pomiaru": "2026-04-19 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.53",
+      "przeplyw_data": "2026-04-19 20:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-13 10:50:00",
       "zjawisko_zarastania": null,
