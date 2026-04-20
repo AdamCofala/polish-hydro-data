@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T11:52:08.610276+00:00",
-    "data": {
-      "id_stacji": "153150040",
-      "stacja": "Gogolewo",
-      "rzeka": "Krąpiel",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "114",
-      "stan_wody_data_pomiaru": "2026-04-13 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "3.75",
-      "przeplyw_data": "2026-02-18 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-20 09:00:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-03-20 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-04-13T13:56:40.670590+00:00",
     "data": {
       "id_stacji": "153150040",
@@ -2177,6 +2156,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.82",
       "przeplyw_data": "2026-04-20 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-16 09:40:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-16 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-20T12:08:16.613384+00:00",
+    "data": {
+      "id_stacji": "153150040",
+      "stacja": "Gogolewo",
+      "rzeka": "Krąpiel",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "117",
+      "stan_wody_data_pomiaru": "2026-04-20 11:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.84",
+      "przeplyw_data": "2026-04-20 11:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-16 09:40:00",
       "zjawisko_zarastania": "100",
