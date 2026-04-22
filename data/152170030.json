@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-15T11:06:57.566391+00:00",
-    "data": {
-      "id_stacji": "152170030",
-      "stacja": "Wierzenica",
-      "rzeka": "Główna",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "97",
-      "stan_wody_data_pomiaru": "2026-04-15 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przelyw": "0.048",
-      "przeplyw_data": "2026-04-15 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-06 11:50:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-03-06 11:50:00"
-    }
-  },
-  {
     "timestamp": "2026-04-15T12:11:41.911126+00:00",
     "data": {
       "id_stacji": "152170030",
@@ -2156,6 +2135,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.05",
       "przeplyw_data": "2026-04-22 08:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-06 11:50:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-03-06 11:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-22T11:13:11.422734+00:00",
+    "data": {
+      "id_stacji": "152170030",
+      "stacja": "Wierzenica",
+      "rzeka": "Główna",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "99",
+      "stan_wody_data_pomiaru": "2026-04-22 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.05",
+      "przeplyw_data": "2026-04-22 10:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-06 11:50:00",
       "zjawisko_zarastania": "100",
