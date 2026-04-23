@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T12:43:33.629542+00:00",
-    "data": {
-      "id_stacji": "153160250",
-      "stacja": "Okonek",
-      "rzeka": "Czarna",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "350",
-      "stan_wody_data_pomiaru": "2026-04-16 12:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.13",
-      "przeplyw_data": "2026-04-16 11:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-09 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-08 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-04-16T15:00:53.079368+00:00",
     "data": {
       "id_stacji": "153160250",
@@ -2160,6 +2139,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-03-09 10:00:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2026-04-08 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-23T14:00:45.288215+00:00",
+    "data": {
+      "id_stacji": "153160250",
+      "stacja": "Okonek",
+      "rzeka": "Czarna",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "348",
+      "stan_wody_data_pomiaru": "2026-04-23 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.12",
+      "przeplyw_data": "2026-04-23 12:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-09 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-23 13:00:00"
     }
   }
 ]
