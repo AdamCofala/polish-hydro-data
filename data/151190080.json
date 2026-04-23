@@ -1,47 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T15:00:53.079368+00:00",
-    "data": {
-      "id_stacji": "151190080",
-      "stacja": "Kłudzice",
-      "rzeka": "Luciąża",
-      "wojewodztwo": "łódzkie",
-      "lon": "19.7819",
-      "lat": "51.3492",
-      "stan_wody": "247",
-      "stan_wody_data_pomiaru": "2026-04-16 14:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.87",
-      "przeplyw_data": "2026-04-16 14:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-27 09:20:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-10 08:10:00"
-    }
-  },
-  {
-    "timestamp": "2026-04-16T16:54:19.039290+00:00",
-    "data": {
-      "id_stacji": "151190080",
-      "stacja": "Kłudzice",
-      "rzeka": "Luciąża",
-      "wojewodztwo": "łódzkie",
-      "lon": "19.7819",
-      "lat": "51.3492",
-      "stan_wody": "250",
-      "stan_wody_data_pomiaru": "2026-04-16 16:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.97",
-      "przeplyw_data": "2026-04-16 16:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-27 09:20:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-10 08:10:00"
-    }
-  },
-  {
     "timestamp": "2026-04-16T18:11:52.827737+00:00",
     "data": {
       "id_stacji": "151190080",
@@ -2328,6 +2286,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-03-27 09:20:00",
       "zjawisko_zarastania": "200",
       "zjawisko_zarastania_data_pomiaru": "2025-10-10 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-23T17:53:45.025858+00:00",
+    "data": {
+      "id_stacji": "151190080",
+      "stacja": "Kłudzice",
+      "rzeka": "Luciąża",
+      "wojewodztwo": "łódzkie",
+      "lon": "19.7819",
+      "lat": "51.3492",
+      "stan_wody": "264",
+      "stan_wody_data_pomiaru": "2026-04-23 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.59",
+      "przeplyw_data": "2026-04-23 17:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-23 14:16:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-23 14:30:00"
     }
   }
 ]
