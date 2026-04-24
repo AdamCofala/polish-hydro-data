@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17T11:03:42.807884+00:00",
-    "data": {
-      "id_stacji": "151190110",
-      "stacja": "Zawada",
-      "rzeka": "Wolbórka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "127",
-      "stan_wody_data_pomiaru": "2026-04-17 10:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.43",
-      "przeplyw_data": "2026-04-17 10:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 12:50:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-04-17T12:10:29.965046+00:00",
     "data": {
       "id_stacji": "151190110",
@@ -2198,6 +2177,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.24",
       "przeplyw_data": "2026-04-24 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 12:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-23 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-24T11:41:52.135542+00:00",
+    "data": {
+      "id_stacji": "151190110",
+      "stacja": "Zawada",
+      "rzeka": "Wolbórka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "123",
+      "stan_wody_data_pomiaru": "2026-04-24 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.24",
+      "przeplyw_data": "2026-04-24 11:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-18 12:50:00",
       "zjawisko_zarastania": "0",
