@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17T14:03:41.133358+00:00",
-    "data": {
-      "id_stacji": "152180150",
-      "stacja": "Dąbie",
-      "rzeka": "Ner",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "18.8239",
-      "lat": "52.0847",
-      "stan_wody": "101",
-      "stan_wody_data_pomiaru": "2026-04-17 13:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.35",
-      "przeplyw_data": "2026-04-17 13:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-11 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-04-17T15:37:33.154934+00:00",
     "data": {
       "id_stacji": "152180150",
@@ -2282,6 +2261,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "5.1",
       "przeplyw_data": "2026-04-24 13:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 10:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-23 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-24T15:13:58.906165+00:00",
+    "data": {
+      "id_stacji": "152180150",
+      "stacja": "Dąbie",
+      "rzeka": "Ner",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "18.8239",
+      "lat": "52.0847",
+      "stan_wody": "130",
+      "stan_wody_data_pomiaru": "2026-04-24 14:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "5.03",
+      "przeplyw_data": "2026-04-24 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-18 10:00:00",
       "zjawisko_zarastania": "100",

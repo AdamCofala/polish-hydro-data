@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17T14:03:41.133358+00:00",
-    "data": {
-      "id_stacji": "150220020",
-      "stacja": "Ruda Jastkowska",
-      "rzeka": "Bukowa",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.1397",
-      "lat": "50.5975",
-      "stan_wody": "32",
-      "stan_wody_data_pomiaru": "2026-04-17 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.22",
-      "przeplyw_data": "2026-04-17 13:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-24 14:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-07-06 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-04-17T15:37:33.154934+00:00",
     "data": {
       "id_stacji": "150220020",
@@ -2282,6 +2261,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.08",
       "przeplyw_data": "2026-04-24 13:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-24 14:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2023-07-06 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-24T15:13:58.906165+00:00",
+    "data": {
+      "id_stacji": "150220020",
+      "stacja": "Ruda Jastkowska",
+      "rzeka": "Bukowa",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.1397",
+      "lat": "50.5975",
+      "stan_wody": "30",
+      "stan_wody_data_pomiaru": "2026-04-24 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.08",
+      "przeplyw_data": "2026-04-24 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-24 14:20:00",
       "zjawisko_zarastania": "0",
