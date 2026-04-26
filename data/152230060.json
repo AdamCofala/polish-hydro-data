@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19T22:01:25.636333+00:00",
-    "data": {
-      "id_stacji": "152230060",
-      "stacja": "Trześcianka",
-      "rzeka": "Rudnia",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "280",
-      "stan_wody_data_pomiaru": "2026-04-19 21:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.08",
-      "przeplyw_data": "2026-04-19 21:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-12 14:20:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-04-19T23:05:11.230827+00:00",
     "data": {
       "id_stacji": "152230060",
@@ -2156,6 +2135,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.08",
       "przeplyw_data": "2026-04-26 19:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-12 14:20:00",
+      "zjawisko_zarastania": "111",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-22 06:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-26T22:04:44.411301+00:00",
+    "data": {
+      "id_stacji": "152230060",
+      "stacja": "Trześcianka",
+      "rzeka": "Rudnia",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "280",
+      "stan_wody_data_pomiaru": "2026-04-26 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.08",
+      "przeplyw_data": "2026-04-26 20:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-12 14:20:00",
       "zjawisko_zarastania": "111",
