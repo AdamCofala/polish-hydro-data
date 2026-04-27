@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20T20:01:44.780033+00:00",
-    "data": {
-      "id_stacji": "150180310",
-      "stacja": "Bobrowniki",
-      "rzeka": "Brynica",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "158",
-      "stan_wody_data_pomiaru": "2026-04-20 19:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-11 11:20:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-04-20T21:24:44.903282+00:00",
     "data": {
       "id_stacji": "150180310",
@@ -2173,6 +2152,27 @@
       "lat": null,
       "stan_wody": "155",
       "stan_wody_data_pomiaru": "2026-04-27 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-11 11:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-24 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-27T21:09:46.029533+00:00",
+    "data": {
+      "id_stacji": "150180310",
+      "stacja": "Bobrowniki",
+      "rzeka": "Brynica",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "155",
+      "stan_wody_data_pomiaru": "2026-04-27 20:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
