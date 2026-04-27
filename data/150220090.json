@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20T03:58:56.330415+00:00",
-    "data": {
-      "id_stacji": "150220090",
-      "stacja": "Leżachów",
-      "rzeka": "San",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.6031",
-      "lat": "50.1403",
-      "stan_wody": "110",
-      "stan_wody_data_pomiaru": "2026-04-20 03:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "30",
-      "przeplyw_data": "2026-04-20 03:30:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-16 15:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-02-04 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-04-20T06:24:41.821834+00:00",
     "data": {
       "id_stacji": "150220090",
@@ -2198,6 +2177,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "28.8",
       "przeplyw_data": "2026-04-26 23:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-21 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-02-04 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-27T04:08:26.822067+00:00",
+    "data": {
+      "id_stacji": "150220090",
+      "stacja": "Leżachów",
+      "rzeka": "San",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.6031",
+      "lat": "50.1403",
+      "stan_wody": "108",
+      "stan_wody_data_pomiaru": "2026-04-27 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "28.8",
+      "przeplyw_data": "2026-04-27 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-21 10:40:00",
       "zjawisko_zarastania": "0",
