@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21T11:40:30.280042+00:00",
-    "data": {
-      "id_stacji": "154160120",
-      "stacja": "Korzybie",
-      "rzeka": "Wieprza",
-      "wojewodztwo": "pomorskie",
-      "lon": "16.8783",
-      "lat": "54.2806",
-      "stan_wody": "22",
-      "stan_wody_data_pomiaru": "2026-04-21 11:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "5.64",
-      "przeplyw_data": "2026-04-21 11:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-12 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-07 08:00:00"
-    }
-  },
-  {
     "timestamp": "2026-04-21T13:58:50.154156+00:00",
     "data": {
       "id_stacji": "154160120",
@@ -2135,6 +2114,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "5.42",
       "przeplyw_data": "2026-04-28 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-12 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-07 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-28T12:11:30.100416+00:00",
+    "data": {
+      "id_stacji": "154160120",
+      "stacja": "Korzybie",
+      "rzeka": "Wieprza",
+      "wojewodztwo": "pomorskie",
+      "lon": "16.8783",
+      "lat": "54.2806",
+      "stan_wody": "20",
+      "stan_wody_data_pomiaru": "2026-04-28 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "5.42",
+      "przeplyw_data": "2026-04-28 10:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-12 10:10:00",
       "zjawisko_zarastania": "0",
