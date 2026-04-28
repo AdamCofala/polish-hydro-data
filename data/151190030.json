@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21T03:52:57.751895+00:00",
-    "data": {
-      "id_stacji": "151190030",
-      "stacja": "Łask",
-      "rzeka": "Grabia",
-      "wojewodztwo": "łódzkie",
-      "lon": "19.1219",
-      "lat": "51.5969",
-      "stan_wody": "102",
-      "stan_wody_data_pomiaru": "2026-04-21 03:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.12",
-      "przeplyw_data": "2026-04-21 03:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-03 08:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-08 08:00:00"
-    }
-  },
-  {
     "timestamp": "2026-04-21T06:07:05.070921+00:00",
     "data": {
       "id_stacji": "151190030",
@@ -2156,6 +2135,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.02",
       "przeplyw_data": "2026-04-28 00:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-03 08:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-08 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-28T05:00:02.869148+00:00",
+    "data": {
+      "id_stacji": "151190030",
+      "stacja": "Łask",
+      "rzeka": "Grabia",
+      "wojewodztwo": "łódzkie",
+      "lon": "19.1219",
+      "lat": "51.5969",
+      "stan_wody": "98",
+      "stan_wody_data_pomiaru": "2026-04-28 04:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1",
+      "przeplyw_data": "2026-04-28 04:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-03 08:40:00",
       "zjawisko_zarastania": "0",
