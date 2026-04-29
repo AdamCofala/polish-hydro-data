@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T07:59:38.987092+00:00",
-    "data": {
-      "id_stacji": "151230050",
-      "stacja": "Ruda-opalin",
-      "rzeka": "Uherka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "97",
-      "stan_wody_data_pomiaru": "2026-04-22 07:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.79",
-      "przeplyw_data": "2026-04-22 07:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:50:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-04-22T09:46:11.946925+00:00",
     "data": {
       "id_stacji": "151230050",
@@ -1253,6 +1232,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.49",
       "przeplyw_data": "2026-04-29 07:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:50:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-24 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-29T09:36:16.436753+00:00",
+    "data": {
+      "id_stacji": "151230050",
+      "stacja": "Ruda-opalin",
+      "rzeka": "Uherka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "94",
+      "stan_wody_data_pomiaru": "2026-04-29 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.49",
+      "przeplyw_data": "2026-04-29 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:50:00",
       "zjawisko_zarastania": "100",
