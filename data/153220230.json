@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T05:51:58.534683+00:00",
-    "data": {
-      "id_stacji": "153220230",
-      "stacja": "Kulesze Chobotki",
-      "rzeka": "Nereśl",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.7647",
-      "lat": "53.2417",
-      "stan_wody": "181",
-      "stan_wody_data_pomiaru": "2026-04-23 05:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.36",
-      "przeplyw_data": "2026-04-23 05:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-05 14:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-03 11:20:00"
-    }
-  },
-  {
     "timestamp": "2026-04-23T08:05:10.944409+00:00",
     "data": {
       "id_stacji": "153220230",
@@ -1988,6 +1967,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.11",
       "przeplyw_data": "2026-04-30 03:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-05 14:10:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-23 12:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-04-30T06:36:26.974088+00:00",
+    "data": {
+      "id_stacji": "153220230",
+      "stacja": "Kulesze Chobotki",
+      "rzeka": "Nereśl",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.7647",
+      "lat": "53.2417",
+      "stan_wody": "173",
+      "stan_wody_data_pomiaru": "2026-04-30 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.11",
+      "przeplyw_data": "2026-04-30 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-05 14:10:00",
       "zjawisko_zarastania": "100",
