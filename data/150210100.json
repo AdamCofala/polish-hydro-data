@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T23:09:29.130118+00:00",
-    "data": {
-      "id_stacji": "150210100",
-      "stacja": "Połaniec",
-      "rzeka": "Czarna",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.285",
-      "lat": "50.4347",
-      "stan_wody": "105",
-      "stan_wody_data_pomiaru": "2026-04-24 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.67",
-      "przeplyw_data": "2026-04-24 22:50:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-13 12:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-18 11:50:00"
-    }
-  },
-  {
     "timestamp": "2026-04-25T00:06:14.932400+00:00",
     "data": {
       "id_stacji": "150210100",
@@ -2009,6 +1988,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.35",
       "przeplyw_data": "2026-05-01 21:50:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-13 12:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-18 11:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-01T23:29:55.126278+00:00",
+    "data": {
+      "id_stacji": "150210100",
+      "stacja": "Połaniec",
+      "rzeka": "Czarna",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.285",
+      "lat": "50.4347",
+      "stan_wody": "100",
+      "stan_wody_data_pomiaru": "2026-05-01 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.35",
+      "przeplyw_data": "2026-05-01 23:10:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-13 12:20:00",
       "zjawisko_zarastania": "0",

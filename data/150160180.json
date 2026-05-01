@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T23:09:29.130118+00:00",
-    "data": {
-      "id_stacji": "150160180",
-      "stacja": "Kłodzko",
-      "rzeka": "Nysa Kłodzka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.6586",
-      "lat": "50.4425",
-      "stan_wody": "97",
-      "stan_wody_data_pomiaru": "2026-04-24 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "5.47",
-      "przeplyw_data": "2026-04-24 22:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-30 08:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-03-30 08:10:00"
-    }
-  },
-  {
     "timestamp": "2026-04-25T00:06:14.932400+00:00",
     "data": {
       "id_stacji": "150160180",
@@ -2009,6 +1988,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.38",
       "przeplyw_data": "2026-05-01 21:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-28 06:50:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-28 06:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-01T23:29:55.126278+00:00",
+    "data": {
+      "id_stacji": "150160180",
+      "stacja": "Kłodzko",
+      "rzeka": "Nysa Kłodzka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.6586",
+      "lat": "50.4425",
+      "stan_wody": "96",
+      "stan_wody_data_pomiaru": "2026-05-01 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.38",
+      "przeplyw_data": "2026-05-01 23:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-28 06:50:00",
       "zjawisko_zarastania": "100",
