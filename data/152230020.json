@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T03:32:21.110975+00:00",
-    "data": {
-      "id_stacji": "152230020",
-      "stacja": "Porosiuki",
-      "rzeka": "Krzna",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "91",
-      "stan_wody_data_pomiaru": "2026-04-24 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.45",
-      "przeplyw_data": "2026-04-24 03:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 11:40:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-04-24T06:14:28.508617+00:00",
     "data": {
       "id_stacji": "152230020",
@@ -2030,6 +2009,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.42",
       "przeplyw_data": "2026-04-30 23:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 11:40:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-27 13:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-01T04:10:21.813372+00:00",
+    "data": {
+      "id_stacji": "152230020",
+      "stacja": "Porosiuki",
+      "rzeka": "Krzna",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "92",
+      "stan_wody_data_pomiaru": "2026-05-01 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.38",
+      "przeplyw_data": "2026-05-01 03:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-18 11:40:00",
       "zjawisko_zarastania": "100",
