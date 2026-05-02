@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25T15:47:31.770434+00:00",
-    "data": {
-      "id_stacji": "150140010",
-      "stacja": "Porajów",
-      "rzeka": "Nysa Łużycka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "26",
-      "stan_wody_data_pomiaru": "2026-04-25 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.51",
-      "przeplyw_data": "2026-04-25 15:10:00",
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-04-25T16:53:26.241647+00:00",
     "data": {
       "id_stacji": "150140010",
@@ -1988,6 +1967,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.26",
       "przeplyw_data": "2026-05-02 14:30:00",
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-27 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-02T15:54:13.900744+00:00",
+    "data": {
+      "id_stacji": "150140010",
+      "stacja": "Porajów",
+      "rzeka": "Nysa Łużycka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "22",
+      "stan_wody_data_pomiaru": "2026-05-02 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.02",
+      "przeplyw_data": "2026-05-02 15:30:00",
       "zjawisko_lodowe": null,
       "zjawisko_lodowe_data_pomiaru": null,
       "zjawisko_zarastania": "100",
