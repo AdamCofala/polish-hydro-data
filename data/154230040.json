@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T04:10:21.813372+00:00",
-    "data": {
-      "id_stacji": "154230040",
-      "stacja": "Zelwa",
-      "rzeka": "Marycha",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "38",
-      "stan_wody_data_pomiaru": "2026-05-01 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.87",
-      "przeplyw_data": "2026-05-01 03:50:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 16:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-03-24 10:50:00"
-    }
-  },
-  {
     "timestamp": "2026-05-01T07:14:31.470117+00:00",
     "data": {
       "id_stacji": "154230040",
@@ -1736,6 +1715,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.78",
       "przeplyw_data": "2026-05-08 02:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 16:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-05 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-08T06:02:57.143331+00:00",
+    "data": {
+      "id_stacji": "154230040",
+      "stacja": "Zelwa",
+      "rzeka": "Marycha",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "36",
+      "stan_wody_data_pomiaru": "2026-05-08 05:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.78",
+      "przeplyw_data": "2026-05-08 04:50:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 16:00:00",
       "zjawisko_zarastania": "100",

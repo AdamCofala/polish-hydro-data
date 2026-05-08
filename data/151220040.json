@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T04:10:21.813372+00:00",
-    "data": {
-      "id_stacji": "151220040",
-      "stacja": "Witowice",
-      "rzeka": "Kurówka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "226",
-      "stan_wody_data_pomiaru": "2026-05-01 03:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.49",
-      "przeplyw_data": "2026-05-01 03:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-24 09:10:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-05-01T07:14:31.470117+00:00",
     "data": {
       "id_stacji": "151220040",
@@ -1925,6 +1904,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.47",
       "przeplyw_data": "2026-05-08 03:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-24 09:10:00",
+      "zjawisko_zarastania": "110",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-07 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-08T06:02:57.143331+00:00",
+    "data": {
+      "id_stacji": "151220040",
+      "stacja": "Witowice",
+      "rzeka": "Kurówka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "227",
+      "stan_wody_data_pomiaru": "2026-05-08 05:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.46",
+      "przeplyw_data": "2026-05-08 05:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-24 09:10:00",
       "zjawisko_zarastania": "110",
