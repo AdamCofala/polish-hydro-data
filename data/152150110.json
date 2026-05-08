@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T10:53:11.361369+00:00",
-    "data": {
-      "id_stacji": "152150110",
-      "stacja": "Skwierzyna",
-      "rzeka": "Warta",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.5003",
-      "lat": "52.6019",
-      "stan_wody": "165",
-      "stan_wody_data_pomiaru": "2026-05-01 10:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "55.2",
-      "przeplyw_data": "2026-05-01 10:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-01 06:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-01 06:20:00"
-    }
-  },
-  {
     "timestamp": "2026-05-01T12:02:22.877389+00:00",
     "data": {
       "id_stacji": "152150110",
@@ -1925,6 +1904,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "47.9",
       "przeplyw_data": "2026-05-08 09:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-01 06:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-01 06:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-08T11:55:02.148816+00:00",
+    "data": {
+      "id_stacji": "152150110",
+      "stacja": "Skwierzyna",
+      "rzeka": "Warta",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.5003",
+      "lat": "52.6019",
+      "stan_wody": "151",
+      "stan_wody_data_pomiaru": "2026-05-08 11:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "47.9",
+      "przeplyw_data": "2026-05-08 11:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-01 06:20:00",
       "zjawisko_zarastania": "0",
