@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02T13:54:11.548619+00:00",
-    "data": {
-      "id_stacji": "150150060",
-      "stacja": "Pilchowice",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.6406",
-      "lat": "50.9639",
-      "stan_wody": "14",
-      "stan_wody_data_pomiaru": "2026-05-02 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "4.06",
-      "przeplyw_data": "2026-05-02 13:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-07-27 12:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-17 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-05-02T14:54:54.717338+00:00",
     "data": {
       "id_stacji": "150150060",
@@ -1862,6 +1841,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "5.6",
       "przeplyw_data": "2026-05-09 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-07-27 12:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-17 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-09T14:18:19.867188+00:00",
+    "data": {
+      "id_stacji": "150150060",
+      "stacja": "Pilchowice",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.6406",
+      "lat": "50.9639",
+      "stan_wody": "18",
+      "stan_wody_data_pomiaru": "2026-05-09 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "5.6",
+      "przeplyw_data": "2026-05-09 13:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2023-07-27 12:00:00",
       "zjawisko_zarastania": "100",
