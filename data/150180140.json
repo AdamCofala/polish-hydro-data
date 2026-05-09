@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T23:29:55.126278+00:00",
-    "data": {
-      "id_stacji": "150180140",
-      "stacja": "Rybnik",
-      "rzeka": "Nacyna",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "73",
-      "stan_wody_data_pomiaru": "2026-05-01 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.53",
-      "przeplyw_data": "2026-05-01 23:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-23 12:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-16 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-05-02T01:14:41.856680+00:00",
     "data": {
       "id_stacji": "150180140",
@@ -1883,6 +1862,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.56",
       "przeplyw_data": "2026-05-08 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-23 12:50:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-07 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-09T00:00:58.976668+00:00",
+    "data": {
+      "id_stacji": "150180140",
+      "stacja": "Rybnik",
+      "rzeka": "Nacyna",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "74",
+      "stan_wody_data_pomiaru": "2026-05-08 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.56",
+      "przeplyw_data": "2026-05-08 23:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-23 12:50:00",
       "zjawisko_zarastania": "100",

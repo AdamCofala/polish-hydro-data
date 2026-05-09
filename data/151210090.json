@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T23:29:55.126278+00:00",
-    "data": {
-      "id_stacji": "151210090",
-      "stacja": "Czekarzewice",
-      "rzeka": "Kamienna",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.6814",
-      "lat": "51.0331",
-      "stan_wody": "36",
-      "stan_wody_data_pomiaru": "2026-05-01 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.6",
-      "przeplyw_data": "2026-05-01 23:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-12 11:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-13 12:11:00"
-    }
-  },
-  {
     "timestamp": "2026-05-02T01:14:41.856680+00:00",
     "data": {
       "id_stacji": "151210090",
@@ -1883,6 +1862,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.54",
       "przeplyw_data": "2026-05-08 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-12 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-13 12:11:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-09T00:00:58.976668+00:00",
+    "data": {
+      "id_stacji": "151210090",
+      "stacja": "Czekarzewice",
+      "rzeka": "Kamienna",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.6814",
+      "lat": "51.0331",
+      "stan_wody": "48",
+      "stan_wody_data_pomiaru": "2026-05-08 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.54",
+      "przeplyw_data": "2026-05-08 23:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-12 11:40:00",
       "zjawisko_zarastania": "0",

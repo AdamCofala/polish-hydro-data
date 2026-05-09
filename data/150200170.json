@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T23:29:55.126278+00:00",
-    "data": {
-      "id_stacji": "150200170",
-      "stacja": "Żabno",
-      "rzeka": "Dunajec",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.8619",
-      "lat": "50.1319",
-      "stan_wody": "132",
-      "stan_wody_data_pomiaru": "2026-05-01 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "36.9",
-      "przeplyw_data": "2026-05-01 23:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-07 13:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-07 13:00:00"
-    }
-  },
-  {
     "timestamp": "2026-05-02T01:14:41.856680+00:00",
     "data": {
       "id_stacji": "150200170",
@@ -1883,6 +1862,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "45",
       "przeplyw_data": "2026-05-08 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-07 13:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-07 13:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-09T00:00:58.976668+00:00",
+    "data": {
+      "id_stacji": "150200170",
+      "stacja": "Żabno",
+      "rzeka": "Dunajec",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.8619",
+      "lat": "50.1319",
+      "stan_wody": "140",
+      "stan_wody_data_pomiaru": "2026-05-08 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "45",
+      "przeplyw_data": "2026-05-08 23:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-07 13:00:00",
       "zjawisko_zarastania": "0",

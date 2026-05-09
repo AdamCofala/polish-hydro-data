@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-01T23:29:55.126278+00:00",
-    "data": {
-      "id_stacji": "151160230",
-      "stacja": "Ślęza",
-      "rzeka": "Ślęza",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.985",
-      "lat": "51.0375",
-      "stan_wody": "206",
-      "stan_wody_data_pomiaru": "2026-05-01 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.68",
-      "przeplyw_data": "2026-05-01 23:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-09 10:40:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-01 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-05-02T01:14:41.856680+00:00",
     "data": {
       "id_stacji": "151160230",
@@ -1883,6 +1862,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.93",
       "przeplyw_data": "2026-05-08 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-09 10:40:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-07 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-09T00:00:58.976668+00:00",
+    "data": {
+      "id_stacji": "151160230",
+      "stacja": "Ślęza",
+      "rzeka": "Ślęza",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.985",
+      "lat": "51.0375",
+      "stan_wody": "212",
+      "stan_wody_data_pomiaru": "2026-05-08 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.93",
+      "przeplyw_data": "2026-05-08 23:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-09 10:40:00",
       "zjawisko_zarastania": "1",
