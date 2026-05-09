@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02T14:54:54.717338+00:00",
-    "data": {
-      "id_stacji": "153160180",
-      "stacja": "Piła",
-      "rzeka": "Gwda",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.7397",
-      "lat": "53.1514",
-      "stan_wody": "110",
-      "stan_wody_data_pomiaru": "2026-05-02 14:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "15.4",
-      "przeplyw_data": "2026-05-02 14:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-12 12:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-10 12:20:00"
-    }
-  },
-  {
     "timestamp": "2026-05-02T15:54:13.900744+00:00",
     "data": {
       "id_stacji": "153160180",
@@ -1862,6 +1841,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "14.5",
       "przeplyw_data": "2026-05-09 13:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-12 12:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-10 12:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-09T15:30:17.154043+00:00",
+    "data": {
+      "id_stacji": "153160180",
+      "stacja": "Piła",
+      "rzeka": "Gwda",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "16.7397",
+      "lat": "53.1514",
+      "stan_wody": "102",
+      "stan_wody_data_pomiaru": "2026-05-09 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "13.7",
+      "przeplyw_data": "2026-05-09 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-12 12:30:00",
       "zjawisko_zarastania": "0",
