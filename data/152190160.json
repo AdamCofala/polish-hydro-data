@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02T23:11:17.738068+00:00",
-    "data": {
-      "id_stacji": "152190160",
-      "stacja": "Babiec",
-      "rzeka": "Skrwa",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "73",
-      "stan_wody_data_pomiaru": "2026-05-02 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-14 12:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-14 12:20:00"
-    }
-  },
-  {
     "timestamp": "2026-05-03T00:09:15.800611+00:00",
     "data": {
       "id_stacji": "152190160",
@@ -1837,6 +1816,27 @@
       "lat": null,
       "stan_wody": "88",
       "stan_wody_data_pomiaru": "2026-05-09 21:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-14 12:20:00",
+      "zjawisko_zarastania": "3",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-05 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-09T23:26:10.468888+00:00",
+    "data": {
+      "id_stacji": "152190160",
+      "stacja": "Babiec",
+      "rzeka": "Skrwa",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "88",
+      "stan_wody_data_pomiaru": "2026-05-09 23:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
