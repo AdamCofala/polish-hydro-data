@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T09:04:43.201887+00:00",
-    "data": {
-      "id_stacji": "151180080",
-      "stacja": "Sieradz",
-      "rzeka": "Warta",
-      "wojewodztwo": "łódzkie",
-      "lon": "18.7425",
-      "lat": "51.5994",
-      "stan_wody": "155",
-      "stan_wody_data_pomiaru": "2026-05-03 08:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "19.1",
-      "przeplyw_data": "2026-05-03 08:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 08:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-24 10:50:00"
-    }
-  },
-  {
     "timestamp": "2026-05-03T10:32:12.094988+00:00",
     "data": {
       "id_stacji": "151180080",
@@ -1841,6 +1820,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "16.8",
       "przeplyw_data": "2026-05-10 07:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 08:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-24 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-10T09:43:13.333693+00:00",
+    "data": {
+      "id_stacji": "151180080",
+      "stacja": "Sieradz",
+      "rzeka": "Warta",
+      "wojewodztwo": "łódzkie",
+      "lon": "18.7425",
+      "lat": "51.5994",
+      "stan_wody": "150",
+      "stan_wody_data_pomiaru": "2026-05-10 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "16.8",
+      "przeplyw_data": "2026-05-10 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-18 08:10:00",
       "zjawisko_zarastania": "0",
