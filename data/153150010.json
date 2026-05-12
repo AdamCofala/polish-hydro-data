@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05T09:28:07.748612+00:00",
-    "data": {
-      "id_stacji": "153150010",
-      "stacja": "Stargard",
-      "rzeka": "Ina",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "15.0408",
-      "lat": "53.3503",
-      "stan_wody": "34",
-      "stan_wody_data_pomiaru": "2026-05-05 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.79",
-      "przeplyw_data": "2026-05-05 08:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-16 11:10:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-16 11:10:00"
-    }
-  },
-  {
     "timestamp": "2026-05-05T11:03:48.574874+00:00",
     "data": {
       "id_stacji": "153150010",
@@ -875,6 +854,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.08",
       "przeplyw_data": "2026-05-12 07:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-16 11:10:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-16 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-12T10:59:46.440828+00:00",
+    "data": {
+      "id_stacji": "153150010",
+      "stacja": "Stargard",
+      "rzeka": "Ina",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "15.0408",
+      "lat": "53.3503",
+      "stan_wody": "63",
+      "stan_wody_data_pomiaru": "2026-05-12 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.66",
+      "przeplyw_data": "2026-05-12 10:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-16 11:10:00",
       "zjawisko_zarastania": "100",
