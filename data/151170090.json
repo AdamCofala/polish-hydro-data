@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06T06:39:29.842649+00:00",
-    "data": {
-      "id_stacji": "151170090",
-      "stacja": "Namysłów",
-      "rzeka": "Widawa",
-      "wojewodztwo": "opolskie",
-      "lon": "17.71",
-      "lat": "51.0803",
-      "stan_wody": "102",
-      "stan_wody_data_pomiaru": "2026-05-06 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.15",
-      "przeplyw_data": "2026-05-06 06:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 09:20:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-27 08:10:00"
-    }
-  },
-  {
     "timestamp": "2026-05-06T09:29:07.586011+00:00",
     "data": {
       "id_stacji": "151170090",
@@ -1736,6 +1715,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.57",
       "przeplyw_data": "2026-05-13 04:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 09:20:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-27 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-13T08:17:04.302334+00:00",
+    "data": {
+      "id_stacji": "151170090",
+      "stacja": "Namysłów",
+      "rzeka": "Widawa",
+      "wojewodztwo": "opolskie",
+      "lon": "17.71",
+      "lat": "51.0803",
+      "stan_wody": "142",
+      "stan_wody_data_pomiaru": "2026-05-13 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.03",
+      "przeplyw_data": "2026-05-13 07:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-18 09:20:00",
       "zjawisko_zarastania": "101",
