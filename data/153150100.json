@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06T17:46:40.544211+00:00",
-    "data": {
-      "id_stacji": "153150100",
-      "stacja": "Drawno",
-      "rzeka": "Drawa",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "108",
-      "stan_wody_data_pomiaru": "2026-05-06 17:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "4.02",
-      "przeplyw_data": "2026-05-06 16:50:00",
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-05-06T19:54:52.670762+00:00",
     "data": {
       "id_stacji": "153150100",
@@ -1673,6 +1652,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.18",
       "przeplyw_data": "2026-05-13 15:50:00",
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-07 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-13T18:24:32.822920+00:00",
+    "data": {
+      "id_stacji": "153150100",
+      "stacja": "Drawno",
+      "rzeka": "Drawa",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "110",
+      "stan_wody_data_pomiaru": "2026-05-13 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.18",
+      "przeplyw_data": "2026-05-13 17:50:00",
       "zjawisko_lodowe": null,
       "zjawisko_lodowe_data_pomiaru": null,
       "zjawisko_zarastania": "0",
