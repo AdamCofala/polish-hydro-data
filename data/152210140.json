@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06T03:57:55.658980+00:00",
-    "data": {
-      "id_stacji": "152210140",
-      "stacja": "Jagodne",
-      "rzeka": "Kostrzyń",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "217",
-      "stan_wody_data_pomiaru": "2026-05-06 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.67",
-      "przeplyw_data": "2026-05-06 02:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-04 12:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-09 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-05-06T06:39:29.842649+00:00",
     "data": {
       "id_stacji": "152210140",
@@ -1694,6 +1673,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.93",
       "przeplyw_data": "2026-05-13 00:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-04 12:10:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-07 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-13T05:28:07.332822+00:00",
+    "data": {
+      "id_stacji": "152210140",
+      "stacja": "Jagodne",
+      "rzeka": "Kostrzyń",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "238",
+      "stan_wody_data_pomiaru": "2026-05-13 05:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.95",
+      "przeplyw_data": "2026-05-13 04:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-04 12:10:00",
       "zjawisko_zarastania": "200",
