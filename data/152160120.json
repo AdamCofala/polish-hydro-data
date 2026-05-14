@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07T15:30:38.287655+00:00",
-    "data": {
-      "id_stacji": "152160120",
-      "stacja": "Ryczywół",
-      "rzeka": "Flinta",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.8394",
-      "lat": "52.8158",
-      "stan_wody": "103",
-      "stan_wody_data_pomiaru": "2026-05-07 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.11",
-      "przeplyw_data": "2026-05-07 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-23 13:50:00",
-      "zjawisko_zarastania": "102",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-22 11:50:00"
-    }
-  },
-  {
     "timestamp": "2026-05-07T17:53:30.374402+00:00",
     "data": {
       "id_stacji": "152160120",
@@ -1715,6 +1694,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.1",
       "przeplyw_data": "2026-05-14 14:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-23 13:50:00",
+      "zjawisko_zarastania": "102",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-22 11:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-14T17:22:17.786295+00:00",
+    "data": {
+      "id_stacji": "152160120",
+      "stacja": "Ryczywół",
+      "rzeka": "Flinta",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "16.8394",
+      "lat": "52.8158",
+      "stan_wody": "102",
+      "stan_wody_data_pomiaru": "2026-05-14 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.1",
+      "przeplyw_data": "2026-05-14 16:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-23 13:50:00",
       "zjawisko_zarastania": "102",
