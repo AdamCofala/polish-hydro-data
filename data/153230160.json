@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-07T10:40:37.344656+00:00",
-    "data": {
-      "id_stacji": "153230160",
-      "stacja": "Gródek",
-      "rzeka": "Supraśl",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "148",
-      "stan_wody_data_pomiaru": "2026-05-07 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.11",
-      "przeplyw_data": "2026-05-07 10:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-03 07:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-15 07:20:00"
-    }
-  },
-  {
     "timestamp": "2026-05-07T12:58:58.753189+00:00",
     "data": {
       "id_stacji": "153230160",
@@ -1694,6 +1673,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.12",
       "przeplyw_data": "2026-05-14 07:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-03 07:40:00",
+      "zjawisko_zarastania": "210",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-08 07:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-14T10:57:56.571276+00:00",
+    "data": {
+      "id_stacji": "153230160",
+      "stacja": "Gródek",
+      "rzeka": "Supraśl",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "153",
+      "stan_wody_data_pomiaru": "2026-05-14 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.13",
+      "przeplyw_data": "2026-05-14 10:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-03-03 07:40:00",
       "zjawisko_zarastania": "210",
