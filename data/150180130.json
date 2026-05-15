@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08T11:55:02.148816+00:00",
-    "data": {
-      "id_stacji": "150180130",
-      "stacja": "Rybnik Stodoły",
-      "rzeka": "Ruda",
-      "wojewodztwo": "śląskie",
-      "lon": "18.4831",
-      "lat": "50.1542",
-      "stan_wody": "85",
-      "stan_wody_data_pomiaru": "2026-05-08 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.87",
-      "przeplyw_data": "2026-05-08 11:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-24 12:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-16 10:50:00"
-    }
-  },
-  {
     "timestamp": "2026-05-08T14:04:51.590658+00:00",
     "data": {
       "id_stacji": "150180130",
@@ -1694,6 +1673,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.52",
       "przeplyw_data": "2026-05-15 10:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-24 12:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-16 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-15T13:14:55.226771+00:00",
+    "data": {
+      "id_stacji": "150180130",
+      "stacja": "Rybnik Stodoły",
+      "rzeka": "Ruda",
+      "wojewodztwo": "śląskie",
+      "lon": "18.4831",
+      "lat": "50.1542",
+      "stan_wody": "95",
+      "stan_wody_data_pomiaru": "2026-05-15 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.6",
+      "przeplyw_data": "2026-05-15 12:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-24 12:50:00",
       "zjawisko_zarastania": "0",
