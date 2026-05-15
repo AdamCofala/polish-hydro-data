@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08T14:04:51.590658+00:00",
-    "data": {
-      "id_stacji": "151150080",
-      "stacja": "Żagań",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.3158",
-      "lat": "51.6181",
-      "stan_wody": "202",
-      "stan_wody_data_pomiaru": "2026-05-08 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "12.8",
-      "przeplyw_data": "2026-05-08 13:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2024-01-11 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-05 12:10:00"
-    }
-  },
-  {
     "timestamp": "2026-05-08T15:59:30.629838+00:00",
     "data": {
       "id_stacji": "151150080",
@@ -1694,6 +1673,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "11.9",
       "przeplyw_data": "2026-05-15 12:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2024-01-11 11:00:00",
+      "zjawisko_zarastania": "10",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-13 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-15T15:37:06.508760+00:00",
+    "data": {
+      "id_stacji": "151150080",
+      "stacja": "Żagań",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.3158",
+      "lat": "51.6181",
+      "stan_wody": "200",
+      "stan_wody_data_pomiaru": "2026-05-15 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "11.9",
+      "przeplyw_data": "2026-05-15 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2024-01-11 11:00:00",
       "zjawisko_zarastania": "10",
