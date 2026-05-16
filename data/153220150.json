@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09T14:18:19.867188+00:00",
-    "data": {
-      "id_stacji": "153220150",
-      "stacja": "Kucze",
-      "rzeka": "Lega",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "78",
-      "stan_wody_data_pomiaru": "2026-05-09 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.57",
-      "przeplyw_data": "2026-05-09 13:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-24 13:30:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-05-09T15:30:17.154043+00:00",
     "data": {
       "id_stacji": "153220150",
@@ -1631,6 +1610,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.3",
       "przeplyw_data": "2026-05-16 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-24 13:30:00",
+      "zjawisko_zarastania": "110",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-13 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-16T14:23:51.214182+00:00",
+    "data": {
+      "id_stacji": "153220150",
+      "stacja": "Kucze",
+      "rzeka": "Lega",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "78",
+      "stan_wody_data_pomiaru": "2026-05-16 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.24",
+      "przeplyw_data": "2026-05-16 13:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-24 13:30:00",
       "zjawisko_zarastania": "110",
