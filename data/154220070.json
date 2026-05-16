@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09T10:12:03.132278+00:00",
-    "data": {
-      "id_stacji": "154220070",
-      "stacja": "Wólka",
-      "rzeka": "Jez. Rospuda Filipowska",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "403",
-      "stan_wody_data_pomiaru": "2026-05-09 09:30:00",
-      "temperatura_wody": "10.8",
-      "temperatura_wody_data_pomiaru": "2026-05-08 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-05-09T11:26:18.183841+00:00",
     "data": {
       "id_stacji": "154220070",
@@ -1650,6 +1629,27 @@
       "stan_wody_data_pomiaru": "2026-05-16 09:30:00",
       "temperatura_wody": "9.5",
       "temperatura_wody_data_pomiaru": "2026-05-15 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-05-16T11:11:43.007264+00:00",
+    "data": {
+      "id_stacji": "154220070",
+      "stacja": "Wólka",
+      "rzeka": "Jez. Rospuda Filipowska",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "403",
+      "stan_wody_data_pomiaru": "2026-05-16 10:30:00",
+      "temperatura_wody": "10",
+      "temperatura_wody_data_pomiaru": "2026-05-16 06:00:00",
       "przeplyw": null,
       "przeplyw_data": null,
       "zjawisko_lodowe": null,
