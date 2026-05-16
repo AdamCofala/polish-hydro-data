@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09T08:45:25.031254+00:00",
-    "data": {
-      "id_stacji": "151160180",
-      "stacja": "Bogdaszowice",
-      "rzeka": "Strzegomka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.7925",
-      "lat": "51.0867",
-      "stan_wody": "75",
-      "stan_wody_data_pomiaru": "2026-05-09 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.35",
-      "przeplyw_data": "2026-05-09 07:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-08 10:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-06 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-05-09T10:12:03.132278+00:00",
     "data": {
       "id_stacji": "151160180",
@@ -1484,6 +1463,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.59",
       "przeplyw_data": "2026-05-16 06:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-08 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-06 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-16T09:58:20.011565+00:00",
+    "data": {
+      "id_stacji": "151160180",
+      "stacja": "Bogdaszowice",
+      "rzeka": "Strzegomka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.7925",
+      "lat": "51.0867",
+      "stan_wody": "78",
+      "stan_wody_data_pomiaru": "2026-05-16 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.59",
+      "przeplyw_data": "2026-05-16 09:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-08 10:40:00",
       "zjawisko_zarastania": "0",
