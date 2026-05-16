@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09T06:32:48.412649+00:00",
-    "data": {
-      "id_stacji": "153140040",
-      "stacja": "Trzebież",
-      "rzeka": "Zalew Szczeciński",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "14.5189",
-      "lat": "53.6592",
-      "stan_wody": "506",
-      "stan_wody_data_pomiaru": "2026-05-09 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2024-01-21 06:00:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-05-09T08:45:25.031254+00:00",
     "data": {
       "id_stacji": "153140040",
@@ -1690,6 +1669,27 @@
       "lat": "53.6592",
       "stan_wody": "507",
       "stan_wody_data_pomiaru": "2026-05-16 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2024-01-21 06:00:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-05-16T08:24:44.338874+00:00",
+    "data": {
+      "id_stacji": "153140040",
+      "stacja": "Trzebież",
+      "rzeka": "Zalew Szczeciński",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "14.5189",
+      "lat": "53.6592",
+      "stan_wody": "505",
+      "stan_wody_data_pomiaru": "2026-05-16 08:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
