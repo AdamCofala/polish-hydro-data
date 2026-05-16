@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-09T17:54:34.240160+00:00",
-    "data": {
-      "id_stacji": "153180110",
-      "stacja": "Brody Pomorskie",
-      "rzeka": "Wierzyca",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.7603",
-      "lat": "53.8583",
-      "stan_wody": "166",
-      "stan_wody_data_pomiaru": "2026-05-09 17:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "5.01",
-      "przeplyw_data": "2026-05-09 17:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-21 10:00:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-13 10:50:00"
-    }
-  },
-  {
     "timestamp": "2026-05-09T19:13:13.421508+00:00",
     "data": {
       "id_stacji": "153180110",
@@ -1673,6 +1652,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "6",
       "przeplyw_data": "2026-05-16 16:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-21 10:00:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-13 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-16T18:31:44.251279+00:00",
+    "data": {
+      "id_stacji": "153180110",
+      "stacja": "Brody Pomorskie",
+      "rzeka": "Wierzyca",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.7603",
+      "lat": "53.8583",
+      "stan_wody": "183",
+      "stan_wody_data_pomiaru": "2026-05-16 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "6.22",
+      "przeplyw_data": "2026-05-16 18:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-21 10:00:00",
       "zjawisko_zarastania": "101",
