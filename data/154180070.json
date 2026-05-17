@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10T07:39:22.311483+00:00",
-    "data": {
-      "id_stacji": "154180070",
-      "stacja": "Bolszewo",
-      "rzeka": "Bolszewka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "49",
-      "stan_wody_data_pomiaru": "2026-05-10 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.17",
-      "przeplyw_data": "2026-05-10 07:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-09 10:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-09 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-05-10T09:43:13.333693+00:00",
     "data": {
       "id_stacji": "154180070",
@@ -1652,6 +1631,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.44",
       "przeplyw_data": "2026-05-17 05:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-09 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-15 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-17T07:58:01.182538+00:00",
+    "data": {
+      "id_stacji": "154180070",
+      "stacja": "Bolszewo",
+      "rzeka": "Bolszewka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "56",
+      "stan_wody_data_pomiaru": "2026-05-17 07:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.44",
+      "przeplyw_data": "2026-05-17 07:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-09 10:40:00",
       "zjawisko_zarastania": "0",

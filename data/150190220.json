@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10T07:39:22.311483+00:00",
-    "data": {
-      "id_stacji": "150190220",
-      "stacja": "Mstów",
-      "rzeka": "Warta",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "63",
-      "stan_wody_data_pomiaru": "2026-05-10 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.94",
-      "przeplyw_data": "2026-05-10 07:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:30:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-05-10T09:43:13.333693+00:00",
     "data": {
       "id_stacji": "150190220",
@@ -1652,6 +1631,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.91",
       "przeplyw_data": "2026-05-17 05:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:30:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-14 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-17T07:58:01.182538+00:00",
+    "data": {
+      "id_stacji": "150190220",
+      "stacja": "Mstów",
+      "rzeka": "Warta",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "62",
+      "stan_wody_data_pomiaru": "2026-05-17 07:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.8",
+      "przeplyw_data": "2026-05-17 07:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:30:00",
       "zjawisko_zarastania": "101",

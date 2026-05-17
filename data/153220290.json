@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10T07:39:22.311483+00:00",
-    "data": {
-      "id_stacji": "153220290",
-      "stacja": "Szczebra",
-      "rzeka": "Blizna",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "60",
-      "stan_wody_data_pomiaru": "2026-05-10 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.4",
-      "przeplyw_data": "2026-05-10 07:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-17 10:20:00",
-      "zjawisko_zarastania": "110",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-06 09:20:00"
-    }
-  },
-  {
     "timestamp": "2026-05-10T09:43:13.333693+00:00",
     "data": {
       "id_stacji": "153220290",
@@ -1631,6 +1610,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.35",
       "przeplyw_data": "2026-05-17 04:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-17 10:20:00",
+      "zjawisko_zarastania": "110",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-13 15:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-17T07:58:01.182538+00:00",
+    "data": {
+      "id_stacji": "153220290",
+      "stacja": "Szczebra",
+      "rzeka": "Blizna",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "60",
+      "stan_wody_data_pomiaru": "2026-05-17 07:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.35",
+      "przeplyw_data": "2026-05-17 07:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-17 10:20:00",
       "zjawisko_zarastania": "110",
