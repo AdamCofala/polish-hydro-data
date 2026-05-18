@@ -1,47 +1,5 @@
 [
   {
-    "timestamp": "2026-05-11T12:42:53.519866+00:00",
-    "data": {
-      "id_stacji": "153220150",
-      "stacja": "Kucze",
-      "rzeka": "Lega",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "79",
-      "stan_wody_data_pomiaru": "2026-05-11 12:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.51",
-      "przeplyw_data": "2026-05-11 12:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-24 13:30:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
-    "timestamp": "2026-05-11T16:06:19.300060+00:00",
-    "data": {
-      "id_stacji": "153220150",
-      "stacja": "Kucze",
-      "rzeka": "Lega",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "74",
-      "stan_wody_data_pomiaru": "2026-05-11 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.34",
-      "przeplyw_data": "2026-05-11 15:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-24 13:30:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-05-11T18:18:32.345424+00:00",
     "data": {
       "id_stacji": "153220150",
@@ -1652,6 +1610,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.42",
       "przeplyw_data": "2026-05-18 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-24 13:30:00",
+      "zjawisko_zarastania": "110",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-13 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-18T16:29:09.178555+00:00",
+    "data": {
+      "id_stacji": "153220150",
+      "stacja": "Kucze",
+      "rzeka": "Lega",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "82",
+      "stan_wody_data_pomiaru": "2026-05-18 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.25",
+      "przeplyw_data": "2026-05-18 16:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-24 13:30:00",
       "zjawisko_zarastania": "110",
