@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12T18:21:56.759248+00:00",
-    "data": {
-      "id_stacji": "149190260",
-      "stacja": "Osielec",
-      "rzeka": "Skawa",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.7392",
-      "lat": "49.6833",
-      "stan_wody": "49",
-      "stan_wody_data_pomiaru": "2026-05-12 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.42",
-      "przeplyw_data": "2026-05-12 17:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-10 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-01 12:30:00"
-    }
-  },
-  {
     "timestamp": "2026-05-12T20:15:38.738665+00:00",
     "data": {
       "id_stacji": "149190260",
@@ -1610,6 +1589,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.32",
       "przeplyw_data": "2026-05-19 16:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-10 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-15 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-19T19:06:37.407307+00:00",
+    "data": {
+      "id_stacji": "149190260",
+      "stacja": "Osielec",
+      "rzeka": "Skawa",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.7392",
+      "lat": "49.6833",
+      "stan_wody": "69",
+      "stan_wody_data_pomiaru": "2026-05-19 18:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.32",
+      "przeplyw_data": "2026-05-19 18:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-10 11:00:00",
       "zjawisko_zarastania": "0",
