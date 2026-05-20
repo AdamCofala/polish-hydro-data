@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12T23:07:57.989772+00:00",
-    "data": {
-      "id_stacji": "150200140",
-      "stacja": "Borzęcin",
-      "rzeka": "Uszwica",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.7056",
-      "lat": "50.065",
-      "stan_wody": "106",
-      "stan_wody_data_pomiaru": "2026-05-12 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.95",
-      "przeplyw_data": "2026-05-12 22:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-21 11:03:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-22 15:50:00"
-    }
-  },
-  {
     "timestamp": "2026-05-13T01:23:45.458761+00:00",
     "data": {
       "id_stacji": "150200140",
@@ -1610,6 +1589,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.1",
       "przeplyw_data": "2026-05-19 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-21 11:03:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-22 15:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-20T00:12:37.406138+00:00",
+    "data": {
+      "id_stacji": "150200140",
+      "stacja": "Borzęcin",
+      "rzeka": "Uszwica",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.7056",
+      "lat": "50.065",
+      "stan_wody": "118",
+      "stan_wody_data_pomiaru": "2026-05-19 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.1",
+      "przeplyw_data": "2026-05-19 23:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-21 11:03:00",
       "zjawisko_zarastania": "0",

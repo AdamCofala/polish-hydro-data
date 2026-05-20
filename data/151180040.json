@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12T23:07:57.989772+00:00",
-    "data": {
-      "id_stacji": "151180040",
-      "stacja": "Mirków",
-      "rzeka": "Prosna",
-      "wojewodztwo": "łódzkie",
-      "lon": "18.1547",
-      "lat": "51.3156",
-      "stan_wody": "130",
-      "stan_wody_data_pomiaru": "2026-05-12 22:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.21",
-      "przeplyw_data": "2026-05-12 22:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-24 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-20 07:40:00"
-    }
-  },
-  {
     "timestamp": "2026-05-13T01:23:45.458761+00:00",
     "data": {
       "id_stacji": "151180040",
@@ -1610,6 +1589,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.3",
       "przeplyw_data": "2026-05-19 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-24 10:10:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-13 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-20T00:12:37.406138+00:00",
+    "data": {
+      "id_stacji": "151180040",
+      "stacja": "Mirków",
+      "rzeka": "Prosna",
+      "wojewodztwo": "łódzkie",
+      "lon": "18.1547",
+      "lat": "51.3156",
+      "stan_wody": "151",
+      "stan_wody_data_pomiaru": "2026-05-19 23:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.3",
+      "przeplyw_data": "2026-05-19 23:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-24 10:10:00",
       "zjawisko_zarastania": "101",
