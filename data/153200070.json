@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-14T17:22:17.786295+00:00",
-    "data": {
-      "id_stacji": "153200070",
-      "stacja": "Olsztyn",
-      "rzeka": "Łyna",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "20.4717",
-      "lat": "53.7564",
-      "stan_wody": "64",
-      "stan_wody_data_pomiaru": "2026-05-14 17:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.54",
-      "przeplyw_data": "2026-05-14 16:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:40:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-12 07:00:00"
-    }
-  },
-  {
     "timestamp": "2026-05-14T19:19:48.167775+00:00",
     "data": {
       "id_stacji": "153200070",
@@ -1526,6 +1505,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.8",
       "przeplyw_data": "2026-05-21 15:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:40:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-12 07:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-21T18:04:30.597557+00:00",
+    "data": {
+      "id_stacji": "153200070",
+      "stacja": "Olsztyn",
+      "rzeka": "Łyna",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "20.4717",
+      "lat": "53.7564",
+      "stan_wody": "79",
+      "stan_wody_data_pomiaru": "2026-05-21 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.64",
+      "przeplyw_data": "2026-05-21 17:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:40:00",
       "zjawisko_zarastania": "200",
