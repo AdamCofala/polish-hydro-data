@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15T05:34:11.445055+00:00",
-    "data": {
-      "id_stacji": "154200040",
-      "stacja": "Piaseczno",
-      "rzeka": "Elma",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "87",
-      "stan_wody_data_pomiaru": "2026-05-15 05:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.46",
-      "przeplyw_data": "2026-05-15 05:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-02 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-08 07:50:00"
-    }
-  },
-  {
     "timestamp": "2026-05-15T08:56:40.518960+00:00",
     "data": {
       "id_stacji": "154200040",
@@ -1505,6 +1484,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.42",
       "przeplyw_data": "2026-05-22 03:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-02 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-08 07:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-22T07:58:32.133310+00:00",
+    "data": {
+      "id_stacji": "154200040",
+      "stacja": "Piaseczno",
+      "rzeka": "Elma",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "86",
+      "stan_wody_data_pomiaru": "2026-05-22 07:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.41",
+      "przeplyw_data": "2026-05-22 07:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-03-02 12:00:00",
       "zjawisko_zarastania": "0",
