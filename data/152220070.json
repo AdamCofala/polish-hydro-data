@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-16T17:05:09.203753+00:00",
-    "data": {
-      "id_stacji": "152220070",
-      "stacja": "Brańsk",
-      "rzeka": "Nurzec",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.8186",
-      "lat": "52.7439",
-      "stan_wody": "49",
-      "stan_wody_data_pomiaru": "2026-05-16 16:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.27",
-      "przeplyw_data": "2026-05-16 16:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-18 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-30 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-05-16T18:31:44.251279+00:00",
     "data": {
       "id_stacji": "152220070",
@@ -1442,6 +1421,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.16",
       "przeplyw_data": "2026-05-23 15:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-18 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-30 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-23T17:34:29.411927+00:00",
+    "data": {
+      "id_stacji": "152220070",
+      "stacja": "Brańsk",
+      "rzeka": "Nurzec",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.8186",
+      "lat": "52.7439",
+      "stan_wody": "48",
+      "stan_wody_data_pomiaru": "2026-05-23 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.2",
+      "przeplyw_data": "2026-05-23 17:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-18 10:10:00",
       "zjawisko_zarastania": "0",

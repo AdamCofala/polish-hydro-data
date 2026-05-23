@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-16T17:05:09.203753+00:00",
-    "data": {
-      "id_stacji": "150160210",
-      "stacja": "Wilkanów",
-      "rzeka": "Wilczka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.6622",
-      "lat": "50.2653",
-      "stan_wody": "80",
-      "stan_wody_data_pomiaru": "2026-05-16 16:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.23",
-      "przeplyw_data": "2026-05-16 16:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-06 06:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-06 06:40:00"
-    }
-  },
-  {
     "timestamp": "2026-05-16T18:31:44.251279+00:00",
     "data": {
       "id_stacji": "150160210",
@@ -1442,6 +1421,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.16",
       "przeplyw_data": "2026-05-23 15:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-06 06:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-06 06:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-23T17:34:29.411927+00:00",
+    "data": {
+      "id_stacji": "150160210",
+      "stacja": "Wilkanów",
+      "rzeka": "Wilczka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.6622",
+      "lat": "50.2653",
+      "stan_wody": "77",
+      "stan_wody_data_pomiaru": "2026-05-23 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.16",
+      "przeplyw_data": "2026-05-23 17:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-06 06:40:00",
       "zjawisko_zarastania": "0",

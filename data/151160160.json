@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-16T17:05:09.203753+00:00",
-    "data": {
-      "id_stacji": "151160160",
-      "stacja": "Rydzyna",
-      "rzeka": "Polski Rów",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.6689",
-      "lat": "51.7828",
-      "stan_wody": "110",
-      "stan_wody_data_pomiaru": "2026-05-16 16:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.16",
-      "przeplyw_data": "2026-05-16 16:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-10 08:30:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-10 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-05-16T18:31:44.251279+00:00",
     "data": {
       "id_stacji": "151160160",
@@ -1442,6 +1421,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.15",
       "przeplyw_data": "2026-05-23 15:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-20 08:30:00",
+      "zjawisko_zarastania": "102",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-20 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-23T17:34:29.411927+00:00",
+    "data": {
+      "id_stacji": "151160160",
+      "stacja": "Rydzyna",
+      "rzeka": "Polski Rów",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "16.6689",
+      "lat": "51.7828",
+      "stan_wody": "111",
+      "stan_wody_data_pomiaru": "2026-05-23 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.15",
+      "przeplyw_data": "2026-05-23 17:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-20 08:30:00",
       "zjawisko_zarastania": "102",
