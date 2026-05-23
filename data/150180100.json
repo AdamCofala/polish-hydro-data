@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15T23:58:30.561530+00:00",
-    "data": {
-      "id_stacji": "150180100",
-      "stacja": "Staniszcze Wielkie",
-      "rzeka": "Mała Panew",
-      "wojewodztwo": "opolskie",
-      "lon": "18.3425",
-      "lat": "50.6633",
-      "stan_wody": "49",
-      "stan_wody_data_pomiaru": "2026-05-15 23:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.21",
-      "przeplyw_data": "2026-05-15 23:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-15 09:10:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-07 08:00:00"
-    }
-  },
-  {
     "timestamp": "2026-05-16T03:54:33.545393+00:00",
     "data": {
       "id_stacji": "150180100",
@@ -1484,6 +1463,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.03",
       "przeplyw_data": "2026-05-22 22:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-15 09:10:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-07 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-23T01:23:48.777646+00:00",
+    "data": {
+      "id_stacji": "150180100",
+      "stacja": "Staniszcze Wielkie",
+      "rzeka": "Mała Panew",
+      "wojewodztwo": "opolskie",
+      "lon": "18.3425",
+      "lat": "50.6633",
+      "stan_wody": "47",
+      "stan_wody_data_pomiaru": "2026-05-23 01:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.03",
+      "przeplyw_data": "2026-05-23 00:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-15 09:10:00",
       "zjawisko_zarastania": "1",
