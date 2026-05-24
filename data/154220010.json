@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-17T15:39:06.762879+00:00",
-    "data": {
-      "id_stacji": "154220010",
-      "stacja": "Banie Mazurskie",
-      "rzeka": "Gołdapa",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "22.0297",
-      "lat": "54.2478",
-      "stan_wody": "146",
-      "stan_wody_data_pomiaru": "2026-05-17 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.14",
-      "przeplyw_data": "2026-05-17 15:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-28 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-23 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-05-17T17:04:14.839733+00:00",
     "data": {
       "id_stacji": "154220010",
@@ -1421,6 +1400,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.35",
       "przeplyw_data": "2026-05-24 14:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-28 06:00:00",
+      "zjawisko_zarastania": "220",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-22 12:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-24T16:33:21.039763+00:00",
+    "data": {
+      "id_stacji": "154220010",
+      "stacja": "Banie Mazurskie",
+      "rzeka": "Gołdapa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "22.0297",
+      "lat": "54.2478",
+      "stan_wody": "142",
+      "stan_wody_data_pomiaru": "2026-05-24 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.34",
+      "przeplyw_data": "2026-05-24 16:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-28 06:00:00",
       "zjawisko_zarastania": "220",
