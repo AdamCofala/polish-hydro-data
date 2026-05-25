@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18T18:20:11.168544+00:00",
-    "data": {
-      "id_stacji": "151190080",
-      "stacja": "Kłudzice",
-      "rzeka": "Luciąża",
-      "wojewodztwo": "łódzkie",
-      "lon": "19.7819",
-      "lat": "51.3492",
-      "stan_wody": "262",
-      "stan_wody_data_pomiaru": "2026-05-18 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.48",
-      "przeplyw_data": "2026-05-18 17:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-06 14:11:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-06 14:40:00"
-    }
-  },
-  {
     "timestamp": "2026-05-18T20:14:49.950816+00:00",
     "data": {
       "id_stacji": "151190080",
@@ -1421,6 +1400,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.87",
       "przeplyw_data": "2026-05-25 17:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-06 14:11:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-06 14:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-25T20:10:19.029854+00:00",
+    "data": {
+      "id_stacji": "151190080",
+      "stacja": "Kłudzice",
+      "rzeka": "Luciąża",
+      "wojewodztwo": "łódzkie",
+      "lon": "19.7819",
+      "lat": "51.3492",
+      "stan_wody": "247",
+      "stan_wody_data_pomiaru": "2026-05-25 19:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.87",
+      "przeplyw_data": "2026-05-25 19:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-06 14:11:00",
       "zjawisko_zarastania": "0",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18T18:20:11.168544+00:00",
-    "data": {
-      "id_stacji": "151180200",
-      "stacja": "Kuśnie",
-      "rzeka": "Żeglina",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "103",
-      "stan_wody_data_pomiaru": "2026-05-18 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-23 08:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-14 07:00:00"
-    }
-  },
-  {
     "timestamp": "2026-05-18T20:14:49.950816+00:00",
     "data": {
       "id_stacji": "151180200",
@@ -1417,6 +1396,27 @@
       "lat": null,
       "stan_wody": "100",
       "stan_wody_data_pomiaru": "2026-05-25 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-23 08:00:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-22 07:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-25T20:10:19.029854+00:00",
+    "data": {
+      "id_stacji": "151180200",
+      "stacja": "Kuśnie",
+      "rzeka": "Żeglina",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "100",
+      "stan_wody_data_pomiaru": "2026-05-25 19:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,

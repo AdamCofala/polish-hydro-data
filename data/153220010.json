@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18T18:20:11.168544+00:00",
-    "data": {
-      "id_stacji": "153220010",
-      "stacja": "Piątnica-Łomża",
-      "rzeka": "Narew",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.0933",
-      "lat": "53.1933",
-      "stan_wody": "100",
-      "stan_wody_data_pomiaru": "2026-05-18 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "32.9",
-      "przeplyw_data": "2026-05-18 17:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 08:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-21 11:10:00"
-    }
-  },
-  {
     "timestamp": "2026-05-18T20:14:49.950816+00:00",
     "data": {
       "id_stacji": "153220010",
@@ -1421,6 +1400,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "27.3",
       "przeplyw_data": "2026-05-25 17:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 08:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-21 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-25T20:10:19.029854+00:00",
+    "data": {
+      "id_stacji": "153220010",
+      "stacja": "Piątnica-Łomża",
+      "rzeka": "Narew",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.0933",
+      "lat": "53.1933",
+      "stan_wody": "89",
+      "stan_wody_data_pomiaru": "2026-05-25 19:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "27.3",
+      "przeplyw_data": "2026-05-25 19:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-18 08:10:00",
       "zjawisko_zarastania": "0",
