@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18T12:38:48.948832+00:00",
-    "data": {
-      "id_stacji": "149180300",
-      "stacja": "Olza",
-      "rzeka": "Odra",
-      "wojewodztwo": "śląskie",
-      "lon": "18.3264",
-      "lat": "49.9547",
-      "stan_wody": "234",
-      "stan_wody_data_pomiaru": "2026-05-18 12:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "73.8",
-      "przeplyw_data": "2026-05-18 12:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-09 13:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-06 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-05-18T16:29:09.178555+00:00",
     "data": {
       "id_stacji": "149180300",
@@ -1400,6 +1379,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "15.5",
       "przeplyw_data": "2026-05-25 09:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-09 13:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-06 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-25T13:33:35.207029+00:00",
+    "data": {
+      "id_stacji": "149180300",
+      "stacja": "Olza",
+      "rzeka": "Odra",
+      "wojewodztwo": "śląskie",
+      "lon": "18.3264",
+      "lat": "49.9547",
+      "stan_wody": "167",
+      "stan_wody_data_pomiaru": "2026-05-25 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "15.5",
+      "przeplyw_data": "2026-05-25 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-09 13:20:00",
       "zjawisko_zarastania": "0",
