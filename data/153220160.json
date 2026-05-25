@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18T16:29:09.178555+00:00",
-    "data": {
-      "id_stacji": "153220160",
-      "stacja": "Osowiec 2",
-      "rzeka": "Ełk (Kanał Rudzki)",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.6267",
-      "lat": "53.4867",
-      "stan_wody": "370",
-      "stan_wody_data_pomiaru": "2026-05-18 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "6.02",
-      "przeplyw_data": "2026-05-18 16:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-10 14:20:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-07 06:40:00"
-    }
-  },
-  {
     "timestamp": "2026-05-18T18:20:11.168544+00:00",
     "data": {
       "id_stacji": "153220160",
@@ -1421,6 +1400,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.93",
       "przeplyw_data": "2026-05-25 15:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-10 14:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-07 06:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-25T18:10:44.093978+00:00",
+    "data": {
+      "id_stacji": "153220160",
+      "stacja": "Osowiec 2",
+      "rzeka": "Ełk (Kanał Rudzki)",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.6267",
+      "lat": "53.4867",
+      "stan_wody": "367",
+      "stan_wody_data_pomiaru": "2026-05-25 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "5.3",
+      "przeplyw_data": "2026-05-25 17:50:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-10 14:20:00",
       "zjawisko_zarastania": "100",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-18T16:29:09.178555+00:00",
-    "data": {
-      "id_stacji": "150210170",
-      "stacja": "Sandomierz",
-      "rzeka": "Wisła",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.7461",
-      "lat": "50.6725",
-      "stan_wody": "162",
-      "stan_wody_data_pomiaru": "2026-05-18 16:00:00",
-      "temperatura_wody": "2.6",
-      "temperatura_wody_data_pomiaru": "2025-10-31 06:00:00",
-      "przeplyw": "250",
-      "przeplyw_data": "2026-05-18 16:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-11 14:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-03-19 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-05-18T18:20:11.168544+00:00",
     "data": {
       "id_stacji": "150210170",
@@ -1421,6 +1400,27 @@
       "temperatura_wody_data_pomiaru": "2025-10-31 06:00:00",
       "przeplyw": "158",
       "przeplyw_data": "2026-05-25 15:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-11 14:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-19 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-25T18:10:44.093978+00:00",
+    "data": {
+      "id_stacji": "150210170",
+      "stacja": "Sandomierz",
+      "rzeka": "Wisła",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.7461",
+      "lat": "50.6725",
+      "stan_wody": "113",
+      "stan_wody_data_pomiaru": "2026-05-25 17:30:00",
+      "temperatura_wody": "2.6",
+      "temperatura_wody_data_pomiaru": "2025-10-31 06:00:00",
+      "przeplyw": "160",
+      "przeplyw_data": "2026-05-25 17:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-12-11 14:50:00",
       "zjawisko_zarastania": "0",
