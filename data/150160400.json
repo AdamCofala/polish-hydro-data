@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-19T06:14:25.055233+00:00",
-    "data": {
-      "id_stacji": "150160400",
-      "stacja": "Boboszów",
-      "rzeka": "Nysa Kłodzka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "114",
-      "stan_wody_data_pomiaru": "2026-05-19 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.13",
-      "przeplyw_data": "2026-05-19 05:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-06 08:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-06 08:00:00"
-    }
-  },
-  {
     "timestamp": "2026-05-19T10:24:18.385285+00:00",
     "data": {
       "id_stacji": "150160400",
@@ -1421,6 +1400,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.08",
       "przeplyw_data": "2026-05-26 05:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-06 08:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-06 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-26T10:09:47.630790+00:00",
+    "data": {
+      "id_stacji": "150160400",
+      "stacja": "Boboszów",
+      "rzeka": "Nysa Kłodzka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "113",
+      "stan_wody_data_pomiaru": "2026-05-26 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.08",
+      "przeplyw_data": "2026-05-26 09:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-06 08:00:00",
       "zjawisko_zarastania": "0",
