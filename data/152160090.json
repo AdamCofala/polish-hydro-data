@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20T08:30:29.933975+00:00",
-    "data": {
-      "id_stacji": "152160090",
-      "stacja": "Kościan",
-      "rzeka": "Kanał Mosiński",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.6442",
-      "lat": "52.09",
-      "stan_wody": "113",
-      "stan_wody_data_pomiaru": "2026-05-20 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.76",
-      "przeplyw_data": "2026-05-20 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-20 10:20:00",
-      "zjawisko_zarastania": "301",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-15 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-05-20T11:52:10.166879+00:00",
     "data": {
       "id_stacji": "152160090",
@@ -1400,6 +1379,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.83",
       "przeplyw_data": "2026-05-27 04:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-20 10:20:00",
+      "zjawisko_zarastania": "301",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-15 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-27T08:44:32.748030+00:00",
+    "data": {
+      "id_stacji": "152160090",
+      "stacja": "Kościan",
+      "rzeka": "Kanał Mosiński",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "16.6442",
+      "lat": "52.09",
+      "stan_wody": "119",
+      "stan_wody_data_pomiaru": "2026-05-27 08:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.83",
+      "przeplyw_data": "2026-05-27 08:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-20 10:20:00",
       "zjawisko_zarastania": "301",

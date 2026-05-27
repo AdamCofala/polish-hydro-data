@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20T08:30:29.933975+00:00",
-    "data": {
-      "id_stacji": "150230010",
-      "stacja": "Nielisz",
-      "rzeka": "Wieprz",
-      "wojewodztwo": "lubelskie",
-      "lon": "23.0411",
-      "lat": "50.8086",
-      "stan_wody": "12",
-      "stan_wody_data_pomiaru": "2026-05-20 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.6",
-      "przeplyw_data": "2026-05-20 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-13 09:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-13 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-05-20T11:52:10.166879+00:00",
     "data": {
       "id_stacji": "150230010",
@@ -1400,6 +1379,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.7",
       "przeplyw_data": "2026-05-27 04:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-13 09:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-13 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-27T08:44:32.748030+00:00",
+    "data": {
+      "id_stacji": "150230010",
+      "stacja": "Nielisz",
+      "rzeka": "Wieprz",
+      "wojewodztwo": "lubelskie",
+      "lon": "23.0411",
+      "lat": "50.8086",
+      "stan_wody": "14",
+      "stan_wody_data_pomiaru": "2026-05-27 08:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.7",
+      "przeplyw_data": "2026-05-27 08:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-13 09:00:00",
       "zjawisko_zarastania": "0",
