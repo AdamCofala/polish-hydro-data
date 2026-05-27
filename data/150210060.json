@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20T04:47:32.001332+00:00",
-    "data": {
-      "id_stacji": "150210060",
-      "stacja": "Staszów",
-      "rzeka": "Czarna",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.1731",
-      "lat": "50.5564",
-      "stan_wody": "150",
-      "stan_wody_data_pomiaru": "2026-05-20 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.35",
-      "przeplyw_data": "2026-05-20 04:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-13 13:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-11 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-05-20T08:30:29.933975+00:00",
     "data": {
       "id_stacji": "150210060",
@@ -1400,6 +1379,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.35",
       "przeplyw_data": "2026-05-26 23:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-13 13:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-11 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-27T04:56:48.220528+00:00",
+    "data": {
+      "id_stacji": "150210060",
+      "stacja": "Staszów",
+      "rzeka": "Czarna",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.1731",
+      "lat": "50.5564",
+      "stan_wody": "151",
+      "stan_wody_data_pomiaru": "2026-05-27 04:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.4",
+      "przeplyw_data": "2026-05-27 04:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-13 13:30:00",
       "zjawisko_zarastania": "0",
