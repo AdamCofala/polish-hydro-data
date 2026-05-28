@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-21T15:42:03.072620+00:00",
-    "data": {
-      "id_stacji": "154190170",
-      "stacja": "Łozy",
-      "rzeka": "Pasłęka",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "19.9508",
-      "lat": "54.1947",
-      "stan_wody": "172",
-      "stan_wody_data_pomiaru": "2026-05-21 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "6.4",
-      "przeplyw_data": "2026-05-21 15:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-02 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-05-21T18:04:30.597557+00:00",
     "data": {
       "id_stacji": "154190170",
@@ -1400,6 +1379,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "5.42",
       "przeplyw_data": "2026-05-28 12:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-22 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-28T16:58:14.853141+00:00",
+    "data": {
+      "id_stacji": "154190170",
+      "stacja": "Łozy",
+      "rzeka": "Pasłęka",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "19.9508",
+      "lat": "54.1947",
+      "stan_wody": "162",
+      "stan_wody_data_pomiaru": "2026-05-28 16:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "5.32",
+      "przeplyw_data": "2026-05-28 16:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:10:00",
       "zjawisko_zarastania": "0",
