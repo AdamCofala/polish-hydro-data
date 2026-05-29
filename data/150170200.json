@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22T11:12:23.298895+00:00",
-    "data": {
-      "id_stacji": "150170200",
-      "stacja": "Domaradz",
-      "rzeka": "Bogacica",
-      "wojewodztwo": "opolskie",
-      "lon": "17.8644",
-      "lat": "50.9542",
-      "stan_wody": "139",
-      "stan_wody_data_pomiaru": "2026-05-22 10:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-18 10:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-02-18 10:50:00"
-    }
-  },
-  {
     "timestamp": "2026-05-22T13:54:57.025042+00:00",
     "data": {
       "id_stacji": "150170200",
@@ -1375,6 +1354,27 @@
       "lat": "50.9542",
       "stan_wody": "128",
       "stan_wody_data_pomiaru": "2026-05-29 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-18 10:50:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-25 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-29T11:48:15.471661+00:00",
+    "data": {
+      "id_stacji": "150170200",
+      "stacja": "Domaradz",
+      "rzeka": "Bogacica",
+      "wojewodztwo": "opolskie",
+      "lon": "17.8644",
+      "lat": "50.9542",
+      "stan_wody": "128",
+      "stan_wody_data_pomiaru": "2026-05-29 11:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
