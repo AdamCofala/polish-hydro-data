@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-23T19:20:16.075722+00:00",
-    "data": {
-      "id_stacji": "149210010",
-      "stacja": "Ropa",
-      "rzeka": "Ropa",
-      "wojewodztwo": "małopolskie",
-      "lon": "21.0464",
-      "lat": "49.5858",
-      "stan_wody": "174",
-      "stan_wody_data_pomiaru": "2026-05-23 19:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2",
-      "przeplyw_data": "2026-05-23 18:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-22 08:10:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-22 08:10:00"
-    }
-  },
-  {
     "timestamp": "2026-05-23T20:26:06.657153+00:00",
     "data": {
       "id_stacji": "149210010",
@@ -1358,6 +1337,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2",
       "przeplyw_data": "2026-05-30 17:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-22 08:10:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-22 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-30T19:49:32.992585+00:00",
+    "data": {
+      "id_stacji": "149210010",
+      "stacja": "Ropa",
+      "rzeka": "Ropa",
+      "wojewodztwo": "małopolskie",
+      "lon": "21.0464",
+      "lat": "49.5858",
+      "stan_wody": "173",
+      "stan_wody_data_pomiaru": "2026-05-30 19:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.8",
+      "przeplyw_data": "2026-05-30 19:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-22 08:10:00",
       "zjawisko_zarastania": "200",
