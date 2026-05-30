@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-23T09:59:24.662098+00:00",
-    "data": {
-      "id_stacji": "153190180",
-      "stacja": "Bachotek",
-      "rzeka": "Skarlanka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "319",
-      "stan_wody_data_pomiaru": "2026-05-23 09:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.02",
-      "przeplyw_data": "2026-05-23 09:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-28 10:40:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-22 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-05-23T11:22:29.890544+00:00",
     "data": {
       "id_stacji": "153190180",
@@ -1358,6 +1337,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.97",
       "przeplyw_data": "2026-05-30 07:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-28 12:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-28 12:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-30T10:05:38.890602+00:00",
+    "data": {
+      "id_stacji": "153190180",
+      "stacja": "Bachotek",
+      "rzeka": "Skarlanka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "317",
+      "stan_wody_data_pomiaru": "2026-05-30 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.97",
+      "przeplyw_data": "2026-05-30 09:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-28 12:20:00",
       "zjawisko_zarastania": "100",
