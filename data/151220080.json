@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24T22:31:18.173209+00:00",
-    "data": {
-      "id_stacji": "151220080",
-      "stacja": "Tchórzew",
-      "rzeka": "Tyśmienica",
-      "wojewodztwo": "lubelskie",
-      "lon": "22.5561",
-      "lat": "51.6792",
-      "stan_wody": "209",
-      "stan_wody_data_pomiaru": "2026-05-24 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.32",
-      "przeplyw_data": "2026-05-24 22:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-03 09:30:00",
-      "zjawisko_zarastania": "311",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-14 08:40:00"
-    }
-  },
-  {
     "timestamp": "2026-05-25T00:06:02.960733+00:00",
     "data": {
       "id_stacji": "151220080",
@@ -1337,6 +1316,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.77",
       "przeplyw_data": "2026-05-31 21:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-03 09:30:00",
+      "zjawisko_zarastania": "311",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-14 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-31T23:07:41.836466+00:00",
+    "data": {
+      "id_stacji": "151220080",
+      "stacja": "Tchórzew",
+      "rzeka": "Tyśmienica",
+      "wojewodztwo": "lubelskie",
+      "lon": "22.5561",
+      "lat": "51.6792",
+      "stan_wody": "217",
+      "stan_wody_data_pomiaru": "2026-05-31 22:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.76",
+      "przeplyw_data": "2026-05-31 22:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-03 09:30:00",
       "zjawisko_zarastania": "311",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24T22:31:18.173209+00:00",
-    "data": {
-      "id_stacji": "152200060",
-      "stacja": "Sarbiewo",
-      "rzeka": "Raciążnica",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "180",
-      "stan_wody_data_pomiaru": "2026-05-24 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.2",
-      "przeplyw_data": "2026-05-24 21:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-24 10:20:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-19 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-05-25T00:06:02.960733+00:00",
     "data": {
       "id_stacji": "152200060",
@@ -1337,6 +1316,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.14",
       "przeplyw_data": "2026-05-31 20:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-24 10:20:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-19 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-31T23:07:41.836466+00:00",
+    "data": {
+      "id_stacji": "152200060",
+      "stacja": "Sarbiewo",
+      "rzeka": "Raciążnica",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "173",
+      "stan_wody_data_pomiaru": "2026-05-31 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.14",
+      "przeplyw_data": "2026-05-31 21:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-24 10:20:00",
       "zjawisko_zarastania": "200",
