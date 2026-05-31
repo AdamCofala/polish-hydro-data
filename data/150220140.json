@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-24T13:48:59.846039+00:00",
-    "data": {
-      "id_stacji": "150220140",
-      "stacja": "Charytany",
-      "rzeka": "Szkło",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.9386",
-      "lat": "50.0033",
-      "stan_wody": "133",
-      "stan_wody_data_pomiaru": "2026-05-24 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.14",
-      "przeplyw_data": "2026-05-24 13:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-06 10:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-24 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-05-24T15:10:35.540705+00:00",
     "data": {
       "id_stacji": "150220140",
@@ -1337,6 +1316,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1",
       "przeplyw_data": "2026-05-31 11:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-06 10:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-25 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-05-31T14:18:51.045496+00:00",
+    "data": {
+      "id_stacji": "150220140",
+      "stacja": "Charytany",
+      "rzeka": "Szkło",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.9386",
+      "lat": "50.0033",
+      "stan_wody": "130",
+      "stan_wody_data_pomiaru": "2026-05-31 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1",
+      "przeplyw_data": "2026-05-31 13:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-06 10:20:00",
       "zjawisko_zarastania": "100",
