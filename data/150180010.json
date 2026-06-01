@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25T09:36:20.210487+00:00",
-    "data": {
-      "id_stacji": "150180010",
-      "stacja": "Kamionka",
-      "rzeka": "Stradunia",
-      "wojewodztwo": "opolskie",
-      "lon": "18.0425",
-      "lat": "50.3911",
-      "stan_wody": "97",
-      "stan_wody_data_pomiaru": "2026-05-25 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.17",
-      "przeplyw_data": "2026-05-25 09:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-02 09:00:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-07 08:10:00"
-    }
-  },
-  {
     "timestamp": "2026-05-25T13:33:35.207029+00:00",
     "data": {
       "id_stacji": "150180010",
@@ -1341,6 +1320,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-02-02 09:00:00",
       "zjawisko_zarastania": "101",
       "zjawisko_zarastania_data_pomiaru": "2026-05-07 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-01T13:12:51.423114+00:00",
+    "data": {
+      "id_stacji": "150180010",
+      "stacja": "Kamionka",
+      "rzeka": "Stradunia",
+      "wojewodztwo": "opolskie",
+      "lon": "18.0425",
+      "lat": "50.3911",
+      "stan_wody": "95",
+      "stan_wody_data_pomiaru": "2026-06-01 12:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.12",
+      "przeplyw_data": "2026-06-01 12:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-02 09:00:00",
+      "zjawisko_zarastania": "102",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-01 08:20:00"
     }
   }
 ]

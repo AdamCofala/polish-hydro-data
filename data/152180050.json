@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25T09:36:20.210487+00:00",
-    "data": {
-      "id_stacji": "152180050",
-      "stacja": "Sławsk",
-      "rzeka": "Warta",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "18.1333",
-      "lat": "52.1983",
-      "stan_wody": "252",
-      "stan_wody_data_pomiaru": "2026-05-25 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "25.8",
-      "przeplyw_data": "2026-05-25 09:10:00",
-      "zjawisko_lodowe": "9",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-17 14:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2024-03-05 08:56:00"
-    }
-  },
-  {
     "timestamp": "2026-05-25T13:33:35.207029+00:00",
     "data": {
       "id_stacji": "152180050",
@@ -1337,6 +1316,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "25",
       "przeplyw_data": "2026-06-01 06:30:00",
+      "zjawisko_lodowe": "9",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-17 14:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2024-03-05 08:56:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-01T13:12:51.423114+00:00",
+    "data": {
+      "id_stacji": "152180050",
+      "stacja": "Sławsk",
+      "rzeka": "Warta",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "18.1333",
+      "lat": "52.1983",
+      "stan_wody": "247",
+      "stan_wody_data_pomiaru": "2026-06-01 12:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "23.8",
+      "przeplyw_data": "2026-06-01 12:50:00",
       "zjawisko_lodowe": "9",
       "zjawisko_lodowe_data_pomiaru": "2026-02-17 14:00:00",
       "zjawisko_zarastania": "0",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25T09:36:20.210487+00:00",
-    "data": {
-      "id_stacji": "153220100",
-      "stacja": "Burzyn",
-      "rzeka": "Biebrza",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.4592",
-      "lat": "53.2742",
-      "stan_wody": "185",
-      "stan_wody_data_pomiaru": "2026-05-25 09:00:00",
-      "temperatura_wody": "19.1",
-      "temperatura_wody_data_pomiaru": "2026-05-24 06:00:00",
-      "przeplyw": "16.1",
-      "przeplyw_data": "2026-05-25 09:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-02 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-16 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-05-25T13:33:35.207029+00:00",
     "data": {
       "id_stacji": "153220100",
@@ -1337,6 +1316,27 @@
       "temperatura_wody_data_pomiaru": "2026-05-31 06:00:00",
       "przeplyw": "11.2",
       "przeplyw_data": "2026-06-01 06:30:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-02 06:00:00",
+      "zjawisko_zarastania": "110",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-28 07:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-01T13:12:51.423114+00:00",
+    "data": {
+      "id_stacji": "153220100",
+      "stacja": "Burzyn",
+      "rzeka": "Biebrza",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.4592",
+      "lat": "53.2742",
+      "stan_wody": "156",
+      "stan_wody_data_pomiaru": "2026-06-01 12:30:00",
+      "temperatura_wody": "18",
+      "temperatura_wody_data_pomiaru": "2026-06-01 06:00:00",
+      "przeplyw": "11.1",
+      "przeplyw_data": "2026-06-01 12:50:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-03-02 06:00:00",
       "zjawisko_zarastania": "110",
