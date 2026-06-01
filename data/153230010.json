@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-25T23:12:17.889339+00:00",
-    "data": {
-      "id_stacji": "153230010",
-      "stacja": "Fasty",
-      "rzeka": "Supraśl",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.0267",
-      "lat": "53.1786",
-      "stan_wody": "106",
-      "stan_wody_data_pomiaru": "2026-05-25 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.91",
-      "przeplyw_data": "2026-05-25 22:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-07 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-15 14:10:00"
-    }
-  },
-  {
     "timestamp": "2026-05-26T01:25:53.370856+00:00",
     "data": {
       "id_stacji": "153230010",
@@ -1274,6 +1253,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.28",
       "przeplyw_data": "2026-06-01 21:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-07 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-15 14:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-01T23:52:23.518755+00:00",
+    "data": {
+      "id_stacji": "153230010",
+      "stacja": "Fasty",
+      "rzeka": "Supraśl",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.0267",
+      "lat": "53.1786",
+      "stan_wody": "116",
+      "stan_wody_data_pomiaru": "2026-06-01 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.37",
+      "przeplyw_data": "2026-06-01 23:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-07 06:00:00",
       "zjawisko_zarastania": "0",
