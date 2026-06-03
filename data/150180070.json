@@ -1,47 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27T21:04:11.423206+00:00",
-    "data": {
-      "id_stacji": "150180070",
-      "stacja": "Lenartowice",
-      "rzeka": "Kłodnica",
-      "wojewodztwo": "opolskie",
-      "lon": "18.2356",
-      "lat": "50.3575",
-      "stan_wody": "147",
-      "stan_wody_data_pomiaru": "2026-05-27 20:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "4.5",
-      "przeplyw_data": "2026-05-27 20:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-17 10:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-05 10:10:00"
-    }
-  },
-  {
-    "timestamp": "2026-05-27T22:58:04.285617+00:00",
-    "data": {
-      "id_stacji": "150180070",
-      "stacja": "Lenartowice",
-      "rzeka": "Kłodnica",
-      "wojewodztwo": "opolskie",
-      "lon": "18.2356",
-      "lat": "50.3575",
-      "stan_wody": "144",
-      "stan_wody_data_pomiaru": "2026-05-27 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "4.24",
-      "przeplyw_data": "2026-05-27 22:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-17 10:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-05 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-05-28T00:07:50.601109+00:00",
     "data": {
       "id_stacji": "150180070",
@@ -1211,6 +1169,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.24",
       "przeplyw_data": "2026-06-03 20:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-17 10:30:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-03 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-03T23:07:45.422510+00:00",
+    "data": {
+      "id_stacji": "150180070",
+      "stacja": "Lenartowice",
+      "rzeka": "Kłodnica",
+      "wojewodztwo": "opolskie",
+      "lon": "18.2356",
+      "lat": "50.3575",
+      "stan_wody": "145",
+      "stan_wody_data_pomiaru": "2026-06-03 22:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.24",
+      "przeplyw_data": "2026-06-03 22:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-17 10:30:00",
       "zjawisko_zarastania": "100",
