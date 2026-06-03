@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27T08:44:32.748030+00:00",
-    "data": {
-      "id_stacji": "150230090",
-      "stacja": "Zażółkiew",
-      "rzeka": "Żółkiewka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "83",
-      "stan_wody_data_pomiaru": "2026-05-27 08:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-05 07:20:00"
-    }
-  },
-  {
     "timestamp": "2026-05-27T12:25:34.491348+00:00",
     "data": {
       "id_stacji": "150230090",
@@ -1236,6 +1215,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 10:00:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2026-05-05 07:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-03T12:20:50.267973+00:00",
+    "data": {
+      "id_stacji": "150230090",
+      "stacja": "Zażółkiew",
+      "rzeka": "Żółkiewka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "86",
+      "stan_wody_data_pomiaru": "2026-06-03 12:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 10:00:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-03 11:20:00"
     }
   }
 ]

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27T08:44:32.748030+00:00",
-    "data": {
-      "id_stacji": "153190050",
-      "stacja": "Brodnica",
-      "rzeka": "Drwęca",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "19.4008",
-      "lat": "53.2553",
-      "stan_wody": "89",
-      "stan_wody_data_pomiaru": "2026-05-27 08:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "11.1",
-      "przeplyw_data": "2026-05-27 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-28 08:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-28 08:20:00"
-    }
-  },
-  {
     "timestamp": "2026-05-27T12:25:34.491348+00:00",
     "data": {
       "id_stacji": "153190050",
@@ -1236,6 +1215,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-04-28 08:20:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2026-04-28 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-03T12:20:50.267973+00:00",
+    "data": {
+      "id_stacji": "153190050",
+      "stacja": "Brodnica",
+      "rzeka": "Drwęca",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lon": "19.4008",
+      "lat": "53.2553",
+      "stan_wody": "84",
+      "stan_wody_data_pomiaru": "2026-06-03 12:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "10.6",
+      "przeplyw_data": "2026-06-03 11:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-28 08:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-03 09:52:00"
     }
   }
 ]

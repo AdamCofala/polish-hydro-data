@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-27T08:44:32.748030+00:00",
-    "data": {
-      "id_stacji": "152180010",
-      "stacja": "Gębice",
-      "rzeka": "Noteć Zachodnia",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "153",
-      "stan_wody_data_pomiaru": "2026-05-27 08:30:00",
-      "temperatura_wody": "17.2",
-      "temperatura_wody_data_pomiaru": "2026-05-26 06:00:00",
-      "przeplyw": "0.08",
-      "przeplyw_data": "2026-05-27 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-22 06:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-21 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-05-27T12:25:34.491348+00:00",
     "data": {
       "id_stacji": "152180010",
@@ -1232,6 +1211,27 @@
       "temperatura_wody_data_pomiaru": "2026-06-02 06:00:00",
       "przeplyw": "0.1",
       "przeplyw_data": "2026-06-03 06:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-22 06:00:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-03 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-03T12:20:50.267973+00:00",
+    "data": {
+      "id_stacji": "152180010",
+      "stacja": "Gębice",
+      "rzeka": "Noteć Zachodnia",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "161",
+      "stan_wody_data_pomiaru": "2026-06-03 12:00:00",
+      "temperatura_wody": "17.2",
+      "temperatura_wody_data_pomiaru": "2026-06-03 06:00:00",
+      "przeplyw": "0.1",
+      "przeplyw_data": "2026-06-03 11:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-22 06:00:00",
       "zjawisko_zarastania": "200",
