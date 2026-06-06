@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-05-30T18:05:07.215576+00:00",
-    "data": {
-      "id_stacji": "151150110",
-      "stacja": "Gryfów Śląski",
-      "rzeka": "Kwisa",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.4131",
-      "lat": "51.0264",
-      "stan_wody": "91",
-      "stan_wody_data_pomiaru": "2026-05-30 17:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.73",
-      "przeplyw_data": "2026-05-30 17:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-26 09:30:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2024-06-27 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-05-30T19:49:32.992585+00:00",
     "data": {
       "id_stacji": "151150110",
@@ -1169,6 +1148,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.5",
       "przeplyw_data": "2026-06-06 16:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-26 09:30:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2024-06-27 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-06T18:48:55.747614+00:00",
+    "data": {
+      "id_stacji": "151150110",
+      "stacja": "Gryfów Śląski",
+      "rzeka": "Kwisa",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.4131",
+      "lat": "51.0264",
+      "stan_wody": "99",
+      "stan_wody_data_pomiaru": "2026-06-06 18:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.41",
+      "przeplyw_data": "2026-06-06 18:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-26 09:30:00",
       "zjawisko_zarastania": "100",
