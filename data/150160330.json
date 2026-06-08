@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01T07:07:17.211806+00:00",
-    "data": {
-      "id_stacji": "150160330",
-      "stacja": "Szczytna",
-      "rzeka": "Kamienny Potok",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "133",
-      "stan_wody_data_pomiaru": "2026-06-01 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.27",
-      "przeplyw_data": "2026-06-01 05:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-11 09:50:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-11 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-06-01T13:12:51.423114+00:00",
     "data": {
       "id_stacji": "150160330",
@@ -1173,6 +1152,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-05-11 09:50:00",
       "zjawisko_zarastania": "1",
       "zjawisko_zarastania_data_pomiaru": "2026-05-11 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-08T12:02:48.027126+00:00",
+    "data": {
+      "id_stacji": "150160330",
+      "stacja": "Szczytna",
+      "rzeka": "Kamienny Potok",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "134",
+      "stan_wody_data_pomiaru": "2026-06-08 11:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.31",
+      "przeplyw_data": "2026-06-08 11:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-06-08 08:20:00",
+      "zjawisko_zarastania": "111",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-08 08:20:00"
     }
   }
 ]
