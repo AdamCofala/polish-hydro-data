@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-02T12:56:51.641594+00:00",
-    "data": {
-      "id_stacji": "149180040",
-      "stacja": "Gołkowice",
-      "rzeka": "Szotkówka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "118",
-      "stan_wody_data_pomiaru": "2026-06-02 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.73",
-      "przeplyw_data": "2026-06-02 12:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-10 10:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-15 11:20:00"
-    }
-  },
-  {
     "timestamp": "2026-06-02T17:45:58.688187+00:00",
     "data": {
       "id_stacji": "149180040",
@@ -1211,6 +1190,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.02",
       "przeplyw_data": "2026-06-09 11:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-10 10:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-15 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-09T15:39:59.770860+00:00",
+    "data": {
+      "id_stacji": "149180040",
+      "stacja": "Gołkowice",
+      "rzeka": "Szotkówka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "126",
+      "stan_wody_data_pomiaru": "2026-06-09 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.98",
+      "przeplyw_data": "2026-06-09 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-10 10:50:00",
       "zjawisko_zarastania": "0",
