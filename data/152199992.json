@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01T23:52:23.518755+00:00",
-    "data": {
-      "id_stacji": "152199992",
-      "stacja": "Łowicz",
-      "rzeka": "Bzura",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "185",
-      "stan_wody_data_pomiaru": "2026-06-01 23:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "4.08",
-      "przeplyw_data": "2026-06-01 23:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-26 06:00:00",
-      "zjawisko_zarastania": "2",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-25 06:00:00"
-    }
-  },
-  {
     "timestamp": "2026-06-02T04:44:40.383263+00:00",
     "data": {
       "id_stacji": "152199992",
@@ -1190,6 +1169,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.08",
       "przeplyw_data": "2026-06-08 22:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-26 06:00:00",
+      "zjawisko_zarastania": "2",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-08 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-09T00:12:25.892442+00:00",
+    "data": {
+      "id_stacji": "152199992",
+      "stacja": "Łowicz",
+      "rzeka": "Bzura",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "185",
+      "stan_wody_data_pomiaru": "2026-06-08 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.08",
+      "przeplyw_data": "2026-06-08 23:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-26 06:00:00",
       "zjawisko_zarastania": "2",

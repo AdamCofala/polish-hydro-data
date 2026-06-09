@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-01T23:52:23.518755+00:00",
-    "data": {
-      "id_stacji": "152190050",
-      "stacja": "Kwiatkówek",
-      "rzeka": "Bzura",
-      "wojewodztwo": "łódzkie",
-      "lon": "19.2175",
-      "lat": "52.0625",
-      "stan_wody": "131",
-      "stan_wody_data_pomiaru": "2026-06-01 23:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.96",
-      "przeplyw_data": "2026-06-01 23:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 14:00:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-21 12:40:00"
-    }
-  },
-  {
     "timestamp": "2026-06-02T04:44:40.383263+00:00",
     "data": {
       "id_stacji": "152190050",
@@ -1190,6 +1169,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.85",
       "przeplyw_data": "2026-06-08 22:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 14:00:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-21 12:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-09T00:12:25.892442+00:00",
+    "data": {
+      "id_stacji": "152190050",
+      "stacja": "Kwiatkówek",
+      "rzeka": "Bzura",
+      "wojewodztwo": "łódzkie",
+      "lon": "19.2175",
+      "lat": "52.0625",
+      "stan_wody": "128",
+      "stan_wody_data_pomiaru": "2026-06-08 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.85",
+      "przeplyw_data": "2026-06-08 23:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 14:00:00",
       "zjawisko_zarastania": "1",
