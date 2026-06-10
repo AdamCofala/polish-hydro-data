@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03T12:20:50.267973+00:00",
-    "data": {
-      "id_stacji": "154170060",
-      "stacja": "Smołdzino",
-      "rzeka": "Łupawa",
-      "wojewodztwo": "pomorskie",
-      "lon": "17.2147",
-      "lat": "54.6617",
-      "stan_wody": "27",
-      "stan_wody_data_pomiaru": "2026-06-03 12:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "6.08",
-      "przeplyw_data": "2026-06-03 11:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 11:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-25 10:50:00"
-    }
-  },
-  {
     "timestamp": "2026-06-03T17:28:00.885283+00:00",
     "data": {
       "id_stacji": "154170060",
@@ -1232,6 +1211,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "6.5",
       "przeplyw_data": "2026-06-10 08:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 11:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-25 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-10T12:28:58.863656+00:00",
+    "data": {
+      "id_stacji": "154170060",
+      "stacja": "Smołdzino",
+      "rzeka": "Łupawa",
+      "wojewodztwo": "pomorskie",
+      "lon": "17.2147",
+      "lat": "54.6617",
+      "stan_wody": "30",
+      "stan_wody_data_pomiaru": "2026-06-10 12:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "6.5",
+      "przeplyw_data": "2026-06-10 12:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-18 11:20:00",
       "zjawisko_zarastania": "0",
