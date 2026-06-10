@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-03T20:39:04.729537+00:00",
-    "data": {
-      "id_stacji": "150190280",
-      "stacja": "Wąsosz",
-      "rzeka": "Pilica",
-      "wojewodztwo": "śląskie",
-      "lon": "19.6828",
-      "lat": "50.7511",
-      "stan_wody": "157",
-      "stan_wody_data_pomiaru": "2026-06-03 19:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.95",
-      "przeplyw_data": "2026-06-03 20:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-26 09:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-02 11:30:00"
-    }
-  },
-  {
     "timestamp": "2026-06-03T23:07:45.422510+00:00",
     "data": {
       "id_stacji": "150190280",
@@ -1232,6 +1211,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.03",
       "przeplyw_data": "2026-06-10 18:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-26 09:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-02 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-10T21:35:47.361181+00:00",
+    "data": {
+      "id_stacji": "150190280",
+      "stacja": "Wąsosz",
+      "rzeka": "Pilica",
+      "wojewodztwo": "śląskie",
+      "lon": "19.6828",
+      "lat": "50.7511",
+      "stan_wody": "160",
+      "stan_wody_data_pomiaru": "2026-06-10 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.1",
+      "przeplyw_data": "2026-06-10 21:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-26 09:20:00",
       "zjawisko_zarastania": "0",
