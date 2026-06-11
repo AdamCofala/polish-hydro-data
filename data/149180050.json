@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04T14:07:00.999808+00:00",
-    "data": {
-      "id_stacji": "149180050",
-      "stacja": "Zebrzydowice",
-      "rzeka": "Piotrówka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "50",
-      "stan_wody_data_pomiaru": "2026-06-04 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.87",
-      "przeplyw_data": "2026-06-04 13:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-06 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-15 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-06-04T17:30:46.724987+00:00",
     "data": {
       "id_stacji": "149180050",
@@ -1274,6 +1253,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.22",
       "przeplyw_data": "2026-06-11 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-06 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-10 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-11T17:06:28.125083+00:00",
+    "data": {
+      "id_stacji": "149180050",
+      "stacja": "Zebrzydowice",
+      "rzeka": "Piotrówka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "42",
+      "stan_wody_data_pomiaru": "2026-06-11 16:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.34",
+      "przeplyw_data": "2026-06-11 16:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-06 12:00:00",
       "zjawisko_zarastania": "0",

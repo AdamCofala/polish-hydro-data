@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04T14:07:00.999808+00:00",
-    "data": {
-      "id_stacji": "153170060",
-      "stacja": "Swornegacie",
-      "rzeka": "Brda",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "211",
-      "stan_wody_data_pomiaru": "2026-06-04 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "7.09",
-      "przeplyw_data": "2026-06-04 13:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-23 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-12 10:50:00"
-    }
-  },
-  {
     "timestamp": "2026-06-04T17:30:46.724987+00:00",
     "data": {
       "id_stacji": "153170060",
@@ -1253,6 +1232,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "7.62",
       "przeplyw_data": "2026-06-11 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-23 12:00:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-08 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-11T17:06:28.125083+00:00",
+    "data": {
+      "id_stacji": "153170060",
+      "stacja": "Swornegacie",
+      "rzeka": "Brda",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "217",
+      "stan_wody_data_pomiaru": "2026-06-11 16:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "7.62",
+      "przeplyw_data": "2026-06-11 16:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-23 12:00:00",
       "zjawisko_zarastania": "101",
