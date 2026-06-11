@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-04T07:06:55.210480+00:00",
-    "data": {
-      "id_stacji": "151150020",
-      "stacja": "Ostróżno",
-      "rzeka": "Witka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.0328",
-      "lat": "51.0208",
-      "stan_wody": "114",
-      "stan_wody_data_pomiaru": "2026-06-04 06:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.41",
-      "przeplyw_data": "2026-06-04 06:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-14 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-30 06:00:00"
-    }
-  },
-  {
     "timestamp": "2026-06-04T14:07:00.999808+00:00",
     "data": {
       "id_stacji": "151150020",
@@ -1257,6 +1236,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-03-14 06:00:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2026-06-08 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-11T09:15:30.601383+00:00",
+    "data": {
+      "id_stacji": "151150020",
+      "stacja": "Ostróżno",
+      "rzeka": "Witka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.0328",
+      "lat": "51.0208",
+      "stan_wody": "112",
+      "stan_wody_data_pomiaru": "2026-06-11 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.36",
+      "przeplyw_data": "2026-06-11 08:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-14 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-11 06:00:00"
     }
   }
 ]
