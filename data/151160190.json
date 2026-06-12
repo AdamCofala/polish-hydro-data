@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05T08:30:12.970642+00:00",
-    "data": {
-      "id_stacji": "151160190",
-      "stacja": "Jarnołtów",
-      "rzeka": "Bystrzyca",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.8428",
-      "lat": "51.1217",
-      "stan_wody": "87",
-      "stan_wody_data_pomiaru": "2026-06-05 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.47",
-      "przeplyw_data": "2026-06-05 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-06-02 09:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-02 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-06-05T11:44:58.161548+00:00",
     "data": {
       "id_stacji": "151160190",
@@ -1278,6 +1257,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-06-02 09:40:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2026-06-02 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-12T09:44:33.635729+00:00",
+    "data": {
+      "id_stacji": "151160190",
+      "stacja": "Jarnołtów",
+      "rzeka": "Bystrzyca",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.8428",
+      "lat": "51.1217",
+      "stan_wody": "94",
+      "stan_wody_data_pomiaru": "2026-06-12 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.36",
+      "przeplyw_data": "2026-06-12 09:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-06-12 06:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-12 06:40:00"
     }
   }
 ]

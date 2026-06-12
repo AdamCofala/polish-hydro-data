@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05T08:30:12.970642+00:00",
-    "data": {
-      "id_stacji": "150230020",
-      "stacja": "Wirkowice",
-      "rzeka": "Wieprz",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "142",
-      "stan_wody_data_pomiaru": "2026-06-05 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.85",
-      "przeplyw_data": "2026-06-05 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-10 11:30:00"
-    }
-  },
-  {
     "timestamp": "2026-06-05T11:44:58.161548+00:00",
     "data": {
       "id_stacji": "150230020",
@@ -1278,6 +1257,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:40:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2026-04-10 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-12T09:44:33.635729+00:00",
+    "data": {
+      "id_stacji": "150230020",
+      "stacja": "Wirkowice",
+      "rzeka": "Wieprz",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "141",
+      "stan_wody_data_pomiaru": "2026-06-12 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.78",
+      "przeplyw_data": "2026-06-12 09:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:40:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-12 09:00:00"
     }
   }
 ]
