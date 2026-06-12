@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05T11:44:58.161548+00:00",
-    "data": {
-      "id_stacji": "151190020",
-      "stacja": "Szczerców",
-      "rzeka": "Widawka",
-      "wojewodztwo": "łódzkie",
-      "lon": "19.1136",
-      "lat": "51.3283",
-      "stan_wody": "116",
-      "stan_wody_data_pomiaru": "2026-06-05 10:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.54",
-      "przeplyw_data": "2026-06-05 11:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-03 07:30:00",
-      "zjawisko_zarastania": "201",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-01 06:50:00"
-    }
-  },
-  {
     "timestamp": "2026-06-05T15:18:35.888127+00:00",
     "data": {
       "id_stacji": "151190020",
@@ -1274,6 +1253,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.38",
       "przeplyw_data": "2026-06-12 09:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-03 07:30:00",
+      "zjawisko_zarastania": "201",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-01 06:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-12T13:31:10.882529+00:00",
+    "data": {
+      "id_stacji": "151190020",
+      "stacja": "Szczerców",
+      "rzeka": "Widawka",
+      "wojewodztwo": "łódzkie",
+      "lon": "19.1136",
+      "lat": "51.3283",
+      "stan_wody": "125",
+      "stan_wody_data_pomiaru": "2026-06-12 12:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.35",
+      "przeplyw_data": "2026-06-12 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-03 07:30:00",
       "zjawisko_zarastania": "201",
