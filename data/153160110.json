@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05T15:18:35.888127+00:00",
-    "data": {
-      "id_stacji": "153160110",
-      "stacja": "Wiesiółka",
-      "rzeka": "Dobrzyca",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "60",
-      "stan_wody_data_pomiaru": "2026-06-05 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.13",
-      "przeplyw_data": "2026-06-05 14:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-12 08:10:00"
-    }
-  },
-  {
     "timestamp": "2026-06-05T17:28:18.003156+00:00",
     "data": {
       "id_stacji": "153160110",
@@ -1274,6 +1253,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.19",
       "przeplyw_data": "2026-06-12 12:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:50:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-11 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-12T16:48:44.289449+00:00",
+    "data": {
+      "id_stacji": "153160110",
+      "stacja": "Wiesiółka",
+      "rzeka": "Dobrzyca",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "64",
+      "stan_wody_data_pomiaru": "2026-06-12 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.19",
+      "przeplyw_data": "2026-06-12 15:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:50:00",
       "zjawisko_zarastania": "100",
