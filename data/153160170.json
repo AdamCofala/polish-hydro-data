@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T07:49:05.051370+00:00",
-    "data": {
-      "id_stacji": "153160170",
-      "stacja": "Ujście",
-      "rzeka": "Noteć",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.7303",
-      "lat": "53.0547",
-      "stan_wody": "210",
-      "stan_wody_data_pomiaru": "2026-06-06 07:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "8.68",
-      "przeplyw_data": "2026-06-06 07:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-30 13:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-20 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-06-06T10:11:19.739909+00:00",
     "data": {
       "id_stacji": "153160170",
@@ -1253,6 +1232,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.65",
       "przeplyw_data": "2026-06-13 04:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-30 13:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-09 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-13T08:38:04.329452+00:00",
+    "data": {
+      "id_stacji": "153160170",
+      "stacja": "Ujście",
+      "rzeka": "Noteć",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "16.7303",
+      "lat": "53.0547",
+      "stan_wody": "193",
+      "stan_wody_data_pomiaru": "2026-06-13 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.58",
+      "przeplyw_data": "2026-06-13 08:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-30 13:00:00",
       "zjawisko_zarastania": "100",
