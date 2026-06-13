@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T18:48:55.747614+00:00",
-    "data": {
-      "id_stacji": "150180220",
-      "stacja": "Gliwice",
-      "rzeka": "Kłodnica",
-      "wojewodztwo": "śląskie",
-      "lon": "18.6683",
-      "lat": "50.2981",
-      "stan_wody": "96",
-      "stan_wody_data_pomiaru": "2026-06-06 18:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "4.8",
-      "przeplyw_data": "2026-06-06 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-26 11:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-29 08:40:00"
-    }
-  },
-  {
     "timestamp": "2026-06-06T20:14:23.617597+00:00",
     "data": {
       "id_stacji": "150180220",
@@ -1253,6 +1232,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.18",
       "przeplyw_data": "2026-06-13 17:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-26 11:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-29 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-13T20:03:25.196161+00:00",
+    "data": {
+      "id_stacji": "150180220",
+      "stacja": "Gliwice",
+      "rzeka": "Kłodnica",
+      "wojewodztwo": "śląskie",
+      "lon": "18.6683",
+      "lat": "50.2981",
+      "stan_wody": "93",
+      "stan_wody_data_pomiaru": "2026-06-13 19:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.42",
+      "przeplyw_data": "2026-06-13 19:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-26 11:00:00",
       "zjawisko_zarastania": "100",

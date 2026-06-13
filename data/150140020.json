@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T18:48:55.747614+00:00",
-    "data": {
-      "id_stacji": "150140020",
-      "stacja": "Sieniawka",
-      "rzeka": "Nysa Łużycka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "14.8369",
-      "lat": "50.8964",
-      "stan_wody": "65",
-      "stan_wody_data_pomiaru": "2026-06-06 18:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.99",
-      "przeplyw_data": "2026-06-06 18:10:00",
-      "zjawisko_lodowe": "1",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-17 10:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-28 09:20:00"
-    }
-  },
-  {
     "timestamp": "2026-06-06T20:14:23.617597+00:00",
     "data": {
       "id_stacji": "150140020",
@@ -1253,6 +1232,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "6.29",
       "przeplyw_data": "2026-06-13 17:50:00",
+      "zjawisko_lodowe": "1",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-17 10:00:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-28 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-13T20:03:25.196161+00:00",
+    "data": {
+      "id_stacji": "150140020",
+      "stacja": "Sieniawka",
+      "rzeka": "Nysa Łużycka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "14.8369",
+      "lat": "50.8964",
+      "stan_wody": "75",
+      "stan_wody_data_pomiaru": "2026-06-13 19:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "6.56",
+      "przeplyw_data": "2026-06-13 19:30:00",
       "zjawisko_lodowe": "1",
       "zjawisko_lodowe_data_pomiaru": "2025-02-17 10:00:00",
       "zjawisko_zarastania": "200",
