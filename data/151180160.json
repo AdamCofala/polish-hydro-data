@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T00:14:14.658332+00:00",
-    "data": {
-      "id_stacji": "151180160",
-      "stacja": "Poddębice",
-      "rzeka": "Ner",
-      "wojewodztwo": "łódzkie",
-      "lon": "18.9494",
-      "lat": "51.8917",
-      "stan_wody": "104",
-      "stan_wody_data_pomiaru": "2026-06-05 23:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.34",
-      "przeplyw_data": "2026-06-05 23:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 10:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-26 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-06-06T04:37:47.855343+00:00",
     "data": {
       "id_stacji": "151180160",
@@ -1253,6 +1232,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.18",
       "przeplyw_data": "2026-06-12 22:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-08 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-13T00:23:49.561005+00:00",
+    "data": {
+      "id_stacji": "151180160",
+      "stacja": "Poddębice",
+      "rzeka": "Ner",
+      "wojewodztwo": "łódzkie",
+      "lon": "18.9494",
+      "lat": "51.8917",
+      "stan_wody": "123",
+      "stan_wody_data_pomiaru": "2026-06-12 23:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.04",
+      "przeplyw_data": "2026-06-12 23:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-18 10:40:00",
       "zjawisko_zarastania": "0",
