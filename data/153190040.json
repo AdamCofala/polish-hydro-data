@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T14:01:37.829722+00:00",
-    "data": {
-      "id_stacji": "153190040",
-      "stacja": "Bągart",
-      "rzeka": "Dzierzgoń",
-      "wojewodztwo": "pomorskie",
-      "lon": "19.3692",
-      "lat": "53.9661",
-      "stan_wody": "692",
-      "stan_wody_data_pomiaru": "2026-06-06 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.6",
-      "przeplyw_data": "2026-06-06 13:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-28 10:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-20 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-06-06T15:52:13.756671+00:00",
     "data": {
       "id_stacji": "153190040",
@@ -1253,6 +1232,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.58",
       "przeplyw_data": "2026-06-13 12:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 10:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-20 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-13T15:17:51.192744+00:00",
+    "data": {
+      "id_stacji": "153190040",
+      "stacja": "Bągart",
+      "rzeka": "Dzierzgoń",
+      "wojewodztwo": "pomorskie",
+      "lon": "19.3692",
+      "lat": "53.9661",
+      "stan_wody": "703",
+      "stan_wody_data_pomiaru": "2026-06-13 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.58",
+      "przeplyw_data": "2026-06-13 14:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-28 10:50:00",
       "zjawisko_zarastania": "0",
