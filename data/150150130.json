@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T15:52:13.756671+00:00",
-    "data": {
-      "id_stacji": "150150130",
-      "stacja": "Błażkowa",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.9864",
-      "lat": "50.7394",
-      "stan_wody": "85",
-      "stan_wody_data_pomiaru": "2026-06-06 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.35",
-      "przeplyw_data": "2026-06-06 14:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-28 10:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-11 10:30:00"
-    }
-  },
-  {
     "timestamp": "2026-06-06T17:20:24.006999+00:00",
     "data": {
       "id_stacji": "150150130",
@@ -1169,6 +1148,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.32",
       "przeplyw_data": "2026-06-13 14:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 10:00:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-11 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-13T16:57:52.451952+00:00",
+    "data": {
+      "id_stacji": "150150130",
+      "stacja": "Błażkowa",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.9864",
+      "lat": "50.7394",
+      "stan_wody": "84",
+      "stan_wody_data_pomiaru": "2026-06-13 16:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.32",
+      "przeplyw_data": "2026-06-13 16:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-28 10:00:00",
       "zjawisko_zarastania": "200",

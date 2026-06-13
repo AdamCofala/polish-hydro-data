@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T15:52:13.756671+00:00",
-    "data": {
-      "id_stacji": "154180270",
-      "stacja": "Pruszcz Gdański",
-      "rzeka": "Radunia",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.6303",
-      "lat": "54.25",
-      "stan_wody": "150",
-      "stan_wody_data_pomiaru": "2026-06-06 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "5.8",
-      "przeplyw_data": "2026-06-06 15:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-23 09:20:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-05 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-06-06T17:20:24.006999+00:00",
     "data": {
       "id_stacji": "154180270",
@@ -1253,6 +1232,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "6.55",
       "przeplyw_data": "2026-06-13 14:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-23 09:20:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-12 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-13T16:57:52.451952+00:00",
+    "data": {
+      "id_stacji": "154180270",
+      "stacja": "Pruszcz Gdański",
+      "rzeka": "Radunia",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.6303",
+      "lat": "54.25",
+      "stan_wody": "152",
+      "stan_wody_data_pomiaru": "2026-06-13 16:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "6.1",
+      "przeplyw_data": "2026-06-13 16:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-23 09:20:00",
       "zjawisko_zarastania": "200",
