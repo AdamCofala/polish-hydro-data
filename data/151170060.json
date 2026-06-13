@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T23:09:28.451386+00:00",
-    "data": {
-      "id_stacji": "151170060",
-      "stacja": "Bogdaj",
-      "rzeka": "Polska Woda",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.5642",
-      "lat": "51.5161",
-      "stan_wody": "217",
-      "stan_wody_data_pomiaru": "2026-06-06 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.06",
-      "przeplyw_data": "2026-06-06 22:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-20 11:00:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-25 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-06-07T01:37:46.848684+00:00",
     "data": {
       "id_stacji": "151170060",
@@ -1232,6 +1211,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.045",
       "przeplyw_data": "2026-06-13 21:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 11:00:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-25 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-13T23:12:18.274034+00:00",
+    "data": {
+      "id_stacji": "151170060",
+      "stacja": "Bogdaj",
+      "rzeka": "Polska Woda",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.5642",
+      "lat": "51.5161",
+      "stan_wody": "213",
+      "stan_wody_data_pomiaru": "2026-06-13 22:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.049",
+      "przeplyw_data": "2026-06-13 22:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 11:00:00",
       "zjawisko_zarastania": "1",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T23:09:28.451386+00:00",
-    "data": {
-      "id_stacji": "153190100",
-      "stacja": "Dziarny",
-      "rzeka": "Iławka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "71",
-      "stan_wody_data_pomiaru": "2026-06-06 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.7",
-      "przeplyw_data": "2026-06-06 22:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-29 10:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-14 11:40:00"
-    }
-  },
-  {
     "timestamp": "2026-06-07T01:37:46.848684+00:00",
     "data": {
       "id_stacji": "153190100",
@@ -1232,6 +1211,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.66",
       "przeplyw_data": "2026-06-13 21:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-29 10:30:00",
+      "zjawisko_zarastania": "102",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-08 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-13T23:12:18.274034+00:00",
+    "data": {
+      "id_stacji": "153190100",
+      "stacja": "Dziarny",
+      "rzeka": "Iławka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "70",
+      "stan_wody_data_pomiaru": "2026-06-13 22:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.66",
+      "przeplyw_data": "2026-06-13 22:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-29 10:30:00",
       "zjawisko_zarastania": "102",
