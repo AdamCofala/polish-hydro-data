@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07T21:45:57.564607+00:00",
-    "data": {
-      "id_stacji": "151160080",
-      "stacja": "Rzeszotary",
-      "rzeka": "Czarna Woda",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.1447",
-      "lat": "51.2489",
-      "stan_wody": "111",
-      "stan_wody_data_pomiaru": "2026-06-07 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.59",
-      "przeplyw_data": "2026-06-07 20:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-04 09:50:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-04 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-06-07T23:12:10.174671+00:00",
     "data": {
       "id_stacji": "151160080",
@@ -1232,6 +1211,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.66",
       "przeplyw_data": "2026-06-14 20:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-04 09:50:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-04 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-14T22:44:19.429751+00:00",
+    "data": {
+      "id_stacji": "151160080",
+      "stacja": "Rzeszotary",
+      "rzeka": "Czarna Woda",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.1447",
+      "lat": "51.2489",
+      "stan_wody": "116",
+      "stan_wody_data_pomiaru": "2026-06-14 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.68",
+      "przeplyw_data": "2026-06-14 21:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-04 09:50:00",
       "zjawisko_zarastania": "1",

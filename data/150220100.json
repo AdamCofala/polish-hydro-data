@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07T21:45:57.564607+00:00",
-    "data": {
-      "id_stacji": "150220100",
-      "stacja": "Jarosław",
-      "rzeka": "San",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.7028",
-      "lat": "50.0211",
-      "stan_wody": "50",
-      "stan_wody_data_pomiaru": "2026-06-07 21:30:00",
-      "temperatura_wody": "19.2",
-      "temperatura_wody_data_pomiaru": "2026-06-07 06:00:00",
-      "przeplyw": "29.5",
-      "przeplyw_data": "2026-06-07 21:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-16 15:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-11 15:20:00"
-    }
-  },
-  {
     "timestamp": "2026-06-07T23:12:10.174671+00:00",
     "data": {
       "id_stacji": "150220100",
@@ -1211,6 +1190,27 @@
       "temperatura_wody_data_pomiaru": "2026-06-14 06:00:00",
       "przeplyw": "70.1",
       "przeplyw_data": "2026-06-14 19:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-16 15:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-11 15:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-14T22:44:19.429751+00:00",
+    "data": {
+      "id_stacji": "150220100",
+      "stacja": "Jarosław",
+      "rzeka": "San",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.7028",
+      "lat": "50.0211",
+      "stan_wody": "86",
+      "stan_wody_data_pomiaru": "2026-06-14 22:20:00",
+      "temperatura_wody": "19.2",
+      "temperatura_wody_data_pomiaru": "2026-06-14 06:00:00",
+      "przeplyw": "67",
+      "przeplyw_data": "2026-06-14 21:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-16 15:10:00",
       "zjawisko_zarastania": "0",
