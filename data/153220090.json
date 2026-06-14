@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07T14:29:14.667143+00:00",
-    "data": {
-      "id_stacji": "153220090",
-      "stacja": "Czachy",
-      "rzeka": "Wissa",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.4461",
-      "lat": "53.3781",
-      "stan_wody": "264",
-      "stan_wody_data_pomiaru": "2026-06-07 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.62",
-      "przeplyw_data": "2026-06-07 14:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-10 10:20:00",
-      "zjawisko_zarastania": "210",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-28 08:20:00"
-    }
-  },
-  {
     "timestamp": "2026-06-07T15:53:38.770713+00:00",
     "data": {
       "id_stacji": "153220090",
@@ -1232,6 +1211,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.89",
       "przeplyw_data": "2026-06-14 11:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-10 10:20:00",
+      "zjawisko_zarastania": "210",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-28 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-14T14:54:51.735853+00:00",
+    "data": {
+      "id_stacji": "153220090",
+      "stacja": "Czachy",
+      "rzeka": "Wissa",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.4461",
+      "lat": "53.3781",
+      "stan_wody": "287",
+      "stan_wody_data_pomiaru": "2026-06-14 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.9",
+      "przeplyw_data": "2026-06-14 14:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-10 10:20:00",
       "zjawisko_zarastania": "210",
