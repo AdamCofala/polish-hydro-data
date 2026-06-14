@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-07T10:07:26.949648+00:00",
-    "data": {
-      "id_stacji": "150160020",
-      "stacja": "Świebodzice",
-      "rzeka": "Pełcznica",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.3136",
-      "lat": "50.8603",
-      "stan_wody": "112",
-      "stan_wody_data_pomiaru": "2026-06-07 09:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.32",
-      "przeplyw_data": "2026-06-07 09:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-30 08:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-11 08:40:00"
-    }
-  },
-  {
     "timestamp": "2026-06-07T12:07:55.785407+00:00",
     "data": {
       "id_stacji": "150160020",
@@ -1232,6 +1211,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.4",
       "przeplyw_data": "2026-06-14 06:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-06-09 07:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-09 07:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-14T10:28:02.259822+00:00",
+    "data": {
+      "id_stacji": "150160020",
+      "stacja": "Świebodzice",
+      "rzeka": "Pełcznica",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.3136",
+      "lat": "50.8603",
+      "stan_wody": "113",
+      "stan_wody_data_pomiaru": "2026-06-14 10:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.36",
+      "przeplyw_data": "2026-06-14 09:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-06-09 07:50:00",
       "zjawisko_zarastania": "0",
