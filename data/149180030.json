@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08T16:35:50.342480+00:00",
-    "data": {
-      "id_stacji": "149180030",
-      "stacja": "Łaziska",
-      "rzeka": "Olza",
-      "wojewodztwo": "śląskie",
-      "lon": "18.4431",
-      "lat": "49.9244",
-      "stan_wody": "132",
-      "stan_wody_data_pomiaru": "2026-06-08 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "9.12",
-      "przeplyw_data": "2026-06-08 16:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-10 12:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-16 11:50:00"
-    }
-  },
-  {
     "timestamp": "2026-06-08T19:25:37.131474+00:00",
     "data": {
       "id_stacji": "149180030",
@@ -1043,6 +1022,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "13.8",
       "przeplyw_data": "2026-06-15 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-10 12:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-10 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-15T17:58:03.261905+00:00",
+    "data": {
+      "id_stacji": "149180030",
+      "stacja": "Łaziska",
+      "rzeka": "Olza",
+      "wojewodztwo": "śląskie",
+      "lon": "18.4431",
+      "lat": "49.9244",
+      "stan_wody": "145",
+      "stan_wody_data_pomiaru": "2026-06-15 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "13.8",
+      "przeplyw_data": "2026-06-15 17:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-10 12:40:00",
       "zjawisko_zarastania": "0",
