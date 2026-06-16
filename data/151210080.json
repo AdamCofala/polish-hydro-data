@@ -1,47 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09T08:34:31.785990+00:00",
-    "data": {
-      "id_stacji": "151210080",
-      "stacja": "Kazanów",
-      "rzeka": "Iłżanka",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.4667",
-      "lat": "51.2733",
-      "stan_wody": "157",
-      "stan_wody_data_pomiaru": "2026-06-09 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.41",
-      "przeplyw_data": "2026-06-09 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-22 06:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-12 12:10:00"
-    }
-  },
-  {
-    "timestamp": "2026-06-09T12:09:32.930930+00:00",
-    "data": {
-      "id_stacji": "151210080",
-      "stacja": "Kazanów",
-      "rzeka": "Iłżanka",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.4667",
-      "lat": "51.2733",
-      "stan_wody": "157",
-      "stan_wody_data_pomiaru": "2026-06-09 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.41",
-      "przeplyw_data": "2026-06-09 11:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-22 06:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-12 12:10:00"
-    }
-  },
-  {
     "timestamp": "2026-06-09T15:39:59.770860+00:00",
     "data": {
       "id_stacji": "151210080",
@@ -1194,6 +1152,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-02-22 06:00:00",
       "zjawisko_zarastania": "100",
       "zjawisko_zarastania_data_pomiaru": "2026-05-12 12:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-16T13:15:56.870300+00:00",
+    "data": {
+      "id_stacji": "151210080",
+      "stacja": "Kazanów",
+      "rzeka": "Iłżanka",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.4667",
+      "lat": "51.2733",
+      "stan_wody": "160",
+      "stan_wody_data_pomiaru": "2026-06-16 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.53",
+      "przeplyw_data": "2026-06-16 12:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-22 06:00:00",
+      "zjawisko_zarastania": "321",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-16 08:50:00"
     }
   }
 ]

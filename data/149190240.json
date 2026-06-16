@@ -1,47 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09T08:34:31.785990+00:00",
-    "data": {
-      "id_stacji": "149190240",
-      "stacja": "Jabłonka",
-      "rzeka": "Czarna Orawa",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "100",
-      "stan_wody_data_pomiaru": "2026-06-09 07:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-12 10:40:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
-    "timestamp": "2026-06-09T12:09:32.930930+00:00",
-    "data": {
-      "id_stacji": "149190240",
-      "stacja": "Jabłonka",
-      "rzeka": "Czarna Orawa",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "99",
-      "stan_wody_data_pomiaru": "2026-06-09 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-12 10:40:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-06-09T15:39:59.770860+00:00",
     "data": {
       "id_stacji": "149190240",
@@ -1194,6 +1152,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-02-12 10:40:00",
       "zjawisko_zarastania": null,
       "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-06-16T13:15:56.870300+00:00",
+    "data": {
+      "id_stacji": "149190240",
+      "stacja": "Jabłonka",
+      "rzeka": "Czarna Orawa",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "110",
+      "stan_wody_data_pomiaru": "2026-06-16 13:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-12 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-16 09:50:00"
     }
   }
 ]
