@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-09T20:29:34.815125+00:00",
-    "data": {
-      "id_stacji": "153210170",
-      "stacja": "Ptaki",
-      "rzeka": "Pisa",
-      "wojewodztwo": "podlaskie",
-      "lon": "21.7922",
-      "lat": "53.3931",
-      "stan_wody": "47",
-      "stan_wody_data_pomiaru": "2026-06-09 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "6.66",
-      "przeplyw_data": "2026-06-09 20:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 15:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-20 12:20:00"
-    }
-  },
-  {
     "timestamp": "2026-06-09T22:11:01.934002+00:00",
     "data": {
       "id_stacji": "153210170",
@@ -1148,6 +1127,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "8.17",
       "przeplyw_data": "2026-06-16 17:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 15:20:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-16 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-16T21:27:28.763636+00:00",
+    "data": {
+      "id_stacji": "153210170",
+      "stacja": "Ptaki",
+      "rzeka": "Pisa",
+      "wojewodztwo": "podlaskie",
+      "lon": "21.7922",
+      "lat": "53.3931",
+      "stan_wody": "62",
+      "stan_wody_data_pomiaru": "2026-06-16 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "8.29",
+      "przeplyw_data": "2026-06-16 20:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 15:20:00",
       "zjawisko_zarastania": "200",
