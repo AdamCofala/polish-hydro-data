@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11T19:58:35.705886+00:00",
-    "data": {
-      "id_stacji": "152229999",
-      "stacja": "Małkinia",
-      "rzeka": "Bug",
-      "wojewodztwo": "mazowieckie",
-      "lon": "22.0161",
-      "lat": "52.6742",
-      "stan_wody": "102",
-      "stan_wody_data_pomiaru": "2026-06-11 19:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "37.2",
-      "przeplyw_data": "2026-06-11 19:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-17 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-08-05 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-06-11T22:08:52.446397+00:00",
     "data": {
       "id_stacji": "152229999",
@@ -1148,6 +1127,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "33",
       "przeplyw_data": "2026-06-18 18:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-17 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-08-05 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-18T21:06:52.564904+00:00",
+    "data": {
+      "id_stacji": "152229999",
+      "stacja": "Małkinia",
+      "rzeka": "Bug",
+      "wojewodztwo": "mazowieckie",
+      "lon": "22.0161",
+      "lat": "52.6742",
+      "stan_wody": "99",
+      "stan_wody_data_pomiaru": "2026-06-18 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "34.5",
+      "przeplyw_data": "2026-06-18 20:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-17 11:00:00",
       "zjawisko_zarastania": "0",
