@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12T09:44:33.635729+00:00",
-    "data": {
-      "id_stacji": "151220120",
-      "stacja": "Parczew",
-      "rzeka": "Piwonia",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "166",
-      "stan_wody_data_pomiaru": "2026-06-12 09:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.65",
-      "przeplyw_data": "2026-06-12 09:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-04 10:50:00",
-      "zjawisko_zarastania": "302",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-27 09:20:00"
-    }
-  },
-  {
     "timestamp": "2026-06-12T13:31:10.882529+00:00",
     "data": {
       "id_stacji": "151220120",
@@ -938,6 +917,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.41",
       "przeplyw_data": "2026-06-19 07:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-04 10:50:00",
+      "zjawisko_zarastania": "302",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-27 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-19T12:13:34.955599+00:00",
+    "data": {
+      "id_stacji": "151220120",
+      "stacja": "Parczew",
+      "rzeka": "Piwonia",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "151",
+      "stan_wody_data_pomiaru": "2026-06-19 12:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.43",
+      "przeplyw_data": "2026-06-19 11:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-04 10:50:00",
       "zjawisko_zarastania": "302",
