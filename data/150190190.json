@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-12T05:16:20.543104+00:00",
-    "data": {
-      "id_stacji": "150190190",
-      "stacja": "Piwoń",
-      "rzeka": "Przemsza",
-      "wojewodztwo": "śląskie",
-      "lon": "19.2533",
-      "lat": "50.4831",
-      "stan_wody": "181",
-      "stan_wody_data_pomiaru": "2026-06-12 04:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.3",
-      "przeplyw_data": "2026-06-12 04:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-13 08:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-25 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-06-12T09:44:33.635729+00:00",
     "data": {
       "id_stacji": "150190190",
@@ -1152,6 +1131,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-02-13 08:10:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2026-05-25 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-19T07:40:12.877137+00:00",
+    "data": {
+      "id_stacji": "150190190",
+      "stacja": "Piwoń",
+      "rzeka": "Przemsza",
+      "wojewodztwo": "śląskie",
+      "lon": "19.2533",
+      "lat": "50.4831",
+      "stan_wody": "171",
+      "stan_wody_data_pomiaru": "2026-06-19 07:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.19",
+      "przeplyw_data": "2026-06-19 07:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-13 08:10:00",
+      "zjawisko_zarastania": "312",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-19 07:20:00"
     }
   }
 ]
