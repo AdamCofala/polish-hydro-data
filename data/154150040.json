@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13T05:06:04.707588+00:00",
-    "data": {
-      "id_stacji": "154150040",
-      "stacja": "Bardy",
-      "rzeka": "Parsęta",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "15.7139",
-      "lat": "54.0917",
-      "stan_wody": "199",
-      "stan_wody_data_pomiaru": "2026-06-13 04:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "16.8",
-      "przeplyw_data": "2026-06-13 03:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-13 10:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-28 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-06-13T08:38:04.329452+00:00",
     "data": {
       "id_stacji": "154150040",
@@ -770,6 +749,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "25",
       "przeplyw_data": "2026-06-20 00:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-13 10:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-18 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-20T06:35:56.986838+00:00",
+    "data": {
+      "id_stacji": "154150040",
+      "stacja": "Bardy",
+      "rzeka": "Parsęta",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "15.7139",
+      "lat": "54.0917",
+      "stan_wody": "237",
+      "stan_wody_data_pomiaru": "2026-06-20 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "24.6",
+      "przeplyw_data": "2026-06-20 05:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-13 10:00:00",
       "zjawisko_zarastania": "100",
