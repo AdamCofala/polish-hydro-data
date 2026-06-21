@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14T21:20:20.377988+00:00",
-    "data": {
-      "id_stacji": "150160270",
-      "stacja": "Kamieniec Ząbkowicki",
-      "rzeka": "Budzówka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.865",
-      "lat": "50.5322",
-      "stan_wody": "179",
-      "stan_wody_data_pomiaru": "2026-06-14 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.2",
-      "przeplyw_data": "2026-06-14 20:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-26 09:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-26 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-06-14T22:44:19.429751+00:00",
     "data": {
       "id_stacji": "150160270",
@@ -1127,6 +1106,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.2",
       "przeplyw_data": "2026-06-21 19:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-26 09:10:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-18 07:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-21T21:56:23.912471+00:00",
+    "data": {
+      "id_stacji": "150160270",
+      "stacja": "Kamieniec Ząbkowicki",
+      "rzeka": "Budzówka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.865",
+      "lat": "50.5322",
+      "stan_wody": "177",
+      "stan_wody_data_pomiaru": "2026-06-21 21:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.18",
+      "przeplyw_data": "2026-06-21 21:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-26 09:10:00",
       "zjawisko_zarastania": "101",
