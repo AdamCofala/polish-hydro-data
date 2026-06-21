@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-14T12:25:23.604246+00:00",
-    "data": {
-      "id_stacji": "153200020",
-      "stacja": "Szreńsk",
-      "rzeka": "Mławka",
-      "wojewodztwo": "mazowieckie",
-      "lon": "20.1283",
-      "lat": "53.0097",
-      "stan_wody": "125",
-      "stan_wody_data_pomiaru": "2026-06-14 12:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.28",
-      "przeplyw_data": "2026-06-14 11:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-12 09:30:00",
-      "zjawisko_zarastania": "300",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-14 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-06-14T14:54:51.735853+00:00",
     "data": {
       "id_stacji": "153200020",
@@ -1148,6 +1127,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.98",
       "przeplyw_data": "2026-06-21 11:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-12 09:30:00",
+      "zjawisko_zarastania": "311",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-16 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-21T14:29:50.348651+00:00",
+    "data": {
+      "id_stacji": "153200020",
+      "stacja": "Szreńsk",
+      "rzeka": "Mławka",
+      "wojewodztwo": "mazowieckie",
+      "lon": "20.1283",
+      "lat": "53.0097",
+      "stan_wody": "118",
+      "stan_wody_data_pomiaru": "2026-06-21 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.96",
+      "przeplyw_data": "2026-06-21 14:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-12 09:30:00",
       "zjawisko_zarastania": "311",
