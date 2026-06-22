@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15T05:39:28.784302+00:00",
-    "data": {
-      "id_stacji": "149200310",
-      "stacja": "Grybów",
-      "rzeka": "Biała",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.9458",
-      "lat": "49.6239",
-      "stan_wody": "254",
-      "stan_wody_data_pomiaru": "2026-06-15 05:00:00",
-      "temperatura_wody": "14.2",
-      "temperatura_wody_data_pomiaru": "2026-06-14 06:00:00",
-      "przeplyw": "1.14",
-      "przeplyw_data": "2026-06-15 05:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-06-01 09:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-01 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-06-15T12:31:43.716474+00:00",
     "data": {
       "id_stacji": "149200310",
@@ -1127,6 +1106,27 @@
       "temperatura_wody_data_pomiaru": "2026-06-21 06:00:00",
       "przeplyw": "0.26",
       "przeplyw_data": "2026-06-22 01:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-06-01 09:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-15 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-22T08:40:07.847294+00:00",
+    "data": {
+      "id_stacji": "149200310",
+      "stacja": "Grybów",
+      "rzeka": "Biała",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.9458",
+      "lat": "49.6239",
+      "stan_wody": "244",
+      "stan_wody_data_pomiaru": "2026-06-22 08:00:00",
+      "temperatura_wody": "19",
+      "temperatura_wody_data_pomiaru": "2026-06-21 06:00:00",
+      "przeplyw": "0.26",
+      "przeplyw_data": "2026-06-22 08:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-06-01 09:00:00",
       "zjawisko_zarastania": "0",
