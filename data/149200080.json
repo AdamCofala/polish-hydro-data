@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-15T12:31:43.716474+00:00",
-    "data": {
-      "id_stacji": "149200080",
-      "stacja": "Mszana Dolna",
-      "rzeka": "Mszanka",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.0794",
-      "lat": "49.6747",
-      "stan_wody": "90",
-      "stan_wody_data_pomiaru": "2026-06-15 12:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3",
-      "przeplyw_data": "2026-06-15 12:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-07 10:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-08 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-06-15T17:58:03.261905+00:00",
     "data": {
       "id_stacji": "149200080",
@@ -1127,6 +1106,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.5",
       "przeplyw_data": "2026-06-22 08:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-07 10:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-08 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-22T14:46:46.896471+00:00",
+    "data": {
+      "id_stacji": "149200080",
+      "stacja": "Mszana Dolna",
+      "rzeka": "Mszanka",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.0794",
+      "lat": "49.6747",
+      "stan_wody": "92",
+      "stan_wody_data_pomiaru": "2026-06-22 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.02",
+      "przeplyw_data": "2026-06-22 14:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-07 10:50:00",
       "zjawisko_zarastania": "0",
