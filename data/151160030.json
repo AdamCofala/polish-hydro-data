@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16T08:30:06.620901+00:00",
-    "data": {
-      "id_stacji": "151160030",
-      "stacja": "Radzyń",
-      "rzeka": "Jez. Sławskie",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "182",
-      "stan_wody_data_pomiaru": "2026-06-16 08:00:00",
-      "temperatura_wody": "18.7",
-      "temperatura_wody_data_pomiaru": "2026-06-15 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-08 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-12 06:00:00"
-    }
-  },
-  {
     "timestamp": "2026-06-16T13:15:56.870300+00:00",
     "data": {
       "id_stacji": "151160030",
@@ -1152,6 +1131,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-05-08 06:00:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2026-06-19 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-23T10:11:26.734976+00:00",
+    "data": {
+      "id_stacji": "151160030",
+      "stacja": "Radzyń",
+      "rzeka": "Jez. Sławskie",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "185",
+      "stan_wody_data_pomiaru": "2026-06-23 09:30:00",
+      "temperatura_wody": "24.9",
+      "temperatura_wody_data_pomiaru": "2026-06-22 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-08 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-23 06:00:00"
     }
   }
 ]
