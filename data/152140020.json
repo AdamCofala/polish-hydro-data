@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17T19:06:59.640178+00:00",
-    "data": {
-      "id_stacji": "152140020",
-      "stacja": "Gozdowice",
-      "rzeka": "Odra",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "14.3178",
-      "lat": "52.7642",
-      "stan_wody": "222",
-      "stan_wody_data_pomiaru": "2026-06-17 18:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "216",
-      "przeplyw_data": "2026-06-17 18:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-15 09:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-17 08:40:00"
-    }
-  },
-  {
     "timestamp": "2026-06-17T21:29:48.564086+00:00",
     "data": {
       "id_stacji": "152140020",
@@ -1232,6 +1211,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "205",
       "przeplyw_data": "2026-06-24 17:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-15 09:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-17 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-24T20:18:54.908892+00:00",
+    "data": {
+      "id_stacji": "152140020",
+      "stacja": "Gozdowice",
+      "rzeka": "Odra",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "14.3178",
+      "lat": "52.7642",
+      "stan_wody": "216",
+      "stan_wody_data_pomiaru": "2026-06-24 20:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "205",
+      "przeplyw_data": "2026-06-24 19:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-15 09:10:00",
       "zjawisko_zarastania": "0",

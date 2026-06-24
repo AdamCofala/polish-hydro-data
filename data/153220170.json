@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17T19:06:59.640178+00:00",
-    "data": {
-      "id_stacji": "153220170",
-      "stacja": "Osowiec",
-      "rzeka": "Biebrza",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.6386",
-      "lat": "53.4831",
-      "stan_wody": "248",
-      "stan_wody_data_pomiaru": "2026-06-17 18:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "6.27",
-      "przeplyw_data": "2026-06-17 18:30:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-02 06:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-28 11:50:00"
-    }
-  },
-  {
     "timestamp": "2026-06-17T21:29:48.564086+00:00",
     "data": {
       "id_stacji": "153220170",
@@ -1232,6 +1211,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "5.71",
       "przeplyw_data": "2026-06-24 17:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-02 06:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-28 11:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-24T20:18:54.908892+00:00",
+    "data": {
+      "id_stacji": "153220170",
+      "stacja": "Osowiec",
+      "rzeka": "Biebrza",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.6386",
+      "lat": "53.4831",
+      "stan_wody": "242",
+      "stan_wody_data_pomiaru": "2026-06-24 20:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "5.71",
+      "przeplyw_data": "2026-06-24 18:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-03-02 06:00:00",
       "zjawisko_zarastania": "100",
