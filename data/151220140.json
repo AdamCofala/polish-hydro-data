@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-17T16:24:11.581192+00:00",
-    "data": {
-      "id_stacji": "151220140",
-      "stacja": "Puchaczów",
-      "rzeka": "Wierzniczka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "219",
-      "stan_wody_data_pomiaru": "2026-06-17 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.34",
-      "przeplyw_data": "2026-06-17 15:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-05 09:10:00",
-      "zjawisko_zarastania": "201",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-15 08:50:00"
-    }
-  },
-  {
     "timestamp": "2026-06-17T19:06:59.640178+00:00",
     "data": {
       "id_stacji": "151220140",
@@ -1211,6 +1190,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.31",
       "przeplyw_data": "2026-06-24 13:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-05 09:10:00",
+      "zjawisko_zarastania": "201",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-18 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-24T16:25:44.049409+00:00",
+    "data": {
+      "id_stacji": "151220140",
+      "stacja": "Puchaczów",
+      "rzeka": "Wierzniczka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "217",
+      "stan_wody_data_pomiaru": "2026-06-24 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.3",
+      "przeplyw_data": "2026-06-24 16:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-05 09:10:00",
       "zjawisko_zarastania": "201",
