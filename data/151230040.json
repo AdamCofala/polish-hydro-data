@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18T07:16:56.926747+00:00",
-    "data": {
-      "id_stacji": "151230040",
-      "stacja": "Włodawa",
-      "rzeka": "Bug",
-      "wojewodztwo": "lubelskie",
-      "lon": "23.5664",
-      "lat": "51.5514",
-      "stan_wody": "69",
-      "stan_wody_data_pomiaru": "2026-06-18 07:00:00",
-      "temperatura_wody": "15.5",
-      "temperatura_wody_data_pomiaru": "2026-06-17 06:00:00",
-      "przeplyw": "12",
-      "przeplyw_data": "2026-06-18 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-19 12:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-20 11:10:00"
-    }
-  },
-  {
     "timestamp": "2026-06-18T11:36:20.276108+00:00",
     "data": {
       "id_stacji": "151230040",
@@ -1253,6 +1232,27 @@
       "temperatura_wody_data_pomiaru": "2026-06-24 06:00:00",
       "przeplyw": "14",
       "przeplyw_data": "2026-06-25 05:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-19 12:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-23 12:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-25T09:53:44.003820+00:00",
+    "data": {
+      "id_stacji": "151230040",
+      "stacja": "Włodawa",
+      "rzeka": "Bug",
+      "wojewodztwo": "lubelskie",
+      "lon": "23.5664",
+      "lat": "51.5514",
+      "stan_wody": "74",
+      "stan_wody_data_pomiaru": "2026-06-25 09:20:00",
+      "temperatura_wody": "23",
+      "temperatura_wody_data_pomiaru": "2026-06-24 06:00:00",
+      "przeplyw": "14",
+      "przeplyw_data": "2026-06-25 08:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-19 12:50:00",
       "zjawisko_zarastania": "0",

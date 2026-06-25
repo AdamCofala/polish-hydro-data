@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-18T07:16:56.926747+00:00",
-    "data": {
-      "id_stacji": "153220260",
-      "stacja": "Dębowo",
-      "rzeka": "Biebrza",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.9303",
-      "lat": "53.6097",
-      "stan_wody": "187",
-      "stan_wody_data_pomiaru": "2026-06-18 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.72",
-      "przeplyw_data": "2026-06-18 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-25 09:40:00",
-      "zjawisko_zarastania": "220",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-27 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-06-18T11:36:20.276108+00:00",
     "data": {
       "id_stacji": "153220260",
@@ -1257,6 +1236,27 @@
       "zjawisko_lodowe_data_pomiaru": "2026-03-25 09:40:00",
       "zjawisko_zarastania": "220",
       "zjawisko_zarastania_data_pomiaru": "2026-05-27 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-25T09:53:44.003820+00:00",
+    "data": {
+      "id_stacji": "153220260",
+      "stacja": "Dębowo",
+      "rzeka": "Biebrza",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.9303",
+      "lat": "53.6097",
+      "stan_wody": "195",
+      "stan_wody_data_pomiaru": "2026-06-25 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.35",
+      "przeplyw_data": "2026-06-25 09:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-25 09:40:00",
+      "zjawisko_zarastania": "220",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-25 09:00:00"
     }
   }
 ]
