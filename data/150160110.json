@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19T02:19:14.549160+00:00",
-    "data": {
-      "id_stacji": "150160110",
-      "stacja": "Szalejów Dolny",
-      "rzeka": "Bystrzyca Dusznicka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.6047",
-      "lat": "50.4197",
-      "stan_wody": "110",
-      "stan_wody_data_pomiaru": "2026-06-19 02:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.73",
-      "przeplyw_data": "2026-06-19 01:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-06-08 10:10:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-08 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-06-19T07:40:12.877137+00:00",
     "data": {
       "id_stacji": "150160110",
@@ -1190,6 +1169,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.72",
       "przeplyw_data": "2026-06-25 23:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-06-08 10:10:00",
+      "zjawisko_zarastania": "110",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-25 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-26T04:16:00.297283+00:00",
+    "data": {
+      "id_stacji": "150160110",
+      "stacja": "Szalejów Dolny",
+      "rzeka": "Bystrzyca Dusznicka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.6047",
+      "lat": "50.4197",
+      "stan_wody": "110",
+      "stan_wody_data_pomiaru": "2026-06-26 04:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.72",
+      "przeplyw_data": "2026-06-26 03:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-06-08 10:10:00",
       "zjawisko_zarastania": "110",
