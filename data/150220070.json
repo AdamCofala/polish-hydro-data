@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-19T12:13:34.955599+00:00",
-    "data": {
-      "id_stacji": "150220070",
-      "stacja": "Rzuchów",
-      "rzeka": "San",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.5019",
-      "lat": "50.2469",
-      "stan_wody": "207",
-      "stan_wody_data_pomiaru": "2026-06-19 12:00:00",
-      "temperatura_wody": "21",
-      "temperatura_wody_data_pomiaru": "2026-06-19 06:00:00",
-      "przeplyw": "29.7",
-      "przeplyw_data": "2026-06-19 11:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-17 08:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-21 14:00:00"
-    }
-  },
-  {
     "timestamp": "2026-06-19T15:49:27.597523+00:00",
     "data": {
       "id_stacji": "150220070",
@@ -1295,6 +1274,27 @@
       "temperatura_wody_data_pomiaru": "2026-06-26 06:00:00",
       "przeplyw": "26.1",
       "przeplyw_data": "2026-06-26 11:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-17 08:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-24 10:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-26T13:31:16.338624+00:00",
+    "data": {
+      "id_stacji": "150220070",
+      "stacja": "Rzuchów",
+      "rzeka": "San",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.5019",
+      "lat": "50.2469",
+      "stan_wody": "200",
+      "stan_wody_data_pomiaru": "2026-06-26 13:00:00",
+      "temperatura_wody": "24.5",
+      "temperatura_wody_data_pomiaru": "2026-06-26 06:00:00",
+      "przeplyw": "26.1",
+      "przeplyw_data": "2026-06-26 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-17 08:40:00",
       "zjawisko_zarastania": "0",
