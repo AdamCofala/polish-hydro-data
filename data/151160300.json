@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-21T11:59:56.447872+00:00",
-    "data": {
-      "id_stacji": "151160300",
-      "stacja": "Wąsosz",
-      "rzeka": "Barycz",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "178",
-      "stan_wody_data_pomiaru": "2026-06-21 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.4",
-      "przeplyw_data": "2026-06-21 11:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-02 08:40:00",
-      "zjawisko_zarastania": "111",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-27 09:20:00"
-    }
-  },
-  {
     "timestamp": "2026-06-21T14:29:50.348651+00:00",
     "data": {
       "id_stacji": "151160300",
@@ -1337,6 +1316,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.3",
       "przeplyw_data": "2026-06-28 10:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-02 08:40:00",
+      "zjawisko_zarastania": "122",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-24 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-28T12:58:09.856403+00:00",
+    "data": {
+      "id_stacji": "151160300",
+      "stacja": "Wąsosz",
+      "rzeka": "Barycz",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "143",
+      "stan_wody_data_pomiaru": "2026-06-28 12:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.3",
+      "przeplyw_data": "2026-06-28 12:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-02 08:40:00",
       "zjawisko_zarastania": "122",
