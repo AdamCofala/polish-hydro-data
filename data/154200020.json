@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23T16:10:46.666526+00:00",
-    "data": {
-      "id_stacji": "154200020",
-      "stacja": "Krosno",
-      "rzeka": "Drwęca Warmińska",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "20.1728",
-      "lat": "54.1308",
-      "stan_wody": "157",
-      "stan_wody_data_pomiaru": "2026-06-23 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.69",
-      "przeplyw_data": "2026-06-23 15:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-02 08:30:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-03 08:40:00"
-    }
-  },
-  {
     "timestamp": "2026-06-23T18:22:26.556589+00:00",
     "data": {
       "id_stacji": "154200020",
@@ -1379,6 +1358,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.42",
       "przeplyw_data": "2026-06-30 14:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-02 08:30:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-03 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-30T17:24:41.328531+00:00",
+    "data": {
+      "id_stacji": "154200020",
+      "stacja": "Krosno",
+      "rzeka": "Drwęca Warmińska",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "20.1728",
+      "lat": "54.1308",
+      "stan_wody": "150",
+      "stan_wody_data_pomiaru": "2026-06-30 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.42",
+      "przeplyw_data": "2026-06-30 17:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-02 08:30:00",
       "zjawisko_zarastania": "200",

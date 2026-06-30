@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23T16:10:46.666526+00:00",
-    "data": {
-      "id_stacji": "154160080",
-      "stacja": "Cybulino",
-      "rzeka": "Radew",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "161",
-      "stan_wody_data_pomiaru": "2026-06-23 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.73",
-      "przeplyw_data": "2026-06-23 15:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-20 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-06-23T18:22:26.556589+00:00",
     "data": {
       "id_stacji": "154160080",
@@ -1396,6 +1375,27 @@
       "lat": null,
       "stan_wody": "152",
       "stan_wody_data_pomiaru": "2026-06-30 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.88",
+      "przeplyw_data": "2026-06-30 14:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-29 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-30T17:24:41.328531+00:00",
+    "data": {
+      "id_stacji": "154160080",
+      "stacja": "Cybulino",
+      "rzeka": "Radew",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "151",
+      "stan_wody_data_pomiaru": "2026-06-30 17:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.88",
