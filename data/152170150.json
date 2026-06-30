@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23T10:11:26.734976+00:00",
-    "data": {
-      "id_stacji": "152170150",
-      "stacja": "Trąbczyn",
-      "rzeka": "Bawół",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.9761",
-      "lat": "52.1381",
-      "stan_wody": "85",
-      "stan_wody_data_pomiaru": "2026-06-23 09:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.33",
-      "przeplyw_data": "2026-06-23 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 09:50:00",
-      "zjawisko_zarastania": "2",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-18 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-06-23T13:23:16.283202+00:00",
     "data": {
       "id_stacji": "152170150",
@@ -1400,6 +1379,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.09",
       "przeplyw_data": "2026-06-30 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 09:50:00",
+      "zjawisko_zarastania": "2",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-18 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-30T12:29:35.731725+00:00",
+    "data": {
+      "id_stacji": "152170150",
+      "stacja": "Trąbczyn",
+      "rzeka": "Bawół",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.9761",
+      "lat": "52.1381",
+      "stan_wody": "60",
+      "stan_wody_data_pomiaru": "2026-06-30 12:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.09",
+      "przeplyw_data": "2026-06-30 12:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 09:50:00",
       "zjawisko_zarastania": "2",
