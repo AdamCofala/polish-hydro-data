@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23T13:23:16.283202+00:00",
-    "data": {
-      "id_stacji": "153190150",
-      "stacja": "Lidzbark",
-      "rzeka": "Wel",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "19.8186",
-      "lat": "53.2667",
-      "stan_wody": "36",
-      "stan_wody_data_pomiaru": "2026-06-23 13:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.16",
-      "przeplyw_data": "2026-06-23 12:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-01 10:10:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-03 12:10:00"
-    }
-  },
-  {
     "timestamp": "2026-06-23T16:10:46.666526+00:00",
     "data": {
       "id_stacji": "153190150",
@@ -1400,6 +1379,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.07",
       "przeplyw_data": "2026-06-30 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-01 10:10:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-03 12:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-30T15:15:46.928178+00:00",
+    "data": {
+      "id_stacji": "153190150",
+      "stacja": "Lidzbark",
+      "rzeka": "Wel",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "19.8186",
+      "lat": "53.2667",
+      "stan_wody": "31",
+      "stan_wody_data_pomiaru": "2026-06-30 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.04",
+      "przeplyw_data": "2026-06-30 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-01 10:10:00",
       "zjawisko_zarastania": "100",

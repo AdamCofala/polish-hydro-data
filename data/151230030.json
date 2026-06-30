@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23T13:23:16.283202+00:00",
-    "data": {
-      "id_stacji": "151230030",
-      "stacja": "Okuninka",
-      "rzeka": "Włodawka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "25",
-      "stan_wody_data_pomiaru": "2026-06-23 13:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.39",
-      "przeplyw_data": "2026-06-23 12:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-19 12:50:00",
-      "zjawisko_zarastania": "311",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-23 11:20:00"
-    }
-  },
-  {
     "timestamp": "2026-06-23T16:10:46.666526+00:00",
     "data": {
       "id_stacji": "151230030",
@@ -1400,6 +1379,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.32",
       "przeplyw_data": "2026-06-30 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-19 12:50:00",
+      "zjawisko_zarastania": "311",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-23 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-30T15:15:46.928178+00:00",
+    "data": {
+      "id_stacji": "151230030",
+      "stacja": "Okuninka",
+      "rzeka": "Włodawka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "21",
+      "stan_wody_data_pomiaru": "2026-06-30 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.3",
+      "przeplyw_data": "2026-06-30 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-19 12:50:00",
       "zjawisko_zarastania": "311",
