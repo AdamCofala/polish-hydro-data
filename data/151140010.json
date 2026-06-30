@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23T20:35:01.696088+00:00",
-    "data": {
-      "id_stacji": "151140010",
-      "stacja": "Gubin",
-      "rzeka": "Nysa Łużycka",
-      "wojewodztwo": "lubuskie",
-      "lon": "14.7069",
-      "lat": "51.9719",
-      "stan_wody": "44",
-      "stan_wody_data_pomiaru": "2026-06-23 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "10.4",
-      "przeplyw_data": "2026-06-23 20:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-25 11:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-25 10:50:00"
-    }
-  },
-  {
     "timestamp": "2026-06-23T22:18:38.991178+00:00",
     "data": {
       "id_stacji": "151140010",
@@ -1400,6 +1379,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "6.5",
       "przeplyw_data": "2026-06-30 18:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-25 11:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-29 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-30T21:15:48.580334+00:00",
+    "data": {
+      "id_stacji": "151140010",
+      "stacja": "Gubin",
+      "rzeka": "Nysa Łużycka",
+      "wojewodztwo": "lubuskie",
+      "lon": "14.7069",
+      "lat": "51.9719",
+      "stan_wody": "18",
+      "stan_wody_data_pomiaru": "2026-06-30 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "6.22",
+      "przeplyw_data": "2026-06-30 20:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-25 11:30:00",
       "zjawisko_zarastania": "0",

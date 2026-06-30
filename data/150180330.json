@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23T20:35:01.696088+00:00",
-    "data": {
-      "id_stacji": "150180330",
-      "stacja": "Rybnik-paruszowiec",
-      "rzeka": "Ruda",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "48",
-      "stan_wody_data_pomiaru": "2026-06-23 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-23 11:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-15 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-06-23T22:18:38.991178+00:00",
     "data": {
       "id_stacji": "150180330",
@@ -1396,6 +1375,27 @@
       "lat": null,
       "stan_wody": "50",
       "stan_wody_data_pomiaru": "2026-06-30 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-23 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-15 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-06-30T21:15:48.580334+00:00",
+    "data": {
+      "id_stacji": "150180330",
+      "stacja": "Rybnik-paruszowiec",
+      "rzeka": "Ruda",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "50",
+      "stan_wody_data_pomiaru": "2026-06-30 21:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
