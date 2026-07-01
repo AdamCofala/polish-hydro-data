@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24T11:12:46.975166+00:00",
-    "data": {
-      "id_stacji": "153220180",
-      "stacja": "Zawady",
-      "rzeka": "Ślina",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.6736",
-      "lat": "53.1569",
-      "stan_wody": "261",
-      "stan_wody_data_pomiaru": "2026-06-24 10:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.09",
-      "przeplyw_data": "2026-06-24 10:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-04 16:40:00",
-      "zjawisko_zarastania": "321",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-17 12:40:00"
-    }
-  },
-  {
     "timestamp": "2026-06-24T13:37:21.329262+00:00",
     "data": {
       "id_stacji": "153220180",
@@ -1400,6 +1379,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.043",
       "przeplyw_data": "2026-07-01 08:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-04 16:40:00",
+      "zjawisko_zarastania": "321",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-17 12:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-01T12:14:59.156152+00:00",
+    "data": {
+      "id_stacji": "153220180",
+      "stacja": "Zawady",
+      "rzeka": "Ślina",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.6736",
+      "lat": "53.1569",
+      "stan_wody": "243",
+      "stan_wody_data_pomiaru": "2026-07-01 12:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.043",
+      "przeplyw_data": "2026-07-01 11:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-04 16:40:00",
       "zjawisko_zarastania": "321",
