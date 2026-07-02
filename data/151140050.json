@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25T06:14:03.322435+00:00",
-    "data": {
-      "id_stacji": "151140050",
-      "stacja": "Ręczyn",
-      "rzeka": "Witka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "14.98",
-      "lat": "51.0431",
-      "stan_wody": "160",
-      "stan_wody_data_pomiaru": "2026-06-25 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.37",
-      "przeplyw_data": "2026-06-25 05:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-03-27 09:04:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-02-12 11:10:00"
-    }
-  },
-  {
     "timestamp": "2026-06-25T09:53:44.003820+00:00",
     "data": {
       "id_stacji": "151140050",
@@ -1400,6 +1379,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.86",
       "przeplyw_data": "2026-07-02 04:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-03-27 09:04:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-02-12 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-02T08:15:08.452602+00:00",
+    "data": {
+      "id_stacji": "151140050",
+      "stacja": "Ręczyn",
+      "rzeka": "Witka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "14.98",
+      "lat": "51.0431",
+      "stan_wody": "193",
+      "stan_wody_data_pomiaru": "2026-07-02 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.42",
+      "przeplyw_data": "2026-07-02 07:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-03-27 09:04:00",
       "zjawisko_zarastania": "0",
