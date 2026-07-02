@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-25T20:10:25.252397+00:00",
-    "data": {
-      "id_stacji": "150180080",
-      "stacja": "Grabówka",
-      "rzeka": "Bierawka",
-      "wojewodztwo": "opolskie",
-      "lon": "18.2758",
-      "lat": "50.2844",
-      "stan_wody": "35",
-      "stan_wody_data_pomiaru": "2026-06-25 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.78",
-      "przeplyw_data": "2026-06-25 19:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-13 11:30:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-12 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-06-25T22:05:12.738232+00:00",
     "data": {
       "id_stacji": "150180080",
@@ -1421,6 +1400,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.43",
       "przeplyw_data": "2026-07-02 19:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-13 11:30:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-12 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-02T21:15:38.009640+00:00",
+    "data": {
+      "id_stacji": "150180080",
+      "stacja": "Grabówka",
+      "rzeka": "Bierawka",
+      "wojewodztwo": "opolskie",
+      "lon": "18.2758",
+      "lat": "50.2844",
+      "stan_wody": "75",
+      "stan_wody_data_pomiaru": "2026-07-02 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.54",
+      "przeplyw_data": "2026-07-02 20:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-13 11:30:00",
       "zjawisko_zarastania": "1",
