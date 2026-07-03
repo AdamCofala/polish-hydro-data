@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-26T08:08:24.048211+00:00",
-    "data": {
-      "id_stacji": "151150090",
-      "stacja": "Łozy",
-      "rzeka": "Kwisa",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.3686",
-      "lat": "51.4914",
-      "stan_wody": "125",
-      "stan_wody_data_pomiaru": "2026-06-26 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.35",
-      "przeplyw_data": "2026-06-26 07:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-20 11:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-19 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-06-26T11:25:09.247893+00:00",
     "data": {
       "id_stacji": "151150090",
@@ -1442,6 +1421,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.03",
       "przeplyw_data": "2026-07-03 07:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-20 11:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-19 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-03T10:44:04.111611+00:00",
+    "data": {
+      "id_stacji": "151150090",
+      "stacja": "Łozy",
+      "rzeka": "Kwisa",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.3686",
+      "lat": "51.4914",
+      "stan_wody": "130",
+      "stan_wody_data_pomiaru": "2026-07-03 10:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.55",
+      "przeplyw_data": "2026-07-03 10:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-20 11:20:00",
       "zjawisko_zarastania": "0",
