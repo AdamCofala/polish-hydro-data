@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-29T23:03:27.219970+00:00",
-    "data": {
-      "id_stacji": "151220010",
-      "stacja": "Kośmin",
-      "rzeka": "Wieprz",
-      "wojewodztwo": "lubelskie",
-      "lon": "22.0014",
-      "lat": "51.5731",
-      "stan_wody": "128",
-      "stan_wody_data_pomiaru": "2026-06-29 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "8.42",
-      "przeplyw_data": "2026-06-29 22:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-05-12 13:00:00"
-    }
-  },
-  {
     "timestamp": "2026-06-30T01:31:17.253304+00:00",
     "data": {
       "id_stacji": "151220010",
@@ -1505,6 +1484,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "7.97",
       "przeplyw_data": "2026-07-06 21:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2023-05-12 13:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-06T23:39:56.875413+00:00",
+    "data": {
+      "id_stacji": "151220010",
+      "stacja": "Kośmin",
+      "rzeka": "Wieprz",
+      "wojewodztwo": "lubelskie",
+      "lon": "22.0014",
+      "lat": "51.5731",
+      "stan_wody": "125",
+      "stan_wody_data_pomiaru": "2026-07-06 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "7.97",
+      "przeplyw_data": "2026-07-06 23:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:40:00",
       "zjawisko_zarastania": "0",
