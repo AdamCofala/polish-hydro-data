@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-06-30T22:51:20.176541+00:00",
-    "data": {
-      "id_stacji": "150210050",
-      "stacja": "Wilkowa",
-      "rzeka": "Wschodnia",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "94",
-      "stan_wody_data_pomiaru": "2026-06-30 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.44",
-      "przeplyw_data": "2026-06-30 18:10:00",
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-17 11:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-01T00:14:00.380119+00:00",
     "data": {
       "id_stacji": "150210050",
@@ -1501,6 +1480,27 @@
       "lat": null,
       "stan_wody": "117",
       "stan_wody_data_pomiaru": "2026-07-07 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2",
+      "przeplyw_data": "2026-07-07 17:10:00",
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-17 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-08T00:03:37.831649+00:00",
+    "data": {
+      "id_stacji": "150210050",
+      "stacja": "Wilkowa",
+      "rzeka": "Wschodnia",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "stan_wody": "117",
+      "stan_wody_data_pomiaru": "2026-07-07 23:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2",
