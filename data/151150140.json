@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-02T19:43:32.684492+00:00",
-    "data": {
-      "id_stacji": "151150140",
-      "stacja": "Dąbrowa Bolesławiecka",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.5706",
-      "lat": "51.3258",
-      "stan_wody": "72",
-      "stan_wody_data_pomiaru": "2026-07-02 19:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "8.13",
-      "przeplyw_data": "2026-07-02 19:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-10 11:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-19 07:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-02T21:15:38.009640+00:00",
     "data": {
       "id_stacji": "151150140",
@@ -1505,6 +1484,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "6.72",
       "przeplyw_data": "2026-07-09 17:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-10 11:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-19 07:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-09T20:22:07.323984+00:00",
+    "data": {
+      "id_stacji": "151150140",
+      "stacja": "Dąbrowa Bolesławiecka",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.5706",
+      "lat": "51.3258",
+      "stan_wody": "64",
+      "stan_wody_data_pomiaru": "2026-07-09 20:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "6.72",
+      "przeplyw_data": "2026-07-09 19:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-10 11:30:00",
       "zjawisko_zarastania": "0",
