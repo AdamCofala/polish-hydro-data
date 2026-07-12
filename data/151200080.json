@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-05T21:09:19.373569+00:00",
-    "data": {
-      "id_stacji": "151200080",
-      "stacja": "Odrzywół",
-      "rzeka": "Drzewiczka",
-      "wojewodztwo": "mazowieckie",
-      "lon": "20.5628",
-      "lat": "51.5194",
-      "stan_wody": "115",
-      "stan_wody_data_pomiaru": "2026-07-05 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.55",
-      "przeplyw_data": "2026-07-05 20:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-23 11:59:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-15 12:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-05T22:32:13.954955+00:00",
     "data": {
       "id_stacji": "151200080",
@@ -1484,6 +1463,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.46",
       "przeplyw_data": "2026-07-12 20:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-23 11:59:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-08 14:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-12T22:00:12.049127+00:00",
+    "data": {
+      "id_stacji": "151200080",
+      "stacja": "Odrzywół",
+      "rzeka": "Drzewiczka",
+      "wojewodztwo": "mazowieckie",
+      "lon": "20.5628",
+      "lat": "51.5194",
+      "stan_wody": "114",
+      "stan_wody_data_pomiaru": "2026-07-12 21:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.46",
+      "przeplyw_data": "2026-07-12 21:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-23 11:59:00",
       "zjawisko_zarastania": "200",
