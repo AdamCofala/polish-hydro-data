@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-06T20:57:23.036356+00:00",
-    "data": {
-      "id_stacji": "151160200",
-      "stacja": "Korzeńsko",
-      "rzeka": "Orla",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.8725",
-      "lat": "51.5392",
-      "stan_wody": "121",
-      "stan_wody_data_pomiaru": "2026-07-06 20:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.3",
-      "przeplyw_data": "2026-07-06 20:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-12 09:00:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-16 08:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-06T22:20:53.864680+00:00",
     "data": {
       "id_stacji": "151160200",
@@ -1589,6 +1568,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.24",
       "przeplyw_data": "2026-07-13 19:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-12 09:00:00",
+      "zjawisko_zarastania": "112",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-13 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-13T21:03:10.093751+00:00",
+    "data": {
+      "id_stacji": "151160200",
+      "stacja": "Korzeńsko",
+      "rzeka": "Orla",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.8725",
+      "lat": "51.5392",
+      "stan_wody": "114",
+      "stan_wody_data_pomiaru": "2026-07-13 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.24",
+      "przeplyw_data": "2026-07-13 20:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-12 09:00:00",
       "zjawisko_zarastania": "112",
