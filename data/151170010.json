@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-08T15:50:55.883530+00:00",
-    "data": {
-      "id_stacji": "151170010",
-      "stacja": "Krzyżanowice",
-      "rzeka": "Widawa",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "17.0475",
-      "lat": "51.1711",
-      "stan_wody": "86",
-      "stan_wody_data_pomiaru": "2026-07-08 15:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.65",
-      "przeplyw_data": "2026-07-08 15:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-19 08:40:00",
-      "zjawisko_zarastania": "202",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-14 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-08T17:44:07.952998+00:00",
     "data": {
       "id_stacji": "151170010",
@@ -1694,6 +1673,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.79",
       "przeplyw_data": "2026-07-15 13:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-19 08:40:00",
+      "zjawisko_zarastania": "202",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-14 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-15T16:03:57.073835+00:00",
+    "data": {
+      "id_stacji": "151170010",
+      "stacja": "Krzyżanowice",
+      "rzeka": "Widawa",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "17.0475",
+      "lat": "51.1711",
+      "stan_wody": "100",
+      "stan_wody_data_pomiaru": "2026-07-15 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1",
+      "przeplyw_data": "2026-07-15 15:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-19 08:40:00",
       "zjawisko_zarastania": "202",
