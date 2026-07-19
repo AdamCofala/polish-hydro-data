@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-12T04:56:02.493650+00:00",
-    "data": {
-      "id_stacji": "150160130",
-      "stacja": "Mościsko",
-      "rzeka": "Piława",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.5842",
-      "lat": "50.7819",
-      "stan_wody": "28",
-      "stan_wody_data_pomiaru": "2026-07-12 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.11",
-      "przeplyw_data": "2026-07-12 04:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-06-01 09:50:00",
-      "zjawisko_zarastania": "201",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-01 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-12T07:32:52.100267+00:00",
     "data": {
       "id_stacji": "150160130",
@@ -1925,6 +1904,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.54",
       "przeplyw_data": "2026-07-19 04:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-07-15 09:00:00",
+      "zjawisko_zarastania": "201",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-15 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-19T07:30:23.258558+00:00",
+    "data": {
+      "id_stacji": "150160130",
+      "stacja": "Mościsko",
+      "rzeka": "Piława",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.5842",
+      "lat": "50.7819",
+      "stan_wody": "68",
+      "stan_wody_data_pomiaru": "2026-07-19 07:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.54",
+      "przeplyw_data": "2026-07-19 07:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-07-15 09:00:00",
       "zjawisko_zarastania": "201",

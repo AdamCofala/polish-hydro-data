@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-12T04:56:02.493650+00:00",
-    "data": {
-      "id_stacji": "151180110",
-      "stacja": "Uniejów",
-      "rzeka": "Warta",
-      "wojewodztwo": "łódzkie",
-      "lon": "18.7911",
-      "lat": "51.9725",
-      "stan_wody": "10",
-      "stan_wody_data_pomiaru": "2026-07-12 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "16.9",
-      "przeplyw_data": "2026-07-12 04:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 09:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-17 08:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-12T07:32:52.100267+00:00",
     "data": {
       "id_stacji": "151180110",
@@ -1925,6 +1904,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "16.9",
       "przeplyw_data": "2026-07-19 04:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 09:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-16 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-19T07:30:23.258558+00:00",
+    "data": {
+      "id_stacji": "151180110",
+      "stacja": "Uniejów",
+      "rzeka": "Warta",
+      "wojewodztwo": "łódzkie",
+      "lon": "18.7911",
+      "lat": "51.9725",
+      "stan_wody": "10",
+      "stan_wody_data_pomiaru": "2026-07-19 07:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "16.9",
+      "przeplyw_data": "2026-07-19 07:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-18 09:20:00",
       "zjawisko_zarastania": "100",
