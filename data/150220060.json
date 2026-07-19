@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-12T14:08:44.642144+00:00",
-    "data": {
-      "id_stacji": "150220060",
-      "stacja": "Gorliczyna",
-      "rzeka": "Mleczka Zachodnia",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.4872",
-      "lat": "50.0856",
-      "stan_wody": "130",
-      "stan_wody_data_pomiaru": "2026-07-12 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.26",
-      "przeplyw_data": "2026-07-12 13:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-28 10:30:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-28 10:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-12T15:35:24.524921+00:00",
     "data": {
       "id_stacji": "150220060",
@@ -1925,6 +1904,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.18",
       "przeplyw_data": "2026-07-19 13:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-28 10:30:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-28 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-19T15:31:45.402081+00:00",
+    "data": {
+      "id_stacji": "150220060",
+      "stacja": "Gorliczyna",
+      "rzeka": "Mleczka Zachodnia",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.4872",
+      "lat": "50.0856",
+      "stan_wody": "123",
+      "stan_wody_data_pomiaru": "2026-07-19 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.18",
+      "przeplyw_data": "2026-07-19 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-28 10:30:00",
       "zjawisko_zarastania": "1",
