@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-13T19:37:40.378462+00:00",
-    "data": {
-      "id_stacji": "150160040",
-      "stacja": "Kudowa Zdrój-Zakrze",
-      "rzeka": "Klikawa",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.2439",
-      "lat": "50.4308",
-      "stan_wody": "222",
-      "stan_wody_data_pomiaru": "2026-07-13 19:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.12",
-      "przeplyw_data": "2026-07-13 19:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-21 08:50:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-24 06:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-13T21:03:10.093751+00:00",
     "data": {
       "id_stacji": "150160040",
@@ -1925,6 +1904,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.15",
       "przeplyw_data": "2026-07-20 18:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-21 08:50:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-24 06:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-20T20:49:04.579671+00:00",
+    "data": {
+      "id_stacji": "150160040",
+      "stacja": "Kudowa Zdrój-Zakrze",
+      "rzeka": "Klikawa",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.2439",
+      "lat": "50.4308",
+      "stan_wody": "224",
+      "stan_wody_data_pomiaru": "2026-07-20 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.15",
+      "przeplyw_data": "2026-07-20 20:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-21 08:50:00",
       "zjawisko_zarastania": "1",
