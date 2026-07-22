@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T03:20:50.087723+00:00",
-    "data": {
-      "id_stacji": "154150010",
-      "stacja": "Trzebiatów",
-      "rzeka": "Rega",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "15.2608",
-      "lat": "54.0633",
-      "stan_wody": "153",
-      "stan_wody_data_pomiaru": "2026-07-15 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "17.3",
-      "przeplyw_data": "2026-07-15 02:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-11 06:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-22 08:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T05:54:09.863962+00:00",
     "data": {
       "id_stacji": "154150010",
@@ -1883,6 +1862,27 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "18.7",
       "przeplyw_data": "2026-07-22 00:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-11 06:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-22 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T04:23:42.092662+00:00",
+    "data": {
+      "id_stacji": "154150010",
+      "stacja": "Trzebiatów",
+      "rzeka": "Rega",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "15.2608",
+      "lat": "54.0633",
+      "stan_wody": "162",
+      "stan_wody_data_pomiaru": "2026-07-22 04:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "18.6",
+      "przeplyw_data": "2026-07-22 03:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-11 06:00:00",
       "zjawisko_zarastania": "100",
