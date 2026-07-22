@@ -1,47 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T10:21:56.392729+00:00",
-    "data": {
-      "id_stacji": "151220010",
-      "stacja": "Kośmin",
-      "rzeka": "Wieprz",
-      "wojewodztwo": "lubelskie",
-      "lon": "22.0014",
-      "lat": "51.5731",
-      "stan_wody": "131",
-      "stan_wody_data_pomiaru": "2026-07-15 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "9.05",
-      "przeplyw_data": "2026-07-15 09:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-05-12 13:00:00"
-    }
-  },
-  {
-    "timestamp": "2026-07-15T12:01:22.974602+00:00",
-    "data": {
-      "id_stacji": "151220010",
-      "stacja": "Kośmin",
-      "rzeka": "Wieprz",
-      "wojewodztwo": "lubelskie",
-      "lon": "22.0014",
-      "lat": "51.5731",
-      "stan_wody": "131",
-      "stan_wody_data_pomiaru": "2026-07-15 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "9.05",
-      "przeplyw_data": "2026-07-15 11:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-05-12 13:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T14:21:15.299817+00:00",
     "data": {
       "id_stacji": "151220010",
@@ -1883,6 +1841,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "9.27",
       "przeplyw_data": "2026-07-22 09:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2023-05-12 13:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T12:12:14.213017+00:00",
+    "data": {
+      "id_stacji": "151220010",
+      "stacja": "Kośmin",
+      "rzeka": "Wieprz",
+      "wojewodztwo": "lubelskie",
+      "lon": "22.0014",
+      "lat": "51.5731",
+      "rok_zalozenia_stacji": "1919",
+      "rzedna_zerawodowskazu": "115.093",
+      "kilometr_biegu_rzeki": "19.77",
+      "stan_alarmowy": "400",
+      "stan_ostrzegawczy": "350",
+      "stan_wody": "132",
+      "stan_wody_data_pomiaru": "2026-07-22 12:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "9.27",
+      "przeplyw_data": "2026-07-22 11:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 11:40:00",
       "zjawisko_zarastania": "0",
