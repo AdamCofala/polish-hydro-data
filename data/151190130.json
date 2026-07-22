@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T14:21:15.299817+00:00",
-    "data": {
-      "id_stacji": "151190130",
-      "stacja": "Kazimierz",
-      "rzeka": "Ner",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "195",
-      "stan_wody_data_pomiaru": "2026-07-15 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.37",
-      "przeplyw_data": "2026-07-15 13:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 11:50:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-17 11:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T16:03:57.073835+00:00",
     "data": {
       "id_stacji": "151190130",
@@ -1867,6 +1846,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2",
       "przeplyw_data": "2026-07-22 11:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 11:50:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-16 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T14:34:49.762341+00:00",
+    "data": {
+      "id_stacji": "151190130",
+      "stacja": "Kazimierz",
+      "rzeka": "Ner",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "2024",
+      "rzedna_zerawodowskazu": "146.276",
+      "kilometr_biegu_rzeki": "83.09",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "211",
+      "stan_wody_data_pomiaru": "2026-07-22 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.17",
+      "przeplyw_data": "2026-07-22 14:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-18 11:50:00",
       "zjawisko_zarastania": "100",

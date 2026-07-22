@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T14:21:15.299817+00:00",
-    "data": {
-      "id_stacji": "151180170",
-      "stacja": "Rogóźno",
-      "rzeka": "Widawka",
-      "wojewodztwo": "łódzkie",
-      "lon": "18.9742",
-      "lat": "51.4356",
-      "stan_wody": "134",
-      "stan_wody_data_pomiaru": "2026-07-15 13:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.21",
-      "przeplyw_data": "2026-06-24 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-03 10:10:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-02 11:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T16:03:57.073835+00:00",
     "data": {
       "id_stacji": "151180170",
@@ -1758,6 +1737,32 @@
       "stan_ostrzegawczy": "240",
       "stan_wody": "142",
       "stan_wody_data_pomiaru": "2026-07-22 11:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.21",
+      "przeplyw_data": "2026-06-24 13:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-03 10:10:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-02 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T14:34:49.762341+00:00",
+    "data": {
+      "id_stacji": "151180170",
+      "stacja": "Rogóźno",
+      "rzeka": "Widawka",
+      "wojewodztwo": "łódzkie",
+      "lon": "18.9742",
+      "lat": "51.4356",
+      "rok_zalozenia_stacji": "1940",
+      "rzedna_zerawodowskazu": "141.918",
+      "kilometr_biegu_rzeki": "15.18",
+      "stan_alarmowy": "290",
+      "stan_ostrzegawczy": "240",
+      "stan_wody": "142",
+      "stan_wody_data_pomiaru": "2026-07-22 13:50:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.21",

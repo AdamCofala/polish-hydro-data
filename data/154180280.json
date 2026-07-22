@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T14:21:15.299817+00:00",
-    "data": {
-      "id_stacji": "154180280",
-      "stacja": "Dębki",
-      "rzeka": "Morze Bałtyckie",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "535",
-      "stan_wody_data_pomiaru": "2026-07-15 14:00:00",
-      "temperatura_wody": "18.1",
-      "temperatura_wody_data_pomiaru": "2026-07-15 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-17 10:20:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-07-15T16:03:57.073835+00:00",
     "data": {
       "id_stacji": "154180280",
@@ -1863,6 +1842,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "537",
       "stan_wody_data_pomiaru": "2026-07-22 12:00:00",
+      "temperatura_wody": "17.3",
+      "temperatura_wody_data_pomiaru": "2026-07-22 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-17 10:20:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-07-22T14:34:49.762341+00:00",
+    "data": {
+      "id_stacji": "154180280",
+      "stacja": "Dębki",
+      "rzeka": "Morze Bałtyckie",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "2023",
+      "rzedna_zerawodowskazu": "-5",
+      "kilometr_biegu_rzeki": "0.28",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "534",
+      "stan_wody_data_pomiaru": "2026-07-22 14:00:00",
       "temperatura_wody": "17.3",
       "temperatura_wody_data_pomiaru": "2026-07-22 06:00:00",
       "przeplyw": null,

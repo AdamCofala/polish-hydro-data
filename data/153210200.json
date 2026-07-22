@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T14:21:15.299817+00:00",
-    "data": {
-      "id_stacji": "153210200",
-      "stacja": "Maldanin",
-      "rzeka": "Jez. Roś",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "21.8239",
-      "lat": "53.6506",
-      "stan_wody": "86",
-      "stan_wody_data_pomiaru": "2026-07-15 14:00:00",
-      "temperatura_wody": "20.8",
-      "temperatura_wody_data_pomiaru": "2026-07-15 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2022-10-21 11:01:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T16:03:57.073835+00:00",
     "data": {
       "id_stacji": "153210200",
@@ -1863,6 +1842,32 @@
       "stan_ostrzegawczy": "140",
       "stan_wody": "105",
       "stan_wody_data_pomiaru": "2026-07-22 12:00:00",
+      "temperatura_wody": "20.2",
+      "temperatura_wody_data_pomiaru": "2026-07-22 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2022-10-21 11:01:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T14:34:49.762341+00:00",
+    "data": {
+      "id_stacji": "153210200",
+      "stacja": "Maldanin",
+      "rzeka": "Jez. Roś",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "21.8239",
+      "lat": "53.6506",
+      "rok_zalozenia_stacji": "1901",
+      "rzedna_zerawodowskazu": "113.884",
+      "kilometr_biegu_rzeki": "86.02",
+      "stan_alarmowy": "160",
+      "stan_ostrzegawczy": "140",
+      "stan_wody": "105",
+      "stan_wody_data_pomiaru": "2026-07-22 14:00:00",
       "temperatura_wody": "20.2",
       "temperatura_wody_data_pomiaru": "2026-07-22 06:00:00",
       "przeplyw": null,
