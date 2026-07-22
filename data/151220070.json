@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T17:48:34.956469+00:00",
-    "data": {
-      "id_stacji": "151220070",
-      "stacja": "Lublin",
-      "rzeka": "Bystrzyca",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "247",
-      "stan_wody_data_pomiaru": "2026-07-15 17:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.97",
-      "przeplyw_data": "2026-07-15 17:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-06 08:50:00",
-      "zjawisko_zarastania": "110",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-18 12:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T19:20:57.980820+00:00",
     "data": {
       "id_stacji": "151220070",
@@ -1877,6 +1856,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.94",
       "przeplyw_data": "2026-07-22 15:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-06 08:50:00",
+      "zjawisko_zarastania": "110",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-18 12:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T17:49:45.689205+00:00",
+    "data": {
+      "id_stacji": "151220070",
+      "stacja": "Lublin",
+      "rzeka": "Bystrzyca",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1960",
+      "rzedna_zerawodowskazu": "168.914",
+      "kilometr_biegu_rzeki": "31.71",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "246",
+      "stan_wody_data_pomiaru": "2026-07-22 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.94",
+      "przeplyw_data": "2026-07-22 17:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-06 08:50:00",
       "zjawisko_zarastania": "110",

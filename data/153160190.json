@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T17:48:34.956469+00:00",
-    "data": {
-      "id_stacji": "153160190",
-      "stacja": "Zabrodzie",
-      "rzeka": "Piława",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "114",
-      "stan_wody_data_pomiaru": "2026-07-15 17:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "4.82",
-      "przeplyw_data": "2026-07-15 07:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 10:20:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-15 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T19:20:57.980820+00:00",
     "data": {
       "id_stacji": "153160190",
@@ -1852,6 +1831,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "117",
       "stan_wody_data_pomiaru": "2026-07-22 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "5.04",
+      "przeplyw_data": "2026-07-22 15:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 10:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-15 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T17:49:45.689205+00:00",
+    "data": {
+      "id_stacji": "153160190",
+      "stacja": "Zabrodzie",
+      "rzeka": "Piława",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1955",
+      "rzedna_zerawodowskazu": "67.013",
+      "kilometr_biegu_rzeki": "5.83",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "117",
+      "stan_wody_data_pomiaru": "2026-07-22 17:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "5.04",

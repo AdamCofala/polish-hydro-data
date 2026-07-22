@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T17:48:34.956469+00:00",
-    "data": {
-      "id_stacji": "154160150",
-      "stacja": "Darłowo",
-      "rzeka": "Wieprza",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "16.3803",
-      "lat": "54.4392",
-      "stan_wody": "512",
-      "stan_wody_data_pomiaru": "2026-07-15 17:30:00",
-      "temperatura_wody": "17.7",
-      "temperatura_wody_data_pomiaru": "2026-07-15 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-07-15T19:20:57.980820+00:00",
     "data": {
       "id_stacji": "154160150",
@@ -1873,6 +1852,32 @@
       "stan_ostrzegawczy": "570",
       "stan_wody": "526",
       "stan_wody_data_pomiaru": "2026-07-22 16:00:00",
+      "temperatura_wody": "17.7",
+      "temperatura_wody_data_pomiaru": "2026-07-22 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-07-22T17:49:45.689205+00:00",
+    "data": {
+      "id_stacji": "154160150",
+      "stacja": "Darłowo",
+      "rzeka": "Wieprza",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "16.3803",
+      "lat": "54.4392",
+      "rok_zalozenia_stacji": "1819",
+      "rzedna_zerawodowskazu": "-4.904",
+      "kilometr_biegu_rzeki": null,
+      "stan_alarmowy": "610",
+      "stan_ostrzegawczy": "570",
+      "stan_wody": "517",
+      "stan_wody_data_pomiaru": "2026-07-22 17:30:00",
       "temperatura_wody": "17.7",
       "temperatura_wody_data_pomiaru": "2026-07-22 06:00:00",
       "przeplyw": null,

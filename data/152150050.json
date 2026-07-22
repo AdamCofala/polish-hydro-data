@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T17:48:34.956469+00:00",
-    "data": {
-      "id_stacji": "152150050",
-      "stacja": "Nietków",
-      "rzeka": "Odra",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.3475",
-      "lat": "52.0464",
-      "stan_wody": "105",
-      "stan_wody_data_pomiaru": "2026-07-15 17:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "54.5",
-      "przeplyw_data": "2026-07-15 17:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-16 12:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-16 12:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T19:20:57.980820+00:00",
     "data": {
       "id_stacji": "152150050",
@@ -1856,6 +1835,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "65.2",
       "przeplyw_data": "2026-07-22 15:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-16 12:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-16 12:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T17:49:45.689205+00:00",
+    "data": {
+      "id_stacji": "152150050",
+      "stacja": "Nietków",
+      "rzeka": "Odra",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.3475",
+      "lat": "52.0464",
+      "rok_zalozenia_stacji": "1893",
+      "rzedna_zerawodowskazu": "42.253",
+      "kilometr_biegu_rzeki": "271.61",
+      "stan_alarmowy": "400",
+      "stan_ostrzegawczy": "370",
+      "stan_wody": "118",
+      "stan_wody_data_pomiaru": "2026-07-22 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "64.4",
+      "przeplyw_data": "2026-07-22 17:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-16 12:10:00",
       "zjawisko_zarastania": "0",

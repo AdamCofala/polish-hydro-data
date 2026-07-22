@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T17:48:34.956469+00:00",
-    "data": {
-      "id_stacji": "153170010",
-      "stacja": "Białośliwie",
-      "rzeka": "Noteć",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.1247",
-      "lat": "53.0736",
-      "stan_wody": "264",
-      "stan_wody_data_pomiaru": "2026-07-15 17:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "4.38",
-      "przeplyw_data": "2026-07-15 17:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-20 12:10:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-18 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T19:20:57.980820+00:00",
     "data": {
       "id_stacji": "153170010",
@@ -1877,6 +1856,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.52",
       "przeplyw_data": "2026-07-22 15:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-20 12:10:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-22 07:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T17:49:45.689205+00:00",
+    "data": {
+      "id_stacji": "153170010",
+      "stacja": "Białośliwie",
+      "rzeka": "Noteć",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.1247",
+      "lat": "53.0736",
+      "rok_zalozenia_stacji": "1856",
+      "rzedna_zerawodowskazu": "46.658",
+      "kilometr_biegu_rzeki": "149.52",
+      "stan_alarmowy": "330",
+      "stan_ostrzegawczy": "280",
+      "stan_wody": "265",
+      "stan_wody_data_pomiaru": "2026-07-22 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.52",
+      "przeplyw_data": "2026-07-22 17:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-20 12:10:00",
       "zjawisko_zarastania": "101",
