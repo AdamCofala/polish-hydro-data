@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T22:06:52.929462+00:00",
-    "data": {
-      "id_stacji": "150240020",
-      "stacja": "Kryłów",
-      "rzeka": "Bug",
-      "wojewodztwo": "lubelskie",
-      "lon": "24.0625",
-      "lat": "50.6772",
-      "stan_wody": "21",
-      "stan_wody_data_pomiaru": "2026-07-15 21:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "5",
-      "przeplyw_data": "2026-07-15 21:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-09 13:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-08 13:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T23:31:10.405495+00:00",
     "data": {
       "id_stacji": "150240020",
@@ -1892,6 +1871,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "5.39",
       "przeplyw_data": "2026-07-22 20:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-09 13:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-08 13:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T22:34:34.106977+00:00",
+    "data": {
+      "id_stacji": "150240020",
+      "stacja": "Kryłów",
+      "rzeka": "Bug",
+      "wojewodztwo": "lubelskie",
+      "lon": "24.0625",
+      "lat": "50.6772",
+      "rok_zalozenia_stacji": "1997",
+      "rzedna_zerawodowskazu": "177.709",
+      "kilometr_biegu_rzeki": "603.23",
+      "stan_alarmowy": "540",
+      "stan_ostrzegawczy": "440",
+      "stan_wody": "28",
+      "stan_wody_data_pomiaru": "2026-07-22 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "5.39",
+      "przeplyw_data": "2026-07-22 22:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-09 13:40:00",
       "zjawisko_zarastania": "0",

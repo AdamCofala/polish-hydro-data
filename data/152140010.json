@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T22:06:52.929462+00:00",
-    "data": {
-      "id_stacji": "152140010",
-      "stacja": "Bielinek",
-      "rzeka": "Odra",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "14.1542",
-      "lat": "52.9292",
-      "stan_wody": "189",
-      "stan_wody_data_pomiaru": "2026-07-15 21:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-15 10:58:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-07 10:01:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T23:31:10.405495+00:00",
     "data": {
       "id_stacji": "152140010",
@@ -1888,6 +1867,32 @@
       "stan_ostrzegawczy": "480",
       "stan_wody": "188",
       "stan_wody_data_pomiaru": "2026-07-22 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-15 10:58:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-07 10:01:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T22:34:34.106977+00:00",
+    "data": {
+      "id_stacji": "152140010",
+      "stacja": "Bielinek",
+      "rzeka": "Odra",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "14.1542",
+      "lat": "52.9292",
+      "rok_zalozenia_stacji": "1839",
+      "rzedna_zerawodowskazu": "-0.976",
+      "kilometr_biegu_rzeki": "89.17",
+      "stan_alarmowy": "550",
+      "stan_ostrzegawczy": "480",
+      "stan_wody": "189",
+      "stan_wody_data_pomiaru": "2026-07-22 22:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
