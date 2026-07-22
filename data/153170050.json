@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T20:35:09.376808+00:00",
-    "data": {
-      "id_stacji": "153170050",
-      "stacja": "Ciecholewy",
-      "rzeka": "Brda",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "189",
-      "stan_wody_data_pomiaru": "2026-07-15 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "6.66",
-      "przeplyw_data": "2026-07-15 18:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-27 11:00:00",
-      "zjawisko_zarastania": "211",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-12 11:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T22:06:52.929462+00:00",
     "data": {
       "id_stacji": "153170050",
@@ -1883,6 +1862,32 @@
       "stan_ostrzegawczy": "210",
       "stan_wody": "196",
       "stan_wody_data_pomiaru": "2026-07-22 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.95",
+      "przeplyw_data": "2026-07-22 18:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-27 11:00:00",
+      "zjawisko_zarastania": "312",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-16 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T21:15:08.615984+00:00",
+    "data": {
+      "id_stacji": "153170050",
+      "stacja": "Ciecholewy",
+      "rzeka": "Brda",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1946",
+      "rzedna_zerawodowskazu": "120.255",
+      "kilometr_biegu_rzeki": "173.04",
+      "stan_alarmowy": "240",
+      "stan_ostrzegawczy": "210",
+      "stan_wody": "196",
+      "stan_wody_data_pomiaru": "2026-07-22 21:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.95",
