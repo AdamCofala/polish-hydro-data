@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T19:20:57.980820+00:00",
-    "data": {
-      "id_stacji": "151230050",
-      "stacja": "Ruda-opalin",
-      "rzeka": "Uherka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "88",
-      "stan_wody_data_pomiaru": "2026-07-15 19:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.13",
-      "przeplyw_data": "2026-07-15 18:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:50:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-23 08:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T20:35:09.376808+00:00",
     "data": {
       "id_stacji": "151230050",
@@ -1336,6 +1315,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.15",
       "przeplyw_data": "2026-07-22 17:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:50:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-23 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T19:35:18.381587+00:00",
+    "data": {
+      "id_stacji": "151230050",
+      "stacja": "Ruda-opalin",
+      "rzeka": "Uherka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1954",
+      "rzedna_zerawodowskazu": "166.355",
+      "kilometr_biegu_rzeki": "9.35",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "90",
+      "stan_wody_data_pomiaru": "2026-07-22 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.15",
+      "przeplyw_data": "2026-07-22 19:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:50:00",
       "zjawisko_zarastania": "200",

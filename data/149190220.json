@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T19:20:57.980820+00:00",
-    "data": {
-      "id_stacji": "149190220",
-      "stacja": "Skawica Dolna",
-      "rzeka": "Skawica",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.6636",
-      "lat": "49.6861",
-      "stan_wody": "71",
-      "stan_wody_data_pomiaru": "2026-07-15 19:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.04",
-      "przeplyw_data": "2026-07-15 18:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-14 10:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-09 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T20:35:09.376808+00:00",
     "data": {
       "id_stacji": "149190220",
@@ -1882,6 +1861,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.74",
       "przeplyw_data": "2026-07-22 17:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-14 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-09 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T19:35:18.381587+00:00",
+    "data": {
+      "id_stacji": "149190220",
+      "stacja": "Skawica Dolna",
+      "rzeka": "Skawica",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.6636",
+      "lat": "49.6861",
+      "rok_zalozenia_stacji": "1928",
+      "rzedna_zerawodowskazu": "408.113",
+      "kilometr_biegu_rzeki": "4.09",
+      "stan_alarmowy": "240",
+      "stan_ostrzegawczy": "190",
+      "stan_wody": "66",
+      "stan_wody_data_pomiaru": "2026-07-22 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.74",
+      "przeplyw_data": "2026-07-22 19:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-14 10:40:00",
       "zjawisko_zarastania": "0",

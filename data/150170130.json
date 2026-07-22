@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T19:20:57.980820+00:00",
-    "data": {
-      "id_stacji": "150170130",
-      "stacja": "Ujście Nysy Kłodzkiej",
-      "rzeka": "Odra",
-      "wojewodztwo": "opolskie",
-      "lon": "17.6611",
-      "lat": "50.8183",
-      "stan_wody": "275",
-      "stan_wody_data_pomiaru": "2026-07-15 19:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1550",
-      "przeplyw_data": "2024-09-17 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-09 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-01-21 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-15T20:35:09.376808+00:00",
     "data": {
       "id_stacji": "150170130",
@@ -1857,6 +1836,32 @@
       "stan_ostrzegawczy": "400",
       "stan_wody": "273",
       "stan_wody_data_pomiaru": "2026-07-22 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1550",
+      "przeplyw_data": "2024-09-17 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-09 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-01-21 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-22T19:35:18.381587+00:00",
+    "data": {
+      "id_stacji": "150170130",
+      "stacja": "Ujście Nysy Kłodzkiej",
+      "rzeka": "Odra",
+      "wojewodztwo": "opolskie",
+      "lon": "17.6611",
+      "lat": "50.8183",
+      "rok_zalozenia_stacji": "1893",
+      "rzedna_zerawodowskazu": "135.682",
+      "kilometr_biegu_rzeki": "579.34",
+      "stan_alarmowy": "530",
+      "stan_ostrzegawczy": "400",
+      "stan_wody": "273",
+      "stan_wody_data_pomiaru": "2026-07-22 19:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1550",
