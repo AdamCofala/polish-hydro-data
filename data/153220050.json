@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T10:29:43.786576+00:00",
-    "data": {
-      "id_stacji": "153220050",
-      "stacja": "Ełk 2",
-      "rzeka": "Jez. Ełckie",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "22.3442",
-      "lat": "53.8203",
-      "stan_wody": "170",
-      "stan_wody_data_pomiaru": "2026-07-16 10:00:00",
-      "temperatura_wody": "20.1",
-      "temperatura_wody_data_pomiaru": "2026-07-16 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-28 10:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-01 11:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T12:04:58.942492+00:00",
     "data": {
       "id_stacji": "153220050",
@@ -1915,6 +1894,32 @@
       "stan_wody_data_pomiaru": "2026-07-23 09:00:00",
       "temperatura_wody": "19.8",
       "temperatura_wody_data_pomiaru": "2026-07-22 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 10:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-01 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T11:26:46.378796+00:00",
+    "data": {
+      "id_stacji": "153220050",
+      "stacja": "Ełk 2",
+      "rzeka": "Jez. Ełckie",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "22.3442",
+      "lat": "53.8203",
+      "rok_zalozenia_stacji": "1893",
+      "rzedna_zerawodowskazu": "118.591",
+      "kilometr_biegu_rzeki": "50.91",
+      "stan_alarmowy": "235",
+      "stan_ostrzegawczy": "220",
+      "stan_wody": "170",
+      "stan_wody_data_pomiaru": "2026-07-23 11:00:00",
+      "temperatura_wody": "20",
+      "temperatura_wody_data_pomiaru": "2026-07-23 06:00:00",
       "przeplyw": null,
       "przeplyw_data": null,
       "zjawisko_lodowe": "4",
