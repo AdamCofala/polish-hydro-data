@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T20:27:42.428764+00:00",
-    "data": {
-      "id_stacji": "152230020",
-      "stacja": "Porosiuki",
-      "rzeka": "Krzna",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "82",
-      "stan_wody_data_pomiaru": "2026-07-16 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.28",
-      "przeplyw_data": "2026-07-16 20:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 11:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-07 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T21:37:21.169221+00:00",
     "data": {
       "id_stacji": "152230020",
@@ -1921,6 +1900,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.75",
       "przeplyw_data": "2026-07-23 19:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-07 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T21:11:19.270203+00:00",
+    "data": {
+      "id_stacji": "152230020",
+      "stacja": "Porosiuki",
+      "rzeka": "Krzna",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1973",
+      "rzedna_zerawodowskazu": "137.142",
+      "kilometr_biegu_rzeki": "45.91",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "79",
+      "stan_wody_data_pomiaru": "2026-07-23 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.75",
+      "przeplyw_data": "2026-07-23 20:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-18 11:40:00",
       "zjawisko_zarastania": "0",

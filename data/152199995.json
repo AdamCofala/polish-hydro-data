@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T20:27:42.428764+00:00",
-    "data": {
-      "id_stacji": "152199995",
-      "stacja": "Płock",
-      "rzeka": "Wisła",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "124",
-      "stan_wody_data_pomiaru": "2026-07-16 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-17 12:20:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-07-16T21:37:21.169221+00:00",
     "data": {
       "id_stacji": "152199995",
@@ -1917,6 +1896,32 @@
       "stan_ostrzegawczy": "210",
       "stan_wody": "124",
       "stan_wody_data_pomiaru": "2026-07-23 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-17 12:20:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-07-23T21:11:19.270203+00:00",
+    "data": {
+      "id_stacji": "152199995",
+      "stacja": "Płock",
+      "rzeka": "Wisła",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1876",
+      "rzedna_zerawodowskazu": "56.059",
+      "kilometr_biegu_rzeki": "306.36",
+      "stan_alarmowy": "250",
+      "stan_ostrzegawczy": "210",
+      "stan_wody": "124",
+      "stan_wody_data_pomiaru": "2026-07-23 21:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
