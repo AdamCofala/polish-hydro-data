@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T05:59:31.199593+00:00",
-    "data": {
-      "id_stacji": "154220090",
-      "stacja": "Bród stary",
-      "rzeka": "Czarna Hańcza",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "52",
-      "stan_wody_data_pomiaru": "2026-07-16 05:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.45",
-      "przeplyw_data": "2026-07-16 04:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-17 11:20:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-05 12:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T08:27:45.166480+00:00",
     "data": {
       "id_stacji": "154220090",
@@ -1907,6 +1886,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.42",
       "przeplyw_data": "2026-07-22 16:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-17 11:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-05 12:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T06:34:39.342083+00:00",
+    "data": {
+      "id_stacji": "154220090",
+      "stacja": "Bród stary",
+      "rzeka": "Czarna Hańcza",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1992",
+      "rzedna_zerawodowskazu": "172.599",
+      "kilometr_biegu_rzeki": "126.12",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "52",
+      "stan_wody_data_pomiaru": "2026-07-23 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.41",
+      "przeplyw_data": "2026-07-23 06:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-17 11:20:00",
       "zjawisko_zarastania": "100",

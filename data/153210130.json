@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T05:59:31.199593+00:00",
-    "data": {
-      "id_stacji": "153210130",
-      "stacja": "Głodowo",
-      "rzeka": "Jez. Śniardwy",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "255",
-      "stan_wody_data_pomiaru": "2026-07-16 05:30:00",
-      "temperatura_wody": "21.5",
-      "temperatura_wody_data_pomiaru": "2026-07-15 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-06 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T08:27:45.166480+00:00",
     "data": {
       "id_stacji": "153210130",
@@ -1903,6 +1882,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "255",
       "stan_wody_data_pomiaru": "2026-07-23 03:30:00",
+      "temperatura_wody": "19",
+      "temperatura_wody_data_pomiaru": "2026-07-22 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-06 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T06:34:39.342083+00:00",
+    "data": {
+      "id_stacji": "153210130",
+      "stacja": "Głodowo",
+      "rzeka": "Jez. Śniardwy",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1971",
+      "rzedna_zerawodowskazu": "113.369",
+      "kilometr_biegu_rzeki": "94.9",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "255",
+      "stan_wody_data_pomiaru": "2026-07-23 06:00:00",
       "temperatura_wody": "19",
       "temperatura_wody_data_pomiaru": "2026-07-22 06:00:00",
       "przeplyw": null,
