@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T12:04:58.942492+00:00",
-    "data": {
-      "id_stacji": "149200230",
-      "stacja": "Czchów",
-      "rzeka": "Dunajec",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.6819",
-      "lat": "49.8164",
-      "stan_wody": "129",
-      "stan_wody_data_pomiaru": "2026-07-16 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "25.4",
-      "przeplyw_data": "2026-07-16 11:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-07-10 11:30:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-10 11:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T14:33:44.306167+00:00",
     "data": {
       "id_stacji": "149200230",
@@ -1922,6 +1901,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "16.5",
       "przeplyw_data": "2026-07-23 11:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-07-10 11:30:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-10 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T13:05:57.217533+00:00",
+    "data": {
+      "id_stacji": "149200230",
+      "stacja": "Czchów",
+      "rzeka": "Dunajec",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.6819",
+      "lat": "49.8164",
+      "rok_zalozenia_stacji": "1940",
+      "rzedna_zerawodowskazu": "222.543",
+      "kilometr_biegu_rzeki": "69.57",
+      "stan_alarmowy": "410",
+      "stan_ostrzegawczy": "310",
+      "stan_wody": "114",
+      "stan_wody_data_pomiaru": "2026-07-23 12:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "16.5",
+      "przeplyw_data": "2026-07-23 12:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-07-10 11:30:00",
       "zjawisko_zarastania": "100",

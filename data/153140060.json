@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T12:04:58.942492+00:00",
-    "data": {
-      "id_stacji": "153140060",
-      "stacja": "Wolin",
-      "rzeka": "Dziwna",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "14.6167",
-      "lat": "53.8381",
-      "stan_wody": "519",
-      "stan_wody_data_pomiaru": "2026-07-16 11:30:00",
-      "temperatura_wody": "22.3",
-      "temperatura_wody_data_pomiaru": "2026-07-16 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-01-19 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-14 11:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T14:33:44.306167+00:00",
     "data": {
       "id_stacji": "153140060",
@@ -1918,6 +1897,32 @@
       "stan_ostrzegawczy": "560",
       "stan_wody": "535",
       "stan_wody_data_pomiaru": "2026-07-23 11:00:00",
+      "temperatura_wody": "18.7",
+      "temperatura_wody_data_pomiaru": "2026-07-23 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-01-19 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-14 11:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T13:05:57.217533+00:00",
+    "data": {
+      "id_stacji": "153140060",
+      "stacja": "Wolin",
+      "rzeka": "Dziwna",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "14.6167",
+      "lat": "53.8381",
+      "rok_zalozenia_stacji": "1811",
+      "rzedna_zerawodowskazu": "-4.918",
+      "kilometr_biegu_rzeki": "28.9",
+      "stan_alarmowy": "580",
+      "stan_ostrzegawczy": "560",
+      "stan_wody": "536",
+      "stan_wody_data_pomiaru": "2026-07-23 12:30:00",
       "temperatura_wody": "18.7",
       "temperatura_wody_data_pomiaru": "2026-07-23 06:00:00",
       "przeplyw": null,
