@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T08:27:45.166480+00:00",
-    "data": {
-      "id_stacji": "153180050",
-      "stacja": "Błędno",
-      "rzeka": "Wda",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "82",
-      "stan_wody_data_pomiaru": "2026-07-16 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "5.23",
-      "przeplyw_data": "2026-07-16 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-16 11:30:00",
-      "zjawisko_zarastania": "201",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-09 11:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T10:29:43.786576+00:00",
     "data": {
       "id_stacji": "153180050",
@@ -1912,6 +1891,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "5.55",
       "przeplyw_data": "2026-07-23 06:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-16 11:30:00",
+      "zjawisko_zarastania": "201",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-09 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T09:27:54.951246+00:00",
+    "data": {
+      "id_stacji": "153180050",
+      "stacja": "Błędno",
+      "rzeka": "Wda",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1930",
+      "rzedna_zerawodowskazu": "80.407",
+      "kilometr_biegu_rzeki": "72.45",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "88",
+      "stan_wody_data_pomiaru": "2026-07-23 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "5.55",
+      "przeplyw_data": "2026-07-23 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-16 11:30:00",
       "zjawisko_zarastania": "201",

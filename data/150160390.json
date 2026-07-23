@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T08:27:45.166480+00:00",
-    "data": {
-      "id_stacji": "150160390",
-      "stacja": "Roztoki bystrzyckie",
-      "rzeka": "Goworówka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "103",
-      "stan_wody_data_pomiaru": "2026-07-16 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.07",
-      "przeplyw_data": "2026-07-16 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-06-11 08:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-11 08:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T10:29:43.786576+00:00",
     "data": {
       "id_stacji": "150160390",
@@ -1891,6 +1870,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.07",
       "przeplyw_data": "2026-07-23 06:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-06-11 08:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-11 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T09:27:54.951246+00:00",
+    "data": {
+      "id_stacji": "150160390",
+      "stacja": "Roztoki bystrzyckie",
+      "rzeka": "Goworówka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "2023",
+      "rzedna_zerawodowskazu": "400.131",
+      "kilometr_biegu_rzeki": "0.07",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "102",
+      "stan_wody_data_pomiaru": "2026-07-23 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.07",
+      "przeplyw_data": "2026-07-23 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-06-11 08:00:00",
       "zjawisko_zarastania": "0",
