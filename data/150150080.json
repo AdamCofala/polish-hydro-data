@@ -1,47 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T17:46:51.909327+00:00",
-    "data": {
-      "id_stacji": "150150080",
-      "stacja": "Jelenia Góra",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.7214",
-      "lat": "50.9108",
-      "stan_wody": "86",
-      "stan_wody_data_pomiaru": "2026-07-16 17:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "7.7",
-      "przeplyw_data": "2026-07-16 08:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-16 08:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-10-05 12:00:00"
-    }
-  },
-  {
-    "timestamp": "2026-07-16T19:21:18.503889+00:00",
-    "data": {
-      "id_stacji": "150150080",
-      "stacja": "Jelenia Góra",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.7214",
-      "lat": "50.9108",
-      "stan_wody": "85",
-      "stan_wody_data_pomiaru": "2026-07-16 19:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "7.7",
-      "przeplyw_data": "2026-07-16 08:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-16 08:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-10-05 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T20:27:42.428764+00:00",
     "data": {
       "id_stacji": "150150080",
@@ -1933,6 +1891,32 @@
       "stan_ostrzegawczy": "160",
       "stan_wody": "82",
       "stan_wody_data_pomiaru": "2026-07-23 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.52",
+      "przeplyw_data": "2026-07-23 08:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-16 08:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2023-10-05 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T19:34:51.760699+00:00",
+    "data": {
+      "id_stacji": "150150080",
+      "stacja": "Jelenia Góra",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.7214",
+      "lat": "50.9108",
+      "rok_zalozenia_stacji": "1887",
+      "rzedna_zerawodowskazu": "322.365",
+      "kilometr_biegu_rzeki": "211.54",
+      "stan_alarmowy": "220",
+      "stan_ostrzegawczy": "160",
+      "stan_wody": "82",
+      "stan_wody_data_pomiaru": "2026-07-23 19:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.52",
