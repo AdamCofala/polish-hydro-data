@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T14:33:44.306167+00:00",
-    "data": {
-      "id_stacji": "149200190",
-      "stacja": "Gołkowice",
-      "rzeka": "Dunajec",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.57",
-      "lat": "49.5497",
-      "stan_wody": "156",
-      "stan_wody_data_pomiaru": "2026-07-16 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "28.3",
-      "przeplyw_data": "2026-07-16 14:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-14 08:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-14 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T16:21:52.176423+00:00",
     "data": {
       "id_stacji": "149200190",
@@ -1927,6 +1906,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "20.1",
       "przeplyw_data": "2026-07-23 12:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-14 08:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-14 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T15:32:46.538599+00:00",
+    "data": {
+      "id_stacji": "149200190",
+      "stacja": "Gołkowice",
+      "rzeka": "Dunajec",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.57",
+      "lat": "49.5497",
+      "rok_zalozenia_stacji": "1889",
+      "rzedna_zerawodowskazu": "312.135",
+      "kilometr_biegu_rzeki": "121.09",
+      "stan_alarmowy": "400",
+      "stan_ostrzegawczy": "320",
+      "stan_wody": "152",
+      "stan_wody_data_pomiaru": "2026-07-23 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "22.4",
+      "przeplyw_data": "2026-07-23 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-14 08:30:00",
       "zjawisko_zarastania": "0",

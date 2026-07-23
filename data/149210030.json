@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T14:33:44.306167+00:00",
-    "data": {
-      "id_stacji": "149210030",
-      "stacja": "Klęczany",
-      "rzeka": "Ropa",
-      "wojewodztwo": "małopolskie",
-      "lon": "21.2167",
-      "lat": "49.7014",
-      "stan_wody": "79",
-      "stan_wody_data_pomiaru": "2026-07-16 14:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.57",
-      "przeplyw_data": "2026-07-16 14:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-12 13:30:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-12 13:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T16:21:52.176423+00:00",
     "data": {
       "id_stacji": "149210030",
@@ -1927,6 +1906,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.04",
       "przeplyw_data": "2026-07-23 12:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-12 13:30:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-12 13:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T15:32:46.538599+00:00",
+    "data": {
+      "id_stacji": "149210030",
+      "stacja": "Klęczany",
+      "rzeka": "Ropa",
+      "wojewodztwo": "małopolskie",
+      "lon": "21.2167",
+      "lat": "49.7014",
+      "rok_zalozenia_stacji": "1887",
+      "rzedna_zerawodowskazu": "259.237",
+      "kilometr_biegu_rzeki": "28.37",
+      "stan_alarmowy": "380",
+      "stan_ostrzegawczy": "260",
+      "stan_wody": "78",
+      "stan_wody_data_pomiaru": "2026-07-23 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.19",
+      "przeplyw_data": "2026-07-23 15:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-12 13:30:00",
       "zjawisko_zarastania": "100",
