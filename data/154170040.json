@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T23:31:10.405495+00:00",
-    "data": {
-      "id_stacji": "154170040",
-      "stacja": "Kwisno",
-      "rzeka": "Wieprza",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "148",
-      "stan_wody_data_pomiaru": "2026-07-15 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.18",
-      "przeplyw_data": "2026-07-15 13:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-25 09:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T03:17:38.299027+00:00",
     "data": {
       "id_stacji": "154170040",
@@ -1893,6 +1872,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "150",
       "stan_wody_data_pomiaru": "2026-07-22 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.2",
+      "przeplyw_data": "2026-07-22 14:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-25 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T00:05:49.537435+00:00",
+    "data": {
+      "id_stacji": "154170040",
+      "stacja": "Kwisno",
+      "rzeka": "Wieprza",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1956",
+      "rzedna_zerawodowskazu": "123.113",
+      "kilometr_biegu_rzeki": "120.79",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "150",
+      "stan_wody_data_pomiaru": "2026-07-22 23:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.2",
