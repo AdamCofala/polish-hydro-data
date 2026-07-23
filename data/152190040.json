@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T21:37:21.169221+00:00",
-    "data": {
-      "id_stacji": "152190040",
-      "stacja": "Lipno",
-      "rzeka": "Mień",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "94",
-      "stan_wody_data_pomiaru": "2026-07-16 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.28",
-      "przeplyw_data": "2026-07-16 21:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-07 09:30:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-18 12:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T23:02:23.219791+00:00",
     "data": {
       "id_stacji": "152190040",
@@ -1926,6 +1905,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.22",
       "przeplyw_data": "2026-07-23 20:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-07 09:30:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-20 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T22:31:33.432041+00:00",
+    "data": {
+      "id_stacji": "152190040",
+      "stacja": "Lipno",
+      "rzeka": "Mień",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1956",
+      "rzedna_zerawodowskazu": "77.278",
+      "kilometr_biegu_rzeki": "27.29",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "95",
+      "stan_wody_data_pomiaru": "2026-07-23 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.21",
+      "przeplyw_data": "2026-07-23 22:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-07 09:30:00",
       "zjawisko_zarastania": "200",

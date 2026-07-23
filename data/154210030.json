@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T21:37:21.169221+00:00",
-    "data": {
-      "id_stacji": "154210030",
-      "stacja": "Bykowo",
-      "rzeka": "Sajna",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "106",
-      "stan_wody_data_pomiaru": "2026-07-16 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.28",
-      "przeplyw_data": "2026-07-16 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-06 11:10:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-02 07:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T23:02:23.219791+00:00",
     "data": {
       "id_stacji": "154210030",
@@ -1922,6 +1901,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "222",
       "stan_wody_data_pomiaru": "2026-07-23 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "5.14",
+      "przeplyw_data": "2026-07-23 16:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-06 11:10:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-02 07:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T22:31:33.432041+00:00",
+    "data": {
+      "id_stacji": "154210030",
+      "stacja": "Bykowo",
+      "rzeka": "Sajna",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1960",
+      "rzedna_zerawodowskazu": "33.183",
+      "kilometr_biegu_rzeki": "4.4",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "222",
+      "stan_wody_data_pomiaru": "2026-07-23 22:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "5.14",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T21:37:21.169221+00:00",
-    "data": {
-      "id_stacji": "151180100",
-      "stacja": "Osjaków",
-      "rzeka": "Warta",
-      "wojewodztwo": "łódzkie",
-      "lon": "18.785",
-      "lat": "51.2856",
-      "stan_wody": "109",
-      "stan_wody_data_pomiaru": "2026-07-16 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-17 08:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-03 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T23:02:23.219791+00:00",
     "data": {
       "id_stacji": "151180100",
@@ -1922,6 +1901,32 @@
       "stan_ostrzegawczy": "280",
       "stan_wody": "113",
       "stan_wody_data_pomiaru": "2026-07-23 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-17 08:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-17 06:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T22:31:33.432041+00:00",
+    "data": {
+      "id_stacji": "151180100",
+      "stacja": "Osjaków",
+      "rzeka": "Warta",
+      "wojewodztwo": "łódzkie",
+      "lon": "18.785",
+      "lat": "51.2856",
+      "rok_zalozenia_stacji": "1916",
+      "rzedna_zerawodowskazu": "150.621",
+      "kilometr_biegu_rzeki": "572.59",
+      "stan_alarmowy": "340",
+      "stan_ostrzegawczy": "280",
+      "stan_wody": "113",
+      "stan_wody_data_pomiaru": "2026-07-23 22:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
