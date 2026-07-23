@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T03:17:38.299027+00:00",
-    "data": {
-      "id_stacji": "151200040",
-      "stacja": "Opoczno",
-      "rzeka": "Drzewiczka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "255",
-      "stan_wody_data_pomiaru": "2026-07-16 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.28",
-      "przeplyw_data": "2026-07-16 02:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 14:30:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-08 16:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T05:59:31.199593+00:00",
     "data": {
       "id_stacji": "151200040",
@@ -1902,6 +1881,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.41",
       "przeplyw_data": "2026-07-22 23:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 14:30:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-08 16:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T03:55:17.062669+00:00",
+    "data": {
+      "id_stacji": "151200040",
+      "stacja": "Opoczno",
+      "rzeka": "Drzewiczka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1930",
+      "rzedna_zerawodowskazu": "172.847",
+      "kilometr_biegu_rzeki": "56.93",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "261",
+      "stan_wody_data_pomiaru": "2026-07-23 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.37",
+      "przeplyw_data": "2026-07-23 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-18 14:30:00",
       "zjawisko_zarastania": "200",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T03:17:38.299027+00:00",
-    "data": {
-      "id_stacji": "152140110",
-      "stacja": "Sądów",
-      "rzeka": "Pliszka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "69",
-      "stan_wody_data_pomiaru": "2026-07-16 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.79",
-      "przeplyw_data": "2026-07-15 16:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-09 08:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-08 09:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T05:59:31.199593+00:00",
     "data": {
       "id_stacji": "152140110",
@@ -1856,6 +1835,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "58",
       "stan_wody_data_pomiaru": "2026-07-22 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.85",
+      "przeplyw_data": "2026-07-22 16:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-09 08:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-08 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T03:55:17.062669+00:00",
+    "data": {
+      "id_stacji": "152140110",
+      "stacja": "Sądów",
+      "rzeka": "Pliszka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1969",
+      "rzedna_zerawodowskazu": "36.412",
+      "kilometr_biegu_rzeki": "15.28",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "58",
+      "stan_wody_data_pomiaru": "2026-07-23 03:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.85",
