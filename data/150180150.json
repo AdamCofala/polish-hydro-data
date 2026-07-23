@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T16:21:52.176423+00:00",
-    "data": {
-      "id_stacji": "150180150",
-      "stacja": "Pyskowice Dzierżno",
-      "rzeka": "Kłodnica",
-      "wojewodztwo": "śląskie",
-      "lon": "18.5433",
-      "lat": "50.3797",
-      "stan_wody": "293",
-      "stan_wody_data_pomiaru": "2026-07-16 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-26 09:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-16 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-16T17:46:51.909327+00:00",
     "data": {
       "id_stacji": "150180150",
@@ -1928,6 +1907,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "297",
       "stan_wody_data_pomiaru": "2026-07-23 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-26 09:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-16 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-23T17:36:50.494322+00:00",
+    "data": {
+      "id_stacji": "150180150",
+      "stacja": "Pyskowice Dzierżno",
+      "rzeka": "Kłodnica",
+      "wojewodztwo": "śląskie",
+      "lon": "18.5433",
+      "lat": "50.3797",
+      "rok_zalozenia_stacji": "2005",
+      "rzedna_zerawodowskazu": "191.608",
+      "kilometr_biegu_rzeki": "34.75",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "300",
+      "stan_wody_data_pomiaru": "2026-07-23 17:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
