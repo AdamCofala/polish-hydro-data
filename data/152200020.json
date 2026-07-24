@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T04:43:52.938459+00:00",
-    "data": {
-      "id_stacji": "152200020",
-      "stacja": "Trzciniec",
-      "rzeka": "Wkra",
-      "wojewodztwo": "mazowieckie",
-      "lon": "20.1719",
-      "lat": "52.9306",
-      "stan_wody": "201",
-      "stan_wody_data_pomiaru": "2026-07-17 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.99",
-      "przeplyw_data": "2026-07-17 04:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-12 08:50:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-16 08:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T07:21:51.880382+00:00",
     "data": {
       "id_stacji": "152200020",
@@ -1941,6 +1920,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.23",
       "przeplyw_data": "2026-07-24 03:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-12 08:50:00",
+      "zjawisko_zarastania": "201",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-21 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T06:31:46.531601+00:00",
+    "data": {
+      "id_stacji": "152200020",
+      "stacja": "Trzciniec",
+      "rzeka": "Wkra",
+      "wojewodztwo": "mazowieckie",
+      "lon": "20.1719",
+      "lat": "52.9306",
+      "rok_zalozenia_stacji": "1967",
+      "rzedna_zerawodowskazu": "105.354",
+      "kilometr_biegu_rzeki": "113.72",
+      "stan_alarmowy": "330",
+      "stan_ostrzegawczy": "280",
+      "stan_wody": "208",
+      "stan_wody_data_pomiaru": "2026-07-24 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.27",
+      "przeplyw_data": "2026-07-24 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-12 08:50:00",
       "zjawisko_zarastania": "201",

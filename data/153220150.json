@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T04:43:52.938459+00:00",
-    "data": {
-      "id_stacji": "153220150",
-      "stacja": "Kucze",
-      "rzeka": "Lega",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "121",
-      "stan_wody_data_pomiaru": "2026-07-17 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.67",
-      "przeplyw_data": "2026-07-16 16:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-24 13:30:00",
-      "zjawisko_zarastania": "220",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-10 11:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T07:21:51.880382+00:00",
     "data": {
       "id_stacji": "153220150",
@@ -1941,6 +1920,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.71",
       "przeplyw_data": "2026-07-23 17:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-24 13:30:00",
+      "zjawisko_zarastania": "220",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-10 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T06:31:46.531601+00:00",
+    "data": {
+      "id_stacji": "153220150",
+      "stacja": "Kucze",
+      "rzeka": "Lega",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1951",
+      "rzedna_zerawodowskazu": "117.834",
+      "kilometr_biegu_rzeki": "71.09",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "164",
+      "stan_wody_data_pomiaru": "2026-07-24 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.79",
+      "przeplyw_data": "2026-07-24 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-24 13:30:00",
       "zjawisko_zarastania": "220",

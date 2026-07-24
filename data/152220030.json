@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T04:43:52.938459+00:00",
-    "data": {
-      "id_stacji": "152220030",
-      "stacja": "Zembrów",
-      "rzeka": "Cetynia",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "297",
-      "stan_wody_data_pomiaru": "2026-07-17 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-12 10:40:00",
-      "zjawisko_zarastania": "3",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-08 11:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T07:21:51.880382+00:00",
     "data": {
       "id_stacji": "152220030",
@@ -1937,6 +1916,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "303",
       "stan_wody_data_pomiaru": "2026-07-24 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-12 10:40:00",
+      "zjawisko_zarastania": "3",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-08 11:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T06:31:46.531601+00:00",
+    "data": {
+      "id_stacji": "152220030",
+      "stacja": "Zembrów",
+      "rzeka": "Cetynia",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": null,
+      "rzedna_zerawodowskazu": null,
+      "kilometr_biegu_rzeki": null,
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "303",
+      "stan_wody_data_pomiaru": "2026-07-24 06:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,

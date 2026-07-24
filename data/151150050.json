@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T04:43:52.938459+00:00",
-    "data": {
-      "id_stacji": "151150050",
-      "stacja": "Dobroszów Wielki",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.2561",
-      "lat": "51.7742",
-      "stan_wody": "296",
-      "stan_wody_data_pomiaru": "2026-07-17 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-14 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-26 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T07:21:51.880382+00:00",
     "data": {
       "id_stacji": "151150050",
@@ -1937,6 +1916,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "301",
       "stan_wody_data_pomiaru": "2026-07-24 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-14 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-22 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T06:31:46.531601+00:00",
+    "data": {
+      "id_stacji": "151150050",
+      "stacja": "Dobroszów Wielki",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.2561",
+      "lat": "51.7742",
+      "rok_zalozenia_stacji": "1936",
+      "rzedna_zerawodowskazu": "74.187",
+      "kilometr_biegu_rzeki": "53.28",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "300",
+      "stan_wody_data_pomiaru": "2026-07-24 06:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
