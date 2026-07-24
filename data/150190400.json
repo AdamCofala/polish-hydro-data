@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T16:19:46.458718+00:00",
-    "data": {
-      "id_stacji": "150190400",
-      "stacja": "Częstochowa 2",
-      "rzeka": "Kucelinka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "161",
-      "stan_wody_data_pomiaru": "2026-07-17 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-05 09:10:00",
-      "zjawisko_zarastania": "201",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-12 07:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T17:39:35.573160+00:00",
     "data": {
       "id_stacji": "150190400",
@@ -1941,6 +1920,32 @@
       "stan_ostrzegawczy": "250",
       "stan_wody": "160",
       "stan_wody_data_pomiaru": "2026-07-24 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-05 09:10:00",
+      "zjawisko_zarastania": "201",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-12 07:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T17:06:18.874771+00:00",
+    "data": {
+      "id_stacji": "150190400",
+      "stacja": "Częstochowa 2",
+      "rzeka": "Kucelinka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "2021",
+      "rzedna_zerawodowskazu": "241.183",
+      "kilometr_biegu_rzeki": "1.72",
+      "stan_alarmowy": "280",
+      "stan_ostrzegawczy": "250",
+      "stan_wody": "160",
+      "stan_wody_data_pomiaru": "2026-07-24 16:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,

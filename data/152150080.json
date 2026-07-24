@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T16:19:46.458718+00:00",
-    "data": {
-      "id_stacji": "152150080",
-      "stacja": "Santok 2",
-      "rzeka": "Warta",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.3967",
-      "lat": "52.7336",
-      "stan_wody": "180",
-      "stan_wody_data_pomiaru": "2026-07-17 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-30 06:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-11 07:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T17:39:35.573160+00:00",
     "data": {
       "id_stacji": "152150080",
@@ -1941,6 +1920,32 @@
       "stan_ostrzegawczy": "420",
       "stan_wody": "183",
       "stan_wody_data_pomiaru": "2026-07-24 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-30 06:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-11 07:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T17:06:18.874771+00:00",
+    "data": {
+      "id_stacji": "152150080",
+      "stacja": "Santok 2",
+      "rzeka": "Warta",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.3967",
+      "lat": "52.7336",
+      "rok_zalozenia_stacji": "1921",
+      "rzedna_zerawodowskazu": "17.044",
+      "kilometr_biegu_rzeki": "67.72",
+      "stan_alarmowy": "490",
+      "stan_ostrzegawczy": "420",
+      "stan_wody": "182",
+      "stan_wody_data_pomiaru": "2026-07-24 16:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
