@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T12:43:46.586903+00:00",
-    "data": {
-      "id_stacji": "152150020",
-      "stacja": "Stary Raduszec",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.0786",
-      "lat": "52.0364",
-      "stan_wody": "176",
-      "stan_wody_data_pomiaru": "2026-07-17 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-19 09:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-15 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T14:47:27.068210+00:00",
     "data": {
       "id_stacji": "152150020",
@@ -1931,6 +1910,32 @@
       "stan_ostrzegawczy": "450",
       "stan_wody": "180",
       "stan_wody_data_pomiaru": "2026-07-24 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-19 09:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-15 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T13:01:30.807596+00:00",
+    "data": {
+      "id_stacji": "152150020",
+      "stacja": "Stary Raduszec",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.0786",
+      "lat": "52.0364",
+      "rok_zalozenia_stacji": "2005",
+      "rzedna_zerawodowskazu": "35.583",
+      "kilometr_biegu_rzeki": "1.96",
+      "stan_alarmowy": "500",
+      "stan_ostrzegawczy": "450",
+      "stan_wody": "179",
+      "stan_wody_data_pomiaru": "2026-07-24 12:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
