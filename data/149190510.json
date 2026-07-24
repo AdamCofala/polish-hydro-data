@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T14:47:27.068210+00:00",
-    "data": {
-      "id_stacji": "149190510",
-      "stacja": "Brody",
-      "rzeka": "Cedron",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "108",
-      "stan_wody_data_pomiaru": "2026-07-17 14:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-24 13:10:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-26 08:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T16:19:46.458718+00:00",
     "data": {
       "id_stacji": "149190510",
@@ -1936,6 +1915,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "110",
       "stan_wody_data_pomiaru": "2026-07-24 12:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-24 13:10:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-26 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T15:13:17.166484+00:00",
+    "data": {
+      "id_stacji": "149190510",
+      "stacja": "Brody",
+      "rzeka": "Cedron",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "2023",
+      "rzedna_zerawodowskazu": "283.143",
+      "kilometr_biegu_rzeki": "23.86",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "110",
+      "stan_wody_data_pomiaru": "2026-07-24 15:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,

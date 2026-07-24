@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T14:47:27.068210+00:00",
-    "data": {
-      "id_stacji": "149180130",
-      "stacja": "Istebna",
-      "rzeka": "Olza",
-      "wojewodztwo": "śląskie",
-      "lon": "18.8928",
-      "lat": "49.5719",
-      "stan_wody": "115",
-      "stan_wody_data_pomiaru": "2026-07-17 14:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.33",
-      "przeplyw_data": "2026-07-17 14:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-24 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-01 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T16:19:46.458718+00:00",
     "data": {
       "id_stacji": "149180130",
@@ -1940,6 +1919,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.33",
       "przeplyw_data": "2026-07-24 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-24 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-01 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T15:13:17.166484+00:00",
+    "data": {
+      "id_stacji": "149180130",
+      "stacja": "Istebna",
+      "rzeka": "Olza",
+      "wojewodztwo": "śląskie",
+      "lon": "18.8928",
+      "lat": "49.5719",
+      "rok_zalozenia_stacji": "1959",
+      "rzedna_zerawodowskazu": "534.009",
+      "kilometr_biegu_rzeki": "80.27",
+      "stan_alarmowy": "210",
+      "stan_ostrzegawczy": "190",
+      "stan_wody": "115",
+      "stan_wody_data_pomiaru": "2026-07-24 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.33",
+      "przeplyw_data": "2026-07-24 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-24 11:00:00",
       "zjawisko_zarastania": "0",

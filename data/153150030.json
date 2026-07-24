@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T14:47:27.068210+00:00",
-    "data": {
-      "id_stacji": "153150030",
-      "stacja": "Kulice",
-      "rzeka": "Sąpólna",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "95",
-      "stan_wody_data_pomiaru": "2026-07-17 14:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.12",
-      "przeplyw_data": "2026-07-17 14:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-09 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T16:19:46.458718+00:00",
     "data": {
       "id_stacji": "153150030",
@@ -1940,6 +1919,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.17",
       "przeplyw_data": "2026-07-24 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-09 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T15:13:17.166484+00:00",
+    "data": {
+      "id_stacji": "153150030",
+      "stacja": "Kulice",
+      "rzeka": "Sąpólna",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1978",
+      "rzedna_zerawodowskazu": "45.005",
+      "kilometr_biegu_rzeki": "16.12",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "97",
+      "stan_wody_data_pomiaru": "2026-07-24 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.16",
+      "przeplyw_data": "2026-07-24 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:00:00",
       "zjawisko_zarastania": "0",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T14:47:27.068210+00:00",
-    "data": {
-      "id_stacji": "150200070",
-      "stacja": "Biskupice",
-      "rzeka": "Szreniawa",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.4992",
-      "lat": "50.1775",
-      "stan_wody": "278",
-      "stan_wody_data_pomiaru": "2026-07-17 14:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.73",
-      "przeplyw_data": "2026-07-17 14:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-18 11:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-11 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T16:19:46.458718+00:00",
     "data": {
       "id_stacji": "150200070",
@@ -1940,6 +1919,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.08",
       "przeplyw_data": "2026-07-24 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-18 11:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-11 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T15:13:17.166484+00:00",
+    "data": {
+      "id_stacji": "150200070",
+      "stacja": "Biskupice",
+      "rzeka": "Szreniawa",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.4992",
+      "lat": "50.1775",
+      "rok_zalozenia_stacji": "1924",
+      "rzedna_zerawodowskazu": "180.742",
+      "kilometr_biegu_rzeki": "9.98",
+      "stan_alarmowy": "450",
+      "stan_ostrzegawczy": "410",
+      "stan_wody": "262",
+      "stan_wody_data_pomiaru": "2026-07-24 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.11",
+      "przeplyw_data": "2026-07-24 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-18 11:30:00",
       "zjawisko_zarastania": "0",

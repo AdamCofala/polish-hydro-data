@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T14:47:27.068210+00:00",
-    "data": {
-      "id_stacji": "154180090",
-      "stacja": "Puck",
-      "rzeka": "Zatoka Pucka",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.4108",
-      "lat": "54.7225",
-      "stan_wody": "515",
-      "stan_wody_data_pomiaru": "2026-07-17 14:30:00",
-      "temperatura_wody": "19.7",
-      "temperatura_wody_data_pomiaru": "2026-07-17 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2018-09-11 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2020-03-24 10:11:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T16:19:46.458718+00:00",
     "data": {
       "id_stacji": "154180090",
@@ -1936,6 +1915,32 @@
       "stan_ostrzegawczy": "550",
       "stan_wody": "520",
       "stan_wody_data_pomiaru": "2026-07-24 12:30:00",
+      "temperatura_wody": "18.4",
+      "temperatura_wody_data_pomiaru": "2026-07-24 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2018-09-11 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2020-03-24 10:11:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T15:13:17.166484+00:00",
+    "data": {
+      "id_stacji": "154180090",
+      "stacja": "Puck",
+      "rzeka": "Zatoka Pucka",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.4108",
+      "lat": "54.7225",
+      "rok_zalozenia_stacji": "1931",
+      "rzedna_zerawodowskazu": "-4.911",
+      "kilometr_biegu_rzeki": "0",
+      "stan_alarmowy": "570",
+      "stan_ostrzegawczy": "550",
+      "stan_wody": "515",
+      "stan_wody_data_pomiaru": "2026-07-24 15:00:00",
       "temperatura_wody": "18.4",
       "temperatura_wody_data_pomiaru": "2026-07-24 06:00:00",
       "przeplyw": null,

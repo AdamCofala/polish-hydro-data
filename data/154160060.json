@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T14:47:27.068210+00:00",
-    "data": {
-      "id_stacji": "154160060",
-      "stacja": "Grabowo",
-      "rzeka": "Grabowa",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "73",
-      "stan_wody_data_pomiaru": "2026-07-17 14:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "9.68",
-      "przeplyw_data": "2026-07-17 14:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-26 09:10:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-17 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T16:19:46.458718+00:00",
     "data": {
       "id_stacji": "154160060",
@@ -1940,6 +1919,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "19.6",
       "przeplyw_data": "2026-07-24 12:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-26 09:10:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-17 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T15:13:17.166484+00:00",
+    "data": {
+      "id_stacji": "154160060",
+      "stacja": "Grabowo",
+      "rzeka": "Grabowa",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1974",
+      "rzedna_zerawodowskazu": "6.328",
+      "kilometr_biegu_rzeki": "18.55",
+      "stan_alarmowy": "170",
+      "stan_ostrzegawczy": "160",
+      "stan_wody": "169",
+      "stan_wody_data_pomiaru": "2026-07-24 15:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "19.5",
+      "przeplyw_data": "2026-07-24 14:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-26 09:10:00",
       "zjawisko_zarastania": "200",

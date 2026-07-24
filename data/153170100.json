@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T14:47:27.068210+00:00",
-    "data": {
-      "id_stacji": "153170100",
-      "stacja": "Nakło-Zachód",
-      "rzeka": "Noteć",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "17.5622",
-      "lat": "53.1236",
-      "stan_wody": "288",
-      "stan_wody_data_pomiaru": "2026-07-17 14:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-27 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-26 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T16:19:46.458718+00:00",
     "data": {
       "id_stacji": "153170100",
@@ -1936,6 +1915,32 @@
       "stan_ostrzegawczy": "320",
       "stan_wody": "288",
       "stan_wody_data_pomiaru": "2026-07-24 12:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-27 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-26 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T15:13:17.166484+00:00",
+    "data": {
+      "id_stacji": "153170100",
+      "stacja": "Nakło-Zachód",
+      "rzeka": "Noteć",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lon": "17.5622",
+      "lat": "53.1236",
+      "rok_zalozenia_stacji": "1831",
+      "rzedna_zerawodowskazu": "49.53",
+      "kilometr_biegu_rzeki": "182.7",
+      "stan_alarmowy": "360",
+      "stan_ostrzegawczy": "320",
+      "stan_wody": "282",
+      "stan_wody_data_pomiaru": "2026-07-24 15:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,

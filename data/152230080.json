@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T14:47:27.068210+00:00",
-    "data": {
-      "id_stacji": "152230080",
-      "stacja": "Krzyczew",
-      "rzeka": "Bug",
-      "wojewodztwo": "lubelskie",
-      "lon": "23.4992",
-      "lat": "52.1469",
-      "stan_wody": "88",
-      "stan_wody_data_pomiaru": "2026-07-17 14:20:00",
-      "temperatura_wody": "24",
-      "temperatura_wody_data_pomiaru": "2026-07-17 06:00:00",
-      "przeplyw": "16.5",
-      "przeplyw_data": "2026-06-24 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 16:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-07 12:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T16:19:46.458718+00:00",
     "data": {
       "id_stacji": "152230080",
@@ -1936,6 +1915,32 @@
       "stan_ostrzegawczy": "380",
       "stan_wody": "92",
       "stan_wody_data_pomiaru": "2026-07-24 12:20:00",
+      "temperatura_wody": "19.4",
+      "temperatura_wody_data_pomiaru": "2026-07-24 06:00:00",
+      "przeplyw": "16.5",
+      "przeplyw_data": "2026-06-24 13:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 16:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-07 12:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T15:13:17.166484+00:00",
+    "data": {
+      "id_stacji": "152230080",
+      "stacja": "Krzyczew",
+      "rzeka": "Bug",
+      "wojewodztwo": "lubelskie",
+      "lon": "23.4992",
+      "lat": "52.1469",
+      "rok_zalozenia_stacji": "1967",
+      "rzedna_zerawodowskazu": "125.216",
+      "kilometr_biegu_rzeki": "255.63",
+      "stan_alarmowy": "480",
+      "stan_ostrzegawczy": "380",
+      "stan_wody": "92",
+      "stan_wody_data_pomiaru": "2026-07-24 14:50:00",
       "temperatura_wody": "19.4",
       "temperatura_wody_data_pomiaru": "2026-07-24 06:00:00",
       "przeplyw": "16.5",
