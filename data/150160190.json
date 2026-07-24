@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T17:39:35.573160+00:00",
-    "data": {
-      "id_stacji": "150160190",
-      "stacja": "Międzylesie",
-      "rzeka": "Nysa Kłodzka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.6642",
-      "lat": "50.1556",
-      "stan_wody": "83",
-      "stan_wody_data_pomiaru": "2026-07-17 17:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.14",
-      "przeplyw_data": "2026-07-17 17:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-28 07:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-28 07:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T19:19:01.801665+00:00",
     "data": {
       "id_stacji": "150160190",
@@ -1950,6 +1929,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.11",
       "przeplyw_data": "2026-07-24 16:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-28 07:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-28 07:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T19:00:08.325355+00:00",
+    "data": {
+      "id_stacji": "150160190",
+      "stacja": "Międzylesie",
+      "rzeka": "Nysa Kłodzka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.6642",
+      "lat": "50.1556",
+      "rok_zalozenia_stacji": "1898",
+      "rzedna_zerawodowskazu": "425.062",
+      "kilometr_biegu_rzeki": "172.96",
+      "stan_alarmowy": "200",
+      "stan_ostrzegawczy": "180",
+      "stan_wody": "81",
+      "stan_wody_data_pomiaru": "2026-07-24 18:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.11",
+      "przeplyw_data": "2026-07-24 18:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-28 07:50:00",
       "zjawisko_zarastania": "0",

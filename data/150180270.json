@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T17:39:35.573160+00:00",
-    "data": {
-      "id_stacji": "150180270",
-      "stacja": "Kozłowa Góra",
-      "rzeka": "Brynica",
-      "wojewodztwo": "śląskie",
-      "lon": "18.9719",
-      "lat": "50.4122",
-      "stan_wody": "40",
-      "stan_wody_data_pomiaru": "2026-07-17 17:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-11 10:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-24 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T19:19:01.801665+00:00",
     "data": {
       "id_stacji": "150180270",
@@ -1925,6 +1904,32 @@
       "stan_ostrzegawczy": "90",
       "stan_wody": "48",
       "stan_wody_data_pomiaru": "2026-07-24 16:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-11 10:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-24 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T19:00:08.325355+00:00",
+    "data": {
+      "id_stacji": "150180270",
+      "stacja": "Kozłowa Góra",
+      "rzeka": "Brynica",
+      "wojewodztwo": "śląskie",
+      "lon": "18.9719",
+      "lat": "50.4122",
+      "rok_zalozenia_stacji": "2005",
+      "rzedna_zerawodowskazu": "271.941",
+      "kilometr_biegu_rzeki": "27.98",
+      "stan_alarmowy": "120",
+      "stan_ostrzegawczy": "90",
+      "stan_wody": "46",
+      "stan_wody_data_pomiaru": "2026-07-24 18:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,

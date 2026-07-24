@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T17:39:35.573160+00:00",
-    "data": {
-      "id_stacji": "152190120",
-      "stacja": "Kępa Polska",
-      "rzeka": "Wisła",
-      "wojewodztwo": "mazowieckie",
-      "lon": "19.9633",
-      "lat": "52.4314",
-      "stan_wody": "169",
-      "stan_wody_data_pomiaru": "2026-07-17 17:30:00",
-      "temperatura_wody": "20",
-      "temperatura_wody_data_pomiaru": "2026-07-17 06:00:00",
-      "przeplyw": "286",
-      "przeplyw_data": "2026-07-17 17:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-26 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2024-05-13 06:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T19:19:01.801665+00:00",
     "data": {
       "id_stacji": "152190120",
@@ -1950,6 +1929,32 @@
       "temperatura_wody_data_pomiaru": "2026-07-24 06:00:00",
       "przeplyw": "298",
       "przeplyw_data": "2026-07-24 16:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-26 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2024-05-13 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T19:00:08.325355+00:00",
+    "data": {
+      "id_stacji": "152190120",
+      "stacja": "Kępa Polska",
+      "rzeka": "Wisła",
+      "wojewodztwo": "mazowieckie",
+      "lon": "19.9633",
+      "lat": "52.4314",
+      "rok_zalozenia_stacji": "1968",
+      "rzedna_zerawodowskazu": "57.329",
+      "kilometr_biegu_rzeki": "332.21",
+      "stan_alarmowy": "500",
+      "stan_ostrzegawczy": "450",
+      "stan_wody": "173",
+      "stan_wody_data_pomiaru": "2026-07-24 18:30:00",
+      "temperatura_wody": "20",
+      "temperatura_wody_data_pomiaru": "2026-07-24 06:00:00",
+      "przeplyw": "302",
+      "przeplyw_data": "2026-07-24 18:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-26 06:00:00",
       "zjawisko_zarastania": "0",

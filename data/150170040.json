@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T17:39:35.573160+00:00",
-    "data": {
-      "id_stacji": "150170040",
-      "stacja": "Oława",
-      "rzeka": "Odra",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "17.3064",
-      "lat": "50.9464",
-      "stan_wody": "200",
-      "stan_wody_data_pomiaru": "2026-07-17 17:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "965",
-      "przeplyw_data": "2024-09-17 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-09 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-06 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T19:19:01.801665+00:00",
     "data": {
       "id_stacji": "150170040",
@@ -1946,6 +1925,32 @@
       "stan_ostrzegawczy": "500",
       "stan_wody": "194",
       "stan_wody_data_pomiaru": "2026-07-24 16:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "965",
+      "przeplyw_data": "2024-09-17 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-09 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-21 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T19:00:08.325355+00:00",
+    "data": {
+      "id_stacji": "150170040",
+      "stacja": "Oława",
+      "rzeka": "Odra",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "17.3064",
+      "lat": "50.9464",
+      "rok_zalozenia_stacji": "1895",
+      "rzedna_zerawodowskazu": "122.079",
+      "kilometr_biegu_rzeki": "544",
+      "stan_alarmowy": "560",
+      "stan_ostrzegawczy": "500",
+      "stan_wody": "193",
+      "stan_wody_data_pomiaru": "2026-07-24 18:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "965",
