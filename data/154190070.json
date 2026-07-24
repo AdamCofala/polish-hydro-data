@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-16T23:02:23.219791+00:00",
-    "data": {
-      "id_stacji": "154190070",
-      "stacja": "Krynica morska",
-      "rzeka": "Zalew Wiślany",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "523",
-      "stan_wody_data_pomiaru": "2026-07-16 22:30:00",
-      "temperatura_wody": "19.2",
-      "temperatura_wody_data_pomiaru": "2026-07-16 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-07-17T01:03:48.213988+00:00",
     "data": {
       "id_stacji": "154190070",
@@ -1927,6 +1906,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "544",
       "stan_wody_data_pomiaru": "2026-07-23 22:00:00",
+      "temperatura_wody": "18",
+      "temperatura_wody_data_pomiaru": "2026-07-23 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-07-24T00:04:52.696121+00:00",
+    "data": {
+      "id_stacji": "154190070",
+      "stacja": "Krynica morska",
+      "rzeka": "Zalew Wiślany",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1934",
+      "rzedna_zerawodowskazu": "-5.007",
+      "kilometr_biegu_rzeki": "0",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "545",
+      "stan_wody_data_pomiaru": "2026-07-23 23:30:00",
       "temperatura_wody": "18",
       "temperatura_wody_data_pomiaru": "2026-07-23 06:00:00",
       "przeplyw": null,
