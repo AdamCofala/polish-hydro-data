@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T07:21:51.880382+00:00",
-    "data": {
-      "id_stacji": "152160050",
-      "stacja": "Wronki",
-      "rzeka": "Warta",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.38",
-      "lat": "52.7117",
-      "stan_wody": "103",
-      "stan_wody_data_pomiaru": "2026-07-17 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "29.4",
-      "przeplyw_data": "2026-07-17 06:50:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-28 09:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2020-10-02 00:01:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T09:27:37.014797+00:00",
     "data": {
       "id_stacji": "152160050",
@@ -1946,6 +1925,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "31.6",
       "przeplyw_data": "2026-07-24 06:10:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 09:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2020-10-02 00:01:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T09:24:51.627852+00:00",
+    "data": {
+      "id_stacji": "152160050",
+      "stacja": "Wronki",
+      "rzeka": "Warta",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "16.38",
+      "lat": "52.7117",
+      "rok_zalozenia_stacji": "1946",
+      "rzedna_zerawodowskazu": "36.791",
+      "kilometr_biegu_rzeki": "169.46",
+      "stan_alarmowy": "470",
+      "stan_ostrzegawczy": "380",
+      "stan_wody": "109",
+      "stan_wody_data_pomiaru": "2026-07-24 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "32",
+      "przeplyw_data": "2026-07-24 09:10:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-28 09:50:00",
       "zjawisko_zarastania": "0",

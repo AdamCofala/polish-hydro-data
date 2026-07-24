@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T07:21:51.880382+00:00",
-    "data": {
-      "id_stacji": "149180250",
-      "stacja": "Czechowice Dziedzice",
-      "rzeka": "Iłownica",
-      "wojewodztwo": "śląskie",
-      "lon": "18.9864",
-      "lat": "49.9136",
-      "stan_wody": "183",
-      "stan_wody_data_pomiaru": "2026-07-17 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.44",
-      "przeplyw_data": "2026-07-17 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-26 11:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-09 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T09:27:37.014797+00:00",
     "data": {
       "id_stacji": "149180250",
@@ -1946,6 +1925,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.45",
       "przeplyw_data": "2026-07-24 06:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-26 11:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-09 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T09:24:51.627852+00:00",
+    "data": {
+      "id_stacji": "149180250",
+      "stacja": "Czechowice Dziedzice",
+      "rzeka": "Iłownica",
+      "wojewodztwo": "śląskie",
+      "lon": "18.9864",
+      "lat": "49.9136",
+      "rok_zalozenia_stacji": "1895",
+      "rzedna_zerawodowskazu": "240.733",
+      "kilometr_biegu_rzeki": "1.44",
+      "stan_alarmowy": "420",
+      "stan_ostrzegawczy": "330",
+      "stan_wody": "193",
+      "stan_wody_data_pomiaru": "2026-07-24 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.25",
+      "przeplyw_data": "2026-07-24 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-26 11:10:00",
       "zjawisko_zarastania": "0",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T07:21:51.880382+00:00",
-    "data": {
-      "id_stacji": "151220050",
-      "stacja": "Młyniska",
-      "rzeka": "Minina",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "116",
-      "stan_wody_data_pomiaru": "2026-07-17 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.19",
-      "przeplyw_data": "2026-07-17 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-03 08:30:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-14 07:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T09:27:37.014797+00:00",
     "data": {
       "id_stacji": "151220050",
@@ -1946,6 +1925,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.2",
       "przeplyw_data": "2026-07-24 06:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-03 08:30:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-14 07:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T09:24:51.627852+00:00",
+    "data": {
+      "id_stacji": "151220050",
+      "stacja": "Młyniska",
+      "rzeka": "Minina",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1990",
+      "rzedna_zerawodowskazu": "134.609",
+      "kilometr_biegu_rzeki": "11.64",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "118",
+      "stan_wody_data_pomiaru": "2026-07-24 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.19",
+      "przeplyw_data": "2026-07-24 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-03 08:30:00",
       "zjawisko_zarastania": "100",

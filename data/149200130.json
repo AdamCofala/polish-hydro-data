@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T07:21:51.880382+00:00",
-    "data": {
-      "id_stacji": "149200130",
-      "stacja": "Stradomka",
-      "rzeka": "Stradomka",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.3083",
-      "lat": "49.9206",
-      "stan_wody": "34",
-      "stan_wody_data_pomiaru": "2026-07-17 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.35",
-      "przeplyw_data": "2026-07-17 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-24 09:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-26 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T09:27:37.014797+00:00",
     "data": {
       "id_stacji": "149200130",
@@ -1192,6 +1171,32 @@
       "zjawisko_lodowe_data_pomiaru": "2026-02-24 09:10:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2026-05-26 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T09:24:51.627852+00:00",
+    "data": {
+      "id_stacji": "149200130",
+      "stacja": "Stradomka",
+      "rzeka": "Stradomka",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.3083",
+      "lat": "49.9206",
+      "rok_zalozenia_stacji": "1957",
+      "rzedna_zerawodowskazu": "204.904",
+      "kilometr_biegu_rzeki": "1.77",
+      "stan_alarmowy": "350",
+      "stan_ostrzegawczy": "280",
+      "stan_wody": "32",
+      "stan_wody_data_pomiaru": "2026-07-24 09:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.26",
+      "przeplyw_data": "2026-07-24 09:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-24 09:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-24 08:20:00"
     }
   }
 ]

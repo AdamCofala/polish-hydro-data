@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T07:21:51.880382+00:00",
-    "data": {
-      "id_stacji": "154190040",
-      "stacja": "Dolna Kępa",
-      "rzeka": "Nogat",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "19.3",
-      "lat": "54.2525",
-      "stan_wody": "524",
-      "stan_wody_data_pomiaru": "2026-07-17 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-20 09:30:00",
-      "zjawisko_zarastania": "121",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-10 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T09:27:37.014797+00:00",
     "data": {
       "id_stacji": "154190040",
@@ -1942,6 +1921,32 @@
       "stan_ostrzegawczy": "570",
       "stan_wody": "542",
       "stan_wody_data_pomiaru": "2026-07-24 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-20 09:30:00",
+      "zjawisko_zarastania": "121",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-10 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T09:24:51.627852+00:00",
+    "data": {
+      "id_stacji": "154190040",
+      "stacja": "Dolna Kępa",
+      "rzeka": "Nogat",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "19.3",
+      "lat": "54.2525",
+      "rok_zalozenia_stacji": "1947",
+      "rzedna_zerawodowskazu": "-4.998",
+      "kilometr_biegu_rzeki": "3.94",
+      "stan_alarmowy": "590",
+      "stan_ostrzegawczy": "570",
+      "stan_wody": "538",
+      "stan_wody_data_pomiaru": "2026-07-24 09:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
