@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T01:03:48.213988+00:00",
-    "data": {
-      "id_stacji": "151150040",
-      "stacja": "Nowogród Bobrzański",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.2369",
-      "lat": "51.7986",
-      "stan_wody": "121",
-      "stan_wody_data_pomiaru": "2026-07-17 00:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "12.7",
-      "przeplyw_data": "2026-07-17 00:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-14 11:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-11 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T04:43:52.938459+00:00",
     "data": {
       "id_stacji": "151150040",
@@ -1936,6 +1915,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "18.3",
       "przeplyw_data": "2026-07-23 23:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-14 11:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-22 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T03:54:28.306704+00:00",
+    "data": {
+      "id_stacji": "151150040",
+      "stacja": "Nowogród Bobrzański",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.2369",
+      "lat": "51.7986",
+      "rok_zalozenia_stacji": "2005",
+      "rzedna_zerawodowskazu": "72.57",
+      "kilometr_biegu_rzeki": "49",
+      "stan_alarmowy": "300",
+      "stan_ostrzegawczy": "250",
+      "stan_wody": "127",
+      "stan_wody_data_pomiaru": "2026-07-24 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "16.9",
+      "przeplyw_data": "2026-07-24 03:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-14 11:20:00",
       "zjawisko_zarastania": "0",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T01:03:48.213988+00:00",
-    "data": {
-      "id_stacji": "154180110",
-      "stacja": "Zapowiednik",
-      "rzeka": "Wierzyca",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "60",
-      "stan_wody_data_pomiaru": "2026-07-17 00:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2",
-      "przeplyw_data": "2026-07-17 00:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-22 06:40:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-11 11:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T04:43:52.938459+00:00",
     "data": {
       "id_stacji": "154180110",
@@ -1789,6 +1768,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.21",
       "przeplyw_data": "2026-07-23 23:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-22 06:40:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-11 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T03:54:28.306704+00:00",
+    "data": {
+      "id_stacji": "154180110",
+      "stacja": "Zapowiednik",
+      "rzeka": "Wierzyca",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1970",
+      "rzedna_zerawodowskazu": "93.989",
+      "kilometr_biegu_rzeki": "89.59",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "63",
+      "stan_wody_data_pomiaru": "2026-07-24 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.21",
+      "przeplyw_data": "2026-07-24 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-22 06:40:00",
       "zjawisko_zarastania": "100",

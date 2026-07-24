@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-17T01:03:48.213988+00:00",
-    "data": {
-      "id_stacji": "154180120",
-      "stacja": "Gdynia",
-      "rzeka": "Bałtyk",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.5553",
-      "lat": "54.5178",
-      "stan_wody": "511",
-      "stan_wody_data_pomiaru": "2026-07-17 00:30:00",
-      "temperatura_wody": "17.9",
-      "temperatura_wody_data_pomiaru": "2026-07-16 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2018-10-01 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2019-03-25 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-17T04:43:52.938459+00:00",
     "data": {
       "id_stacji": "154180120",
@@ -1932,6 +1911,32 @@
       "stan_ostrzegawczy": "550",
       "stan_wody": "527",
       "stan_wody_data_pomiaru": "2026-07-23 23:30:00",
+      "temperatura_wody": "17.9",
+      "temperatura_wody_data_pomiaru": "2026-07-23 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2018-10-01 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2019-03-25 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-24T03:54:28.306704+00:00",
+    "data": {
+      "id_stacji": "154180120",
+      "stacja": "Gdynia",
+      "rzeka": "Bałtyk",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.5553",
+      "lat": "54.5178",
+      "rok_zalozenia_stacji": "1931",
+      "rzedna_zerawodowskazu": "-4.913",
+      "kilometr_biegu_rzeki": "0",
+      "stan_alarmowy": "570",
+      "stan_ostrzegawczy": "550",
+      "stan_wody": "524",
+      "stan_wody_data_pomiaru": "2026-07-24 03:30:00",
       "temperatura_wody": "17.9",
       "temperatura_wody_data_pomiaru": "2026-07-23 06:00:00",
       "przeplyw": null,
