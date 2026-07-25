@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T04:08:58.676897+00:00",
-    "data": {
-      "id_stacji": "153140070",
-      "stacja": "Dziwnów",
-      "rzeka": "Dziwna",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "14.7317",
-      "lat": "54.0206",
-      "stan_wody": "523",
-      "stan_wody_data_pomiaru": "2026-07-18 04:00:00",
-      "temperatura_wody": "20.8",
-      "temperatura_wody_data_pomiaru": "2026-07-17 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2019-01-17 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2017-11-15 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T06:29:00.935642+00:00",
     "data": {
       "id_stacji": "153140070",
@@ -1929,6 +1908,32 @@
       "stan_ostrzegawczy": "560",
       "stan_wody": "517",
       "stan_wody_data_pomiaru": "2026-07-25 03:00:00",
+      "temperatura_wody": "18.7",
+      "temperatura_wody_data_pomiaru": "2026-07-24 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2019-01-17 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2017-11-15 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T06:01:48.010624+00:00",
+    "data": {
+      "id_stacji": "153140070",
+      "stacja": "Dziwnów",
+      "rzeka": "Dziwna",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "14.7317",
+      "lat": "54.0206",
+      "rok_zalozenia_stacji": "1853",
+      "rzedna_zerawodowskazu": "-4.915",
+      "kilometr_biegu_rzeki": "0.38",
+      "stan_alarmowy": "580",
+      "stan_ostrzegawczy": "560",
+      "stan_wody": "517",
+      "stan_wody_data_pomiaru": "2026-07-25 05:30:00",
       "temperatura_wody": "18.7",
       "temperatura_wody_data_pomiaru": "2026-07-24 06:00:00",
       "przeplyw": null,

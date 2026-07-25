@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T04:08:58.676897+00:00",
-    "data": {
-      "id_stacji": "152170130",
-      "stacja": "Ląd",
-      "rzeka": "Warta",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.8861",
-      "lat": "52.2036",
-      "stan_wody": "114",
-      "stan_wody_data_pomiaru": "2026-07-18 04:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 10:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2021-06-22 10:07:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T06:29:00.935642+00:00",
     "data": {
       "id_stacji": "152170130",
@@ -1929,6 +1908,32 @@
       "stan_ostrzegawczy": "330",
       "stan_wody": "123",
       "stan_wody_data_pomiaru": "2026-07-25 03:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 10:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2021-06-22 10:07:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T06:01:48.010624+00:00",
+    "data": {
+      "id_stacji": "152170130",
+      "stacja": "Ląd",
+      "rzeka": "Warta",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.8861",
+      "lat": "52.2036",
+      "rok_zalozenia_stacji": "1999",
+      "rzedna_zerawodowskazu": "72.613",
+      "kilometr_biegu_rzeki": "368.77",
+      "stan_alarmowy": "370",
+      "stan_ostrzegawczy": "330",
+      "stan_wody": "122",
+      "stan_wody_data_pomiaru": "2026-07-25 05:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
