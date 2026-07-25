@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T20:21:20.490023+00:00",
-    "data": {
-      "id_stacji": "151160140",
-      "stacja": "Osetno",
-      "rzeka": "Barycz",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.4622",
-      "lat": "51.6317",
-      "stan_wody": "126",
-      "stan_wody_data_pomiaru": "2026-07-18 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.7",
-      "przeplyw_data": "2026-07-18 19:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-06-16 09:30:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-16 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T21:26:00.463801+00:00",
     "data": {
       "id_stacji": "151160140",
@@ -1936,6 +1915,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.01",
       "przeplyw_data": "2026-07-25 19:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-06-16 09:30:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-16 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T20:59:31.814897+00:00",
+    "data": {
+      "id_stacji": "151160140",
+      "stacja": "Osetno",
+      "rzeka": "Barycz",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.4622",
+      "lat": "51.6317",
+      "rok_zalozenia_stacji": "1892",
+      "rzedna_zerawodowskazu": "77.64",
+      "kilometr_biegu_rzeki": "18.12",
+      "stan_alarmowy": "330",
+      "stan_ostrzegawczy": "260",
+      "stan_wody": "129",
+      "stan_wody_data_pomiaru": "2026-07-25 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.01",
+      "przeplyw_data": "2026-07-25 20:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-06-16 09:30:00",
       "zjawisko_zarastania": "101",

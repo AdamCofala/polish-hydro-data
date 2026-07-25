@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T20:21:20.490023+00:00",
-    "data": {
-      "id_stacji": "153160080",
-      "stacja": "Storkowo",
-      "rzeka": "Parsęta",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "62",
-      "stan_wody_data_pomiaru": "2026-07-18 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.46",
-      "przeplyw_data": "2026-07-18 16:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-16 15:30:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-07-18T21:26:00.463801+00:00",
     "data": {
       "id_stacji": "153160080",
@@ -1932,6 +1911,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "65",
       "stan_wody_data_pomiaru": "2026-07-25 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.53",
+      "przeplyw_data": "2026-07-25 15:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-16 15:30:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-07-25T20:59:31.814897+00:00",
+    "data": {
+      "id_stacji": "153160080",
+      "stacja": "Storkowo",
+      "rzeka": "Parsęta",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1984",
+      "rzedna_zerawodowskazu": "83.924",
+      "kilometr_biegu_rzeki": "140.72",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "64",
+      "stan_wody_data_pomiaru": "2026-07-25 20:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.53",

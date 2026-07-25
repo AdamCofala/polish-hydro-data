@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T20:21:20.490023+00:00",
-    "data": {
-      "id_stacji": "151180030",
-      "stacja": "Kuźnica Skakawska",
-      "rzeka": "Niesób",
-      "wojewodztwo": "łódzkie",
-      "lon": "18.1317",
-      "lat": "51.2797",
-      "stan_wody": "41",
-      "stan_wody_data_pomiaru": "2026-07-18 19:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.18",
-      "przeplyw_data": "2026-07-18 19:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-24 09:20:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-09 07:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T21:26:00.463801+00:00",
     "data": {
       "id_stacji": "151180030",
@@ -1936,6 +1915,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.19",
       "przeplyw_data": "2026-07-25 19:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-24 09:20:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-09 07:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T20:59:31.814897+00:00",
+    "data": {
+      "id_stacji": "151180030",
+      "stacja": "Kuźnica Skakawska",
+      "rzeka": "Niesób",
+      "wojewodztwo": "łódzkie",
+      "lon": "18.1317",
+      "lat": "51.2797",
+      "rok_zalozenia_stacji": "1940",
+      "rzedna_zerawodowskazu": "152.157",
+      "kilometr_biegu_rzeki": "4.45",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "41",
+      "stan_wody_data_pomiaru": "2026-07-25 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.19",
+      "przeplyw_data": "2026-07-25 20:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-24 09:20:00",
       "zjawisko_zarastania": "101",

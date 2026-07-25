@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T20:21:20.490023+00:00",
-    "data": {
-      "id_stacji": "150190130",
-      "stacja": "Łagisza",
-      "rzeka": "Czarna Przemsza",
-      "wojewodztwo": "śląskie",
-      "lon": "19.1856",
-      "lat": "50.3503",
-      "stan_wody": "113",
-      "stan_wody_data_pomiaru": "2026-07-18 20:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.22",
-      "przeplyw_data": "2026-07-18 19:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-12 09:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-02 08:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T21:26:00.463801+00:00",
     "data": {
       "id_stacji": "150190130",
@@ -1936,6 +1915,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.11",
       "przeplyw_data": "2026-07-25 19:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-12 09:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-02 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T20:59:31.814897+00:00",
+    "data": {
+      "id_stacji": "150190130",
+      "stacja": "Łagisza",
+      "rzeka": "Czarna Przemsza",
+      "wojewodztwo": "śląskie",
+      "lon": "19.1856",
+      "lat": "50.3503",
+      "rok_zalozenia_stacji": "1969",
+      "rzedna_zerawodowskazu": "260.124",
+      "kilometr_biegu_rzeki": "41.66",
+      "stan_alarmowy": "240",
+      "stan_ostrzegawczy": "200",
+      "stan_wody": "111",
+      "stan_wody_data_pomiaru": "2026-07-25 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.06",
+      "przeplyw_data": "2026-07-25 20:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-12 09:00:00",
       "zjawisko_zarastania": "0",
