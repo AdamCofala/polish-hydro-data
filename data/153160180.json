@@ -1,47 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T06:29:00.935642+00:00",
-    "data": {
-      "id_stacji": "153160180",
-      "stacja": "Piła",
-      "rzeka": "Gwda",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.7397",
-      "lat": "53.1514",
-      "stan_wody": "156",
-      "stan_wody_data_pomiaru": "2026-07-18 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "15.2",
-      "przeplyw_data": "2026-07-18 06:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-12 12:30:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-09 08:30:00"
-    }
-  },
-  {
-    "timestamp": "2026-07-18T08:24:10.108863+00:00",
-    "data": {
-      "id_stacji": "153160180",
-      "stacja": "Piła",
-      "rzeka": "Gwda",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.7397",
-      "lat": "53.1514",
-      "stan_wody": "158",
-      "stan_wody_data_pomiaru": "2026-07-18 08:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "15.5",
-      "przeplyw_data": "2026-07-18 08:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-12 12:30:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-09 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T09:59:44.223008+00:00",
     "data": {
       "id_stacji": "153160180",
@@ -1938,6 +1896,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "14.7",
       "przeplyw_data": "2026-07-25 05:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-12 12:30:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-22 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T08:30:56.482650+00:00",
+    "data": {
+      "id_stacji": "153160180",
+      "stacja": "Piła",
+      "rzeka": "Gwda",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "16.7397",
+      "lat": "53.1514",
+      "rok_zalozenia_stacji": "1888",
+      "rzedna_zerawodowskazu": "54.528",
+      "kilometr_biegu_rzeki": "24.87",
+      "stan_alarmowy": "220",
+      "stan_ostrzegawczy": "190",
+      "stan_wody": "161",
+      "stan_wody_data_pomiaru": "2026-07-25 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "14.5",
+      "przeplyw_data": "2026-07-25 08:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-12 12:30:00",
       "zjawisko_zarastania": "200",
