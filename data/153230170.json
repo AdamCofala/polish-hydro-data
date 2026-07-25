@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T17:59:58.206398+00:00",
-    "data": {
-      "id_stacji": "153230170",
-      "stacja": "Nowosiółki",
-      "rzeka": "Supraśl",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.53",
-      "lat": "53.1733",
-      "stan_wody": "165",
-      "stan_wody_data_pomiaru": "2026-07-18 17:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.51",
-      "przeplyw_data": "2026-07-18 17:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-03 08:20:00",
-      "zjawisko_zarastania": "331",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-17 08:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T19:18:53.415688+00:00",
     "data": {
       "id_stacji": "153230170",
@@ -1900,6 +1879,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.52",
       "przeplyw_data": "2026-07-25 16:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-03 08:20:00",
+      "zjawisko_zarastania": "331",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-17 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T18:28:18.896701+00:00",
+    "data": {
+      "id_stacji": "153230170",
+      "stacja": "Nowosiółki",
+      "rzeka": "Supraśl",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.53",
+      "lat": "53.1733",
+      "rok_zalozenia_stacji": "1931",
+      "rzedna_zerawodowskazu": "128.836",
+      "kilometr_biegu_rzeki": "62.81",
+      "stan_alarmowy": "240",
+      "stan_ostrzegawczy": "200",
+      "stan_wody": "169",
+      "stan_wody_data_pomiaru": "2026-07-25 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.52",
+      "przeplyw_data": "2026-07-25 18:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-03 08:20:00",
       "zjawisko_zarastania": "331",
