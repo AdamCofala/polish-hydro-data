@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T21:26:00.463801+00:00",
-    "data": {
-      "id_stacji": "150210120",
-      "stacja": "Mielec 2",
-      "rzeka": "Wisłoka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.4303",
-      "lat": "50.2792",
-      "stan_wody": "169",
-      "stan_wody_data_pomiaru": "2026-07-18 21:00:00",
-      "temperatura_wody": "23.6",
-      "temperatura_wody_data_pomiaru": "2026-07-18 06:00:00",
-      "przeplyw": "6.16",
-      "przeplyw_data": "2026-07-18 21:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-07-01 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-01 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T22:25:32.545112+00:00",
     "data": {
       "id_stacji": "150210120",
@@ -1941,6 +1920,32 @@
       "temperatura_wody_data_pomiaru": "2026-07-25 06:00:00",
       "przeplyw": "8.18",
       "przeplyw_data": "2026-07-25 20:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-07-01 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-01 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T22:03:34.146252+00:00",
+    "data": {
+      "id_stacji": "150210120",
+      "stacja": "Mielec 2",
+      "rzeka": "Wisłoka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.4303",
+      "lat": "50.2792",
+      "rok_zalozenia_stacji": "1991",
+      "rzedna_zerawodowskazu": "161.53",
+      "kilometr_biegu_rzeki": "21.97",
+      "stan_alarmowy": "650",
+      "stan_ostrzegawczy": "480",
+      "stan_wody": "174",
+      "stan_wody_data_pomiaru": "2026-07-25 21:30:00",
+      "temperatura_wody": "19.6",
+      "temperatura_wody_data_pomiaru": "2026-07-25 06:00:00",
+      "przeplyw": "8.18",
+      "przeplyw_data": "2026-07-25 21:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-07-01 12:00:00",
       "zjawisko_zarastania": "0",

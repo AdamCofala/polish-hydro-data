@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T21:26:00.463801+00:00",
-    "data": {
-      "id_stacji": "149200270",
-      "stacja": "Łabowa",
-      "rzeka": "Kamienic",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.8589",
-      "lat": "49.5264",
-      "stan_wody": "53",
-      "stan_wody_data_pomiaru": "2026-07-18 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.2",
-      "przeplyw_data": "2026-07-18 21:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-07-07 13:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-07 13:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T22:25:32.545112+00:00",
     "data": {
       "id_stacji": "149200270",
@@ -1941,6 +1920,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.2",
       "przeplyw_data": "2026-07-25 20:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-07-07 13:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-07 13:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T22:03:34.146252+00:00",
+    "data": {
+      "id_stacji": "149200270",
+      "stacja": "Łabowa",
+      "rzeka": "Kamienic",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.8589",
+      "lat": "49.5264",
+      "rok_zalozenia_stacji": "1934",
+      "rzedna_zerawodowskazu": "450.321",
+      "kilometr_biegu_rzeki": "20.51",
+      "stan_alarmowy": "250",
+      "stan_ostrzegawczy": "180",
+      "stan_wody": "53",
+      "stan_wody_data_pomiaru": "2026-07-25 21:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.2",
+      "przeplyw_data": "2026-07-25 21:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-07-07 13:20:00",
       "zjawisko_zarastania": "0",
