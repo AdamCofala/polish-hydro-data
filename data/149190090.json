@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T16:31:21.458576+00:00",
-    "data": {
-      "id_stacji": "149190090",
-      "stacja": "Żabnica",
-      "rzeka": "Żabniczanka",
-      "wojewodztwo": "śląskie",
-      "lon": "19.1803",
-      "lat": "49.5647",
-      "stan_wody": "102",
-      "stan_wody_data_pomiaru": "2026-07-18 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.55",
-      "przeplyw_data": "2026-07-18 16:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-15 10:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-26 08:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T17:59:58.206398+00:00",
     "data": {
       "id_stacji": "149190090",
@@ -1921,6 +1900,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.26",
       "przeplyw_data": "2026-07-25 15:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-15 10:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-26 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T17:06:30.098487+00:00",
+    "data": {
+      "id_stacji": "149190090",
+      "stacja": "Żabnica",
+      "rzeka": "Żabniczanka",
+      "wojewodztwo": "śląskie",
+      "lon": "19.1803",
+      "lat": "49.5647",
+      "rok_zalozenia_stacji": "1925",
+      "rzedna_zerawodowskazu": "565",
+      "kilometr_biegu_rzeki": "7.62",
+      "stan_alarmowy": "200",
+      "stan_ostrzegawczy": "160",
+      "stan_wody": "94",
+      "stan_wody_data_pomiaru": "2026-07-25 16:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.26",
+      "przeplyw_data": "2026-07-25 16:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-15 10:00:00",
       "zjawisko_zarastania": "0",

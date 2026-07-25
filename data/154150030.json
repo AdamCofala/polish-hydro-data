@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T16:31:21.458576+00:00",
-    "data": {
-      "id_stacji": "154150030",
-      "stacja": "Kołobrzeg",
-      "rzeka": "Bałtyk",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "15.5533",
-      "lat": "54.1867",
-      "stan_wody": "522",
-      "stan_wody_data_pomiaru": "2026-07-18 16:00:00",
-      "temperatura_wody": "15.3",
-      "temperatura_wody_data_pomiaru": "2026-07-18 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2019-03-29 09:00:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-07-18T17:59:58.206398+00:00",
     "data": {
       "id_stacji": "154150030",
@@ -1917,6 +1896,32 @@
       "stan_ostrzegawczy": "570",
       "stan_wody": "514",
       "stan_wody_data_pomiaru": "2026-07-25 15:30:00",
+      "temperatura_wody": "17.6",
+      "temperatura_wody_data_pomiaru": "2026-07-25 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2019-03-29 09:00:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-07-25T17:06:30.098487+00:00",
+    "data": {
+      "id_stacji": "154150030",
+      "stacja": "Kołobrzeg",
+      "rzeka": "Bałtyk",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "15.5533",
+      "lat": "54.1867",
+      "rok_zalozenia_stacji": "1810",
+      "rzedna_zerawodowskazu": "-4.902",
+      "kilometr_biegu_rzeki": "0",
+      "stan_alarmowy": "610",
+      "stan_ostrzegawczy": "570",
+      "stan_wody": "513",
+      "stan_wody_data_pomiaru": "2026-07-25 16:30:00",
       "temperatura_wody": "17.6",
       "temperatura_wody_data_pomiaru": "2026-07-25 06:00:00",
       "przeplyw": null,

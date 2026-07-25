@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T16:31:21.458576+00:00",
-    "data": {
-      "id_stacji": "154190090",
-      "stacja": "Tolkmicko",
-      "rzeka": "Zalew Wiślany",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "19.5231",
-      "lat": "54.3233",
-      "stan_wody": "519",
-      "stan_wody_data_pomiaru": "2026-07-18 16:00:00",
-      "temperatura_wody": "19.7",
-      "temperatura_wody_data_pomiaru": "2026-07-18 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "2",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-14 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-06 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T17:59:58.206398+00:00",
     "data": {
       "id_stacji": "154190090",
@@ -1917,6 +1896,32 @@
       "stan_ostrzegawczy": "590",
       "stan_wody": "522",
       "stan_wody_data_pomiaru": "2026-07-25 15:30:00",
+      "temperatura_wody": "18.9",
+      "temperatura_wody_data_pomiaru": "2026-07-25 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "2",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-14 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-06 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T17:06:30.098487+00:00",
+    "data": {
+      "id_stacji": "154190090",
+      "stacja": "Tolkmicko",
+      "rzeka": "Zalew Wiślany",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "19.5231",
+      "lat": "54.3233",
+      "rok_zalozenia_stacji": "1947",
+      "rzedna_zerawodowskazu": "-4.994",
+      "kilometr_biegu_rzeki": "0",
+      "stan_alarmowy": "630",
+      "stan_ostrzegawczy": "590",
+      "stan_wody": "522",
+      "stan_wody_data_pomiaru": "2026-07-25 16:30:00",
       "temperatura_wody": "18.9",
       "temperatura_wody_data_pomiaru": "2026-07-25 06:00:00",
       "przeplyw": null,

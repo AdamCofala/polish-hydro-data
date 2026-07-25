@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T16:31:21.458576+00:00",
-    "data": {
-      "id_stacji": "149190080",
-      "stacja": "Cięcina",
-      "rzeka": "Soła",
-      "wojewodztwo": "śląskie",
-      "lon": "19.1489",
-      "lat": "49.6247",
-      "stan_wody": "104",
-      "stan_wody_data_pomiaru": "2026-07-18 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "6.5",
-      "przeplyw_data": "2026-07-18 16:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-19 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-30 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T17:59:58.206398+00:00",
     "data": {
       "id_stacji": "149190080",
@@ -1921,6 +1900,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.7",
       "przeplyw_data": "2026-07-25 15:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-19 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-30 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T17:06:30.098487+00:00",
+    "data": {
+      "id_stacji": "149190080",
+      "stacja": "Cięcina",
+      "rzeka": "Soła",
+      "wojewodztwo": "śląskie",
+      "lon": "19.1489",
+      "lat": "49.6247",
+      "rok_zalozenia_stacji": "1900",
+      "rzedna_zerawodowskazu": "383.276",
+      "kilometr_biegu_rzeki": "59.65",
+      "stan_alarmowy": "360",
+      "stan_ostrzegawczy": "280",
+      "stan_wody": "95",
+      "stan_wody_data_pomiaru": "2026-07-25 16:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.7",
+      "przeplyw_data": "2026-07-25 16:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-19 06:00:00",
       "zjawisko_zarastania": "0",
