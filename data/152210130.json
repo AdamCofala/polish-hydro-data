@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T09:59:44.223008+00:00",
-    "data": {
-      "id_stacji": "152210130",
-      "stacja": "Nowe kaczkowo",
-      "rzeka": "Brok",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "139",
-      "stan_wody_data_pomiaru": "2026-07-18 09:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.6",
-      "przeplyw_data": "2026-07-18 09:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-28 06:00:00",
-      "zjawisko_zarastania": "331",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-01 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T11:14:40.489487+00:00",
     "data": {
       "id_stacji": "152210130",
@@ -1922,6 +1901,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.62",
       "przeplyw_data": "2026-07-25 08:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-28 06:00:00",
+      "zjawisko_zarastania": "331",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-01 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T10:38:03.010670+00:00",
+    "data": {
+      "id_stacji": "152210130",
+      "stacja": "Nowe kaczkowo",
+      "rzeka": "Brok",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1966",
+      "rzedna_zerawodowskazu": "96.491",
+      "kilometr_biegu_rzeki": "7.75",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "142",
+      "stan_wody_data_pomiaru": "2026-07-25 10:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.62",
+      "przeplyw_data": "2026-07-25 10:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-28 06:00:00",
       "zjawisko_zarastania": "331",

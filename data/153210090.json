@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T09:59:44.223008+00:00",
-    "data": {
-      "id_stacji": "153210090",
-      "stacja": "Ostrołęka",
-      "rzeka": "Narew",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.5628",
-      "lat": "53.0839",
-      "stan_wody": "49",
-      "stan_wody_data_pomiaru": "2026-07-18 09:30:00",
-      "temperatura_wody": "24.8",
-      "temperatura_wody_data_pomiaru": "2026-07-17 06:00:00",
-      "przeplyw": "33.6",
-      "przeplyw_data": "2026-07-18 09:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-17 14:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-07 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T11:14:40.489487+00:00",
     "data": {
       "id_stacji": "153210090",
@@ -1922,6 +1901,32 @@
       "temperatura_wody_data_pomiaru": "2026-07-24 06:00:00",
       "przeplyw": "38.7",
       "przeplyw_data": "2026-07-25 08:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-17 14:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-07 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T10:38:03.010670+00:00",
+    "data": {
+      "id_stacji": "153210090",
+      "stacja": "Ostrołęka",
+      "rzeka": "Narew",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.5628",
+      "lat": "53.0839",
+      "rok_zalozenia_stacji": "1876",
+      "rzedna_zerawodowskazu": "89.472",
+      "kilometr_biegu_rzeki": "145.57",
+      "stan_alarmowy": "380",
+      "stan_ostrzegawczy": "360",
+      "stan_wody": "57",
+      "stan_wody_data_pomiaru": "2026-07-25 10:00:00",
+      "temperatura_wody": "21.9",
+      "temperatura_wody_data_pomiaru": "2026-07-25 06:00:00",
+      "przeplyw": "38.7",
+      "przeplyw_data": "2026-07-25 10:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-17 14:50:00",
       "zjawisko_zarastania": "0",

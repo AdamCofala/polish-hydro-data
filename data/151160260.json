@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T09:59:44.223008+00:00",
-    "data": {
-      "id_stacji": "151160260",
-      "stacja": "Sława śląska",
-      "rzeka": "Czernica",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "359",
-      "stan_wody_data_pomiaru": "2026-07-18 09:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 10:30:00",
-      "zjawisko_zarastania": "2",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-12 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T11:14:40.489487+00:00",
     "data": {
       "id_stacji": "151160260",
@@ -1918,6 +1897,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "373",
       "stan_wody_data_pomiaru": "2026-07-25 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 10:30:00",
+      "zjawisko_zarastania": "112",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-20 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T10:38:03.010670+00:00",
+    "data": {
+      "id_stacji": "151160260",
+      "stacja": "Sława śląska",
+      "rzeka": "Czernica",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1970",
+      "rzedna_zerawodowskazu": "54.114",
+      "kilometr_biegu_rzeki": "0.81",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "373",
+      "stan_wody_data_pomiaru": "2026-07-25 10:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
