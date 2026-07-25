@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T00:59:11.372589+00:00",
-    "data": {
-      "id_stacji": "152200010",
-      "stacja": "Kęszyce",
-      "rzeka": "Rawka",
-      "wojewodztwo": "łódzkie",
-      "lon": "20.1314",
-      "lat": "52.1358",
-      "stan_wody": "226",
-      "stan_wody_data_pomiaru": "2026-07-18 00:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.42",
-      "przeplyw_data": "2026-07-18 00:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-26 12:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-09 07:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T04:08:58.676897+00:00",
     "data": {
       "id_stacji": "152200010",
@@ -1928,6 +1907,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.67",
       "przeplyw_data": "2026-07-24 23:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-26 12:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-09 07:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T03:21:08.795761+00:00",
+    "data": {
+      "id_stacji": "152200010",
+      "stacja": "Kęszyce",
+      "rzeka": "Rawka",
+      "wojewodztwo": "łódzkie",
+      "lon": "20.1314",
+      "lat": "52.1358",
+      "rok_zalozenia_stacji": "1929",
+      "rzedna_zerawodowskazu": "76.905",
+      "kilometr_biegu_rzeki": "3.1",
+      "stan_alarmowy": "400",
+      "stan_ostrzegawczy": "350",
+      "stan_wody": "235",
+      "stan_wody_data_pomiaru": "2026-07-25 03:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.7",
+      "przeplyw_data": "2026-07-25 02:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-26 12:40:00",
       "zjawisko_zarastania": "0",
