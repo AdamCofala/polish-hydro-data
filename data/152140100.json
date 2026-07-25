@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T19:18:53.415688+00:00",
-    "data": {
-      "id_stacji": "152140100",
-      "stacja": "Dolsk",
-      "rzeka": "Myśla",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "11",
-      "stan_wody_data_pomiaru": "2026-07-18 19:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.12",
-      "przeplyw_data": "2026-07-18 11:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-10 06:00:00",
-      "zjawisko_zarastania": "202",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-07 07:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T20:21:20.490023+00:00",
     "data": {
       "id_stacji": "152140100",
@@ -1927,6 +1906,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "44",
       "stan_wody_data_pomiaru": "2026-07-25 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.52",
+      "przeplyw_data": "2026-07-25 11:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-10 06:00:00",
+      "zjawisko_zarastania": "202",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-07 07:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T19:47:17.244875+00:00",
+    "data": {
+      "id_stacji": "152140100",
+      "stacja": "Dolsk",
+      "rzeka": "Myśla",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1900",
+      "rzedna_zerawodowskazu": "44.039",
+      "kilometr_biegu_rzeki": "49.86",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "44",
+      "stan_wody_data_pomiaru": "2026-07-25 19:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.52",

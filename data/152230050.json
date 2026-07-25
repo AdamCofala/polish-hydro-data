@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T19:18:53.415688+00:00",
-    "data": {
-      "id_stacji": "152230050",
-      "stacja": "Perkowice",
-      "rzeka": "Zielawa",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "96",
-      "stan_wody_data_pomiaru": "2026-07-18 19:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.51",
-      "przeplyw_data": "2026-07-18 16:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-18 12:30:00",
-      "zjawisko_zarastania": "11",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-07 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T20:21:20.490023+00:00",
     "data": {
       "id_stacji": "152230050",
@@ -1927,6 +1906,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "92",
       "stan_wody_data_pomiaru": "2026-07-25 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.44",
+      "przeplyw_data": "2026-07-25 16:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-18 12:30:00",
+      "zjawisko_zarastania": "11",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-07 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T19:47:17.244875+00:00",
+    "data": {
+      "id_stacji": "152230050",
+      "stacja": "Perkowice",
+      "rzeka": "Zielawa",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1973",
+      "rzedna_zerawodowskazu": "134.43",
+      "kilometr_biegu_rzeki": "5.09",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "92",
+      "stan_wody_data_pomiaru": "2026-07-25 19:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.44",
