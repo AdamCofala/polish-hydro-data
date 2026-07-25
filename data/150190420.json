@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T15:30:03.164056+00:00",
-    "data": {
-      "id_stacji": "150190420",
-      "stacja": "Januszowice",
-      "rzeka": "Prądnik",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "182",
-      "stan_wody_data_pomiaru": "2026-07-18 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-15 08:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T16:31:21.458576+00:00",
     "data": {
       "id_stacji": "150190420",
@@ -1912,6 +1891,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "181",
       "stan_wody_data_pomiaru": "2026-07-25 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-15 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T15:42:07.232049+00:00",
+    "data": {
+      "id_stacji": "150190420",
+      "stacja": "Januszowice",
+      "rzeka": "Prądnik",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "2022",
+      "rzedna_zerawodowskazu": "255.131",
+      "kilometr_biegu_rzeki": "16.85",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "181",
+      "stan_wody_data_pomiaru": "2026-07-25 15:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
