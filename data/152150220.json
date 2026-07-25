@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T11:14:40.489487+00:00",
-    "data": {
-      "id_stacji": "152150220",
-      "stacja": "Zbąszyń",
-      "rzeka": "Obra",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "48",
-      "stan_wody_data_pomiaru": "2026-07-18 11:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.56",
-      "przeplyw_data": "2026-07-18 10:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-01 08:30:00",
-      "zjawisko_zarastania": "111",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-02 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T12:28:36.212510+00:00",
     "data": {
       "id_stacji": "152150220",
@@ -1906,6 +1885,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.51",
       "przeplyw_data": "2026-07-25 10:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-01 08:30:00",
+      "zjawisko_zarastania": "111",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-02 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T12:05:07.598085+00:00",
+    "data": {
+      "id_stacji": "152150220",
+      "stacja": "Zbąszyń",
+      "rzeka": "Obra",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1892",
+      "rzedna_zerawodowskazu": "50.491",
+      "kilometr_biegu_rzeki": "101.83",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "45",
+      "stan_wody_data_pomiaru": "2026-07-25 11:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.51",
+      "przeplyw_data": "2026-07-25 11:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-01 08:30:00",
       "zjawisko_zarastania": "111",

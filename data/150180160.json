@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-18T11:14:40.489487+00:00",
-    "data": {
-      "id_stacji": "150180160",
-      "stacja": "Pyskowice Dzierżno",
-      "rzeka": "Drama",
-      "wojewodztwo": "śląskie",
-      "lon": "18.5431",
-      "lat": "50.3825",
-      "stan_wody": "299",
-      "stan_wody_data_pomiaru": "2026-07-18 10:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-26 09:10:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-29 09:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-18T12:28:36.212510+00:00",
     "data": {
       "id_stacji": "150180160",
@@ -1923,6 +1902,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "293",
       "stan_wody_data_pomiaru": "2026-07-25 10:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-26 09:10:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-29 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-25T12:05:07.598085+00:00",
+    "data": {
+      "id_stacji": "150180160",
+      "stacja": "Pyskowice Dzierżno",
+      "rzeka": "Drama",
+      "wojewodztwo": "śląskie",
+      "lon": "18.5431",
+      "lat": "50.3825",
+      "rok_zalozenia_stacji": "2005",
+      "rzedna_zerawodowskazu": "191.608",
+      "kilometr_biegu_rzeki": "0.43",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "294",
+      "stan_wody_data_pomiaru": "2026-07-25 11:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
