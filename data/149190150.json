@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T04:51:35.825588+00:00",
-    "data": {
-      "id_stacji": "149190150",
-      "stacja": "Pewel Mała",
-      "rzeka": "Koszarawa",
-      "wojewodztwo": "śląskie",
-      "lon": "19.3056",
-      "lat": "49.6586",
-      "stan_wody": "108",
-      "stan_wody_data_pomiaru": "2026-07-19 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.48",
-      "przeplyw_data": "2026-07-19 04:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-13 10:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-10-30 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T07:30:23.258558+00:00",
     "data": {
       "id_stacji": "149190150",
@@ -1701,6 +1680,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.46",
       "przeplyw_data": "2026-07-26 03:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-13 10:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-10-30 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T06:41:14.633037+00:00",
+    "data": {
+      "id_stacji": "149190150",
+      "stacja": "Pewel Mała",
+      "rzeka": "Koszarawa",
+      "wojewodztwo": "śląskie",
+      "lon": "19.3056",
+      "lat": "49.6586",
+      "rok_zalozenia_stacji": "1962",
+      "rzedna_zerawodowskazu": "405.239",
+      "kilometr_biegu_rzeki": "9.83",
+      "stan_alarmowy": "230",
+      "stan_ostrzegawczy": "150",
+      "stan_wody": "102",
+      "stan_wody_data_pomiaru": "2026-07-26 06:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.46",
+      "przeplyw_data": "2026-07-26 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-13 10:30:00",
       "zjawisko_zarastania": "0",

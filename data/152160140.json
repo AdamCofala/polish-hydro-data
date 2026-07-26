@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T04:51:35.825588+00:00",
-    "data": {
-      "id_stacji": "152160140",
-      "stacja": "Poznań Most Rocha",
-      "rzeka": "Warta",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "16.9453",
-      "lat": "52.4022",
-      "stan_wody": "117",
-      "stan_wody_data_pomiaru": "2026-07-19 04:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "26.1",
-      "przeplyw_data": "2026-07-19 04:30:00",
-      "zjawisko_lodowe": "9",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 09:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2024-03-14 09:11:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T07:30:23.258558+00:00",
     "data": {
       "id_stacji": "152160140",
@@ -1935,6 +1914,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "27.3",
       "przeplyw_data": "2026-07-26 03:10:00",
+      "zjawisko_lodowe": "9",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 09:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2024-03-14 09:11:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T06:41:14.633037+00:00",
+    "data": {
+      "id_stacji": "152160140",
+      "stacja": "Poznań Most Rocha",
+      "rzeka": "Warta",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "16.9453",
+      "lat": "52.4022",
+      "rok_zalozenia_stacji": "1927",
+      "rzedna_zerawodowskazu": "49.544",
+      "kilometr_biegu_rzeki": "241.23",
+      "stan_alarmowy": "500",
+      "stan_ostrzegawczy": "400",
+      "stan_wody": "120",
+      "stan_wody_data_pomiaru": "2026-07-26 06:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "27.7",
+      "przeplyw_data": "2026-07-26 06:10:00",
       "zjawisko_lodowe": "9",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 09:50:00",
       "zjawisko_zarastania": "0",
