@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T14:05:58.042206+00:00",
-    "data": {
-      "id_stacji": "152170010",
-      "stacja": "Śrem",
-      "rzeka": "Warta",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "17.0161",
-      "lat": "52.0931",
-      "stan_wody": "144",
-      "stan_wody_data_pomiaru": "2026-07-19 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "25.4",
-      "przeplyw_data": "2026-07-19 13:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-13 09:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-07 10:25:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T15:31:45.402081+00:00",
     "data": {
       "id_stacji": "152170010",
@@ -1913,6 +1892,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "26.5",
       "przeplyw_data": "2026-07-26 12:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-13 09:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-07 10:25:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T14:41:09.992100+00:00",
+    "data": {
+      "id_stacji": "152170010",
+      "stacja": "Śrem",
+      "rzeka": "Warta",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "17.0161",
+      "lat": "52.0931",
+      "rok_zalozenia_stacji": "1822",
+      "rzedna_zerawodowskazu": "57.961",
+      "kilometr_biegu_rzeki": "290.31",
+      "stan_alarmowy": "460",
+      "stan_ostrzegawczy": "400",
+      "stan_wody": "147",
+      "stan_wody_data_pomiaru": "2026-07-26 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "26.5",
+      "przeplyw_data": "2026-07-26 14:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-13 09:10:00",
       "zjawisko_zarastania": "0",

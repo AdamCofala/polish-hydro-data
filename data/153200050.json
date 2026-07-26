@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T14:05:58.042206+00:00",
-    "data": {
-      "id_stacji": "153200050",
-      "stacja": "Sarnowo",
-      "rzeka": "Szkotówka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "122",
-      "stan_wody_data_pomiaru": "2026-07-19 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.45",
-      "przeplyw_data": "2026-07-19 13:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-12 11:40:00",
-      "zjawisko_zarastania": "300",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-16 11:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T15:31:45.402081+00:00",
     "data": {
       "id_stacji": "153200050",
@@ -1934,6 +1913,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.75",
       "przeplyw_data": "2026-07-26 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-12 11:40:00",
+      "zjawisko_zarastania": "201",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-21 11:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T14:41:09.992100+00:00",
+    "data": {
+      "id_stacji": "153200050",
+      "stacja": "Sarnowo",
+      "rzeka": "Szkotówka",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1955",
+      "rzedna_zerawodowskazu": "150.996",
+      "kilometr_biegu_rzeki": "3.97",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "137",
+      "stan_wody_data_pomiaru": "2026-07-26 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.75",
+      "przeplyw_data": "2026-07-26 14:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-12 11:40:00",
       "zjawisko_zarastania": "201",

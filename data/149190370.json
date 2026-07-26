@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T14:05:58.042206+00:00",
-    "data": {
-      "id_stacji": "149190370",
-      "stacja": "Lubień",
-      "rzeka": "Lubieńka",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.9783",
-      "lat": "49.7197",
-      "stan_wody": "72",
-      "stan_wody_data_pomiaru": "2026-07-19 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.13",
-      "przeplyw_data": "2026-07-19 13:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-13 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-11 10:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T15:31:45.402081+00:00",
     "data": {
       "id_stacji": "149190370",
@@ -1934,6 +1913,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.13",
       "przeplyw_data": "2026-07-26 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-13 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-11 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T14:41:09.992100+00:00",
+    "data": {
+      "id_stacji": "149190370",
+      "stacja": "Lubień",
+      "rzeka": "Lubieńka",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.9783",
+      "lat": "49.7197",
+      "rok_zalozenia_stacji": "1957",
+      "rzedna_zerawodowskazu": "342.494",
+      "kilometr_biegu_rzeki": "0.35",
+      "stan_alarmowy": "140",
+      "stan_ostrzegawczy": "120",
+      "stan_wody": "73",
+      "stan_wody_data_pomiaru": "2026-07-26 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.13",
+      "przeplyw_data": "2026-07-26 14:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-13 12:00:00",
       "zjawisko_zarastania": "0",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T14:05:58.042206+00:00",
-    "data": {
-      "id_stacji": "154170080",
-      "stacja": "Łupawa",
-      "rzeka": "Łupawa",
-      "wojewodztwo": "pomorskie",
-      "lon": "17.4156",
-      "lat": "54.4194",
-      "stan_wody": "60",
-      "stan_wody_data_pomiaru": "2026-07-19 13:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.71",
-      "przeplyw_data": "2026-07-19 13:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 10:30:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-16 14:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T15:31:45.402081+00:00",
     "data": {
       "id_stacji": "154170080",
@@ -1934,6 +1913,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.83",
       "przeplyw_data": "2026-07-26 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 10:30:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-21 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T14:41:09.992100+00:00",
+    "data": {
+      "id_stacji": "154170080",
+      "stacja": "Łupawa",
+      "rzeka": "Łupawa",
+      "wojewodztwo": "pomorskie",
+      "lon": "17.4156",
+      "lat": "54.4194",
+      "rok_zalozenia_stacji": "1946",
+      "rzedna_zerawodowskazu": "67.156",
+      "kilometr_biegu_rzeki": "65.97",
+      "stan_alarmowy": "160",
+      "stan_ostrzegawczy": "130",
+      "stan_wody": "61",
+      "stan_wody_data_pomiaru": "2026-07-26 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.83",
+      "przeplyw_data": "2026-07-26 14:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 10:30:00",
       "zjawisko_zarastania": "100",

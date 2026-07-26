@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T14:05:58.042206+00:00",
-    "data": {
-      "id_stacji": "151180150",
-      "stacja": "Widawa",
-      "rzeka": "Nieciecz",
-      "wojewodztwo": "łódzkie",
-      "lon": "18.9467",
-      "lat": "51.4383",
-      "stan_wody": "111",
-      "stan_wody_data_pomiaru": "2026-07-19 13:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0",
-      "przeplyw_data": "2026-06-24 13:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-20 08:50:00",
-      "zjawisko_zarastania": "221",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-01 11:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T15:31:45.402081+00:00",
     "data": {
       "id_stacji": "151180150",
@@ -1930,6 +1909,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "102",
       "stan_wody_data_pomiaru": "2026-07-26 12:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0",
+      "przeplyw_data": "2026-06-24 13:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-20 08:50:00",
+      "zjawisko_zarastania": "221",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-01 11:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T14:41:09.992100+00:00",
+    "data": {
+      "id_stacji": "151180150",
+      "stacja": "Widawa",
+      "rzeka": "Nieciecz",
+      "wojewodztwo": "łódzkie",
+      "lon": "18.9467",
+      "lat": "51.4383",
+      "rok_zalozenia_stacji": "1940",
+      "rzedna_zerawodowskazu": "143.783",
+      "kilometr_biegu_rzeki": "3.47",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "100",
+      "stan_wody_data_pomiaru": "2026-07-26 14:20:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0",
