@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T01:05:21.044088+00:00",
-    "data": {
-      "id_stacji": "152160080",
-      "stacja": "Szamotuły",
-      "rzeka": "Sama",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "74",
-      "stan_wody_data_pomiaru": "2026-07-19 00:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.17",
-      "przeplyw_data": "2026-07-18 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-26 06:00:00",
-      "zjawisko_zarastania": "102",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-10 08:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T04:51:35.825588+00:00",
     "data": {
       "id_stacji": "152160080",
@@ -1926,6 +1905,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "70",
       "stan_wody_data_pomiaru": "2026-07-25 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.12",
+      "przeplyw_data": "2026-07-25 17:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-26 06:00:00",
+      "zjawisko_zarastania": "102",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-10 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T03:35:03.018648+00:00",
+    "data": {
+      "id_stacji": "152160080",
+      "stacja": "Szamotuły",
+      "rzeka": "Sama",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1944",
+      "rzedna_zerawodowskazu": "61.214",
+      "kilometr_biegu_rzeki": "16.24",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "70",
+      "stan_wody_data_pomiaru": "2026-07-26 03:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.12",

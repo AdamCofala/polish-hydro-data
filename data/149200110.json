@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T01:05:21.044088+00:00",
-    "data": {
-      "id_stacji": "149200110",
-      "stacja": "Trybsz 2",
-      "rzeka": "Białka",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.1175",
-      "lat": "49.4178",
-      "stan_wody": "227",
-      "stan_wody_data_pomiaru": "2026-07-19 00:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "8.69",
-      "przeplyw_data": "2026-07-19 00:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-21 13:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-21 13:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T04:51:35.825588+00:00",
     "data": {
       "id_stacji": "149200110",
@@ -1930,6 +1909,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "7.59",
       "przeplyw_data": "2026-07-25 23:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-21 13:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-21 13:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T03:35:03.018648+00:00",
+    "data": {
+      "id_stacji": "149200110",
+      "stacja": "Trybsz 2",
+      "rzeka": "Białka",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.1175",
+      "lat": "49.4178",
+      "rok_zalozenia_stacji": "1994",
+      "rzedna_zerawodowskazu": "639.45",
+      "kilometr_biegu_rzeki": "9.7",
+      "stan_alarmowy": "320",
+      "stan_ostrzegawczy": "280",
+      "stan_wody": "221",
+      "stan_wody_data_pomiaru": "2026-07-26 03:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "7.59",
+      "przeplyw_data": "2026-07-26 03:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-21 13:30:00",
       "zjawisko_zarastania": "0",

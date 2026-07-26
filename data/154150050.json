@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T01:05:21.044088+00:00",
-    "data": {
-      "id_stacji": "154150050",
-      "stacja": "Białogard",
-      "rzeka": "Parsęta",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "15.9764",
-      "lat": "54.0031",
-      "stan_wody": "82",
-      "stan_wody_data_pomiaru": "2026-07-19 00:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "5.97",
-      "przeplyw_data": "2026-07-19 00:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-19 12:50:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-26 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T04:51:35.825588+00:00",
     "data": {
       "id_stacji": "154150050",
@@ -1930,6 +1909,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "8.3",
       "przeplyw_data": "2026-07-25 23:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-19 12:50:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-23 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T03:35:03.018648+00:00",
+    "data": {
+      "id_stacji": "154150050",
+      "stacja": "Białogard",
+      "rzeka": "Parsęta",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "15.9764",
+      "lat": "54.0031",
+      "rok_zalozenia_stacji": "1946",
+      "rzedna_zerawodowskazu": "19.369",
+      "kilometr_biegu_rzeki": "61.55",
+      "stan_alarmowy": "290",
+      "stan_ostrzegawczy": "270",
+      "stan_wody": "100",
+      "stan_wody_data_pomiaru": "2026-07-26 03:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "7.9",
+      "przeplyw_data": "2026-07-26 03:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-19 12:50:00",
       "zjawisko_zarastania": "100",

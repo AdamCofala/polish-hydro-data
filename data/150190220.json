@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T01:05:21.044088+00:00",
-    "data": {
-      "id_stacji": "150190220",
-      "stacja": "Mstów",
-      "rzeka": "Warta",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "72",
-      "stan_wody_data_pomiaru": "2026-07-19 00:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.57",
-      "przeplyw_data": "2026-07-19 00:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:30:00",
-      "zjawisko_zarastania": "112",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-16 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T04:51:35.825588+00:00",
     "data": {
       "id_stacji": "150190220",
@@ -1930,6 +1909,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.01",
       "przeplyw_data": "2026-07-25 23:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:30:00",
+      "zjawisko_zarastania": "112",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-16 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T03:35:03.018648+00:00",
+    "data": {
+      "id_stacji": "150190220",
+      "stacja": "Mstów",
+      "rzeka": "Warta",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1924",
+      "rzedna_zerawodowskazu": "231.831",
+      "kilometr_biegu_rzeki": "720.35",
+      "stan_alarmowy": "170",
+      "stan_ostrzegawczy": "120",
+      "stan_wody": "67",
+      "stan_wody_data_pomiaru": "2026-07-26 03:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3",
+      "przeplyw_data": "2026-07-26 03:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-19 10:30:00",
       "zjawisko_zarastania": "112",
