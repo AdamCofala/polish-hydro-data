@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T15:31:45.402081+00:00",
-    "data": {
-      "id_stacji": "154180190",
-      "stacja": "Przegalina",
-      "rzeka": "Wisła",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.9292",
-      "lat": "54.3106",
-      "stan_wody": "536",
-      "stan_wody_data_pomiaru": "2026-07-19 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-23 09:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-12-08 12:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T17:04:52.813337+00:00",
     "data": {
       "id_stacji": "154180190",
@@ -1935,6 +1914,32 @@
       "stan_ostrzegawczy": "650",
       "stan_wody": "526",
       "stan_wody_data_pomiaru": "2026-07-26 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-23 09:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-12-08 12:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T16:06:46.317101+00:00",
+    "data": {
+      "id_stacji": "154180190",
+      "stacja": "Przegalina",
+      "rzeka": "Wisła",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.9292",
+      "lat": "54.3106",
+      "rok_zalozenia_stacji": "1895",
+      "rzedna_zerawodowskazu": "-5.019",
+      "kilometr_biegu_rzeki": "5.93",
+      "stan_alarmowy": "700",
+      "stan_ostrzegawczy": "650",
+      "stan_wody": "526",
+      "stan_wody_data_pomiaru": "2026-07-26 15:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,

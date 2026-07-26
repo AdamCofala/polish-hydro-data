@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T15:31:45.402081+00:00",
-    "data": {
-      "id_stacji": "154170180",
-      "stacja": "Wawrzynowo",
-      "rzeka": "Wda",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "88",
-      "stan_wody_data_pomiaru": "2026-07-19 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-13 11:20:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-10 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T17:04:52.813337+00:00",
     "data": {
       "id_stacji": "154170180",
@@ -1935,6 +1914,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "87",
       "stan_wody_data_pomiaru": "2026-07-26 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-13 11:20:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-10 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T16:06:46.317101+00:00",
+    "data": {
+      "id_stacji": "154170180",
+      "stacja": "Wawrzynowo",
+      "rzeka": "Wda",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1946",
+      "rzedna_zerawodowskazu": "135.333",
+      "kilometr_biegu_rzeki": "181.42",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "87",
+      "stan_wody_data_pomiaru": "2026-07-26 15:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,

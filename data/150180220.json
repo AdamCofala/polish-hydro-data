@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T15:31:45.402081+00:00",
-    "data": {
-      "id_stacji": "150180220",
-      "stacja": "Gliwice",
-      "rzeka": "Kłodnica",
-      "wojewodztwo": "śląskie",
-      "lon": "18.6683",
-      "lat": "50.2981",
-      "stan_wody": "108",
-      "stan_wody_data_pomiaru": "2026-07-19 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "5.94",
-      "przeplyw_data": "2026-07-19 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-26 11:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-29 08:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T17:04:52.813337+00:00",
     "data": {
       "id_stacji": "150180220",
@@ -1939,6 +1918,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.36",
       "przeplyw_data": "2026-07-26 14:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-26 11:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-29 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T16:06:46.317101+00:00",
+    "data": {
+      "id_stacji": "150180220",
+      "stacja": "Gliwice",
+      "rzeka": "Kłodnica",
+      "wojewodztwo": "śląskie",
+      "lon": "18.6683",
+      "lat": "50.2981",
+      "rok_zalozenia_stacji": "1908",
+      "rzedna_zerawodowskazu": "210.865",
+      "kilometr_biegu_rzeki": "48.09",
+      "stan_alarmowy": "220",
+      "stan_ostrzegawczy": "160",
+      "stan_wody": "78",
+      "stan_wody_data_pomiaru": "2026-07-26 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.44",
+      "przeplyw_data": "2026-07-26 15:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-26 11:00:00",
       "zjawisko_zarastania": "100",

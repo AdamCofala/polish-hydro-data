@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T15:31:45.402081+00:00",
-    "data": {
-      "id_stacji": "149190180",
-      "stacja": "Wadowice",
-      "rzeka": "Skawa",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.5111",
-      "lat": "49.8772",
-      "stan_wody": "110",
-      "stan_wody_data_pomiaru": "2026-07-19 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "6.6",
-      "przeplyw_data": "2026-07-19 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-19 14:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-17 09:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T17:04:52.813337+00:00",
     "data": {
       "id_stacji": "149190180",
@@ -1939,6 +1918,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "5.88",
       "przeplyw_data": "2026-07-26 14:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-19 14:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-17 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T16:06:46.317101+00:00",
+    "data": {
+      "id_stacji": "149190180",
+      "stacja": "Wadowice",
+      "rzeka": "Skawa",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.5111",
+      "lat": "49.8772",
+      "rok_zalozenia_stacji": "1867",
+      "rzedna_zerawodowskazu": "254.209",
+      "kilometr_biegu_rzeki": "22.54",
+      "stan_alarmowy": "490",
+      "stan_ostrzegawczy": "370",
+      "stan_wody": "107",
+      "stan_wody_data_pomiaru": "2026-07-26 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "5.88",
+      "przeplyw_data": "2026-07-26 15:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-02-19 14:00:00",
       "zjawisko_zarastania": "0",

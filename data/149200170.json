@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T15:31:45.402081+00:00",
-    "data": {
-      "id_stacji": "149200170",
-      "stacja": "Proszówki",
-      "rzeka": "Raba",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.4383",
-      "lat": "49.9964",
-      "stan_wody": "214",
-      "stan_wody_data_pomiaru": "2026-07-19 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "4.31",
-      "przeplyw_data": "2026-07-19 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-27 09:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-26 08:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T17:04:52.813337+00:00",
     "data": {
       "id_stacji": "149200170",
@@ -1939,6 +1918,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.93",
       "przeplyw_data": "2026-07-26 14:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-27 09:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-21 12:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T16:06:46.317101+00:00",
+    "data": {
+      "id_stacji": "149200170",
+      "stacja": "Proszówki",
+      "rzeka": "Raba",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.4383",
+      "lat": "49.9964",
+      "rok_zalozenia_stacji": "1887",
+      "rzedna_zerawodowskazu": "185.406",
+      "kilometr_biegu_rzeki": "21.75",
+      "stan_alarmowy": "700",
+      "stan_ostrzegawczy": "500",
+      "stan_wody": "212",
+      "stan_wody_data_pomiaru": "2026-07-26 15:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.93",
+      "przeplyw_data": "2026-07-26 15:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-27 09:50:00",
       "zjawisko_zarastania": "0",
