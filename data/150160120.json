@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T17:04:52.813337+00:00",
-    "data": {
-      "id_stacji": "150160120",
-      "stacja": "Krasków",
-      "rzeka": "Bystrzyca",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.5839",
-      "lat": "50.9156",
-      "stan_wody": "124",
-      "stan_wody_data_pomiaru": "2026-07-19 16:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.32",
-      "przeplyw_data": "2026-07-19 16:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-06-03 07:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-03 07:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T18:29:18.506072+00:00",
     "data": {
       "id_stacji": "150160120",
@@ -1944,6 +1923,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.52",
       "przeplyw_data": "2026-07-26 15:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-06-03 07:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-03 07:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T17:34:21.985313+00:00",
+    "data": {
+      "id_stacji": "150160120",
+      "stacja": "Krasków",
+      "rzeka": "Bystrzyca",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.5839",
+      "lat": "50.9156",
+      "rok_zalozenia_stacji": "1936",
+      "rzedna_zerawodowskazu": "176.425",
+      "kilometr_biegu_rzeki": "55.59",
+      "stan_alarmowy": "250",
+      "stan_ostrzegawczy": "200",
+      "stan_wody": "114",
+      "stan_wody_data_pomiaru": "2026-07-26 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.56",
+      "przeplyw_data": "2026-07-26 17:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-06-03 07:30:00",
       "zjawisko_zarastania": "0",

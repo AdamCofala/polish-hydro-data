@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T17:04:52.813337+00:00",
-    "data": {
-      "id_stacji": "154160110",
-      "stacja": "Ustka",
-      "rzeka": "Bałtyk",
-      "wojewodztwo": "pomorskie",
-      "lon": "16.8539",
-      "lat": "54.5881",
-      "stan_wody": "526",
-      "stan_wody_data_pomiaru": "2026-07-19 16:30:00",
-      "temperatura_wody": "18.6",
-      "temperatura_wody_data_pomiaru": "2026-07-19 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2020-01-24 08:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-02-08 10:59:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T18:29:18.506072+00:00",
     "data": {
       "id_stacji": "154160110",
@@ -1940,6 +1919,32 @@
       "stan_ostrzegawczy": "570",
       "stan_wody": "513",
       "stan_wody_data_pomiaru": "2026-07-26 15:30:00",
+      "temperatura_wody": "17.6",
+      "temperatura_wody_data_pomiaru": "2026-07-26 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2020-01-24 08:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2023-02-08 10:59:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T17:34:21.985313+00:00",
+    "data": {
+      "id_stacji": "154160110",
+      "stacja": "Ustka",
+      "rzeka": "Bałtyk",
+      "wojewodztwo": "pomorskie",
+      "lon": "16.8539",
+      "lat": "54.5881",
+      "rok_zalozenia_stacji": "1858",
+      "rzedna_zerawodowskazu": "-4.914",
+      "kilometr_biegu_rzeki": "0",
+      "stan_alarmowy": "600",
+      "stan_ostrzegawczy": "570",
+      "stan_wody": "513",
+      "stan_wody_data_pomiaru": "2026-07-26 17:00:00",
       "temperatura_wody": "17.6",
       "temperatura_wody_data_pomiaru": "2026-07-26 06:00:00",
       "przeplyw": null,

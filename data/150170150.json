@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T17:04:52.813337+00:00",
-    "data": {
-      "id_stacji": "150170150",
-      "stacja": "Karłowice (Wapienniki)",
-      "rzeka": "Stobrawa",
-      "wojewodztwo": "opolskie",
-      "lon": "17.7217",
-      "lat": "50.8786",
-      "stan_wody": "151",
-      "stan_wody_data_pomiaru": "2026-07-19 16:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.39",
-      "przeplyw_data": "2026-07-19 16:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-19 08:40:00",
-      "zjawisko_zarastania": "221",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-10 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T18:29:18.506072+00:00",
     "data": {
       "id_stacji": "150170150",
@@ -1944,6 +1923,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.49",
       "przeplyw_data": "2026-07-26 15:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-19 08:40:00",
+      "zjawisko_zarastania": "221",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-10 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T17:34:21.985313+00:00",
+    "data": {
+      "id_stacji": "150170150",
+      "stacja": "Karłowice (Wapienniki)",
+      "rzeka": "Stobrawa",
+      "wojewodztwo": "opolskie",
+      "lon": "17.7217",
+      "lat": "50.8786",
+      "rok_zalozenia_stacji": "1995",
+      "rzedna_zerawodowskazu": "140.186",
+      "kilometr_biegu_rzeki": "12.44",
+      "stan_alarmowy": "300",
+      "stan_ostrzegawczy": "250",
+      "stan_wody": "148",
+      "stan_wody_data_pomiaru": "2026-07-26 16:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.49",
+      "przeplyw_data": "2026-07-26 17:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-19 08:40:00",
       "zjawisko_zarastania": "221",
