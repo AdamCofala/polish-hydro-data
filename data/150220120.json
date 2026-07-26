@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T19:46:39.019639+00:00",
-    "data": {
-      "id_stacji": "150220120",
-      "stacja": "Zakłodzie",
-      "rzeka": "Pór",
-      "wojewodztwo": "lubelskie",
-      "lon": "22.86",
-      "lat": "50.7575",
-      "stan_wody": "118",
-      "stan_wody_data_pomiaru": "2026-07-19 19:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.66",
-      "przeplyw_data": "2026-07-19 19:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-13 11:00:00",
-      "zjawisko_zarastania": "311",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-22 09:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T20:58:11.392338+00:00",
     "data": {
       "id_stacji": "150220120",
@@ -1954,6 +1933,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.7",
       "przeplyw_data": "2026-07-26 18:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-13 11:00:00",
+      "zjawisko_zarastania": "311",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-22 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T20:32:07.410037+00:00",
+    "data": {
+      "id_stacji": "150220120",
+      "stacja": "Zakłodzie",
+      "rzeka": "Pór",
+      "wojewodztwo": "lubelskie",
+      "lon": "22.86",
+      "lat": "50.7575",
+      "rok_zalozenia_stacji": "2005",
+      "rzedna_zerawodowskazu": "201.85",
+      "kilometr_biegu_rzeki": "9.31",
+      "stan_alarmowy": "230",
+      "stan_ostrzegawczy": "190",
+      "stan_wody": "125",
+      "stan_wody_data_pomiaru": "2026-07-26 20:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.65",
+      "przeplyw_data": "2026-07-26 20:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-13 11:00:00",
       "zjawisko_zarastania": "311",
