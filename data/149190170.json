@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T09:57:02.249963+00:00",
-    "data": {
-      "id_stacji": "149190170",
-      "stacja": "Zator",
-      "rzeka": "Skawa",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.4456",
-      "lat": "49.9992",
-      "stan_wody": "62",
-      "stan_wody_data_pomiaru": "2026-07-19 09:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "6.94",
-      "przeplyw_data": "2026-07-19 09:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-04-16 11:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-17 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T11:16:17.171043+00:00",
     "data": {
       "id_stacji": "149190170",
@@ -1945,6 +1924,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "7.26",
       "przeplyw_data": "2026-07-26 08:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-04-16 11:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-17 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T11:03:26.193090+00:00",
+    "data": {
+      "id_stacji": "149190170",
+      "stacja": "Zator",
+      "rzeka": "Skawa",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.4456",
+      "lat": "49.9992",
+      "rok_zalozenia_stacji": "1867",
+      "rzedna_zerawodowskazu": "220.816",
+      "kilometr_biegu_rzeki": "4.7",
+      "stan_alarmowy": "370",
+      "stan_ostrzegawczy": "240",
+      "stan_wody": "64",
+      "stan_wody_data_pomiaru": "2026-07-26 10:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "7.58",
+      "przeplyw_data": "2026-07-26 10:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-04-16 11:10:00",
       "zjawisko_zarastania": "0",
