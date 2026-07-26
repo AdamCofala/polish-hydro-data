@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T18:29:18.506072+00:00",
-    "data": {
-      "id_stacji": "153180130",
-      "stacja": "Kwidzyn",
-      "rzeka": "Liwa",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.9114",
-      "lat": "53.7222",
-      "stan_wody": "147",
-      "stan_wody_data_pomiaru": "2026-07-19 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.66",
-      "przeplyw_data": "2026-07-19 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-08 08:50:00",
-      "zjawisko_zarastania": "201",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-02 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T19:46:39.019639+00:00",
     "data": {
       "id_stacji": "153180130",
@@ -1949,6 +1928,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.51",
       "przeplyw_data": "2026-07-26 17:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-08 08:50:00",
+      "zjawisko_zarastania": "201",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-02 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T19:19:59.917771+00:00",
+    "data": {
+      "id_stacji": "153180130",
+      "stacja": "Kwidzyn",
+      "rzeka": "Liwa",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.9114",
+      "lat": "53.7222",
+      "rok_zalozenia_stacji": "1952",
+      "rzedna_zerawodowskazu": "10.435",
+      "kilometr_biegu_rzeki": "27.27",
+      "stan_alarmowy": "340",
+      "stan_ostrzegawczy": "300",
+      "stan_wody": "144",
+      "stan_wody_data_pomiaru": "2026-07-26 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.51",
+      "przeplyw_data": "2026-07-26 18:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-08 08:50:00",
       "zjawisko_zarastania": "201",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-19T18:29:18.506072+00:00",
-    "data": {
-      "id_stacji": "152210150",
-      "stacja": "Popowo",
-      "rzeka": "Zb. Dębe",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.1756",
-      "lat": "52.5281",
-      "stan_wody": "213",
-      "stan_wody_data_pomiaru": "2026-07-19 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-06 09:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2020-10-16 08:12:00"
-    }
-  },
-  {
     "timestamp": "2026-07-19T19:46:39.019639+00:00",
     "data": {
       "id_stacji": "152210150",
@@ -1945,6 +1924,32 @@
       "stan_ostrzegawczy": "330",
       "stan_wody": "211",
       "stan_wody_data_pomiaru": "2026-07-26 17:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-06 09:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2020-10-16 08:12:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-26T19:19:59.917771+00:00",
+    "data": {
+      "id_stacji": "152210150",
+      "stacja": "Popowo",
+      "rzeka": "Zb. Dębe",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.1756",
+      "lat": "52.5281",
+      "rok_zalozenia_stacji": "2013",
+      "rzedna_zerawodowskazu": "77.062",
+      "kilometr_biegu_rzeki": "3.43",
+      "stan_alarmowy": "370",
+      "stan_ostrzegawczy": "330",
+      "stan_wody": "211",
+      "stan_wody_data_pomiaru": "2026-07-26 19:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
