@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T23:32:11.759042+00:00",
-    "data": {
-      "id_stacji": "150170120",
-      "stacja": "Niemodlin",
-      "rzeka": "Ścinawa Niemodlińska",
-      "wojewodztwo": "opolskie",
-      "lon": "17.6244",
-      "lat": "50.6456",
-      "stan_wody": "229",
-      "stan_wody_data_pomiaru": "2026-07-20 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.23",
-      "przeplyw_data": "2026-07-20 23:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-24 10:40:00",
-      "zjawisko_zarastania": "222",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-09 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T03:23:22.461048+00:00",
     "data": {
       "id_stacji": "150170120",
@@ -1967,6 +1946,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.61",
       "przeplyw_data": "2026-07-27 21:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-24 10:40:00",
+      "zjawisko_zarastania": "222",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-09 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T23:35:33.528171+00:00",
+    "data": {
+      "id_stacji": "150170120",
+      "stacja": "Niemodlin",
+      "rzeka": "Ścinawa Niemodlińska",
+      "wojewodztwo": "opolskie",
+      "lon": "17.6244",
+      "lat": "50.6456",
+      "rok_zalozenia_stacji": "1904",
+      "rzedna_zerawodowskazu": "154.97",
+      "kilometr_biegu_rzeki": "13.49",
+      "stan_alarmowy": "350",
+      "stan_ostrzegawczy": "320",
+      "stan_wody": "245",
+      "stan_wody_data_pomiaru": "2026-07-27 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.97",
+      "przeplyw_data": "2026-07-27 23:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-24 10:40:00",
       "zjawisko_zarastania": "222",

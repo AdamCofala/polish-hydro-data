@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T23:32:11.759042+00:00",
-    "data": {
-      "id_stacji": "150220030",
-      "stacja": "Nisko",
-      "rzeka": "San",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.1928",
-      "lat": "50.52",
-      "stan_wody": "91",
-      "stan_wody_data_pomiaru": "2026-07-20 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "25.5",
-      "przeplyw_data": "2026-07-20 23:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-24 11:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-21 16:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T03:23:22.461048+00:00",
     "data": {
       "id_stacji": "150220030",
@@ -1967,6 +1946,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "26",
       "przeplyw_data": "2026-07-27 21:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-24 11:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-21 16:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T23:35:33.528171+00:00",
+    "data": {
+      "id_stacji": "150220030",
+      "stacja": "Nisko",
+      "rzeka": "San",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.1928",
+      "lat": "50.52",
+      "rok_zalozenia_stacji": "1896",
+      "rzedna_zerawodowskazu": "149.724",
+      "kilometr_biegu_rzeki": "39.34",
+      "stan_alarmowy": "500",
+      "stan_ostrzegawczy": "370",
+      "stan_wody": "92",
+      "stan_wody_data_pomiaru": "2026-07-27 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "26",
+      "przeplyw_data": "2026-07-27 23:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-24 11:40:00",
       "zjawisko_zarastania": "0",

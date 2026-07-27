@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T23:32:11.759042+00:00",
-    "data": {
-      "id_stacji": "153150120",
-      "stacja": "Drawsko pomorskie",
-      "rzeka": "Drawa",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "49",
-      "stan_wody_data_pomiaru": "2026-07-20 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.12",
-      "przeplyw_data": "2026-07-20 11:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-10 11:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-07 09:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T03:23:22.461048+00:00",
     "data": {
       "id_stacji": "153150120",
@@ -1963,6 +1942,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "53",
       "stan_wody_data_pomiaru": "2026-07-27 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.54",
+      "przeplyw_data": "2026-07-27 11:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-10 11:00:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-07 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T23:35:33.528171+00:00",
+    "data": {
+      "id_stacji": "153150120",
+      "stacja": "Drawsko pomorskie",
+      "rzeka": "Drawa",
+      "wojewodztwo": null,
+      "lon": "15.8108",
+      "lat": "53.5269",
+      "rok_zalozenia_stacji": "1873",
+      "rzedna_zerawodowskazu": "107.553",
+      "kilometr_biegu_rzeki": "137.45",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "53",
+      "stan_wody_data_pomiaru": "2026-07-27 23:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.54",

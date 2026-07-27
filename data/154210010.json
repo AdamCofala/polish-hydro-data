@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T23:32:11.759042+00:00",
-    "data": {
-      "id_stacji": "154210010",
-      "stacja": "Sępopol",
-      "rzeka": "Łyna",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "21.0058",
-      "lat": "54.2661",
-      "stan_wody": "185",
-      "stan_wody_data_pomiaru": "2026-07-20 23:00:00",
-      "temperatura_wody": "19.9",
-      "temperatura_wody_data_pomiaru": "2026-07-20 06:00:00",
-      "przeplyw": "28.1",
-      "przeplyw_data": "2026-07-20 23:10:00",
-      "zjawisko_lodowe": "41",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-13 09:40:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-17 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T03:23:22.461048+00:00",
     "data": {
       "id_stacji": "154210010",
@@ -1967,6 +1946,32 @@
       "temperatura_wody_data_pomiaru": "2026-07-27 06:00:00",
       "przeplyw": "20.2",
       "przeplyw_data": "2026-07-27 21:50:00",
+      "zjawisko_lodowe": "41",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-13 09:40:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-17 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T23:35:33.528171+00:00",
+    "data": {
+      "id_stacji": "154210010",
+      "stacja": "Sępopol",
+      "rzeka": "Łyna",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "21.0058",
+      "lat": "54.2661",
+      "rok_zalozenia_stacji": "1839",
+      "rzedna_zerawodowskazu": "26.302",
+      "kilometr_biegu_rzeki": "18.85",
+      "stan_alarmowy": "450",
+      "stan_ostrzegawczy": "420",
+      "stan_wody": "149",
+      "stan_wody_data_pomiaru": "2026-07-27 23:00:00",
+      "temperatura_wody": "18.8",
+      "temperatura_wody_data_pomiaru": "2026-07-27 06:00:00",
+      "przeplyw": "19.2",
+      "przeplyw_data": "2026-07-27 23:10:00",
       "zjawisko_lodowe": "41",
       "zjawisko_lodowe_data_pomiaru": "2026-02-13 09:40:00",
       "zjawisko_zarastania": "100",

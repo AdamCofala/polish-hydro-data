@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T23:32:11.759042+00:00",
-    "data": {
-      "id_stacji": "151160290",
-      "stacja": "Żmigród",
-      "rzeka": "Barycz",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "116",
-      "stan_wody_data_pomiaru": "2026-07-20 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.17",
-      "przeplyw_data": "2026-07-20 23:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-07-20 08:20:00",
-      "zjawisko_zarastania": "212",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-20 08:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T03:23:22.461048+00:00",
     "data": {
       "id_stacji": "151160290",
@@ -1967,6 +1946,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.21",
       "przeplyw_data": "2026-07-27 21:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-07-20 08:20:00",
+      "zjawisko_zarastania": "212",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-20 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T23:35:33.528171+00:00",
+    "data": {
+      "id_stacji": "151160290",
+      "stacja": "Żmigród",
+      "rzeka": "Barycz",
+      "wojewodztwo": null,
+      "lon": "16.8964",
+      "lat": "51.4806",
+      "rok_zalozenia_stacji": "2024",
+      "rzedna_zerawodowskazu": "86.633",
+      "kilometr_biegu_rzeki": "56.98",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "107",
+      "stan_wody_data_pomiaru": "2026-07-27 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.21",
+      "przeplyw_data": "2026-07-27 23:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-07-20 08:20:00",
       "zjawisko_zarastania": "212",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T23:32:11.759042+00:00",
-    "data": {
-      "id_stacji": "150230020",
-      "stacja": "Wirkowice",
-      "rzeka": "Wieprz",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "143",
-      "stan_wody_data_pomiaru": "2026-07-20 23:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.92",
-      "przeplyw_data": "2026-07-20 23:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:40:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-12 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T03:23:22.461048+00:00",
     "data": {
       "id_stacji": "150230020",
@@ -1967,6 +1946,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4.38",
       "przeplyw_data": "2026-07-27 21:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:40:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-12 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T23:35:33.528171+00:00",
+    "data": {
+      "id_stacji": "150230020",
+      "stacja": "Wirkowice",
+      "rzeka": "Wieprz",
+      "wojewodztwo": null,
+      "lon": "23.0989",
+      "lat": "50.8661",
+      "rok_zalozenia_stacji": "1975",
+      "rzedna_zerawodowskazu": "184.733",
+      "kilometr_biegu_rzeki": "279.12",
+      "stan_alarmowy": "350",
+      "stan_ostrzegawczy": "290",
+      "stan_wody": "149",
+      "stan_wody_data_pomiaru": "2026-07-27 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.38",
+      "przeplyw_data": "2026-07-27 23:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:40:00",
       "zjawisko_zarastania": "100",
