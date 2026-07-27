@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T10:17:11.178291+00:00",
-    "data": {
-      "id_stacji": "153220190",
-      "stacja": "Rajgród 2",
-      "rzeka": "Jez.Rajgrodzkie",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.6997",
-      "lat": "53.7328",
-      "stan_wody": "212",
-      "stan_wody_data_pomiaru": "2026-07-20 10:00:00",
-      "temperatura_wody": "21.1",
-      "temperatura_wody_data_pomiaru": "2026-07-19 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-10 11:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2023-10-17 08:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-20T12:33:14.377035+00:00",
     "data": {
       "id_stacji": "153220190",
@@ -1956,6 +1935,32 @@
       "stan_wody_data_pomiaru": "2026-07-27 07:30:00",
       "temperatura_wody": "20.7",
       "temperatura_wody_data_pomiaru": "2026-07-26 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-10 11:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2023-10-17 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T11:31:08.298133+00:00",
+    "data": {
+      "id_stacji": "153220190",
+      "stacja": "Rajgród 2",
+      "rzeka": "Jez.Rajgrodzkie",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.6997",
+      "lat": "53.7328",
+      "rok_zalozenia_stacji": "1953",
+      "rzedna_zerawodowskazu": "116.162",
+      "kilometr_biegu_rzeki": "55.96",
+      "stan_alarmowy": "240",
+      "stan_ostrzegawczy": "225",
+      "stan_wody": "214",
+      "stan_wody_data_pomiaru": "2026-07-27 11:00:00",
+      "temperatura_wody": "20.3",
+      "temperatura_wody_data_pomiaru": "2026-07-27 06:00:00",
       "przeplyw": null,
       "przeplyw_data": null,
       "zjawisko_lodowe": "3",

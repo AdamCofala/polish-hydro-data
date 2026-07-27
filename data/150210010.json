@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T10:17:11.178291+00:00",
-    "data": {
-      "id_stacji": "150210010",
-      "stacja": "Raków",
-      "rzeka": "Czarna",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.0286",
-      "lat": "50.6761",
-      "stan_wody": "103",
-      "stan_wody_data_pomiaru": "2026-07-20 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.3",
-      "przeplyw_data": "2026-07-20 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-01-20 13:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-11-28 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-20T12:33:14.377035+00:00",
     "data": {
       "id_stacji": "150210010",
@@ -1958,6 +1937,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.28",
       "przeplyw_data": "2026-07-27 07:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-01-20 13:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-11-28 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T11:31:08.298133+00:00",
+    "data": {
+      "id_stacji": "150210010",
+      "stacja": "Raków",
+      "rzeka": "Czarna",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.0286",
+      "lat": "50.6761",
+      "rok_zalozenia_stacji": "1957",
+      "rzedna_zerawodowskazu": "219.147",
+      "kilometr_biegu_rzeki": "48.1",
+      "stan_alarmowy": "260",
+      "stan_ostrzegawczy": "220",
+      "stan_wody": "102",
+      "stan_wody_data_pomiaru": "2026-07-27 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.28",
+      "przeplyw_data": "2026-07-27 11:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2025-01-20 13:00:00",
       "zjawisko_zarastania": "0",

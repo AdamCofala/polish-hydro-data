@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T10:17:11.178291+00:00",
-    "data": {
-      "id_stacji": "149220160",
-      "stacja": "Rybotycze",
-      "rzeka": "Wiar",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "154",
-      "stan_wody_data_pomiaru": "2026-07-20 09:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.35",
-      "przeplyw_data": "2026-07-20 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-05 11:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-09 11:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-20T12:33:14.377035+00:00",
     "data": {
       "id_stacji": "149220160",
@@ -1958,6 +1937,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.26",
       "przeplyw_data": "2026-07-27 07:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-05 11:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-09 11:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T11:31:08.298133+00:00",
+    "data": {
+      "id_stacji": "149220160",
+      "stacja": "Rybotycze",
+      "rzeka": "Wiar",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1961",
+      "rzedna_zerawodowskazu": "286.966",
+      "kilometr_biegu_rzeki": "41.71",
+      "stan_alarmowy": "350",
+      "stan_ostrzegawczy": "270",
+      "stan_wody": "152",
+      "stan_wody_data_pomiaru": "2026-07-27 10:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.26",
+      "przeplyw_data": "2026-07-27 10:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-05 11:30:00",
       "zjawisko_zarastania": "0",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T10:17:11.178291+00:00",
-    "data": {
-      "id_stacji": "149200300",
-      "stacja": "Muszyna",
-      "rzeka": "Poprad",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "117",
-      "stan_wody_data_pomiaru": "2026-07-20 10:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "16.3",
-      "przeplyw_data": "2026-07-20 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-07-07 09:40:00",
-      "zjawisko_zarastania": "201",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-07 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-20T12:33:14.377035+00:00",
     "data": {
       "id_stacji": "149200300",
@@ -1958,6 +1937,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "10.6",
       "przeplyw_data": "2026-07-27 07:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-07-07 09:40:00",
+      "zjawisko_zarastania": "201",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-07 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T11:31:08.298133+00:00",
+    "data": {
+      "id_stacji": "149200300",
+      "stacja": "Muszyna",
+      "rzeka": "Poprad",
+      "wojewodztwo": null,
+      "lon": null,
+      "lat": null,
+      "rok_zalozenia_stacji": "1925",
+      "rzedna_zerawodowskazu": "446.487",
+      "kilometr_biegu_rzeki": "55.92",
+      "stan_alarmowy": "290",
+      "stan_ostrzegawczy": "210",
+      "stan_wody": "108",
+      "stan_wody_data_pomiaru": "2026-07-27 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "8.72",
+      "przeplyw_data": "2026-07-27 11:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-07-07 09:40:00",
       "zjawisko_zarastania": "201",

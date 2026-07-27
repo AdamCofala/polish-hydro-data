@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T10:17:11.178291+00:00",
-    "data": {
-      "id_stacji": "154180140",
-      "stacja": "Gdańsk",
-      "rzeka": "-",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.6981",
-      "lat": "54.3997",
-      "stan_wody": "530",
-      "stan_wody_data_pomiaru": "2026-07-20 10:00:00",
-      "temperatura_wody": "18.6",
-      "temperatura_wody_data_pomiaru": "2026-07-19 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2019-02-14 09:58:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2024-08-02 07:58:00"
-    }
-  },
-  {
     "timestamp": "2026-07-20T12:33:14.377035+00:00",
     "data": {
       "id_stacji": "154180140",
@@ -1956,6 +1935,32 @@
       "stan_wody_data_pomiaru": "2026-07-27 07:30:00",
       "temperatura_wody": "18.7",
       "temperatura_wody_data_pomiaru": "2026-07-26 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2019-02-14 09:58:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2024-08-02 07:58:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T11:31:08.298133+00:00",
+    "data": {
+      "id_stacji": "154180140",
+      "stacja": "Gdańsk",
+      "rzeka": "-",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.6981",
+      "lat": "54.3997",
+      "rok_zalozenia_stacji": "1815",
+      "rzedna_zerawodowskazu": "-4.937",
+      "kilometr_biegu_rzeki": "0",
+      "stan_alarmowy": "570",
+      "stan_ostrzegawczy": "550",
+      "stan_wody": "536",
+      "stan_wody_data_pomiaru": "2026-07-27 11:00:00",
+      "temperatura_wody": "18.9",
+      "temperatura_wody_data_pomiaru": "2026-07-27 06:00:00",
       "przeplyw": null,
       "przeplyw_data": null,
       "zjawisko_lodowe": "0",
