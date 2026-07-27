@@ -1,47 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T15:14:44.744337+00:00",
-    "data": {
-      "id_stacji": "150220010",
-      "stacja": "Rzeszów",
-      "rzeka": "Wisłok",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.0156",
-      "lat": "50.0397",
-      "stan_wody": "33",
-      "stan_wody_data_pomiaru": "2026-07-20 15:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.48",
-      "przeplyw_data": "2026-07-20 14:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-05 08:10:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-05 08:10:00"
-    }
-  },
-  {
-    "timestamp": "2026-07-20T16:58:29.800526+00:00",
-    "data": {
-      "id_stacji": "150220010",
-      "stacja": "Rzeszów",
-      "rzeka": "Wisłok",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.0156",
-      "lat": "50.0397",
-      "stan_wody": "33",
-      "stan_wody_data_pomiaru": "2026-07-20 16:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.48",
-      "przeplyw_data": "2026-07-20 16:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-05 08:10:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-05 08:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-20T19:01:34.972932+00:00",
     "data": {
       "id_stacji": "150220010",
@@ -1084,6 +1042,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.36",
       "przeplyw_data": "2026-07-27 14:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-07-27 08:00:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-27 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T17:02:46.453326+00:00",
+    "data": {
+      "id_stacji": "150220010",
+      "stacja": "Rzeszów",
+      "rzeka": "Wisłok",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.0156",
+      "lat": "50.0397",
+      "rok_zalozenia_stacji": "1863",
+      "rzedna_zerawodowskazu": "192.641",
+      "kilometr_biegu_rzeki": "71.41",
+      "stan_alarmowy": "420",
+      "stan_ostrzegawczy": "300",
+      "stan_wody": "39",
+      "stan_wody_data_pomiaru": "2026-07-27 16:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.49",
+      "przeplyw_data": "2026-07-27 16:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-07-27 08:00:00",
       "zjawisko_zarastania": "1",
