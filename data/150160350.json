@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T12:33:14.377035+00:00",
-    "data": {
-      "id_stacji": "150160350",
-      "stacja": "Szalejów górny",
-      "rzeka": "Bystrzyca Dusznicka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "115",
-      "stan_wody_data_pomiaru": "2026-07-20 12:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.45",
-      "przeplyw_data": "2026-07-20 12:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-07-01 11:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-01 11:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-20T15:14:44.744337+00:00",
     "data": {
       "id_stacji": "150160350",
@@ -1963,6 +1942,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.41",
       "przeplyw_data": "2026-07-27 11:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-07-01 11:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-01 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T14:49:47.813731+00:00",
+    "data": {
+      "id_stacji": "150160350",
+      "stacja": "Szalejów górny",
+      "rzeka": "Bystrzyca Dusznicka",
+      "wojewodztwo": null,
+      "lon": "16.5372",
+      "lat": "50.4183",
+      "rok_zalozenia_stacji": "2023",
+      "rzedna_zerawodowskazu": "339.489",
+      "kilometr_biegu_rzeki": "12.31",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "113",
+      "stan_wody_data_pomiaru": "2026-07-27 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.41",
+      "przeplyw_data": "2026-07-27 14:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-07-01 11:30:00",
       "zjawisko_zarastania": "0",

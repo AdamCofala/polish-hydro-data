@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T12:33:14.377035+00:00",
-    "data": {
-      "id_stacji": "149220020",
-      "stacja": "Szczawne",
-      "rzeka": "Osława",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.1503",
-      "lat": "49.4036",
-      "stan_wody": "52",
-      "stan_wody_data_pomiaru": "2026-07-20 12:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.12",
-      "przeplyw_data": "2026-07-20 12:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-02 10:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-20T15:14:44.744337+00:00",
     "data": {
       "id_stacji": "149220020",
@@ -1963,6 +1942,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.48",
       "przeplyw_data": "2026-07-27 11:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-02 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T14:49:47.813731+00:00",
+    "data": {
+      "id_stacji": "149220020",
+      "stacja": "Szczawne",
+      "rzeka": "Osława",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.1503",
+      "lat": "49.4036",
+      "rok_zalozenia_stacji": "1911",
+      "rzedna_zerawodowskazu": "392.999",
+      "kilometr_biegu_rzeki": "30.28",
+      "stan_alarmowy": "190",
+      "stan_ostrzegawczy": "140",
+      "stan_wody": "53",
+      "stan_wody_data_pomiaru": "2026-07-27 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.12",
+      "przeplyw_data": "2026-07-27 14:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:00:00",
       "zjawisko_zarastania": "0",

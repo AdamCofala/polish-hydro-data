@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T12:33:14.377035+00:00",
-    "data": {
-      "id_stacji": "149190310",
-      "stacja": "Stróża",
-      "rzeka": "Raba",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.9247",
-      "lat": "49.7969",
-      "stan_wody": "36",
-      "stan_wody_data_pomiaru": "2026-07-20 12:00:00",
-      "temperatura_wody": "19.2",
-      "temperatura_wody_data_pomiaru": "2026-07-20 06:00:00",
-      "przeplyw": "2.68",
-      "przeplyw_data": "2026-07-20 12:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-09 13:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-16 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-20T15:14:44.744337+00:00",
     "data": {
       "id_stacji": "149190310",
@@ -1963,6 +1942,32 @@
       "temperatura_wody_data_pomiaru": "2026-07-27 06:00:00",
       "przeplyw": "2.22",
       "przeplyw_data": "2026-07-27 11:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-09 13:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-16 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T14:49:47.813731+00:00",
+    "data": {
+      "id_stacji": "149190310",
+      "stacja": "Stróża",
+      "rzeka": "Raba",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.9247",
+      "lat": "49.7969",
+      "rok_zalozenia_stacji": "1897",
+      "rzedna_zerawodowskazu": "297.158",
+      "kilometr_biegu_rzeki": "77.97",
+      "stan_alarmowy": "290",
+      "stan_ostrzegawczy": "220",
+      "stan_wody": "32",
+      "stan_wody_data_pomiaru": "2026-07-27 14:30:00",
+      "temperatura_wody": "16.8",
+      "temperatura_wody_data_pomiaru": "2026-07-27 06:00:00",
+      "przeplyw": "2.1",
+      "przeplyw_data": "2026-07-27 14:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-09 13:30:00",
       "zjawisko_zarastania": "0",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T12:33:14.377035+00:00",
-    "data": {
-      "id_stacji": "154170120",
-      "stacja": "Soszyca",
-      "rzeka": "Słupia",
-      "wojewodztwo": "pomorskie",
-      "lon": "17.5797",
-      "lat": "54.25",
-      "stan_wody": "24",
-      "stan_wody_data_pomiaru": "2026-07-20 12:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.5",
-      "przeplyw_data": "2026-07-20 12:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-16 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-20T15:14:44.744337+00:00",
     "data": {
       "id_stacji": "154170120",
@@ -1963,6 +1942,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.65",
       "przeplyw_data": "2026-07-27 11:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-27 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T14:49:47.813731+00:00",
+    "data": {
+      "id_stacji": "154170120",
+      "stacja": "Soszyca",
+      "rzeka": "Słupia",
+      "wojewodztwo": "pomorskie",
+      "lon": "17.5797",
+      "lat": "54.25",
+      "rok_zalozenia_stacji": "1966",
+      "rzedna_zerawodowskazu": "108.387",
+      "kilometr_biegu_rzeki": "120.87",
+      "stan_alarmowy": "140",
+      "stan_ostrzegawczy": "120",
+      "stan_wody": "27",
+      "stan_wody_data_pomiaru": "2026-07-27 14:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.65",
+      "przeplyw_data": "2026-07-27 14:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:10:00",
       "zjawisko_zarastania": "0",
