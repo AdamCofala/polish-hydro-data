@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T19:01:34.972932+00:00",
-    "data": {
-      "id_stacji": "153230070",
-      "stacja": "Sztabin",
-      "rzeka": "Biebrza",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.1164",
-      "lat": "53.6719",
-      "stan_wody": "163",
-      "stan_wody_data_pomiaru": "2026-07-20 18:30:00",
-      "temperatura_wody": "20.3",
-      "temperatura_wody_data_pomiaru": "2026-07-20 06:00:00",
-      "przeplyw": "1.21",
-      "przeplyw_data": "2026-07-20 18:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-24 07:30:00",
-      "zjawisko_zarastania": "331",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-14 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-20T20:49:04.579671+00:00",
     "data": {
       "id_stacji": "153230070",
@@ -1978,6 +1957,32 @@
       "temperatura_wody_data_pomiaru": "2026-07-27 06:00:00",
       "przeplyw": "0.99",
       "przeplyw_data": "2026-07-27 18:30:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-24 07:30:00",
+      "zjawisko_zarastania": "321",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-21 07:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-27T20:37:41.464435+00:00",
+    "data": {
+      "id_stacji": "153230070",
+      "stacja": "Sztabin",
+      "rzeka": "Biebrza",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.1164",
+      "lat": "53.6719",
+      "rok_zalozenia_stacji": "1946",
+      "rzedna_zerawodowskazu": "113.861",
+      "kilometr_biegu_rzeki": "109.26",
+      "stan_alarmowy": "290",
+      "stan_ostrzegawczy": "270",
+      "stan_wody": "168",
+      "stan_wody_data_pomiaru": "2026-07-27 20:00:00",
+      "temperatura_wody": "20.4",
+      "temperatura_wody_data_pomiaru": "2026-07-27 06:00:00",
+      "przeplyw": "0.99",
+      "przeplyw_data": "2026-07-27 20:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-24 07:30:00",
       "zjawisko_zarastania": "321",

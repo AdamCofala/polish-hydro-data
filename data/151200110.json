@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T19:01:34.972932+00:00",
-    "data": {
-      "id_stacji": "151200110",
-      "stacja": "Słowików",
-      "rzeka": "Radomka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "42",
-      "stan_wody_data_pomiaru": "2026-07-20 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.94",
-      "przeplyw_data": "2026-07-20 16:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-11 11:30:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-07-20T20:49:04.579671+00:00",
     "data": {
       "id_stacji": "151200110",
@@ -1974,6 +1953,32 @@
       "stan_ostrzegawczy": "130",
       "stan_wody": "35",
       "stan_wody_data_pomiaru": "2026-07-27 18:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.64",
+      "przeplyw_data": "2026-07-27 17:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-11 11:30:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-07-27T20:37:41.464435+00:00",
+    "data": {
+      "id_stacji": "151200110",
+      "stacja": "Słowików",
+      "rzeka": "Radomka",
+      "wojewodztwo": null,
+      "lon": "20.8881",
+      "lat": "51.4572",
+      "rok_zalozenia_stacji": "1931",
+      "rzedna_zerawodowskazu": "145.467",
+      "kilometr_biegu_rzeki": "70.34",
+      "stan_alarmowy": "170",
+      "stan_ostrzegawczy": "130",
+      "stan_wody": "34",
+      "stan_wody_data_pomiaru": "2026-07-27 20:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.64",
