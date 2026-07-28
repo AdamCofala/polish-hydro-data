@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T18:19:42.176420+00:00",
-    "data": {
-      "id_stacji": "151180050",
-      "stacja": "Dębe",
-      "rzeka": "Swędrnia",
-      "wojewodztwo": "wielkopolskie",
-      "lon": "18.1978",
-      "lat": "51.7914",
-      "stan_wody": "205",
-      "stan_wody_data_pomiaru": "2026-07-21 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.19",
-      "przeplyw_data": "2026-07-16 10:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:20:00",
-      "zjawisko_zarastania": "231",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-10 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T20:01:39.673984+00:00",
     "data": {
       "id_stacji": "151180050",
@@ -2003,6 +1982,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "202",
       "stan_wody_data_pomiaru": "2026-07-28 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.19",
+      "przeplyw_data": "2026-07-16 10:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:20:00",
+      "zjawisko_zarastania": "231",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-10 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T19:44:28.020507+00:00",
+    "data": {
+      "id_stacji": "151180050",
+      "stacja": "Dębe",
+      "rzeka": "Swędrnia",
+      "wojewodztwo": "wielkopolskie",
+      "lon": "18.1978",
+      "lat": "51.7914",
+      "rok_zalozenia_stacji": "1937",
+      "rzedna_zerawodowskazu": "106.944",
+      "kilometr_biegu_rzeki": "13.01",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "202",
+      "stan_wody_data_pomiaru": "2026-07-28 19:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.19",

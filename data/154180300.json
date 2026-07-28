@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T18:19:42.176420+00:00",
-    "data": {
-      "id_stacji": "154180300",
-      "stacja": "Skarszewy",
-      "rzeka": "Wietcisa",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "222",
-      "stan_wody_data_pomiaru": "2026-07-21 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.73",
-      "przeplyw_data": "2026-07-21 17:50:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 10:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-30 08:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T20:01:39.673984+00:00",
     "data": {
       "id_stacji": "154180300",
@@ -2007,6 +1986,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.25",
       "przeplyw_data": "2026-07-28 17:30:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 10:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-30 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T19:44:28.020507+00:00",
+    "data": {
+      "id_stacji": "154180300",
+      "stacja": "Skarszewy",
+      "rzeka": "Wietcisa",
+      "wojewodztwo": null,
+      "lon": "18.4292",
+      "lat": "54.0567",
+      "rok_zalozenia_stacji": "2023",
+      "rzedna_zerawodowskazu": "104.5",
+      "kilometr_biegu_rzeki": "3.01",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "232",
+      "stan_wody_data_pomiaru": "2026-07-28 19:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.25",
+      "przeplyw_data": "2026-07-28 19:30:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 10:40:00",
       "zjawisko_zarastania": "0",
