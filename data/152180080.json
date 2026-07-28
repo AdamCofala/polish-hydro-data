@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T16:56:05.910639+00:00",
-    "data": {
-      "id_stacji": "152180080",
-      "stacja": "Kruszwica",
-      "rzeka": "Jez. Gopło",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "192",
-      "stan_wody_data_pomiaru": "2026-07-21 16:30:00",
-      "temperatura_wody": "21.77",
-      "temperatura_wody_data_pomiaru": "2026-07-21 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-05 11:40:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-07-21T18:19:42.176420+00:00",
     "data": {
       "id_stacji": "152180080",
@@ -1998,6 +1977,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "192",
       "stan_wody_data_pomiaru": "2026-07-28 16:00:00",
+      "temperatura_wody": "21.1",
+      "temperatura_wody_data_pomiaru": "2026-07-28 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-05 11:40:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-07-28T17:56:52.410343+00:00",
+    "data": {
+      "id_stacji": "152180080",
+      "stacja": "Kruszwica",
+      "rzeka": "Jez. Gopło",
+      "wojewodztwo": null,
+      "lon": "18.3272",
+      "lat": "52.6742",
+      "rok_zalozenia_stacji": "1882",
+      "rzedna_zerawodowskazu": "74.607",
+      "kilometr_biegu_rzeki": "289.65",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "191",
+      "stan_wody_data_pomiaru": "2026-07-28 17:30:00",
       "temperatura_wody": "21.1",
       "temperatura_wody_data_pomiaru": "2026-07-28 06:00:00",
       "przeplyw": null,

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T16:56:05.910639+00:00",
-    "data": {
-      "id_stacji": "150190150",
-      "stacja": "Poraj",
-      "rzeka": "Warta",
-      "wojewodztwo": "śląskie",
-      "lon": "19.2039",
-      "lat": "50.6733",
-      "stan_wody": "50",
-      "stan_wody_data_pomiaru": "2026-07-21 16:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.88",
-      "przeplyw_data": "2026-07-21 16:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-17 09:50:00",
-      "zjawisko_zarastania": "312",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-08 08:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T18:19:42.176420+00:00",
     "data": {
       "id_stacji": "150190150",
@@ -2002,6 +1981,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.97",
       "przeplyw_data": "2026-07-28 15:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-17 09:50:00",
+      "zjawisko_zarastania": "312",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-08 08:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T17:56:52.410343+00:00",
+    "data": {
+      "id_stacji": "150190150",
+      "stacja": "Poraj",
+      "rzeka": "Warta",
+      "wojewodztwo": "śląskie",
+      "lon": "19.2039",
+      "lat": "50.6733",
+      "rok_zalozenia_stacji": "1958",
+      "rzedna_zerawodowskazu": "264.358",
+      "kilometr_biegu_rzeki": "761.03",
+      "stan_alarmowy": "290",
+      "stan_ostrzegawczy": "220",
+      "stan_wody": "55",
+      "stan_wody_data_pomiaru": "2026-07-28 17:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.97",
+      "przeplyw_data": "2026-07-28 17:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-17 09:50:00",
       "zjawisko_zarastania": "312",

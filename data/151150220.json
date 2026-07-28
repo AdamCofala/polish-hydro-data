@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T16:56:05.910639+00:00",
-    "data": {
-      "id_stacji": "151150220",
-      "stacja": "Nowa sól",
-      "rzeka": "Odra",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "111",
-      "stan_wody_data_pomiaru": "2026-07-21 16:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-23 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T18:19:42.176420+00:00",
     "data": {
       "id_stacji": "151150220",
@@ -1998,6 +1977,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "105",
       "stan_wody_data_pomiaru": "2026-07-28 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-23 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T17:56:52.410343+00:00",
+    "data": {
+      "id_stacji": "151150220",
+      "stacja": "Nowa sól",
+      "rzeka": "Odra",
+      "wojewodztwo": null,
+      "lon": "0",
+      "lat": "0",
+      "rok_zalozenia_stacji": null,
+      "rzedna_zerawodowskazu": null,
+      "kilometr_biegu_rzeki": null,
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "106",
+      "stan_wody_data_pomiaru": "2026-07-28 17:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,

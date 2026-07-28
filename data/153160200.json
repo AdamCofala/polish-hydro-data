@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T16:56:05.910639+00:00",
-    "data": {
-      "id_stacji": "153160200",
-      "stacja": "Gwda wielka",
-      "rzeka": "Gwda",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "44",
-      "stan_wody_data_pomiaru": "2026-07-21 16:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.05",
-      "przeplyw_data": "2026-07-21 11:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-03 10:40:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-02 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T18:19:42.176420+00:00",
     "data": {
       "id_stacji": "153160200",
@@ -1998,6 +1977,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "44",
       "stan_wody_data_pomiaru": "2026-07-28 16:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.05",
+      "przeplyw_data": "2026-07-28 11:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-03 10:40:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-02 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T17:56:52.410343+00:00",
+    "data": {
+      "id_stacji": "153160200",
+      "stacja": "Gwda wielka",
+      "rzeka": "Gwda",
+      "wojewodztwo": null,
+      "lon": "16.7936",
+      "lat": "53.7403",
+      "rok_zalozenia_stacji": "1891",
+      "rzedna_zerawodowskazu": "132.092",
+      "kilometr_biegu_rzeki": "122.05",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "44",
+      "stan_wody_data_pomiaru": "2026-07-28 17:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.05",
