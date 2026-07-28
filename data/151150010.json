@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T12:56:27.360253+00:00",
-    "data": {
-      "id_stacji": "151150010",
-      "stacja": "Zgorzelec",
-      "rzeka": "Czerwona Woda",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "70",
-      "stan_wody_data_pomiaru": "2026-07-21 12:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.15",
-      "przeplyw_data": "2026-07-21 12:30:00",
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-16 10:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T15:10:03.757609+00:00",
     "data": {
       "id_stacji": "151150010",
@@ -1992,6 +1971,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.15",
       "przeplyw_data": "2026-07-28 11:10:00",
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-27 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T14:24:03.139115+00:00",
+    "data": {
+      "id_stacji": "151150010",
+      "stacja": "Zgorzelec",
+      "rzeka": "Czerwona Woda",
+      "wojewodztwo": null,
+      "lon": "15.0206",
+      "lat": "51.1308",
+      "rok_zalozenia_stacji": "1957",
+      "rzedna_zerawodowskazu": "185.667",
+      "kilometr_biegu_rzeki": "2.01",
+      "stan_alarmowy": "220",
+      "stan_ostrzegawczy": "190",
+      "stan_wody": "70",
+      "stan_wody_data_pomiaru": "2026-07-28 14:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.15",
+      "przeplyw_data": "2026-07-28 13:50:00",
       "zjawisko_lodowe": null,
       "zjawisko_lodowe_data_pomiaru": null,
       "zjawisko_zarastania": "101",
