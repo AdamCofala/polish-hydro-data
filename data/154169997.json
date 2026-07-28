@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T20:01:39.673984+00:00",
-    "data": {
-      "id_stacji": "154169997",
-      "stacja": "Sławno",
-      "rzeka": "Wieprza",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "337",
-      "stan_wody_data_pomiaru": "2026-07-21 19:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-15 10:20:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-14 07:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T21:40:59.037385+00:00",
     "data": {
       "id_stacji": "154169997",
@@ -2008,6 +1987,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "335",
       "stan_wody_data_pomiaru": "2026-07-28 19:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-15 10:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-14 07:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T21:13:29.929850+00:00",
+    "data": {
+      "id_stacji": "154169997",
+      "stacja": "Sławno",
+      "rzeka": "Wieprza",
+      "wojewodztwo": null,
+      "lon": "16.6883",
+      "lat": "54.3658",
+      "rok_zalozenia_stacji": "1946",
+      "rzedna_zerawodowskazu": null,
+      "kilometr_biegu_rzeki": "49.17",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "334",
+      "stan_wody_data_pomiaru": "2026-07-28 21:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,

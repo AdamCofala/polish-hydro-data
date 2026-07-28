@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T20:01:39.673984+00:00",
-    "data": {
-      "id_stacji": "149210480",
-      "stacja": "Wisłok wielki",
-      "rzeka": "Wisłok",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "277",
-      "stan_wody_data_pomiaru": "2026-07-21 19:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-07-02 09:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-02 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T21:40:59.037385+00:00",
     "data": {
       "id_stacji": "149210480",
@@ -2008,6 +1987,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "282",
       "stan_wody_data_pomiaru": "2026-07-28 19:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-07-02 09:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-02 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T21:13:29.929850+00:00",
+    "data": {
+      "id_stacji": "149210480",
+      "stacja": "Wisłok wielki",
+      "rzeka": "Wisłok",
+      "wojewodztwo": null,
+      "lon": "21.9794",
+      "lat": "49.4006",
+      "rok_zalozenia_stacji": "2023",
+      "rzedna_zerawodowskazu": "484.022",
+      "kilometr_biegu_rzeki": "212.64",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "282",
+      "stan_wody_data_pomiaru": "2026-07-28 21:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
