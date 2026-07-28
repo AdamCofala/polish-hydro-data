@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T03:23:22.461048+00:00",
-    "data": {
-      "id_stacji": "152230070",
-      "stacja": "Malowa Góra",
-      "rzeka": "Krzna",
-      "wojewodztwo": "lubelskie",
-      "lon": "23.4675",
-      "lat": "52.1036",
-      "stan_wody": "239",
-      "stan_wody_data_pomiaru": "2026-07-21 03:00:00",
-      "temperatura_wody": "22.2",
-      "temperatura_wody_data_pomiaru": "2026-07-20 06:00:00",
-      "przeplyw": "2.84",
-      "przeplyw_data": "2026-07-21 02:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-03 10:20:00",
-      "zjawisko_zarastania": "111",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-07 13:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T06:12:15.878485+00:00",
     "data": {
       "id_stacji": "152230070",
@@ -1998,6 +1977,32 @@
       "temperatura_wody_data_pomiaru": "2026-07-27 06:00:00",
       "przeplyw": "1.72",
       "przeplyw_data": "2026-07-28 02:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-03 10:20:00",
+      "zjawisko_zarastania": "111",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-07 13:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T06:09:25.697868+00:00",
+    "data": {
+      "id_stacji": "152230070",
+      "stacja": "Malowa Góra",
+      "rzeka": "Krzna",
+      "wojewodztwo": "lubelskie",
+      "lon": "23.4675",
+      "lat": "52.1036",
+      "rok_zalozenia_stacji": "1926",
+      "rzedna_zerawodowskazu": "127.767",
+      "kilometr_biegu_rzeki": "9.26",
+      "stan_alarmowy": "350",
+      "stan_ostrzegawczy": "310",
+      "stan_wody": "232",
+      "stan_wody_data_pomiaru": "2026-07-28 06:00:00",
+      "temperatura_wody": "20.2",
+      "temperatura_wody_data_pomiaru": "2026-07-27 06:00:00",
+      "przeplyw": "1.72",
+      "przeplyw_data": "2026-07-28 05:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-03 10:20:00",
       "zjawisko_zarastania": "111",

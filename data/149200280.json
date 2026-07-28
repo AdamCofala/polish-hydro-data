@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T03:23:22.461048+00:00",
-    "data": {
-      "id_stacji": "149200280",
-      "stacja": "Zgłobice",
-      "rzeka": "Dunajec",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.8797",
-      "lat": "49.975",
-      "stan_wody": "125",
-      "stan_wody_data_pomiaru": "2026-07-21 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "56.2",
-      "przeplyw_data": "2026-07-21 02:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-06-29 08:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-29 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T06:12:15.878485+00:00",
     "data": {
       "id_stacji": "149200280",
@@ -1998,6 +1977,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "60",
       "przeplyw_data": "2026-07-28 02:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-06-29 08:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-29 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T06:09:25.697868+00:00",
+    "data": {
+      "id_stacji": "149200280",
+      "stacja": "Zgłobice",
+      "rzeka": "Dunajec",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.8794",
+      "lat": "49.975",
+      "rok_zalozenia_stacji": "1867",
+      "rzedna_zerawodowskazu": "189.728",
+      "kilometr_biegu_rzeki": "38.88",
+      "stan_alarmowy": "600",
+      "stan_ostrzegawczy": "450",
+      "stan_wody": "120",
+      "stan_wody_data_pomiaru": "2026-07-28 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "50",
+      "przeplyw_data": "2026-07-28 05:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-06-29 08:30:00",
       "zjawisko_zarastania": "0",

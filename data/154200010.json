@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T03:23:22.461048+00:00",
-    "data": {
-      "id_stacji": "154200010",
-      "stacja": "Bornity",
-      "rzeka": "Wałsza",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "20.0478",
-      "lat": "54.1858",
-      "stan_wody": "314",
-      "stan_wody_data_pomiaru": "2026-07-21 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "11",
-      "przeplyw_data": "2026-07-21 02:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-24 09:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-03 09:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T06:12:15.878485+00:00",
     "data": {
       "id_stacji": "154200010",
@@ -1998,6 +1977,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "5.87",
       "przeplyw_data": "2026-07-28 02:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-24 09:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-03 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T06:09:25.697868+00:00",
+    "data": {
+      "id_stacji": "154200010",
+      "stacja": "Bornity",
+      "rzeka": "Wałsza",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "20.0478",
+      "lat": "54.1858",
+      "rok_zalozenia_stacji": "1947",
+      "rzedna_zerawodowskazu": "34.019",
+      "kilometr_biegu_rzeki": "13.07",
+      "stan_alarmowy": "440",
+      "stan_ostrzegawczy": "380",
+      "stan_wody": "253",
+      "stan_wody_data_pomiaru": "2026-07-28 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "5.8",
+      "przeplyw_data": "2026-07-28 05:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-24 09:00:00",
       "zjawisko_zarastania": "0",

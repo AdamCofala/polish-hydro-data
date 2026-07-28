@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T03:23:22.461048+00:00",
-    "data": {
-      "id_stacji": "154200040",
-      "stacja": "Piaseczno",
-      "rzeka": "Elma",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "253",
-      "stan_wody_data_pomiaru": "2026-07-21 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "4.5",
-      "przeplyw_data": "2026-07-20 17:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-02 12:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-17 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T06:12:15.878485+00:00",
     "data": {
       "id_stacji": "154200040",
@@ -1998,6 +1977,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.71",
       "przeplyw_data": "2026-07-27 18:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-02 12:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-17 08:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T06:09:25.697868+00:00",
+    "data": {
+      "id_stacji": "154200040",
+      "stacja": "Piaseczno",
+      "rzeka": "Elma",
+      "wojewodztwo": null,
+      "lon": "20.5503",
+      "lat": "54.2194",
+      "rok_zalozenia_stacji": "1951",
+      "rzedna_zerawodowskazu": "71.954",
+      "kilometr_biegu_rzeki": "16.53",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "161",
+      "stan_wody_data_pomiaru": "2026-07-28 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.58",
+      "przeplyw_data": "2026-07-28 05:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-03-02 12:00:00",
       "zjawisko_zarastania": "100",

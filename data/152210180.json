@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T03:23:22.461048+00:00",
-    "data": {
-      "id_stacji": "152210180",
-      "stacja": "Pułtusk",
-      "rzeka": "Narew",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "179",
-      "stan_wody_data_pomiaru": "2026-07-21 03:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-18 10:30:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-25 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T06:12:15.878485+00:00",
     "data": {
       "id_stacji": "152210180",
@@ -1916,6 +1895,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "181",
       "stan_wody_data_pomiaru": "2026-07-28 03:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-18 10:30:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-25 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T06:09:25.697868+00:00",
+    "data": {
+      "id_stacji": "152210180",
+      "stacja": "Pułtusk",
+      "rzeka": "Narew",
+      "wojewodztwo": null,
+      "lon": "21.0933",
+      "lat": "52.7028",
+      "rok_zalozenia_stacji": "2024",
+      "rzedna_zerawodowskazu": "77.409",
+      "kilometr_biegu_rzeki": "61.08",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "180",
+      "stan_wody_data_pomiaru": "2026-07-28 06:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
