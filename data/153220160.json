@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T21:40:59.037385+00:00",
-    "data": {
-      "id_stacji": "153220160",
-      "stacja": "Osowiec 2",
-      "rzeka": "Ełk (Kanał Rudzki)",
-      "wojewodztwo": "podlaskie",
-      "lon": "22.6267",
-      "lat": "53.4867",
-      "stan_wody": "360",
-      "stan_wody_data_pomiaru": "2026-07-21 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.34",
-      "przeplyw_data": "2026-07-21 17:30:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-10 14:20:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-07 06:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T23:02:29.686330+00:00",
     "data": {
       "id_stacji": "153220160",
@@ -2013,6 +1992,32 @@
       "stan_ostrzegawczy": "460",
       "stan_wody": "362",
       "stan_wody_data_pomiaru": "2026-07-28 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "2.44",
+      "przeplyw_data": "2026-07-28 18:10:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-10 14:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-07 06:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T22:34:39.843003+00:00",
+    "data": {
+      "id_stacji": "153220160",
+      "stacja": "Osowiec 2",
+      "rzeka": "Ełk (Kanał Rudzki)",
+      "wojewodztwo": "podlaskie",
+      "lon": "22.6267",
+      "lat": "53.4867",
+      "rok_zalozenia_stacji": "1953",
+      "rzedna_zerawodowskazu": "103.591",
+      "kilometr_biegu_rzeki": "1.16",
+      "stan_alarmowy": "490",
+      "stan_ostrzegawczy": "460",
+      "stan_wody": "362",
+      "stan_wody_data_pomiaru": "2026-07-28 22:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.44",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T21:40:59.037385+00:00",
-    "data": {
-      "id_stacji": "149190050",
-      "stacja": "Rajcza",
-      "rzeka": "Soła",
-      "wojewodztwo": "śląskie",
-      "lon": "19.1164",
-      "lat": "49.5139",
-      "stan_wody": "175",
-      "stan_wody_data_pomiaru": "2026-07-21 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.72",
-      "przeplyw_data": "2026-07-21 21:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 08:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-23 09:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T23:02:29.686330+00:00",
     "data": {
       "id_stacji": "149190050",
@@ -2017,6 +1996,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.08",
       "przeplyw_data": "2026-07-28 20:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 08:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-23 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T22:34:39.843003+00:00",
+    "data": {
+      "id_stacji": "149190050",
+      "stacja": "Rajcza",
+      "rzeka": "Soła",
+      "wojewodztwo": "śląskie",
+      "lon": "19.1164",
+      "lat": "49.5139",
+      "rok_zalozenia_stacji": "1949",
+      "rzedna_zerawodowskazu": "482.106",
+      "kilometr_biegu_rzeki": "76.36",
+      "stan_alarmowy": "370",
+      "stan_ostrzegawczy": "290",
+      "stan_wody": "168",
+      "stan_wody_data_pomiaru": "2026-07-28 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.08",
+      "przeplyw_data": "2026-07-28 22:10:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 08:40:00",
       "zjawisko_zarastania": "0",

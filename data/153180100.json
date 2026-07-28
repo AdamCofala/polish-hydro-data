@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T21:40:59.037385+00:00",
-    "data": {
-      "id_stacji": "153180100",
-      "stacja": "Grudziądz",
-      "rzeka": "Wisła",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "18.7453",
-      "lat": "53.485",
-      "stan_wody": "140",
-      "stan_wody_data_pomiaru": "2026-07-21 21:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "316",
-      "przeplyw_data": "2026-07-21 17:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-27 06:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-08 10:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T23:02:29.686330+00:00",
     "data": {
       "id_stacji": "153180100",
@@ -2013,6 +1992,32 @@
       "stan_ostrzegawczy": "540",
       "stan_wody": "151",
       "stan_wody_data_pomiaru": "2026-07-28 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "354",
+      "przeplyw_data": "2026-07-28 17:10:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-27 06:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-08 10:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T22:34:39.843003+00:00",
+    "data": {
+      "id_stacji": "153180100",
+      "stacja": "Grudziądz",
+      "rzeka": "Wisła",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lon": "18.7453",
+      "lat": "53.485",
+      "rok_zalozenia_stacji": "1810",
+      "rzedna_zerawodowskazu": "13.99",
+      "kilometr_biegu_rzeki": "107.34",
+      "stan_alarmowy": "650",
+      "stan_ostrzegawczy": "540",
+      "stan_wody": "151",
+      "stan_wody_data_pomiaru": "2026-07-28 22:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "354",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T21:40:59.037385+00:00",
-    "data": {
-      "id_stacji": "150190330",
-      "stacja": "Ojców",
-      "rzeka": "Prądnik",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.8325",
-      "lat": "50.1947",
-      "stan_wody": "102",
-      "stan_wody_data_pomiaru": "2026-07-21 21:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.22",
-      "przeplyw_data": "2026-07-21 21:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:40:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-15 08:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T23:02:29.686330+00:00",
     "data": {
       "id_stacji": "150190330",
@@ -2017,6 +1996,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.26",
       "przeplyw_data": "2026-07-28 20:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:40:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-15 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T22:34:39.843003+00:00",
+    "data": {
+      "id_stacji": "150190330",
+      "stacja": "Ojców",
+      "rzeka": "Prądnik",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.8325",
+      "lat": "50.1947",
+      "rok_zalozenia_stacji": "1930",
+      "rzedna_zerawodowskazu": "305.354",
+      "kilometr_biegu_rzeki": "25.2",
+      "stan_alarmowy": "210",
+      "stan_ostrzegawczy": "170",
+      "stan_wody": "105",
+      "stan_wody_data_pomiaru": "2026-07-28 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.26",
+      "przeplyw_data": "2026-07-28 22:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-01-22 10:40:00",
       "zjawisko_zarastania": "101",

@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T21:40:59.037385+00:00",
-    "data": {
-      "id_stacji": "150190170",
-      "stacja": "Pustynia",
-      "rzeka": "Wisła",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.2364",
-      "lat": "50.0633",
-      "stan_wody": "215",
-      "stan_wody_data_pomiaru": "2026-07-21 21:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "175",
-      "przeplyw_data": "2024-09-17 14:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2025-12-17 12:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-09 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T23:02:29.686330+00:00",
     "data": {
       "id_stacji": "150190170",
@@ -2013,6 +1992,32 @@
       "stan_ostrzegawczy": "330",
       "stan_wody": "219",
       "stan_wody_data_pomiaru": "2026-07-28 21:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "175",
+      "przeplyw_data": "2024-09-17 14:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2025-12-17 12:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-09 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T22:34:39.843003+00:00",
+    "data": {
+      "id_stacji": "150190170",
+      "stacja": "Pustynia",
+      "rzeka": "Wisła",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.2364",
+      "lat": "50.0633",
+      "rok_zalozenia_stacji": "1887",
+      "rzedna_zerawodowskazu": "223.369",
+      "kilometr_biegu_rzeki": "917.14",
+      "stan_alarmowy": "480",
+      "stan_ostrzegawczy": "330",
+      "stan_wody": "220",
+      "stan_wody_data_pomiaru": "2026-07-28 22:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "175",
