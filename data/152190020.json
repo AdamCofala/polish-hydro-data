@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T11:24:16.492356+00:00",
-    "data": {
-      "id_stacji": "152190020",
-      "stacja": "Włocławek-ruda",
-      "rzeka": "Zgłowiączka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "82",
-      "stan_wody_data_pomiaru": "2026-07-21 11:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.52",
-      "przeplyw_data": "2026-07-21 11:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-27 11:10:00",
-      "zjawisko_zarastania": "201",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-13 11:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T12:56:27.360253+00:00",
     "data": {
       "id_stacji": "152190020",
@@ -1987,6 +1966,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.72",
       "przeplyw_data": "2026-07-28 08:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-27 11:10:00",
+      "zjawisko_zarastania": "201",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-13 11:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T11:35:50.817312+00:00",
+    "data": {
+      "id_stacji": "152190020",
+      "stacja": "Włocławek-ruda",
+      "rzeka": "Zgłowiączka",
+      "wojewodztwo": null,
+      "lon": "19.0219",
+      "lat": "52.6489",
+      "rok_zalozenia_stacji": "1979",
+      "rzedna_zerawodowskazu": "49.799",
+      "kilometr_biegu_rzeki": "4.99",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "84",
+      "stan_wody_data_pomiaru": "2026-07-28 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.64",
+      "przeplyw_data": "2026-07-28 11:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-27 11:10:00",
       "zjawisko_zarastania": "201",

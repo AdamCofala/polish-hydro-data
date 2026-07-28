@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T11:24:16.492356+00:00",
-    "data": {
-      "id_stacji": "153140010",
-      "stacja": "Świnoujście",
-      "rzeka": "Zatoka Pomorska (ujście Świny)",
-      "wojewodztwo": "zachodniopomorskie",
-      "lon": "14.2644",
-      "lat": "53.9083",
-      "stan_wody": "535",
-      "stan_wody_data_pomiaru": "2026-07-21 11:00:00",
-      "temperatura_wody": "18.5",
-      "temperatura_wody_data_pomiaru": "2026-07-21 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-06 12:00:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-07-21T12:56:27.360253+00:00",
     "data": {
       "id_stacji": "153140010",
@@ -1985,6 +1964,32 @@
       "stan_wody_data_pomiaru": "2026-07-28 08:50:00",
       "temperatura_wody": "19.5",
       "temperatura_wody_data_pomiaru": "2026-07-27 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-06 12:00:00",
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-07-28T11:35:50.817312+00:00",
+    "data": {
+      "id_stacji": "153140010",
+      "stacja": "Świnoujście",
+      "rzeka": "Zatoka Pomorska (ujście Świny)",
+      "wojewodztwo": "zachodniopomorskie",
+      "lon": "14.2644",
+      "lat": "53.9083",
+      "rok_zalozenia_stacji": "1810",
+      "rzedna_zerawodowskazu": "-4.915",
+      "kilometr_biegu_rzeki": "0",
+      "stan_alarmowy": "580",
+      "stan_ostrzegawczy": "560",
+      "stan_wody": "518",
+      "stan_wody_data_pomiaru": "2026-07-28 10:50:00",
+      "temperatura_wody": "18.9",
+      "temperatura_wody_data_pomiaru": "2026-07-28 06:00:00",
       "przeplyw": null,
       "przeplyw_data": null,
       "zjawisko_lodowe": "0",

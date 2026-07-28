@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T11:24:16.492356+00:00",
-    "data": {
-      "id_stacji": "154210100",
-      "stacja": "Mieduniszki",
-      "rzeka": "Węgorapa",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "21.98",
-      "lat": "54.3264",
-      "stan_wody": "199",
-      "stan_wody_data_pomiaru": "2026-07-21 11:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "4.78",
-      "przeplyw_data": "2026-07-21 11:10:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-11 14:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-23 14:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-21T12:56:27.360253+00:00",
     "data": {
       "id_stacji": "154210100",
@@ -1909,6 +1888,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "6.11",
       "przeplyw_data": "2026-07-28 08:50:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-11 14:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-23 14:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-28T11:35:50.817312+00:00",
+    "data": {
+      "id_stacji": "154210100",
+      "stacja": "Mieduniszki",
+      "rzeka": "Węgorapa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "21.98",
+      "lat": "54.3264",
+      "rok_zalozenia_stacji": "1962",
+      "rzedna_zerawodowskazu": "86.291",
+      "kilometr_biegu_rzeki": "2",
+      "stan_alarmowy": "450",
+      "stan_ostrzegawczy": "400",
+      "stan_wody": "223",
+      "stan_wody_data_pomiaru": "2026-07-28 11:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "6.11",
+      "przeplyw_data": "2026-07-28 11:10:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-11 14:30:00",
       "zjawisko_zarastania": "0",
