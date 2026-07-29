@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T07:14:04.823531+00:00",
-    "data": {
-      "id_stacji": "153220250",
-      "stacja": "Dolistowo stare",
-      "rzeka": "Biebrza",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "332",
-      "stan_wody_data_pomiaru": "2026-07-22 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "3.9",
-      "przeplyw_data": "2026-07-22 06:50:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-06 13:00:00",
-      "zjawisko_zarastania": "220",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-14 07:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T10:00:55.315207+00:00",
     "data": {
       "id_stacji": "153220250",
@@ -2037,6 +2016,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3",
       "przeplyw_data": "2026-07-29 06:10:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-06 13:00:00",
+      "zjawisko_zarastania": "220",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-14 07:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T09:41:48.762720+00:00",
+    "data": {
+      "id_stacji": "153220250",
+      "stacja": "Dolistowo stare",
+      "rzeka": "Biebrza",
+      "wojewodztwo": null,
+      "lon": "22.9069",
+      "lat": "53.5533",
+      "rok_zalozenia_stacji": "1981",
+      "rzedna_zerawodowskazu": "105.949",
+      "kilometr_biegu_rzeki": "76.9",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "337",
+      "stan_wody_data_pomiaru": "2026-07-29 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3",
+      "przeplyw_data": "2026-07-29 09:10:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-06 13:00:00",
       "zjawisko_zarastania": "220",

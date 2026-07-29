@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T07:14:04.823531+00:00",
-    "data": {
-      "id_stacji": "152160150",
-      "stacja": "Głuszyna",
-      "rzeka": "Kopel",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "157",
-      "stan_wody_data_pomiaru": "2026-07-22 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.06",
-      "przeplyw_data": "2026-07-22 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-23 15:40:00",
-      "zjawisko_zarastania": "302",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-05 07:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T10:00:55.315207+00:00",
     "data": {
       "id_stacji": "152160150",
@@ -2037,6 +2016,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.74",
       "przeplyw_data": "2026-07-29 06:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-23 15:40:00",
+      "zjawisko_zarastania": "302",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-05 07:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T09:41:48.762720+00:00",
+    "data": {
+      "id_stacji": "152160150",
+      "stacja": "Głuszyna",
+      "rzeka": "Kopel",
+      "wojewodztwo": null,
+      "lon": "16.9533",
+      "lat": "52.3169",
+      "rok_zalozenia_stacji": "1955",
+      "rzedna_zerawodowskazu": "58.246",
+      "kilometr_biegu_rzeki": "4.15",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "145",
+      "stan_wody_data_pomiaru": "2026-07-29 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.71",
+      "przeplyw_data": "2026-07-29 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-23 15:40:00",
       "zjawisko_zarastania": "302",

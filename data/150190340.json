@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T07:14:04.823531+00:00",
-    "data": {
-      "id_stacji": "150190340",
-      "stacja": "Kraków - Bielany",
-      "rzeka": "Wisła",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.8433",
-      "lat": "50.0403",
-      "stan_wody": "146",
-      "stan_wody_data_pomiaru": "2026-07-22 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "235",
-      "przeplyw_data": "2025-11-27 23:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2023-04-11 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-03 13:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T10:00:55.315207+00:00",
     "data": {
       "id_stacji": "150190340",
@@ -2033,6 +2012,32 @@
       "stan_ostrzegawczy": "370",
       "stan_wody": "147",
       "stan_wody_data_pomiaru": "2026-07-29 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "235",
+      "przeplyw_data": "2025-11-27 23:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2023-04-11 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-03 13:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T09:41:48.762720+00:00",
+    "data": {
+      "id_stacji": "150190340",
+      "stacja": "Kraków - Bielany",
+      "rzeka": "Wisła",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.8433",
+      "lat": "50.0403",
+      "rok_zalozenia_stacji": "1956",
+      "rzedna_zerawodowskazu": "197.643",
+      "kilometr_biegu_rzeki": "854.17",
+      "stan_alarmowy": "520",
+      "stan_ostrzegawczy": "370",
+      "stan_wody": "145",
+      "stan_wody_data_pomiaru": "2026-07-29 09:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "235",

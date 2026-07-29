@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T07:14:04.823531+00:00",
-    "data": {
-      "id_stacji": "151220040",
-      "stacja": "Witowice",
-      "rzeka": "Kurówka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "230",
-      "stan_wody_data_pomiaru": "2026-07-22 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.23",
-      "przeplyw_data": "2026-07-22 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-24 09:10:00",
-      "zjawisko_zarastania": "332",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-16 13:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T10:00:55.315207+00:00",
     "data": {
       "id_stacji": "151220040",
@@ -2037,6 +2016,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.19",
       "przeplyw_data": "2026-07-29 06:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-24 09:10:00",
+      "zjawisko_zarastania": "333",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-27 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T09:41:48.762720+00:00",
+    "data": {
+      "id_stacji": "151220040",
+      "stacja": "Witowice",
+      "rzeka": "Kurówka",
+      "wojewodztwo": null,
+      "lon": "22.0861",
+      "lat": "51.4092",
+      "rok_zalozenia_stacji": "1971",
+      "rzedna_zerawodowskazu": "131.379",
+      "kilometr_biegu_rzeki": "15.64",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "225",
+      "stan_wody_data_pomiaru": "2026-07-29 09:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.19",
+      "przeplyw_data": "2026-07-29 09:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-24 09:10:00",
       "zjawisko_zarastania": "333",
