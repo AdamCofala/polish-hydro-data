@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T10:00:55.315207+00:00",
-    "data": {
-      "id_stacji": "150230050",
-      "stacja": "Orłów drewniany",
-      "rzeka": "Wolica",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "249",
-      "stan_wody_data_pomiaru": "2026-07-22 09:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.73",
-      "przeplyw_data": "2026-07-22 09:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:30:00",
-      "zjawisko_zarastania": "312",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-20 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T12:12:14.213017+00:00",
     "data": {
       "id_stacji": "150230050",
@@ -2042,6 +2021,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.86",
       "przeplyw_data": "2026-07-29 09:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:30:00",
+      "zjawisko_zarastania": "312",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-20 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T12:05:35.793365+00:00",
+    "data": {
+      "id_stacji": "150230050",
+      "stacja": "Orłów drewniany",
+      "rzeka": "Wolica",
+      "wojewodztwo": null,
+      "lon": "23.1967",
+      "lat": "50.915",
+      "rok_zalozenia_stacji": "1945",
+      "rzedna_zerawodowskazu": "180.813",
+      "kilometr_biegu_rzeki": "3.36",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "254",
+      "stan_wody_data_pomiaru": "2026-07-29 11:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.86",
+      "przeplyw_data": "2026-07-29 11:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:30:00",
       "zjawisko_zarastania": "312",

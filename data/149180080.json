@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T10:00:55.315207+00:00",
-    "data": {
-      "id_stacji": "149180080",
-      "stacja": "Drogomyśl",
-      "rzeka": "Wisła",
-      "wojewodztwo": "śląskie",
-      "lon": "18.7494",
-      "lat": "49.8858",
-      "stan_wody": "98",
-      "stan_wody_data_pomiaru": "2026-07-22 09:30:00",
-      "temperatura_wody": "19",
-      "temperatura_wody_data_pomiaru": "2026-07-21 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-28 11:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-21 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T12:12:14.213017+00:00",
     "data": {
       "id_stacji": "149180080",
@@ -2040,6 +2019,32 @@
       "stan_wody_data_pomiaru": "2026-07-29 09:30:00",
       "temperatura_wody": "19.1",
       "temperatura_wody_data_pomiaru": "2026-07-28 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 11:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-21 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T12:05:35.793365+00:00",
+    "data": {
+      "id_stacji": "149180080",
+      "stacja": "Drogomyśl",
+      "rzeka": "Wisła",
+      "wojewodztwo": "śląskie",
+      "lon": "18.7494",
+      "lat": "49.8858",
+      "rok_zalozenia_stacji": "2006",
+      "rzedna_zerawodowskazu": "253.594",
+      "kilometr_biegu_rzeki": "974.6",
+      "stan_alarmowy": "450",
+      "stan_ostrzegawczy": "350",
+      "stan_wody": "95",
+      "stan_wody_data_pomiaru": "2026-07-29 11:30:00",
+      "temperatura_wody": "19.2",
+      "temperatura_wody_data_pomiaru": "2026-07-29 06:00:00",
       "przeplyw": null,
       "przeplyw_data": null,
       "zjawisko_lodowe": "0",

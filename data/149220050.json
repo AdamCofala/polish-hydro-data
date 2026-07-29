@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T10:00:55.315207+00:00",
-    "data": {
-      "id_stacji": "149220050",
-      "stacja": "Zagórz",
-      "rzeka": "Osława",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.2689",
-      "lat": "49.5133",
-      "stan_wody": "98",
-      "stan_wody_data_pomiaru": "2026-07-22 09:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.11",
-      "przeplyw_data": "2026-07-22 09:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-07-14 11:20:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-14 11:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T12:12:14.213017+00:00",
     "data": {
       "id_stacji": "149220050",
@@ -2042,6 +2021,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "2.19",
       "przeplyw_data": "2026-07-29 09:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-07-14 11:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-27 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T12:05:35.793365+00:00",
+    "data": {
+      "id_stacji": "149220050",
+      "stacja": "Zagórz",
+      "rzeka": "Osława",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.2689",
+      "lat": "49.5133",
+      "rok_zalozenia_stacji": "1903",
+      "rzedna_zerawodowskazu": "299.073",
+      "kilometr_biegu_rzeki": "2.62",
+      "stan_alarmowy": "240",
+      "stan_ostrzegawczy": "180",
+      "stan_wody": "103",
+      "stan_wody_data_pomiaru": "2026-07-29 11:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.98",
+      "przeplyw_data": "2026-07-29 11:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-07-14 11:20:00",
       "zjawisko_zarastania": "100",
