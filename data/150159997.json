@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T04:23:42.092662+00:00",
-    "data": {
-      "id_stacji": "150159997",
-      "stacja": "Miszkowice",
-      "rzeka": "Złotna",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "30",
-      "stan_wody_data_pomiaru": "2026-07-22 04:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-07-22T07:14:04.823531+00:00",
     "data": {
       "id_stacji": "150159997",
@@ -2028,6 +2007,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "29",
       "stan_wody_data_pomiaru": "2026-07-29 03:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-07-29T06:36:49.475538+00:00",
+    "data": {
+      "id_stacji": "150159997",
+      "stacja": "Miszkowice",
+      "rzeka": "Złotna",
+      "wojewodztwo": null,
+      "lon": "15.9289",
+      "lat": "50.7144",
+      "rok_zalozenia_stacji": "1984",
+      "rzedna_zerawodowskazu": "538.009",
+      "kilometr_biegu_rzeki": "0.54",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "30",
+      "stan_wody_data_pomiaru": "2026-07-29 06:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,

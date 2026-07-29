@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T04:23:42.092662+00:00",
-    "data": {
-      "id_stacji": "152160060",
-      "stacja": "Konojad",
-      "rzeka": "Mogilnica",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "143",
-      "stan_wody_data_pomiaru": "2026-07-22 04:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.63",
-      "przeplyw_data": "2026-07-22 03:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-20 12:10:00",
-      "zjawisko_zarastania": "302",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-15 10:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T07:14:04.823531+00:00",
     "data": {
       "id_stacji": "152160060",
@@ -2032,6 +2011,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.51",
       "przeplyw_data": "2026-07-29 03:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-20 12:10:00",
+      "zjawisko_zarastania": "302",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-15 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T06:36:49.475538+00:00",
+    "data": {
+      "id_stacji": "152160060",
+      "stacja": "Konojad",
+      "rzeka": "Mogilnica",
+      "wojewodztwo": null,
+      "lon": "16.5319",
+      "lat": "52.1514",
+      "rok_zalozenia_stacji": "1940",
+      "rzedna_zerawodowskazu": "63.849",
+      "kilometr_biegu_rzeki": "7.63",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "135",
+      "stan_wody_data_pomiaru": "2026-07-29 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.5",
+      "przeplyw_data": "2026-07-29 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-20 12:10:00",
       "zjawisko_zarastania": "302",

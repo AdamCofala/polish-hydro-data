@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T04:23:42.092662+00:00",
-    "data": {
-      "id_stacji": "150170080",
-      "stacja": "Jarnołtówek",
-      "rzeka": "Złoty Potok",
-      "wojewodztwo": "opolskie",
-      "lon": "17.4281",
-      "lat": "50.2858",
-      "stan_wody": "63",
-      "stan_wody_data_pomiaru": "2026-07-22 04:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.23",
-      "przeplyw_data": "2026-07-21 17:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-26 09:30:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-06 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T07:14:04.823531+00:00",
     "data": {
       "id_stacji": "150170080",
@@ -2032,6 +2011,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.22",
       "przeplyw_data": "2026-07-28 17:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-26 09:30:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-06 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T06:36:49.475538+00:00",
+    "data": {
+      "id_stacji": "150170080",
+      "stacja": "Jarnołtówek",
+      "rzeka": "Złoty Potok",
+      "wojewodztwo": "opolskie",
+      "lon": "17.4281",
+      "lat": "50.2858",
+      "rok_zalozenia_stacji": "1974",
+      "rzedna_zerawodowskazu": "351.034",
+      "kilometr_biegu_rzeki": "13.14",
+      "stan_alarmowy": "170",
+      "stan_ostrzegawczy": "120",
+      "stan_wody": "63",
+      "stan_wody_data_pomiaru": "2026-07-29 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.2",
+      "przeplyw_data": "2026-07-29 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-26 09:30:00",
       "zjawisko_zarastania": "100",

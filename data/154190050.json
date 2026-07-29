@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T04:23:42.092662+00:00",
-    "data": {
-      "id_stacji": "154190050",
-      "stacja": "Nowe Batorowo",
-      "rzeka": "Zalew Wiślany",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "19.3631",
-      "lat": "54.2306",
-      "stan_wody": "549",
-      "stan_wody_data_pomiaru": "2026-07-22 04:00:00",
-      "temperatura_wody": "8.6",
-      "temperatura_wody_data_pomiaru": "2025-11-06 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-20 09:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2025-09-19 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T07:14:04.823531+00:00",
     "data": {
       "id_stacji": "154190050",
@@ -2028,6 +2007,32 @@
       "stan_ostrzegawczy": "590",
       "stan_wody": "541",
       "stan_wody_data_pomiaru": "2026-07-29 03:30:00",
+      "temperatura_wody": "8.6",
+      "temperatura_wody_data_pomiaru": "2025-11-06 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-20 09:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2025-09-19 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T06:36:49.475538+00:00",
+    "data": {
+      "id_stacji": "154190050",
+      "stacja": "Nowe Batorowo",
+      "rzeka": "Zalew Wiślany",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "19.3672",
+      "lat": "54.2139",
+      "rok_zalozenia_stacji": "1811",
+      "rzedna_zerawodowskazu": "-5.112",
+      "kilometr_biegu_rzeki": "2.75",
+      "stan_alarmowy": "630",
+      "stan_ostrzegawczy": "590",
+      "stan_wody": "542",
+      "stan_wody_data_pomiaru": "2026-07-29 06:00:00",
       "temperatura_wody": "8.6",
       "temperatura_wody_data_pomiaru": "2025-11-06 06:00:00",
       "przeplyw": null,

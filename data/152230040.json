@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T04:23:42.092662+00:00",
-    "data": {
-      "id_stacji": "152230040",
-      "stacja": "Ploski",
-      "rzeka": "Narew",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.2322",
-      "lat": "52.9022",
-      "stan_wody": "186",
-      "stan_wody_data_pomiaru": "2026-07-22 04:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.45",
-      "przeplyw_data": "2026-07-22 03:50:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-18 13:20:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-17 08:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T07:14:04.823531+00:00",
     "data": {
       "id_stacji": "152230040",
@@ -2032,6 +2011,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.85",
       "przeplyw_data": "2026-07-29 03:30:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-18 13:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-17 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T06:36:49.475538+00:00",
+    "data": {
+      "id_stacji": "152230040",
+      "stacja": "Ploski",
+      "rzeka": "Narew",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.2322",
+      "lat": "52.9022",
+      "rok_zalozenia_stacji": "2005",
+      "rzedna_zerawodowskazu": "121.81",
+      "kilometr_biegu_rzeki": "384.25",
+      "stan_alarmowy": "370",
+      "stan_ostrzegawczy": "330",
+      "stan_wody": "180",
+      "stan_wody_data_pomiaru": "2026-07-29 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.85",
+      "przeplyw_data": "2026-07-29 06:10:00",
       "zjawisko_lodowe": "4",
       "zjawisko_lodowe_data_pomiaru": "2026-02-18 13:20:00",
       "zjawisko_zarastania": "100",

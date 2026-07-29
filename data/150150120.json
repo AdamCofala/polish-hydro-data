@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T04:23:42.092662+00:00",
-    "data": {
-      "id_stacji": "150150120",
-      "stacja": "Bukówka",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "15.9575",
-      "lat": "50.7128",
-      "stan_wody": "79",
-      "stan_wody_data_pomiaru": "2026-07-22 04:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.1",
-      "przeplyw_data": "2026-07-22 03:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2020-01-31 09:00:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-15 08:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T07:14:04.823531+00:00",
     "data": {
       "id_stacji": "150150120",
@@ -2032,6 +2011,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.08",
       "przeplyw_data": "2026-07-29 03:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2020-01-31 09:00:00",
+      "zjawisko_zarastania": "200",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-15 08:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T06:36:49.475538+00:00",
+    "data": {
+      "id_stacji": "150150120",
+      "stacja": "Bukówka",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "15.9575",
+      "lat": "50.7128",
+      "rok_zalozenia_stacji": "1903",
+      "rzedna_zerawodowskazu": "507.73",
+      "kilometr_biegu_rzeki": "273.1",
+      "stan_alarmowy": "180",
+      "stan_ostrzegawczy": "150",
+      "stan_wody": "78",
+      "stan_wody_data_pomiaru": "2026-07-29 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.08",
+      "przeplyw_data": "2026-07-29 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2020-01-31 09:00:00",
       "zjawisko_zarastania": "200",

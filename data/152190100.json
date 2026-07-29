@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T04:23:42.092662+00:00",
-    "data": {
-      "id_stacji": "152190100",
-      "stacja": "Bielawy",
-      "rzeka": "Mroga",
-      "wojewodztwo": "łódzkie",
-      "lon": "19.65",
-      "lat": "52.0736",
-      "stan_wody": "248",
-      "stan_wody_data_pomiaru": "2026-07-22 04:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.64",
-      "przeplyw_data": "2026-07-22 03:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-18 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T07:14:04.823531+00:00",
     "data": {
       "id_stacji": "152190100",
@@ -2032,6 +2011,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.22",
       "przeplyw_data": "2026-07-29 03:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-18 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T06:36:49.475538+00:00",
+    "data": {
+      "id_stacji": "152190100",
+      "stacja": "Bielawy",
+      "rzeka": "Mroga",
+      "wojewodztwo": "łódzkie",
+      "lon": "19.65",
+      "lat": "52.0736",
+      "rok_zalozenia_stacji": "1956",
+      "rzedna_zerawodowskazu": "96.368",
+      "kilometr_biegu_rzeki": "7.55",
+      "stan_alarmowy": "360",
+      "stan_ostrzegawczy": "310",
+      "stan_wody": "232",
+      "stan_wody_data_pomiaru": "2026-07-29 06:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.22",
+      "przeplyw_data": "2026-07-29 06:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 11:00:00",
       "zjawisko_zarastania": "0",

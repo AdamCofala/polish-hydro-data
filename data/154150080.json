@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T04:23:42.092662+00:00",
-    "data": {
-      "id_stacji": "154150080",
-      "stacja": "Mrzeżyno",
-      "rzeka": "Rega",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "517",
-      "stan_wody_data_pomiaru": "2026-07-22 04:00:00",
-      "temperatura_wody": "19.5",
-      "temperatura_wody_data_pomiaru": "2026-07-21 06:00:00",
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-07-22T07:14:04.823531+00:00",
     "data": {
       "id_stacji": "154150080",
@@ -2028,6 +2007,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "522",
       "stan_wody_data_pomiaru": "2026-07-29 03:30:00",
+      "temperatura_wody": "18.7",
+      "temperatura_wody_data_pomiaru": "2026-07-28 06:00:00",
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": null,
+      "zjawisko_zarastania_data_pomiaru": null
+    }
+  },
+  {
+    "timestamp": "2026-07-29T06:36:49.475538+00:00",
+    "data": {
+      "id_stacji": "154150080",
+      "stacja": "Mrzeżyno",
+      "rzeka": "Rega",
+      "wojewodztwo": null,
+      "lon": "15.2861",
+      "lat": "54.1417",
+      "rok_zalozenia_stacji": "2025",
+      "rzedna_zerawodowskazu": "-4.905",
+      "kilometr_biegu_rzeki": null,
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "520",
+      "stan_wody_data_pomiaru": "2026-07-29 06:00:00",
       "temperatura_wody": "18.7",
       "temperatura_wody_data_pomiaru": "2026-07-28 06:00:00",
       "przeplyw": null,
