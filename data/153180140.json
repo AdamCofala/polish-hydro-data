@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T00:56:55.979932+00:00",
-    "data": {
-      "id_stacji": "153180140",
-      "stacja": "Elgiszewo",
-      "rzeka": "Drwęca",
-      "wojewodztwo": "kujawsko-pomorskie",
-      "lon": "18.9281",
-      "lat": "53.0608",
-      "stan_wody": "77",
-      "stan_wody_data_pomiaru": "2026-07-22 00:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "13.7",
-      "przeplyw_data": "2026-07-22 00:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-21 09:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-10 07:32:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T04:23:42.092662+00:00",
     "data": {
       "id_stacji": "153180140",
@@ -2027,6 +2006,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "13.8",
       "przeplyw_data": "2026-07-28 23:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-21 09:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-10 07:32:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T03:50:58.180739+00:00",
+    "data": {
+      "id_stacji": "153180140",
+      "stacja": "Elgiszewo",
+      "rzeka": "Drwęca",
+      "wojewodztwo": "kujawsko-pomorskie",
+      "lon": "18.9283",
+      "lat": "53.0608",
+      "rok_zalozenia_stacji": "1948",
+      "rzedna_zerawodowskazu": "45.816",
+      "kilometr_biegu_rzeki": "29.74",
+      "stan_alarmowy": "230",
+      "stan_ostrzegawczy": "200",
+      "stan_wody": "80",
+      "stan_wody_data_pomiaru": "2026-07-29 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "13.8",
+      "przeplyw_data": "2026-07-29 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-21 09:20:00",
       "zjawisko_zarastania": "0",

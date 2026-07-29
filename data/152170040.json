@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T00:56:55.979932+00:00",
-    "data": {
-      "id_stacji": "152170040",
-      "stacja": "Pruśce",
-      "rzeka": "Wełna",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "105",
-      "stan_wody_data_pomiaru": "2026-07-22 00:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.41",
-      "przeplyw_data": "2026-07-21 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-23 12:30:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-10 13:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T04:23:42.092662+00:00",
     "data": {
       "id_stacji": "152170040",
@@ -2023,6 +2002,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "106",
       "stan_wody_data_pomiaru": "2026-07-28 23:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.42",
+      "przeplyw_data": "2026-07-28 17:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-23 12:30:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-10 13:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T03:50:58.180739+00:00",
+    "data": {
+      "id_stacji": "152170040",
+      "stacja": "Pruśce",
+      "rzeka": "Wełna",
+      "wojewodztwo": null,
+      "lon": "17.0983",
+      "lat": "52.7731",
+      "rok_zalozenia_stacji": "1888",
+      "rzedna_zerawodowskazu": "72.039",
+      "kilometr_biegu_rzeki": "40.86",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "106",
+      "stan_wody_data_pomiaru": "2026-07-29 03:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.42",

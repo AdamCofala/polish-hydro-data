@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T00:56:55.979932+00:00",
-    "data": {
-      "id_stacji": "149190210",
-      "stacja": "Sucha Beskidzka 2",
-      "rzeka": "Skawa",
-      "wojewodztwo": "małopolskie",
-      "lon": "19.6086",
-      "lat": "49.7394",
-      "stan_wody": "94",
-      "stan_wody_data_pomiaru": "2026-07-22 00:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.68",
-      "przeplyw_data": "2026-07-22 00:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-10 11:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-12 10:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T04:23:42.092662+00:00",
     "data": {
       "id_stacji": "149190210",
@@ -2027,6 +2006,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.68",
       "przeplyw_data": "2026-07-28 23:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-10 11:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-12 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T03:50:58.180739+00:00",
+    "data": {
+      "id_stacji": "149190210",
+      "stacja": "Sucha Beskidzka 2",
+      "rzeka": "Skawa",
+      "wojewodztwo": "małopolskie",
+      "lon": "19.6089",
+      "lat": "49.7394",
+      "rok_zalozenia_stacji": "1887",
+      "rzedna_zerawodowskazu": "324.177",
+      "kilometr_biegu_rzeki": "44.35",
+      "stan_alarmowy": "285",
+      "stan_ostrzegawczy": "215",
+      "stan_wody": "94",
+      "stan_wody_data_pomiaru": "2026-07-29 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.68",
+      "przeplyw_data": "2026-07-29 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-10 11:20:00",
       "zjawisko_zarastania": "0",

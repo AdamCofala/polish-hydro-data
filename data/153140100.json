@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-22T00:56:55.979932+00:00",
-    "data": {
-      "id_stacji": "153140100",
-      "stacja": "Żelewo",
-      "rzeka": "Płonia",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "154",
-      "stan_wody_data_pomiaru": "2026-07-22 00:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.11",
-      "przeplyw_data": "2026-07-22 00:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-17 11:00:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-18 08:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T04:23:42.092662+00:00",
     "data": {
       "id_stacji": "153140100",
@@ -2027,6 +2006,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.08",
       "przeplyw_data": "2026-07-28 23:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-17 11:00:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-23 12:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T03:50:58.180739+00:00",
+    "data": {
+      "id_stacji": "153140100",
+      "stacja": "Żelewo",
+      "rzeka": "Płonia",
+      "wojewodztwo": null,
+      "lon": "14.8633",
+      "lat": "53.2775",
+      "rok_zalozenia_stacji": "1955",
+      "rzedna_zerawodowskazu": "12.04",
+      "kilometr_biegu_rzeki": "25.99",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "153",
+      "stan_wody_data_pomiaru": "2026-07-29 03:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.08",
+      "przeplyw_data": "2026-07-29 03:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-17 11:00:00",
       "zjawisko_zarastania": "101",
