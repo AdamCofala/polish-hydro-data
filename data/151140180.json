@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T23:02:29.686330+00:00",
-    "data": {
-      "id_stacji": "151140180",
-      "stacja": "Olszyna",
-      "rzeka": "Nysa Łużycka",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "136",
-      "stan_wody_data_pomiaru": "2026-07-21 22:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": null,
-      "zjawisko_lodowe_data_pomiaru": null,
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-20 09:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T00:56:55.979932+00:00",
     "data": {
       "id_stacji": "151140180",
@@ -2018,6 +1997,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "132",
       "stan_wody_data_pomiaru": "2026-07-28 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": null,
+      "zjawisko_lodowe_data_pomiaru": null,
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-20 09:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T00:02:39.964100+00:00",
+    "data": {
+      "id_stacji": "151140180",
+      "stacja": "Olszyna",
+      "rzeka": "Nysa Łużycka",
+      "wojewodztwo": null,
+      "lon": "14.7531",
+      "lat": "51.6661",
+      "rok_zalozenia_stacji": "2024",
+      "rzedna_zerawodowskazu": "82.9",
+      "kilometr_biegu_rzeki": "63.24",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "131",
+      "stan_wody_data_pomiaru": "2026-07-28 23:00:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,

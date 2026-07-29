@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T23:02:29.686330+00:00",
-    "data": {
-      "id_stacji": "152230030",
-      "stacja": "Chraboły",
-      "rzeka": "Orlanka",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.1958",
-      "lat": "52.8622",
-      "stan_wody": "135",
-      "stan_wody_data_pomiaru": "2026-07-21 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.23",
-      "przeplyw_data": "2026-07-21 22:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-27 08:20:00",
-      "zjawisko_zarastania": "221",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-17 09:50:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T00:56:55.979932+00:00",
     "data": {
       "id_stacji": "152230030",
@@ -2022,6 +2001,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.31",
       "przeplyw_data": "2026-07-28 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-27 08:20:00",
+      "zjawisko_zarastania": "221",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-17 09:50:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T00:02:39.964100+00:00",
+    "data": {
+      "id_stacji": "152230030",
+      "stacja": "Chraboły",
+      "rzeka": "Orlanka",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.1958",
+      "lat": "52.8622",
+      "rok_zalozenia_stacji": "1954",
+      "rzedna_zerawodowskazu": "123.924",
+      "kilometr_biegu_rzeki": "6.72",
+      "stan_alarmowy": "350",
+      "stan_ostrzegawczy": "310",
+      "stan_wody": "148",
+      "stan_wody_data_pomiaru": "2026-07-28 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.31",
+      "przeplyw_data": "2026-07-28 23:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-27 08:20:00",
       "zjawisko_zarastania": "221",

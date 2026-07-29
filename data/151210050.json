@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T23:02:29.686330+00:00",
-    "data": {
-      "id_stacji": "151210050",
-      "stacja": "Gusin",
-      "rzeka": "Wiała",
-      "wojewodztwo": "mazowieckie",
-      "lon": "21.2544",
-      "lat": "51.8928",
-      "stan_wody": "119",
-      "stan_wody_data_pomiaru": "2026-07-21 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "187",
-      "przeplyw_data": "2026-07-21 22:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-26 09:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-03-26 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T00:56:55.979932+00:00",
     "data": {
       "id_stacji": "151210050",
@@ -592,6 +571,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "163",
       "przeplyw_data": "2026-07-28 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-26 09:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-03-26 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T00:02:39.964100+00:00",
+    "data": {
+      "id_stacji": "151210050",
+      "stacja": "Gusin",
+      "rzeka": "Wiała",
+      "wojewodztwo": "mazowieckie",
+      "lon": "21.2544",
+      "lat": "51.8928",
+      "rok_zalozenia_stacji": "1974",
+      "rzedna_zerawodowskazu": "90.769",
+      "kilometr_biegu_rzeki": "470.69",
+      "stan_alarmowy": "520",
+      "stan_ostrzegawczy": "470",
+      "stan_wody": "110",
+      "stan_wody_data_pomiaru": "2026-07-28 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "163",
+      "przeplyw_data": "2026-07-28 23:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-26 09:40:00",
       "zjawisko_zarastania": "0",

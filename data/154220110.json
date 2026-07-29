@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T23:02:29.686330+00:00",
-    "data": {
-      "id_stacji": "154220110",
-      "stacja": "Gołdap 2",
-      "rzeka": "Gołdapa",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "22.3119",
-      "lat": "54.3128",
-      "stan_wody": "132",
-      "stan_wody_data_pomiaru": "2026-07-21 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.76",
-      "przeplyw_data": "2026-07-21 22:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-04 10:20:00",
-      "zjawisko_zarastania": "322",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-09 09:20:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T00:56:55.979932+00:00",
     "data": {
       "id_stacji": "154220110",
@@ -2022,6 +2001,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.68",
       "przeplyw_data": "2026-07-28 22:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-04 10:20:00",
+      "zjawisko_zarastania": "322",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-09 09:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T00:02:39.964100+00:00",
+    "data": {
+      "id_stacji": "154220110",
+      "stacja": "Gołdap 2",
+      "rzeka": "Gołdapa",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "22.3119",
+      "lat": "54.3128",
+      "rok_zalozenia_stacji": "2012",
+      "rzedna_zerawodowskazu": "145.556",
+      "kilometr_biegu_rzeki": "55.09",
+      "stan_alarmowy": "210",
+      "stan_ostrzegawczy": "180",
+      "stan_wody": "127",
+      "stan_wody_data_pomiaru": "2026-07-28 23:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.68",
+      "przeplyw_data": "2026-07-28 23:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-04 10:20:00",
       "zjawisko_zarastania": "322",

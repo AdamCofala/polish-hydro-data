@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T23:02:29.686330+00:00",
-    "data": {
-      "id_stacji": "154180180",
-      "stacja": "Suchy Dąb",
-      "rzeka": "Bielawa",
-      "wojewodztwo": "pomorskie",
-      "lon": "18.7319",
-      "lat": "54.2314",
-      "stan_wody": "558",
-      "stan_wody_data_pomiaru": "2026-07-21 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-17 09:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-04-03 08:10:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T00:56:55.979932+00:00",
     "data": {
       "id_stacji": "154180180",
@@ -2018,6 +1997,32 @@
       "stan_ostrzegawczy": "600",
       "stan_wody": "550",
       "stan_wody_data_pomiaru": "2026-07-28 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-17 09:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-04-03 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T00:02:39.964100+00:00",
+    "data": {
+      "id_stacji": "154180180",
+      "stacja": "Suchy Dąb",
+      "rzeka": "Bielawa",
+      "wojewodztwo": "pomorskie",
+      "lon": "18.7319",
+      "lat": "54.2314",
+      "rok_zalozenia_stacji": "2004",
+      "rzedna_zerawodowskazu": "-4.861",
+      "kilometr_biegu_rzeki": "0.92",
+      "stan_alarmowy": "620",
+      "stan_ostrzegawczy": "600",
+      "stan_wody": "550",
+      "stan_wody_data_pomiaru": "2026-07-28 23:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,

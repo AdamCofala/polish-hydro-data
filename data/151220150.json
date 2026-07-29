@@ -1,26 +1,5 @@
 [
   {
-    "timestamp": "2026-07-21T23:02:29.686330+00:00",
-    "data": {
-      "id_stacji": "151220150",
-      "stacja": "Zemborzyce",
-      "rzeka": "Bystrzyca",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "stan_wody": "142",
-      "stan_wody_data_pomiaru": "2026-07-21 22:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-06 09:50:00",
-      "zjawisko_zarastania": "210",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-22 07:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-22T00:56:55.979932+00:00",
     "data": {
       "id_stacji": "151220150",
@@ -2018,6 +1997,32 @@
       "stan_ostrzegawczy": null,
       "stan_wody": "141",
       "stan_wody_data_pomiaru": "2026-07-28 22:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-06 09:50:00",
+      "zjawisko_zarastania": "210",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-22 07:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-29T00:02:39.964100+00:00",
+    "data": {
+      "id_stacji": "151220150",
+      "stacja": "Zemborzyce",
+      "rzeka": "Bystrzyca",
+      "wojewodztwo": null,
+      "lon": "22.4919",
+      "lat": "51.1556",
+      "rok_zalozenia_stacji": "2023",
+      "rzedna_zerawodowskazu": "177.474",
+      "kilometr_biegu_rzeki": "40.95",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "141",
+      "stan_wody_data_pomiaru": "2026-07-28 23:30:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": null,
