@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-07-23T06:34:39.342083+00:00",
-    "data": {
-      "id_stacji": "150160430",
-      "stacja": "Domanice",
-      "rzeka": "Bystrzyca",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "rok_zalozenia_stacji": "2024",
-      "rzedna_zerawodowskazu": "166.81",
-      "kilometr_biegu_rzeki": "51",
-      "stan_alarmowy": null,
-      "stan_ostrzegawczy": null,
-      "stan_wody": "81",
-      "stan_wody_data_pomiaru": "2026-07-23 06:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": null,
-      "przeplyw_data": null,
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-07-08 10:40:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-08 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-07-23T09:27:54.951246+00:00",
     "data": {
       "id_stacji": "150160430",
@@ -2051,6 +2025,32 @@
       "zjawisko_lodowe_data_pomiaru": "2026-07-08 10:40:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2026-07-08 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-07-30T08:38:00.129870+00:00",
+    "data": {
+      "id_stacji": "150160430",
+      "stacja": "Domanice",
+      "rzeka": "Bystrzyca",
+      "wojewodztwo": null,
+      "lon": "16.5864",
+      "lat": "50.9486",
+      "rok_zalozenia_stacji": "2024",
+      "rzedna_zerawodowskazu": "166.81",
+      "kilometr_biegu_rzeki": "51",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "64",
+      "stan_wody_data_pomiaru": "2026-07-30 08:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": null,
+      "przeplyw_data": null,
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-07-30 07:40:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-30 07:40:00"
     }
   }
 ]
