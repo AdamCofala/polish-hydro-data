@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-07-25T18:28:18.896701+00:00",
-    "data": {
-      "id_stacji": "150230020",
-      "stacja": "Wirkowice",
-      "rzeka": "Wieprz",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "rok_zalozenia_stacji": "1975",
-      "rzedna_zerawodowskazu": "184.733",
-      "kilometr_biegu_rzeki": "279.12",
-      "stan_alarmowy": "350",
-      "stan_ostrzegawczy": "290",
-      "stan_wody": "148",
-      "stan_wody_data_pomiaru": "2026-07-25 18:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "4.3",
-      "przeplyw_data": "2026-07-25 18:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:40:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-12 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-07-25T19:47:17.244875+00:00",
     "data": {
       "id_stacji": "150230020",
@@ -2021,6 +1995,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "4",
       "przeplyw_data": "2026-08-01 17:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:40:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-12 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-08-01T19:18:11.446371+00:00",
+    "data": {
+      "id_stacji": "150230020",
+      "stacja": "Wirkowice",
+      "rzeka": "Wieprz",
+      "wojewodztwo": null,
+      "lon": "23.0989",
+      "lat": "50.8661",
+      "rok_zalozenia_stacji": "1975",
+      "rzedna_zerawodowskazu": "184.733",
+      "kilometr_biegu_rzeki": "279.12",
+      "stan_alarmowy": "350",
+      "stan_ostrzegawczy": "290",
+      "stan_wody": "144",
+      "stan_wody_data_pomiaru": "2026-08-01 19:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4",
+      "przeplyw_data": "2026-08-01 18:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-11 12:40:00",
       "zjawisko_zarastania": "100",
