@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-07-27T07:38:41.356446+00:00",
-    "data": {
-      "id_stacji": "151220070",
-      "stacja": "Lublin",
-      "rzeka": "Bystrzyca",
-      "wojewodztwo": null,
-      "lon": null,
-      "lat": null,
-      "rok_zalozenia_stacji": "1960",
-      "rzedna_zerawodowskazu": "168.914",
-      "kilometr_biegu_rzeki": "31.71",
-      "stan_alarmowy": null,
-      "stan_ostrzegawczy": null,
-      "stan_wody": "248",
-      "stan_wody_data_pomiaru": "2026-07-27 07:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.01",
-      "przeplyw_data": "2026-07-27 07:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-06 08:50:00",
-      "zjawisko_zarastania": "110",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-18 12:30:00"
-    }
-  },
-  {
     "timestamp": "2026-07-27T11:31:08.298133+00:00",
     "data": {
       "id_stacji": "151220070",
@@ -2047,6 +2021,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.91",
       "przeplyw_data": "2026-08-03 03:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-06 08:50:00",
+      "zjawisko_zarastania": "110",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-18 12:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-08-03T07:57:43.457559+00:00",
+    "data": {
+      "id_stacji": "151220070",
+      "stacja": "Lublin",
+      "rzeka": "Bystrzyca",
+      "wojewodztwo": null,
+      "lon": "22.5422",
+      "lat": "51.2178",
+      "rok_zalozenia_stacji": "1960",
+      "rzedna_zerawodowskazu": "168.914",
+      "kilometr_biegu_rzeki": "31.71",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "245",
+      "stan_wody_data_pomiaru": "2026-08-03 07:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.91",
+      "przeplyw_data": "2026-08-03 07:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-06 08:50:00",
       "zjawisko_zarastania": "110",
