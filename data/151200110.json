@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-07-29T12:05:35.793365+00:00",
-    "data": {
-      "id_stacji": "151200110",
-      "stacja": "Słowików",
-      "rzeka": "Radomka",
-      "wojewodztwo": null,
-      "lon": "20.8881",
-      "lat": "51.4572",
-      "rok_zalozenia_stacji": "1931",
-      "rzedna_zerawodowskazu": "145.467",
-      "kilometr_biegu_rzeki": "70.34",
-      "stan_alarmowy": "170",
-      "stan_ostrzegawczy": "130",
-      "stan_wody": "32",
-      "stan_wody_data_pomiaru": "2026-07-29 11:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.45",
-      "przeplyw_data": "2026-07-29 11:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-11 11:30:00",
-      "zjawisko_zarastania": null,
-      "zjawisko_zarastania_data_pomiaru": null
-    }
-  },
-  {
     "timestamp": "2026-07-29T14:52:15.083362+00:00",
     "data": {
       "id_stacji": "151200110",
@@ -2047,6 +2021,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.78",
       "przeplyw_data": "2026-08-05 09:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-11 11:30:00",
+      "zjawisko_zarastania": "122",
+      "zjawisko_zarastania_data_pomiaru": "2026-08-04 10:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-08-05T12:24:00.961267+00:00",
+    "data": {
+      "id_stacji": "151200110",
+      "stacja": "Słowików",
+      "rzeka": "Radomka",
+      "wojewodztwo": null,
+      "lon": "20.8881",
+      "lat": "51.4572",
+      "rok_zalozenia_stacji": "1931",
+      "rzedna_zerawodowskazu": "145.467",
+      "kilometr_biegu_rzeki": "70.34",
+      "stan_alarmowy": "170",
+      "stan_ostrzegawczy": "130",
+      "stan_wody": "17",
+      "stan_wody_data_pomiaru": "2026-08-05 12:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.78",
+      "przeplyw_data": "2026-08-05 11:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-11 11:30:00",
       "zjawisko_zarastania": "122",
