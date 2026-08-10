@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-08-03T04:07:39.620165+00:00",
-    "data": {
-      "id_stacji": "153190040",
-      "stacja": "Bągart",
-      "rzeka": "Dzierzgoń",
-      "wojewodztwo": "pomorskie",
-      "lon": "19.3692",
-      "lat": "53.9661",
-      "rok_zalozenia_stacji": "1959",
-      "rzedna_zerawodowskazu": "-5.077",
-      "kilometr_biegu_rzeki": "38.61",
-      "stan_alarmowy": "800",
-      "stan_ostrzegawczy": "790",
-      "stan_wody": "694",
-      "stan_wody_data_pomiaru": "2026-08-03 03:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.75",
-      "przeplyw_data": "2026-08-03 03:50:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-28 10:50:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-15 12:30:00"
-    }
-  },
-  {
     "timestamp": "2026-08-03T07:57:43.457559+00:00",
     "data": {
       "id_stacji": "153190040",
@@ -2489,6 +2463,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.05",
       "przeplyw_data": "2026-08-10 01:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-28 10:50:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-08-05 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-08-10T04:14:01.498190+00:00",
+    "data": {
+      "id_stacji": "153190040",
+      "stacja": "Bągart",
+      "rzeka": "Dzierzgoń",
+      "wojewodztwo": "pomorskie",
+      "lon": "19.3692",
+      "lat": "53.9661",
+      "rok_zalozenia_stacji": "1959",
+      "rzedna_zerawodowskazu": "-5.077",
+      "kilometr_biegu_rzeki": "38.61",
+      "stan_alarmowy": "800",
+      "stan_ostrzegawczy": "790",
+      "stan_wody": "698",
+      "stan_wody_data_pomiaru": "2026-08-10 04:00:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.05",
+      "przeplyw_data": "2026-08-10 03:50:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-01-28 10:50:00",
       "zjawisko_zarastania": "101",
