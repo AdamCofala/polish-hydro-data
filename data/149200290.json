@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-08-03T20:44:13.938786+00:00",
-    "data": {
-      "id_stacji": "149200290",
-      "stacja": "Muszyna",
-      "rzeka": "Poprad",
-      "wojewodztwo": "małopolskie",
-      "lon": "20.8847",
-      "lat": "49.35",
-      "rok_zalozenia_stacji": "1902",
-      "rzedna_zerawodowskazu": "440.532",
-      "kilometr_biegu_rzeki": "53.8",
-      "stan_alarmowy": "350",
-      "stan_ostrzegawczy": "260",
-      "stan_wody": "104",
-      "stan_wody_data_pomiaru": "2026-08-03 20:30:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "7.51",
-      "przeplyw_data": "2026-08-03 20:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-06-09 10:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-09 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-08-03T22:11:56.638067+00:00",
     "data": {
       "id_stacji": "149200290",
@@ -2645,6 +2619,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "9.52",
       "przeplyw_data": "2026-08-10 19:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-06-09 10:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-08-05 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-08-10T20:50:32.233575+00:00",
+    "data": {
+      "id_stacji": "149200290",
+      "stacja": "Muszyna",
+      "rzeka": "Poprad",
+      "wojewodztwo": "małopolskie",
+      "lon": "20.8847",
+      "lat": "49.35",
+      "rok_zalozenia_stacji": "1902",
+      "rzedna_zerawodowskazu": "440.532",
+      "kilometr_biegu_rzeki": "53.8",
+      "stan_alarmowy": "350",
+      "stan_ostrzegawczy": "260",
+      "stan_wody": "105",
+      "stan_wody_data_pomiaru": "2026-08-10 20:30:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "9.52",
+      "przeplyw_data": "2026-08-10 20:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-06-09 10:20:00",
       "zjawisko_zarastania": "100",
