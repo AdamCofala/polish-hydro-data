@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-08-06T07:17:54.338215+00:00",
-    "data": {
-      "id_stacji": "151150120",
-      "stacja": "Szprotawa",
-      "rzeka": "Bóbr",
-      "wojewodztwo": "lubuskie",
-      "lon": "15.5267",
-      "lat": "51.5614",
-      "rok_zalozenia_stacji": "1896",
-      "rzedna_zerawodowskazu": "115.511",
-      "kilometr_biegu_rzeki": "100.23",
-      "stan_alarmowy": "250",
-      "stan_ostrzegawczy": "200",
-      "stan_wody": "105",
-      "stan_wody_data_pomiaru": "2026-08-06 07:00:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "10.3",
-      "przeplyw_data": "2026-08-06 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-10 10:30:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-27 08:30:00"
-    }
-  },
-  {
     "timestamp": "2026-08-06T10:10:52.664533+00:00",
     "data": {
       "id_stacji": "151150120",
@@ -3061,6 +3035,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "5.2",
       "przeplyw_data": "2026-08-13 06:30:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-10 10:30:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-08-12 13:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-08-13T08:38:08.071740+00:00",
+    "data": {
+      "id_stacji": "151150120",
+      "stacja": "Szprotawa",
+      "rzeka": "Bóbr",
+      "wojewodztwo": "lubuskie",
+      "lon": "15.5267",
+      "lat": "51.5614",
+      "rok_zalozenia_stacji": "1896",
+      "rzedna_zerawodowskazu": "115.511",
+      "kilometr_biegu_rzeki": "100.23",
+      "stan_alarmowy": "250",
+      "stan_ostrzegawczy": "200",
+      "stan_wody": "52",
+      "stan_wody_data_pomiaru": "2026-08-13 07:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "4.9",
+      "przeplyw_data": "2026-08-13 08:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-10 10:30:00",
       "zjawisko_zarastania": "0",
