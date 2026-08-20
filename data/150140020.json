@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-08-13T08:38:08.071740+00:00",
-    "data": {
-      "id_stacji": "150140020",
-      "stacja": "Sieniawka",
-      "rzeka": "Nysa Łużycka",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "14.8369",
-      "lat": "50.8964",
-      "rok_zalozenia_stacji": "1897",
-      "rzedna_zerawodowskazu": "225.103",
-      "kilometr_biegu_rzeki": "195.1",
-      "stan_alarmowy": "200",
-      "stan_ostrzegawczy": "160",
-      "stan_wody": "64",
-      "stan_wody_data_pomiaru": "2026-08-13 07:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "2.28",
-      "przeplyw_data": "2026-08-13 08:10:00",
-      "zjawisko_lodowe": "1",
-      "zjawisko_lodowe_data_pomiaru": "2025-02-17 10:00:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-08-10 10:40:00"
-    }
-  },
-  {
     "timestamp": "2026-08-13T10:14:04.161349+00:00",
     "data": {
       "id_stacji": "150140020",
@@ -4231,6 +4205,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "6.1",
       "przeplyw_data": "2026-08-20 07:30:00",
+      "zjawisko_lodowe": "1",
+      "zjawisko_lodowe_data_pomiaru": "2025-02-17 10:00:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-08-10 10:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-08-20T08:46:44.054704+00:00",
+    "data": {
+      "id_stacji": "150140020",
+      "stacja": "Sieniawka",
+      "rzeka": "Nysa Łużycka",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "14.8369",
+      "lat": "50.8964",
+      "rok_zalozenia_stacji": "1897",
+      "rzedna_zerawodowskazu": "225.103",
+      "kilometr_biegu_rzeki": "195.1",
+      "stan_alarmowy": "200",
+      "stan_ostrzegawczy": "160",
+      "stan_wody": "101",
+      "stan_wody_data_pomiaru": "2026-08-20 08:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "6.4",
+      "przeplyw_data": "2026-08-20 08:30:00",
       "zjawisko_lodowe": "1",
       "zjawisko_lodowe_data_pomiaru": "2025-02-17 10:00:00",
       "zjawisko_zarastania": "100",
