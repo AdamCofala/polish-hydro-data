@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-08-17T23:27:40.268440+00:00",
-    "data": {
-      "id_stacji": "150160040",
-      "stacja": "Kudowa Zdrój-Zakrze",
-      "rzeka": "Klikawa",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.2439",
-      "lat": "50.4308",
-      "rok_zalozenia_stacji": "1956",
-      "rzedna_zerawodowskazu": "374.684",
-      "kilometr_biegu_rzeki": "4.38",
-      "stan_alarmowy": "310",
-      "stan_ostrzegawczy": "280",
-      "stan_wody": "221",
-      "stan_wody_data_pomiaru": "2026-08-17 22:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.045",
-      "przeplyw_data": "2026-08-17 23:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-05-21 08:50:00",
-      "zjawisko_zarastania": "1",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-24 06:50:00"
-    }
-  },
-  {
     "timestamp": "2026-08-17T23:50:48.148159+00:00",
     "data": {
       "id_stacji": "150160040",
@@ -5011,6 +4985,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.05",
       "przeplyw_data": "2026-08-24 23:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-05-21 08:50:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-08-18 07:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-08-24T23:50:06.651924+00:00",
+    "data": {
+      "id_stacji": "150160040",
+      "stacja": "Kudowa Zdrój-Zakrze",
+      "rzeka": "Klikawa",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.2439",
+      "lat": "50.4308",
+      "rok_zalozenia_stacji": "1956",
+      "rzedna_zerawodowskazu": "374.684",
+      "kilometr_biegu_rzeki": "4.38",
+      "stan_alarmowy": "310",
+      "stan_ostrzegawczy": "280",
+      "stan_wody": "222",
+      "stan_wody_data_pomiaru": "2026-08-24 23:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.05",
+      "przeplyw_data": "2026-08-24 23:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-05-21 08:50:00",
       "zjawisko_zarastania": "1",
