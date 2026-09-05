@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-08-29T17:50:09.657674+00:00",
-    "data": {
-      "id_stacji": "150210060",
-      "stacja": "Staszów",
-      "rzeka": "Czarna",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.1731",
-      "lat": "50.5564",
-      "rok_zalozenia_stacji": "1940",
-      "rzedna_zerawodowskazu": "182.532",
-      "kilometr_biegu_rzeki": "25.67",
-      "stan_alarmowy": "260",
-      "stan_ostrzegawczy": "220",
-      "stan_wody": "164",
-      "stan_wody_data_pomiaru": "2026-08-29 16:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.08",
-      "przeplyw_data": "2026-08-29 17:10:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-13 13:30:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-07-03 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-08-29T20:47:27.908497+00:00",
     "data": {
       "id_stacji": "150210060",
@@ -1133,6 +1107,32 @@
       "stan_ostrzegawczy": "220",
       "stan_wody": "161",
       "stan_wody_data_pomiaru": "2026-09-05 16:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.96",
+      "przeplyw_data": "2026-09-05 16:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-13 13:30:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-07-03 09:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-09-05T20:11:31.360120+00:00",
+    "data": {
+      "id_stacji": "150210060",
+      "stacja": "Staszów",
+      "rzeka": "Czarna",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.1731",
+      "lat": "50.5564",
+      "rok_zalozenia_stacji": "1940",
+      "rzedna_zerawodowskazu": "182.532",
+      "kilometr_biegu_rzeki": "25.67",
+      "stan_alarmowy": "260",
+      "stan_ostrzegawczy": "220",
+      "stan_wody": "161",
+      "stan_wody_data_pomiaru": "2026-09-05 19:50:00",
       "temperatura_wody": null,
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.96",
