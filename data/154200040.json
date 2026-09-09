@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-09-02T11:02:02.559017+00:00",
-    "data": {
-      "id_stacji": "154200040",
-      "stacja": "Piaseczno",
-      "rzeka": "Elma",
-      "wojewodztwo": null,
-      "lon": "20.5503",
-      "lat": "54.2194",
-      "rok_zalozenia_stacji": "1951",
-      "rzedna_zerawodowskazu": "71.954",
-      "kilometr_biegu_rzeki": "16.53",
-      "stan_alarmowy": null,
-      "stan_ostrzegawczy": null,
-      "stan_wody": "114",
-      "stan_wody_data_pomiaru": "2026-09-02 10:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.95",
-      "przeplyw_data": "2026-09-02 10:30:00",
-      "zjawisko_lodowe": "3",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-02 12:00:00",
-      "zjawisko_zarastania": "101",
-      "zjawisko_zarastania_data_pomiaru": "2026-08-05 08:10:00"
-    }
-  },
-  {
     "timestamp": "2026-09-02T15:13:53.287705+00:00",
     "data": {
       "id_stacji": "154200040",
@@ -1215,6 +1189,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "3.75",
       "przeplyw_data": "2026-09-09 08:50:00",
+      "zjawisko_lodowe": "3",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-02 12:00:00",
+      "zjawisko_zarastania": "101",
+      "zjawisko_zarastania_data_pomiaru": "2026-09-03 07:40:00"
+    }
+  },
+  {
+    "timestamp": "2026-09-09T13:51:07.617166+00:00",
+    "data": {
+      "id_stacji": "154200040",
+      "stacja": "Piaseczno",
+      "rzeka": "Elma",
+      "wojewodztwo": null,
+      "lon": "20.5503",
+      "lat": "54.2194",
+      "rok_zalozenia_stacji": "1951",
+      "rzedna_zerawodowskazu": "71.954",
+      "kilometr_biegu_rzeki": "16.53",
+      "stan_alarmowy": null,
+      "stan_ostrzegawczy": null,
+      "stan_wody": "215",
+      "stan_wody_data_pomiaru": "2026-09-09 13:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "3.65",
+      "przeplyw_data": "2026-09-09 13:30:00",
       "zjawisko_lodowe": "3",
       "zjawisko_lodowe_data_pomiaru": "2026-03-02 12:00:00",
       "zjawisko_zarastania": "101",
