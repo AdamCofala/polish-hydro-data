@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-09-17T10:19:31.197591+00:00",
-    "data": {
-      "id_stacji": "150170210",
-      "stacja": "Krzywa góra",
-      "rzeka": "Budkowiczanka",
-      "wojewodztwo": null,
-      "lon": "17.8786",
-      "lat": "50.8608",
-      "rok_zalozenia_stacji": "1940",
-      "rzedna_zerawodowskazu": "152.582",
-      "kilometr_biegu_rzeki": "18.54",
-      "stan_alarmowy": "240",
-      "stan_ostrzegawczy": "170",
-      "stan_wody": "126",
-      "stan_wody_data_pomiaru": "2026-09-17 09:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.1",
-      "przeplyw_data": "2026-09-17 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-19 09:20:00",
-      "zjawisko_zarastania": "112",
-      "zjawisko_zarastania_data_pomiaru": "2026-09-01 10:20:00"
-    }
-  },
-  {
     "timestamp": "2026-09-17T15:14:27.316514+00:00",
     "data": {
       "id_stacji": "150170210",
@@ -1089,6 +1063,32 @@
       "zjawisko_lodowe_data_pomiaru": "2026-02-19 09:20:00",
       "zjawisko_zarastania": "112",
       "zjawisko_zarastania_data_pomiaru": "2026-09-01 10:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-09-24T11:36:51.076932+00:00",
+    "data": {
+      "id_stacji": "150170210",
+      "stacja": "Krzywa góra",
+      "rzeka": "Budkowiczanka",
+      "wojewodztwo": null,
+      "lon": "17.8786",
+      "lat": "50.8608",
+      "rok_zalozenia_stacji": "1940",
+      "rzedna_zerawodowskazu": "152.582",
+      "kilometr_biegu_rzeki": "18.54",
+      "stan_alarmowy": "240",
+      "stan_ostrzegawczy": "170",
+      "stan_wody": "130",
+      "stan_wody_data_pomiaru": "2026-09-24 10:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.15",
+      "przeplyw_data": "2026-09-24 11:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-19 09:20:00",
+      "zjawisko_zarastania": "113",
+      "zjawisko_zarastania_data_pomiaru": "2026-09-24 09:40:00"
     }
   }
 ]
