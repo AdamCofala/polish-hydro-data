@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-09-18T10:58:31.894679+00:00",
-    "data": {
-      "id_stacji": "150210110",
-      "stacja": "Głowaczowa",
-      "rzeka": "Grabinianka",
-      "wojewodztwo": "podkarpackie",
-      "lon": "21.3125",
-      "lat": "50.0497",
-      "rok_zalozenia_stacji": "1991",
-      "rzedna_zerawodowskazu": "189.833",
-      "kilometr_biegu_rzeki": "7.91",
-      "stan_alarmowy": "300",
-      "stan_ostrzegawczy": "220",
-      "stan_wody": "131",
-      "stan_wody_data_pomiaru": "2026-09-18 10:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.18",
-      "przeplyw_data": "2026-09-18 10:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-09-15 13:50:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-09-15 13:50:00"
-    }
-  },
-  {
     "timestamp": "2026-09-18T14:54:42.001970+00:00",
     "data": {
       "id_stacji": "150210110",
@@ -1085,6 +1059,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.22",
       "przeplyw_data": "2026-09-25 07:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-09-24 10:30:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-09-24 10:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-09-25T13:31:35.493103+00:00",
+    "data": {
+      "id_stacji": "150210110",
+      "stacja": "Głowaczowa",
+      "rzeka": "Grabinianka",
+      "wojewodztwo": "podkarpackie",
+      "lon": "21.3125",
+      "lat": "50.0497",
+      "rok_zalozenia_stacji": "1991",
+      "rzedna_zerawodowskazu": "189.833",
+      "kilometr_biegu_rzeki": "7.91",
+      "stan_alarmowy": "300",
+      "stan_ostrzegawczy": "220",
+      "stan_wody": "136",
+      "stan_wody_data_pomiaru": "2026-09-25 12:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.19",
+      "przeplyw_data": "2026-09-25 13:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-09-24 10:30:00",
       "zjawisko_zarastania": "1",
