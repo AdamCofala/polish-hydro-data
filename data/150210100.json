@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-09-27T10:27:27.395884+00:00",
-    "data": {
-      "id_stacji": "150210100",
-      "stacja": "Połaniec",
-      "rzeka": "Czarna",
-      "wojewodztwo": "świętokrzyskie",
-      "lon": "21.285",
-      "lat": "50.4347",
-      "rok_zalozenia_stacji": "1924",
-      "rzedna_zerawodowskazu": "156.04",
-      "kilometr_biegu_rzeki": "4.82",
-      "stan_alarmowy": "350",
-      "stan_ostrzegawczy": "290",
-      "stan_wody": "105",
-      "stan_wody_data_pomiaru": "2026-09-27 09:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.96",
-      "przeplyw_data": "2026-09-27 10:10:00",
-      "zjawisko_lodowe": "6",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-13 12:20:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-05-11 11:00:00"
-    }
-  },
-  {
     "timestamp": "2026-09-27T15:15:27.453557+00:00",
     "data": {
       "id_stacji": "150210100",
@@ -851,6 +825,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.86",
       "przeplyw_data": "2026-10-04 05:10:00",
+      "zjawisko_lodowe": "6",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-13 12:20:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-05-11 11:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-10-04T11:14:34.295696+00:00",
+    "data": {
+      "id_stacji": "150210100",
+      "stacja": "Połaniec",
+      "rzeka": "Czarna",
+      "wojewodztwo": "świętokrzyskie",
+      "lon": "21.285",
+      "lat": "50.4347",
+      "rok_zalozenia_stacji": "1924",
+      "rzedna_zerawodowskazu": "156.04",
+      "kilometr_biegu_rzeki": "4.82",
+      "stan_alarmowy": "350",
+      "stan_ostrzegawczy": "290",
+      "stan_wody": "90",
+      "stan_wody_data_pomiaru": "2026-10-04 10:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.04",
+      "przeplyw_data": "2026-10-04 10:50:00",
       "zjawisko_lodowe": "6",
       "zjawisko_lodowe_data_pomiaru": "2026-01-13 12:20:00",
       "zjawisko_zarastania": "0",
