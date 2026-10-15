@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-10-08T13:12:05.252515+00:00",
-    "data": {
-      "id_stacji": "149210020",
-      "stacja": "Gorlice",
-      "rzeka": "Sękówka",
-      "wojewodztwo": null,
-      "lon": "21.1703",
-      "lat": "49.6547",
-      "rok_zalozenia_stacji": "1957",
-      "rzedna_zerawodowskazu": "279.285",
-      "kilometr_biegu_rzeki": "0.5",
-      "stan_alarmowy": "450",
-      "stan_ostrzegawczy": "390",
-      "stan_wody": "368",
-      "stan_wody_data_pomiaru": "2026-10-08 12:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.12",
-      "przeplyw_data": "2026-10-08 12:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-09-17 12:30:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-09-17 12:30:00"
-    }
-  },
-  {
     "timestamp": "2026-10-08T19:22:32.648061+00:00",
     "data": {
       "id_stacji": "149210020",
@@ -829,6 +803,32 @@
       "zjawisko_lodowe_data_pomiaru": "2026-09-17 12:30:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2026-09-17 12:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-10-15T15:16:34.830350+00:00",
+    "data": {
+      "id_stacji": "149210020",
+      "stacja": "Gorlice",
+      "rzeka": "Sękówka",
+      "wojewodztwo": null,
+      "lon": "21.1703",
+      "lat": "49.6547",
+      "rok_zalozenia_stacji": "1957",
+      "rzedna_zerawodowskazu": "279.285",
+      "kilometr_biegu_rzeki": "0.5",
+      "stan_alarmowy": "450",
+      "stan_ostrzegawczy": "390",
+      "stan_wody": "370",
+      "stan_wody_data_pomiaru": "2026-10-15 14:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.19",
+      "przeplyw_data": "2026-10-15 14:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-10-15 13:00:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-10-15 13:00:00"
     }
   }
 ]
