@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-10-12T21:50:17.928433+00:00",
-    "data": {
-      "id_stacji": "150170150",
-      "stacja": "Karłowice (Wapienniki)",
-      "rzeka": "Stobrawa",
-      "wojewodztwo": "opolskie",
-      "lon": "17.7217",
-      "lat": "50.8786",
-      "rok_zalozenia_stacji": "1995",
-      "rzedna_zerawodowskazu": "140.186",
-      "kilometr_biegu_rzeki": "12.44",
-      "stan_alarmowy": "300",
-      "stan_ostrzegawczy": "250",
-      "stan_wody": "174",
-      "stan_wody_data_pomiaru": "2026-10-12 21:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.22",
-      "przeplyw_data": "2026-10-12 21:30:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-19 08:40:00",
-      "zjawisko_zarastania": "122",
-      "zjawisko_zarastania_data_pomiaru": "2026-09-24 09:30:00"
-    }
-  },
-  {
     "timestamp": "2026-10-13T02:56:09.450794+00:00",
     "data": {
       "id_stacji": "150170150",
@@ -1033,6 +1007,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.84",
       "przeplyw_data": "2026-10-19 16:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-02-19 08:40:00",
+      "zjawisko_zarastania": "122",
+      "zjawisko_zarastania_data_pomiaru": "2026-09-24 09:30:00"
+    }
+  },
+  {
+    "timestamp": "2026-10-19T22:12:15.895989+00:00",
+    "data": {
+      "id_stacji": "150170150",
+      "stacja": "Karłowice (Wapienniki)",
+      "rzeka": "Stobrawa",
+      "wojewodztwo": "opolskie",
+      "lon": "17.7217",
+      "lat": "50.8786",
+      "rok_zalozenia_stacji": "1995",
+      "rzedna_zerawodowskazu": "140.186",
+      "kilometr_biegu_rzeki": "12.44",
+      "stan_alarmowy": "300",
+      "stan_ostrzegawczy": "250",
+      "stan_wody": "166",
+      "stan_wody_data_pomiaru": "2026-10-19 21:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.84",
+      "przeplyw_data": "2026-10-19 21:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-19 08:40:00",
       "zjawisko_zarastania": "122",
