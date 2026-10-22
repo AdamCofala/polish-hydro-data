@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-10-15T10:13:17.880746+00:00",
-    "data": {
-      "id_stacji": "150160140",
-      "stacja": "Dzierżoniów",
-      "rzeka": "Piława",
-      "wojewodztwo": "dolnośląskie",
-      "lon": "16.6461",
-      "lat": "50.7258",
-      "rok_zalozenia_stacji": "1896",
-      "rzedna_zerawodowskazu": "252.899",
-      "kilometr_biegu_rzeki": "31.71",
-      "stan_alarmowy": "300",
-      "stan_ostrzegawczy": "280",
-      "stan_wody": "147",
-      "stan_wody_data_pomiaru": "2026-10-15 09:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.06",
-      "przeplyw_data": "2026-10-15 09:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-10-06 08:00:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-10-12 07:50:00"
-    }
-  },
-  {
     "timestamp": "2026-10-15T15:16:34.830350+00:00",
     "data": {
       "id_stacji": "150160140",
@@ -1089,6 +1063,32 @@
       "zjawisko_lodowe_data_pomiaru": "2026-10-06 08:00:00",
       "zjawisko_zarastania": "1",
       "zjawisko_zarastania_data_pomiaru": "2026-10-19 08:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-10-22T11:32:48.554946+00:00",
+    "data": {
+      "id_stacji": "150160140",
+      "stacja": "Dzierżoniów",
+      "rzeka": "Piława",
+      "wojewodztwo": "dolnośląskie",
+      "lon": "16.6461",
+      "lat": "50.7258",
+      "rok_zalozenia_stacji": "1896",
+      "rzedna_zerawodowskazu": "252.899",
+      "kilometr_biegu_rzeki": "31.71",
+      "stan_alarmowy": "300",
+      "stan_ostrzegawczy": "280",
+      "stan_wody": "170",
+      "stan_wody_data_pomiaru": "2026-10-22 10:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.86",
+      "przeplyw_data": "2026-10-22 11:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-10-06 08:00:00",
+      "zjawisko_zarastania": "1",
+      "zjawisko_zarastania_data_pomiaru": "2026-10-22 08:40:00"
     }
   }
 ]
