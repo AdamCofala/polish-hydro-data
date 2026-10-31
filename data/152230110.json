@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-10-24T09:25:10.371710+00:00",
-    "data": {
-      "id_stacji": "152230110",
-      "stacja": "Bondary - Siemianówka",
-      "rzeka": "Zb Siemianówka",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.7489",
-      "lat": "52.9403",
-      "rok_zalozenia_stacji": "1963",
-      "rzedna_zerawodowskazu": "135.091",
-      "kilometr_biegu_rzeki": "441.72",
-      "stan_alarmowy": "320",
-      "stan_ostrzegawczy": "300",
-      "stan_wody": "160",
-      "stan_wody_data_pomiaru": "2026-10-24 08:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.79",
-      "przeplyw_data": "2026-10-24 09:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-10 08:50:00",
-      "zjawisko_zarastania": "221",
-      "zjawisko_zarastania_data_pomiaru": "2026-09-01 08:40:00"
-    }
-  },
-  {
     "timestamp": "2026-10-24T13:31:27.027464+00:00",
     "data": {
       "id_stacji": "152230110",
@@ -929,6 +903,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "0.9",
       "przeplyw_data": "2026-10-31 04:50:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-10 08:50:00",
+      "zjawisko_zarastania": "111",
+      "zjawisko_zarastania_data_pomiaru": "2026-10-28 08:10:00"
+    }
+  },
+  {
+    "timestamp": "2026-10-31T11:06:37.982464+00:00",
+    "data": {
+      "id_stacji": "152230110",
+      "stacja": "Bondary - Siemianówka",
+      "rzeka": "Zb Siemianówka",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.7489",
+      "lat": "52.9403",
+      "rok_zalozenia_stacji": "1963",
+      "rzedna_zerawodowskazu": "135.091",
+      "kilometr_biegu_rzeki": "441.72",
+      "stan_alarmowy": "320",
+      "stan_ostrzegawczy": "300",
+      "stan_wody": "164",
+      "stan_wody_data_pomiaru": "2026-10-31 10:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.98",
+      "przeplyw_data": "2026-10-31 10:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-10 08:50:00",
       "zjawisko_zarastania": "111",
