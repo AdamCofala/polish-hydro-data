@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-10-28T06:08:36.699833+00:00",
-    "data": {
-      "id_stacji": "153230080",
-      "stacja": "Sochonie",
-      "rzeka": "Czarna",
-      "wojewodztwo": "podlaskie",
-      "lon": "23.1806",
-      "lat": "53.2169",
-      "rok_zalozenia_stacji": "1980",
-      "rzedna_zerawodowskazu": "118.466",
-      "kilometr_biegu_rzeki": "4.01",
-      "stan_alarmowy": "120",
-      "stan_ostrzegawczy": "100",
-      "stan_wody": "72",
-      "stan_wody_data_pomiaru": "2026-10-28 05:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.41",
-      "przeplyw_data": "2026-10-28 05:50:00",
-      "zjawisko_lodowe": "4",
-      "zjawisko_lodowe_data_pomiaru": "2026-01-20 13:00:00",
-      "zjawisko_zarastania": "111",
-      "zjawisko_zarastania_data_pomiaru": "2026-10-16 06:00:00"
-    }
-  },
-  {
     "timestamp": "2026-10-28T13:25:07.031295+00:00",
     "data": {
       "id_stacji": "153230080",
@@ -205,6 +179,32 @@
       "zjawisko_lodowe_data_pomiaru": "2026-01-20 13:00:00",
       "zjawisko_zarastania": "111",
       "zjawisko_zarastania_data_pomiaru": "2026-10-16 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-11-04T11:27:18.977100+00:00",
+    "data": {
+      "id_stacji": "153230080",
+      "stacja": "Sochonie",
+      "rzeka": "Czarna",
+      "wojewodztwo": "podlaskie",
+      "lon": "23.1806",
+      "lat": "53.2169",
+      "rok_zalozenia_stacji": "1980",
+      "rzedna_zerawodowskazu": "118.466",
+      "kilometr_biegu_rzeki": "4.01",
+      "stan_alarmowy": "120",
+      "stan_ostrzegawczy": "100",
+      "stan_wody": "64",
+      "stan_wody_data_pomiaru": "2026-11-04 10:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.37",
+      "przeplyw_data": "2026-11-04 10:30:00",
+      "zjawisko_lodowe": "4",
+      "zjawisko_lodowe_data_pomiaru": "2026-01-20 13:00:00",
+      "zjawisko_zarastania": "110",
+      "zjawisko_zarastania_data_pomiaru": "2026-11-04 07:30:00"
     }
   }
 ]
