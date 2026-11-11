@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-11-04T03:07:18.167716+00:00",
-    "data": {
-      "id_stacji": "154200020",
-      "stacja": "Krosno",
-      "rzeka": "Drwęca Warmińska",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "20.1728",
-      "lat": "54.1308",
-      "rok_zalozenia_stacji": "1999",
-      "rzedna_zerawodowskazu": "50.615",
-      "kilometr_biegu_rzeki": "15.13",
-      "stan_alarmowy": "400",
-      "stan_ostrzegawczy": "360",
-      "stan_wody": "161",
-      "stan_wody_data_pomiaru": "2026-11-04 02:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.1",
-      "przeplyw_data": "2026-11-04 02:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-02 08:30:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-11-03 08:20:00"
-    }
-  },
-  {
     "timestamp": "2026-11-04T11:27:18.977100+00:00",
     "data": {
       "id_stacji": "154200020",
@@ -695,6 +669,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "1.09",
       "przeplyw_data": "2026-11-11 00:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-02 08:30:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-11-03 08:20:00"
+    }
+  },
+  {
+    "timestamp": "2026-11-11T07:00:24.346590+00:00",
+    "data": {
+      "id_stacji": "154200020",
+      "stacja": "Krosno",
+      "rzeka": "Drwęca Warmińska",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "20.1728",
+      "lat": "54.1308",
+      "rok_zalozenia_stacji": "1999",
+      "rzedna_zerawodowskazu": "50.615",
+      "kilometr_biegu_rzeki": "15.13",
+      "stan_alarmowy": "400",
+      "stan_ostrzegawczy": "360",
+      "stan_wody": "160",
+      "stan_wody_data_pomiaru": "2026-11-11 06:20:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.09",
+      "przeplyw_data": "2026-11-11 06:30:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-03-02 08:30:00",
       "zjawisko_zarastania": "100",
