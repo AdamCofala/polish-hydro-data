@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-11-05T15:43:24.363594+00:00",
-    "data": {
-      "id_stacji": "153190090",
-      "stacja": "Nowe Miasto Lubawskie",
-      "rzeka": "Drwęca",
-      "wojewodztwo": "warmińsko-mazurskie",
-      "lon": "19.59",
-      "lat": "53.4222",
-      "rok_zalozenia_stacji": "1946",
-      "rzedna_zerawodowskazu": "79.945",
-      "kilometr_biegu_rzeki": "152.11",
-      "stan_alarmowy": "340",
-      "stan_ostrzegawczy": "330",
-      "stan_wody": "182",
-      "stan_wody_data_pomiaru": "2026-11-05 15:20:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "10.4",
-      "przeplyw_data": "2026-11-05 15:10:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-04-13 11:50:00",
-      "zjawisko_zarastania": "100",
-      "zjawisko_zarastania_data_pomiaru": "2026-09-24 09:40:00"
-    }
-  },
-  {
     "timestamp": "2026-11-05T21:52:01.978360+00:00",
     "data": {
       "id_stacji": "153190090",
@@ -695,6 +669,32 @@
       "temperatura_wody_data_pomiaru": null,
       "przeplyw": "10.2",
       "przeplyw_data": "2026-11-12 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-04-13 11:50:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-11-09 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-11-12T20:18:44.916090+00:00",
+    "data": {
+      "id_stacji": "153190090",
+      "stacja": "Nowe Miasto Lubawskie",
+      "rzeka": "Drwęca",
+      "wojewodztwo": "warmińsko-mazurskie",
+      "lon": "19.59",
+      "lat": "53.4222",
+      "rok_zalozenia_stacji": "1946",
+      "rzedna_zerawodowskazu": "79.945",
+      "kilometr_biegu_rzeki": "152.11",
+      "stan_alarmowy": "340",
+      "stan_ostrzegawczy": "330",
+      "stan_wody": "175",
+      "stan_wody_data_pomiaru": "2026-11-12 19:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "9.96",
+      "przeplyw_data": "2026-11-12 19:50:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-04-13 11:50:00",
       "zjawisko_zarastania": "0",
