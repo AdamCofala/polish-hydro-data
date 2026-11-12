@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-11-05T07:13:57.060509+00:00",
-    "data": {
-      "id_stacji": "149220150",
-      "stacja": "Dwernik",
-      "rzeka": "San",
-      "wojewodztwo": "podkarpackie",
-      "lon": "22.6328",
-      "lat": "49.2186",
-      "rok_zalozenia_stacji": "1926",
-      "rzedna_zerawodowskazu": "512.061",
-      "kilometr_biegu_rzeki": "385.25",
-      "stan_alarmowy": "260",
-      "stan_ostrzegawczy": "200",
-      "stan_wody": "83",
-      "stan_wody_data_pomiaru": "2026-11-05 06:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "0.66",
-      "przeplyw_data": "2026-11-05 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-02-23 12:10:00",
-      "zjawisko_zarastania": "0",
-      "zjawisko_zarastania_data_pomiaru": "2026-06-18 09:00:00"
-    }
-  },
-  {
     "timestamp": "2026-11-05T15:43:24.363594+00:00",
     "data": {
       "id_stacji": "149220150",
@@ -697,6 +671,32 @@
       "przeplyw_data": "2026-11-12 03:10:00",
       "zjawisko_lodowe": "0",
       "zjawisko_lodowe_data_pomiaru": "2026-02-23 12:10:00",
+      "zjawisko_zarastania": "0",
+      "zjawisko_zarastania_data_pomiaru": "2026-06-18 09:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-11-12T12:25:40.548973+00:00",
+    "data": {
+      "id_stacji": "149220150",
+      "stacja": "Dwernik",
+      "rzeka": "San",
+      "wojewodztwo": "podkarpackie",
+      "lon": "22.6328",
+      "lat": "49.2186",
+      "rok_zalozenia_stacji": "1926",
+      "rzedna_zerawodowskazu": "512.061",
+      "kilometr_biegu_rzeki": "385.25",
+      "stan_alarmowy": "260",
+      "stan_ostrzegawczy": "200",
+      "stan_wody": "85",
+      "stan_wody_data_pomiaru": "2026-11-12 11:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "0.8",
+      "przeplyw_data": "2026-11-12 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-11-12 10:50:00",
       "zjawisko_zarastania": "0",
       "zjawisko_zarastania_data_pomiaru": "2026-06-18 09:00:00"
     }

@@ -1,31 +1,5 @@
 [
   {
-    "timestamp": "2026-11-05T07:13:57.060509+00:00",
-    "data": {
-      "id_stacji": "153230140",
-      "stacja": "Sokołda",
-      "rzeka": "Sokołda",
-      "wojewodztwo": null,
-      "lon": "23.4764",
-      "lat": "53.2472",
-      "rok_zalozenia_stacji": "1956",
-      "rzedna_zerawodowskazu": "128.872",
-      "kilometr_biegu_rzeki": "8.43",
-      "stan_alarmowy": "300",
-      "stan_ostrzegawczy": "250",
-      "stan_wody": "180",
-      "stan_wody_data_pomiaru": "2026-11-05 06:50:00",
-      "temperatura_wody": null,
-      "temperatura_wody_data_pomiaru": null,
-      "przeplyw": "1.41",
-      "przeplyw_data": "2026-11-05 06:50:00",
-      "zjawisko_lodowe": "0",
-      "zjawisko_lodowe_data_pomiaru": "2026-03-03 10:20:00",
-      "zjawisko_zarastania": "200",
-      "zjawisko_zarastania_data_pomiaru": "2026-11-01 06:00:00"
-    }
-  },
-  {
     "timestamp": "2026-11-05T15:43:24.363594+00:00",
     "data": {
       "id_stacji": "153230140",
@@ -699,6 +673,32 @@
       "zjawisko_lodowe_data_pomiaru": "2026-03-03 10:20:00",
       "zjawisko_zarastania": "200",
       "zjawisko_zarastania_data_pomiaru": "2026-11-10 06:00:00"
+    }
+  },
+  {
+    "timestamp": "2026-11-12T12:25:40.548973+00:00",
+    "data": {
+      "id_stacji": "153230140",
+      "stacja": "Sokołda",
+      "rzeka": "Sokołda",
+      "wojewodztwo": null,
+      "lon": "23.4764",
+      "lat": "53.2472",
+      "rok_zalozenia_stacji": "1956",
+      "rzedna_zerawodowskazu": "128.872",
+      "kilometr_biegu_rzeki": "8.43",
+      "stan_alarmowy": "300",
+      "stan_ostrzegawczy": "250",
+      "stan_wody": "180",
+      "stan_wody_data_pomiaru": "2026-11-12 11:50:00",
+      "temperatura_wody": null,
+      "temperatura_wody_data_pomiaru": null,
+      "przeplyw": "1.57",
+      "przeplyw_data": "2026-11-12 12:10:00",
+      "zjawisko_lodowe": "0",
+      "zjawisko_lodowe_data_pomiaru": "2026-03-03 10:20:00",
+      "zjawisko_zarastania": "100",
+      "zjawisko_zarastania_data_pomiaru": "2026-11-12 06:00:00"
     }
   }
 ]
